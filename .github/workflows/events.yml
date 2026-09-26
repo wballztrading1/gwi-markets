@@ -1,0 +1,44 @@
+# GWI DFW Events — checks course / venue / listing sites every morning and
+# applies your ticks from the "DFW Events — review list" issue.
+# File location in the repository: .github/workflows/events.yml
+name: Update DFW events
+
+on:
+  schedule:
+    - cron: '17 11 * * *'     # daily ~6:17 AM Central (GitHub may start it a little late)
+  workflow_dispatch:           # "Run workflow" button for an on-demand check
+  issues:
+    types: [edited]            # you ticked / unticked something in the review list
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: gwi-events
+  cancel-in-progress: false
+
+jobs:
+  events:
+    if: github.event_name != 'issues' || github.event.issue.title == 'DFW Events — review list'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Update events
+        run: node build-events.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MODE: ${{ github.event_name == 'issues' && 'reconcile' || 'full' }}
+      - name: Save results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "No changes."; exit 0; fi
+          git commit -m "DFW events update $(date -u +%F)"
+          git pull --rebase --autostash
+          git push
