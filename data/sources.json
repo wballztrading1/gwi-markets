@@ -1,0 +1,281 @@
+{
+ "note": "Sites the daily DFW Events updater checks. type: course | venue | listing (listing = multi-venue sites; their finds always need your OK).",
+ "sources": [
+  {
+   "name": "Leonard Golf Links",
+   "url": "https://leonardgolflinks.com/",
+   "city": "Fort Worth",
+   "type": "course"
+  },
+  {
+   "name": "Fields Ranch / PGA Frisco",
+   "url": "https://www.pgafrisco.com/events/",
+   "city": "Frisco",
+   "type": "course"
+  },
+  {
+   "name": "Grapevine Golf Course",
+   "url": "https://grapevinegc.com/events/",
+   "city": "Grapevine",
+   "type": "course"
+  },
+  {
+   "name": "Oeste Ranch Golf Course",
+   "url": "https://www.oesteranch.com/events-1",
+   "city": "Weatherford",
+   "type": "course"
+  },
+  {
+   "name": "The Bridges Golf Club",
+   "url": "https://www.bridgestexasgolf.com/events-calendar",
+   "city": "Gunter",
+   "type": "course"
+  },
+  {
+   "name": "The Golf Club at Fossil Creek",
+   "url": "https://arcisgolf.com/clubs/the-golf-club-at-fossil-creek/club-calendar",
+   "city": "Fort Worth",
+   "type": "course"
+  },
+  {
+   "name": "The Golf Club of Dallas",
+   "url": "https://www.golfclubdallas.com/Events",
+   "city": "Dallas",
+   "type": "course"
+  },
+  {
+   "name": "1611 Golf Club",
+   "url": "https://booking.1611golf.com/book/events",
+   "city": "Fort Worth",
+   "type": "course"
+  },
+  {
+   "name": "Canyon West Golf Course",
+   "url": "https://canyonwestgolf.com/upcoming-events/",
+   "city": "Weatherford",
+   "type": "course"
+  },
+  {
+   "name": "Cross Timbers Golf Course",
+   "url": "https://www.crosstimbersgc.com/events/events-calendar",
+   "city": "Azle",
+   "type": "course"
+  },
+  {
+   "name": "Sky Creek Ranch",
+   "url": "https://www.skycreekranch.com/events/calendar",
+   "city": "Keller",
+   "type": "course"
+  },
+  {
+   "name": "Grand Oaks Golf Course",
+   "url": "http://www.grandoaksgc.com/events/",
+   "city": "Grand Prairie",
+   "type": "course"
+  },
+  {
+   "name": "Watters Creek",
+   "url": "https://www.watterscreekgolf.com/component/jevents/monthcalendar/2026/10/-?Itemid=136",
+   "city": "Plano",
+   "type": "course"
+  },
+  {
+   "name": "White Stone Golf Course",
+   "url": "https://www.whitestonegolf.com/calendar/",
+   "city": "Benbrook",
+   "type": "course"
+  },
+  {
+   "name": "Tenison Park Golf Course",
+   "url": "https://www.tenisonpark.com/events/events-calendar",
+   "city": "Dallas",
+   "type": "course"
+  },
+  {
+   "name": "Indian Creek",
+   "url": "https://www.indiancreekgolfclub.com/Calendar/UpcomingEvents",
+   "city": "Carrollton",
+   "type": "course"
+  },
+  {
+   "name": "Tangle Ridge Golf Club",
+   "url": "https://www.tangleridge.com/calendar/",
+   "city": "Grand Prairie",
+   "type": "course"
+  },
+  {
+   "name": "Rusted Rail Golf Club",
+   "url": "https://rustedrailgolf.com/events/month/",
+   "city": "Celina",
+   "type": "course"
+  },
+  {
+   "name": "Meadowbrook Park Golf Course",
+   "url": "https://www.meadowbrookparkgolfcourse.com/events",
+   "city": "Arlington",
+   "type": "course"
+  },
+  {
+   "name": "Texas Rangers Golf Club",
+   "url": "https://www.texasrangersgolfclub.com/events/",
+   "city": "The Colony",
+   "type": "course"
+  },
+  {
+   "name": "Keeton Park Golf Course",
+   "url": "https://www.keetonpark.com/event",
+   "city": "Dallas",
+   "type": "course"
+  },
+  {
+   "name": "Riverside Golf Club",
+   "url": "https://www.playriversidetx.com/upcoming-events",
+   "city": "Grand Prairie",
+   "type": "course"
+  },
+  {
+   "name": "Rockwood Park Golf Course",
+   "url": "https://www.fortworthgolf.org/events/calendar",
+   "city": "Fort Worth",
+   "type": "course"
+  },
+  {
+   "name": "Riverchase Golf Course",
+   "url": "https://www.riverchasegc.com/calendar",
+   "city": "Coppell",
+   "type": "course"
+  },
+  {
+   "name": "Timberlinks Golf Course",
+   "url": "https://www.timberlinksgolfclub.com/",
+   "city": "Denton",
+   "type": "course"
+  },
+  {
+   "name": "Panther City Partee",
+   "url": "https://panthercitypartee.com/",
+   "city": "Fort Worth",
+   "type": "venue"
+  },
+  {
+   "name": "PGA TOUR Superstore Plano",
+   "url": "https://www.pgatoursuperstore.com/saturdays-at-the-superstore.html",
+   "city": "Plano",
+   "type": "venue"
+  },
+  {
+   "name": "Golf Galaxy Dallas",
+   "url": "https://www.golfgalaxy.com/s/marketing/golf-events-and-in-store-golf-demonstrations",
+   "city": "Dallas",
+   "type": "venue"
+  },
+  {
+   "name": "Golf Galaxy Grapevine",
+   "url": "https://stores.golfgalaxy.com/tx/grapevine/3108/",
+   "city": "Grapevine",
+   "type": "venue"
+  },
+  {
+   "name": "Golf Galaxy Arlington",
+   "url": "https://stores.golfgalaxy.com/tx/arlington/3221/",
+   "city": "Arlington",
+   "type": "venue"
+  },
+  {
+   "name": "Hidden Creek Golf Course",
+   "url": "https://hiddencreekgc.com/upcoming-events/",
+   "city": "Burleson",
+   "type": "course"
+  },
+  {
+   "name": "Country View Golf Club",
+   "url": "https://countryviewgolfcourse.com/calendar/",
+   "city": "Lancaster",
+   "type": "course"
+  },
+  {
+   "name": "Stone Creek Golf Club",
+   "url": "https://stonecreekcc.com/events-calendar/",
+   "city": "Sherman",
+   "type": "course"
+  },
+  {
+   "name": "Old Brickyard Golf Course",
+   "url": "https://www.oldbrickyardgolf.com/tournaments/upcoming-events/",
+   "city": "Ferris",
+   "type": "course"
+  },
+  {
+   "name": "The Resort Golf Club",
+   "url": "https://www.resortgolfclub.com/event-calendar/",
+   "city": "Fort Worth",
+   "type": "course"
+  },
+  {
+   "name": "Split Rail Links & Golf Club",
+   "url": "https://www.splitrailgolfclub.com/events/",
+   "city": "Aledo",
+   "type": "course"
+  },
+  {
+   "name": "Squaw Creek Golf Course",
+   "url": "https://www.squawcreekgolfcourse.com/copy-of-golf-course",
+   "city": "Willow Park",
+   "type": "course"
+  },
+  {
+   "name": "Iron Horse Golf Course",
+   "url": "https://ironhorsetx.com/events/list/",
+   "city": "North Richland Hills",
+   "type": "course"
+  },
+  {
+   "name": "Hawks Creek Golf Club",
+   "url": "https://www.hawkscreek.com/calendar",
+   "city": "Westworth",
+   "type": "course"
+  },
+  {
+   "name": "Frisco Lakes Golf Club",
+   "url": "https://www.friscolakesgc.com/events/calendar",
+   "city": "Frisco",
+   "type": "course"
+  },
+  {
+   "name": "Bridlewood Golf Course",
+   "url": "https://www.bridlewoodgolf.com/events/calendar",
+   "city": "Flower Mound",
+   "type": "course"
+  },
+  {
+   "name": "Harbor Lakes Golf Club",
+   "url": "https://www.harborlakes.com/golf-tournaments/",
+   "city": "Granbury",
+   "type": "course"
+  },
+  {
+   "name": "Eventbrite (Dallas golf)",
+   "url": "https://www.eventbrite.com/d/tx--dallas/golf--events/",
+   "city": "",
+   "type": "listing"
+  },
+  {
+   "name": "Eventbrite (Fort Worth golf)",
+   "url": "https://www.eventbrite.com/d/tx--fort-worth/golf--events/",
+   "city": "",
+   "type": "listing"
+  },
+  {
+   "name": "CharityGolfer (Dallas)",
+   "url": "https://charitygolfer.com/texas/dallas",
+   "city": "",
+   "type": "listing"
+  },
+  {
+   "name": "AllEvents (Dallas golf)",
+   "url": "https://allevents.in/dallas/golf",
+   "city": "",
+   "type": "listing"
+  }
+ ]
+}
