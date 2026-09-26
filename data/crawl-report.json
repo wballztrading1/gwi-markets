@@ -1,0 +1,412 @@
+{
+ "checked": "2026-09-26",
+ "sources": [
+  {
+   "name": "Leonard Golf Links",
+   "url": "https://leonardgolflinks.com/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Fields Ranch / PGA Frisco",
+   "url": "https://www.pgafrisco.com/events/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Grapevine Golf Course",
+   "url": "https://grapevinegc.com/events/",
+   "methods": [
+    "structured-data"
+   ],
+   "found": 1,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Oeste Ranch Golf Course",
+   "url": "https://www.oesteranch.com/events-1",
+   "methods": [
+    "structured-data"
+   ],
+   "found": 1,
+   "kept": 1,
+   "error": ""
+  },
+  {
+   "name": "The Bridges Golf Club",
+   "url": "https://www.bridgestexasgolf.com/events-calendar",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "The Golf Club at Fossil Creek",
+   "url": "https://arcisgolf.com/clubs/the-golf-club-at-fossil-creek/club-calendar",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "The Golf Club of Dallas",
+   "url": "https://www.golfclubdallas.com/Events",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "1611 Golf Club",
+   "url": "https://booking.1611golf.com/book/events",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Canyon West Golf Course",
+   "url": "https://canyonwestgolf.com/upcoming-events/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Cross Timbers Golf Course",
+   "url": "https://www.crosstimbersgc.com/events/events-calendar",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Sky Creek Ranch",
+   "url": "https://www.skycreekranch.com/events/calendar",
+   "methods": [
+    "event-pages"
+   ],
+   "found": 1,
+   "kept": 1,
+   "error": ""
+  },
+  {
+   "name": "Grand Oaks Golf Course",
+   "url": "http://www.grandoaksgc.com/events/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Watters Creek",
+   "url": "https://www.watterscreekgolf.com/component/jevents/monthcalendar/2026/10/-?Itemid=136",
+   "methods": [
+    "event-pages"
+   ],
+   "found": 1,
+   "kept": 1,
+   "error": ""
+  },
+  {
+   "name": "White Stone Golf Course",
+   "url": "https://www.whitestonegolf.com/calendar/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": "HTTP 403"
+  },
+  {
+   "name": "Tenison Park Golf Course",
+   "url": "https://www.tenisonpark.com/events/events-calendar",
+   "methods": [
+    "event-pages"
+   ],
+   "found": 2,
+   "kept": 2,
+   "error": ""
+  },
+  {
+   "name": "Indian Creek",
+   "url": "https://www.indiancreekgolfclub.com/Calendar/UpcomingEvents",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Tangle Ridge Golf Club",
+   "url": "https://www.tangleridge.com/calendar/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Rusted Rail Golf Club",
+   "url": "https://rustedrailgolf.com/events/month/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Meadowbrook Park Golf Course",
+   "url": "https://www.meadowbrookparkgolfcourse.com/events",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Texas Rangers Golf Club",
+   "url": "https://www.texasrangersgolfclub.com/events/",
+   "methods": [
+    "events-calendar",
+    "structured-data",
+    "ical"
+   ],
+   "found": 48,
+   "kept": 13,
+   "error": ""
+  },
+  {
+   "name": "Keeton Park Golf Course",
+   "url": "https://www.keetonpark.com/event",
+   "methods": [
+    "structured-data"
+   ],
+   "found": 1,
+   "kept": 1,
+   "error": ""
+  },
+  {
+   "name": "Riverside Golf Club",
+   "url": "https://www.playriversidetx.com/upcoming-events",
+   "methods": [
+    "event-pages"
+   ],
+   "found": 5,
+   "kept": 3,
+   "error": ""
+  },
+  {
+   "name": "Rockwood Park Golf Course",
+   "url": "https://www.fortworthgolf.org/events/calendar",
+   "methods": [
+    "event-pages"
+   ],
+   "found": 5,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Riverchase Golf Course",
+   "url": "https://www.riverchasegc.com/calendar",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Timberlinks Golf Course",
+   "url": "https://www.timberlinksgolfclub.com/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Panther City Partee",
+   "url": "https://panthercitypartee.com/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "PGA TOUR Superstore Plano",
+   "url": "https://www.pgatoursuperstore.com/saturdays-at-the-superstore.html",
+   "methods": [
+    "event-pages"
+   ],
+   "found": 1,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Golf Galaxy Dallas",
+   "url": "https://www.golfgalaxy.com/s/marketing/golf-events-and-in-store-golf-demonstrations",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": "HTTP 403"
+  },
+  {
+   "name": "Golf Galaxy Grapevine",
+   "url": "https://stores.golfgalaxy.com/tx/grapevine/3108/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Golf Galaxy Arlington",
+   "url": "https://stores.golfgalaxy.com/tx/arlington/3221/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Hidden Creek Golf Course",
+   "url": "https://hiddencreekgc.com/upcoming-events/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Country View Golf Club",
+   "url": "https://countryviewgolfcourse.com/calendar/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Stone Creek Golf Club",
+   "url": "https://stonecreekcc.com/events-calendar/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Old Brickyard Golf Course",
+   "url": "https://www.oldbrickyardgolf.com/tournaments/upcoming-events/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": "HTTP 403"
+  },
+  {
+   "name": "The Resort Golf Club",
+   "url": "https://www.resortgolfclub.com/event-calendar/",
+   "methods": [
+    "events-calendar",
+    "ical"
+   ],
+   "found": 251,
+   "kept": 31,
+   "error": ""
+  },
+  {
+   "name": "Split Rail Links & Golf Club",
+   "url": "https://www.splitrailgolfclub.com/events/",
+   "methods": [
+    "events-calendar",
+    "structured-data",
+    "ical"
+   ],
+   "found": 15,
+   "kept": 2,
+   "error": ""
+  },
+  {
+   "name": "Squaw Creek Golf Course",
+   "url": "https://www.squawcreekgolfcourse.com/copy-of-golf-course",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Iron Horse Golf Course",
+   "url": "https://ironhorsetx.com/events/list/",
+   "methods": [
+    "events-calendar",
+    "structured-data",
+    "ical"
+   ],
+   "found": 15,
+   "kept": 15,
+   "error": ""
+  },
+  {
+   "name": "Hawks Creek Golf Club",
+   "url": "https://www.hawkscreek.com/calendar",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Frisco Lakes Golf Club",
+   "url": "https://www.friscolakesgc.com/events/calendar",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Bridlewood Golf Course",
+   "url": "https://www.bridlewoodgolf.com/events/calendar",
+   "methods": [
+    "event-pages"
+   ],
+   "found": 2,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Harbor Lakes Golf Club",
+   "url": "https://www.harborlakes.com/golf-tournaments/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "Eventbrite (Dallas golf)",
+   "url": "https://www.eventbrite.com/d/tx--dallas/golf--events/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": "HTTP 405"
+  },
+  {
+   "name": "Eventbrite (Fort Worth golf)",
+   "url": "https://www.eventbrite.com/d/tx--fort-worth/golf--events/",
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": "HTTP 405"
+  },
+  {
+   "name": "CharityGolfer (Dallas)",
+   "url": "https://charitygolfer.com/texas/dallas",
+   "methods": [
+    "structured-data"
+   ],
+   "found": 10,
+   "kept": 0,
+   "error": ""
+  },
+  {
+   "name": "AllEvents (Dallas golf)",
+   "url": "https://allevents.in/dallas/golf",
+   "methods": [
+    "structured-data"
+   ],
+   "found": 5,
+   "kept": 5,
+   "error": ""
+  }
+ ]
+}
