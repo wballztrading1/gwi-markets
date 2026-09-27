@@ -19,7 +19,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-27",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "2bebaf0731": {
    "id": "2bebaf0731",
@@ -418,7 +419,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-27",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "299a64a754": {
    "id": "299a64a754",
