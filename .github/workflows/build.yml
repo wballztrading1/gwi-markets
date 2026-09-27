@@ -36,6 +36,7 @@ jobs:
         run: |
           mkdir -p out
           if [ -f data/events.json ]; then cp data/events.json out/events.json; fi
+          if [ -f data/deals.json ]; then cp data/deals.json out/deals.json; fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
