@@ -101,6 +101,7 @@ async function main() {
   const out = []; const report = { checked: TODAY, total: deals.length, live: 0, updated: 0, hidden: [], unreadable: 0 };
   deals.forEach((d, i) => {
     const r = results[i]; const st = prev.items[d.id] || {};
+    if (st.price && st.price > d.price * 1.15) st.price = d.price; // undo a list-price misread saved by an earlier run
     // a fresh weekly research pass (new 'researched' date or changed listed price) re-confirms a deal
     const fresh = (cur.researched || '') > (st.verified || '') || st.listed !== d.price;
     let price = fresh ? d.price : (st.price ?? d.price), verified = fresh ? (cur.researched || TODAY) : st.verified, inStock = true, why = '';
@@ -110,8 +111,14 @@ async function main() {
     else {
       if (r.inStock === false) why = 'sold out';
       // only trust a found price that is in a sane range of the listed one (guards against grabbing an accessory price)
-      if (r.price && r.price >= d.price * 0.4 && r.price <= d.price * 2.5) { if (Math.abs(r.price - price) > 0.009) report.updated++; price = r.price; }
-      verified = TODAY; inStock = r.inStock !== false;
+      // a jump of 15%+ over the researched price usually means the page exposes the list price, not the sale price
+      // (e.g. Carl's Golfland) -> keep the researched price and let the weekly research re-confirm it
+      const unclear = r.price && r.price > d.price * 1.15;
+      if (r.price && !unclear && r.price >= d.price * 0.4) { if (Math.abs(r.price - price) > 0.009) report.updated++; price = r.price; }
+      if (unclear) report.unclear = (report.unclear || 0) + 1;
+      else verified = TODAY;
+      inStock = r.inStock !== false;
+      if (unclear && verified < addDays(TODAY, -STALE_DAYS)) why = `price unclear since ${verified}`;
     }
     const pct = d.was ? Math.round((1 - price / d.was) * 100) : d.pct;
     if (!why && !PLAY.has(d.cat) && d.was && pct < MIN_PCT) why = `now only ${pct}% off`;
