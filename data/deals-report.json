@@ -1,93 +1,16 @@
 {
  "checked": "2026-09-27",
  "total": 102,
- "live": 88,
- "updated": 17,
+ "live": 101,
+ "updated": 4,
  "hidden": [
-  {
-   "id": "7af98d12",
-   "title": "TaylorMade Qi10 Rescue Hybrids",
-   "store": "Carl's Golfland",
-   "why": "now only 0% off"
-  },
-  {
-   "id": "b42b8200",
-   "title": "Callaway Elyte Triple Diamond Fairway Woods",
-   "store": "Carl's Golfland",
-   "why": "now only 0% off"
-  },
   {
    "id": "073a73b0",
    "title": "FootJoy Tour Alpha Men's Golf Shoe (Previous Season Style)",
    "store": "PGA TOUR Superstore",
    "why": "sold out"
-  },
-  {
-   "id": "1e6f1587",
-   "title": "FootJoy Pro/SLX Golf Shoes - White/White 56912",
-   "store": "Carl's Golfland",
-   "why": "now only 0% off"
-  },
-  {
-   "id": "24816ee9",
-   "title": "COBRA DS-ADAPT LS Driver",
-   "store": "Carl's Golfland",
-   "why": "now only 0% off"
-  },
-  {
-   "id": "0db927f7",
-   "title": "Titleist GT2 Driver",
-   "store": "Carl's Golfland",
-   "why": "now only 0% off"
-  },
-  {
-   "id": "3ddffc19",
-   "title": "TaylorMade Qi35 LS Driver",
-   "store": "Worldwide Golf Shops",
-   "why": "now only 0% off"
-  },
-  {
-   "id": "1bc1ed4c",
-   "title": "Titleist Scotty Cameron 2025 Studio Style Squareback 2 Putter",
-   "store": "2nd Swing Golf",
-   "why": "now only 20% off"
-  },
-  {
-   "id": "c3ed1f63",
-   "title": "Callaway Big Bertha 23 Fairway Woods",
-   "store": "Carl's Golfland",
-   "why": "now only 0% off"
-  },
-  {
-   "id": "eeda7b8d",
-   "title": "TravisMathew The Ringer 2 Golf Shoes - White",
-   "store": "Carl's Golfland",
-   "why": "now only 0% off"
-  },
-  {
-   "id": "d49ed639",
-   "title": "Cobra AIR-X Irons",
-   "store": "Carl's Golfland",
-   "why": "now only 0% off"
-  },
-  {
-   "id": "fa75f7d0",
-   "title": "Srixon Z-STAR 8 Golf Balls Yellow",
-   "store": "Carl's Golfland",
-   "why": "now only 0% off"
-  },
-  {
-   "id": "ff5e322a",
-   "title": "Nike Air Jordan Fadeaway 6-Way Golf Stand Bag",
-   "store": "Carl's Golfland",
-   "why": "now only 0% off"
-  },
-  {
-   "id": "9717a5cb",
-   "title": "TaylorMade Qi Gunmetal Edition Irons",
-   "store": "Carl's Golfland",
-   "why": "now only 0% off"
   }
  ],
- "unreadable": 22
+ "unreadable": 23,
+ "unclear": 17
 }
