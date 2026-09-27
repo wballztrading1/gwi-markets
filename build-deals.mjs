@@ -84,7 +84,16 @@ async function check(d) {
 }
 
 async function main() {
-  const cur = JSON.parse(await fs.readFile(`${DATA}/deals-curated.json`, 'utf8'));
+  let cur = await fs.readFile(`${DATA}/deals-curated.json`, 'utf8').then(JSON.parse).catch(() => null);
+  if (!cur) {
+    // first run: start from the list bundled with the website (deals-data.1.js)
+    const r = await get(process.env.SITE_DATA_URL || 'https://golfweatheriq.com/deals-data.1.js', '*/*');
+    const m = r.ok && /GWI_GOLF_DEALS\s*=\s*(\{[\s\S]*\})\s*;?\s*$/.exec(r.text.trim());
+    if (!m) { console.log('No deals-curated.json yet and the site copy is not reachable (upload the site first). Nothing to do.'); return; }
+    cur = JSON.parse(m[1]); cur.researched = cur.researched || cur.updated || TODAY;
+    await fs.writeFile(`${DATA}/deals-curated.json`, JSON.stringify(cur));
+    console.log(`Bootstrapped deals-curated.json from the website (${(cur.deals || []).length} deals).`);
+  }
   const prev = await fs.readFile(`${DATA}/deals-state.json`, 'utf8').then(JSON.parse).catch(() => ({ items: {} }));
   const deals = cur.deals || [];
   console.log(`Checking ${deals.length} deals…`);
