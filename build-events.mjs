@@ -46,6 +46,11 @@ const areaOf = (city) => CITY_AREA.get(String(city || '').toLowerCase()) || 'mul
 
 // ---------- filters / categories ----------
 const EXCLUDE = /\b(member[- ]?guest|members?[- ]only|member event|mga|wga|lga|sga|board meeting|course (is )?closed|closure|closed\b|aerif\w*|overseed\w*|maintenance|frost delay|cart path|staff (meeting|party)|private (event|party|outing)|tee sheet|league results|results posted|(men'?s|women'?s|ladies|senior|seniors'?) (golf )?(association|club|league)( (play|meeting|event))?|mens? day|ladies day|happy hour|trivia night|karaoke|bingo)\b/i;
+// Public-facing event words: calendar finds with one of these show automatically; others wait for your OK.
+const PUBLIC_EVENT = /scramble|tournament|classic|invitational|championship|\bopen\b|shootout|shoot-out|clinic|lesson|camp\b|fitting|demo\b|expo\b|glow|night golf|junior|kids?\b|family|trivia|concert|festival|market\b|fundrais|charity|benefit|\bcup\b|challenge|qualif|pro[- ]am|couples|par[- ]?tee|halloween|spook|turkey|christmas|santa|toys for tots|veterans|watch party|grand opening|best ball|captain'?s choice|two[- ]man|2[- ]person|4[- ]person|member[- ]for[- ]a[- ]day/i;
+// Booking-sheet noise: private outings, school teams, placeholders, leagues (leagues live in the weekly list).
+const PRIVATE = /tentative|outside event|\bouting\b|\bblock(ed)?\b|\(tee times\)|private|\bhs\b|high school|\bisd\b|middle school|varsity|\bjv\b|practice|\blodge\b|church|graduation|wedding|reception|banquet|meeting|holiday party|staff|\bleague\b|lessons? (by|with) appointment|booked|reserved|hold\b/i;
+const GENERIC_TITLE = /^(events?( calendar)?|calendar|home|untitled|tbd|tba|event details?|upcoming events|news)$/i;
 const GOLFY = /golf|scramble|tee\b|tee[- ]off|links|fore\b|putt|shootout|pga|lpga|driving range|topgolf|simulator/i;
 function categorize(text) {
   const t = String(text || '');
@@ -254,10 +259,11 @@ function metaContent(html, name) {
   const re = new RegExp(`<meta[^>]+(?:property|name)=["']${name}["'][^>]*>`, 'i');
   const tag = re.exec(html)?.[0]; return tag ? decode(/content=["']([^"']*)["']/i.exec(tag)?.[1] || '') : '';
 }
-async function eventFromPage(url) {
+async function eventFromPage(url, src) {
   const r = await get(url); if (!r.ok) return null;
   const sd = structuredEvents(r.text, r.url); if (sd.length) return { ...sd[0], url: sd[0].url || r.url, how: 'event-page' };
-  const title = oneLine(metaContent(r.text, 'og:title') || /<h1[^>]*>([\s\S]*?)<\/h1>/i.exec(r.text)?.[1] || /<title>([\s\S]*?)<\/title>/i.exec(r.text)?.[1] || '').replace(/\s+\|\s+[^|]+$/, '');
+  const cands = [...r.text.matchAll(/<h[1-3][^>]*>([\s\S]*?)<\/h[1-3]>/gi)].map((m) => oneLine(m[1])).concat(oneLine(metaContent(r.text, 'og:title')), oneLine(/<title>([\s\S]*?)<\/title>/i.exec(r.text)?.[1] || ''));
+  const title = (cands.map((t) => t.replace(/\s+\|\s+[^|]+$/, '').trim()).find((t) => t && t.length > 3 && t.length < 120 && !GENERIC_TITLE.test(t) && !/calendar|\|/i.test(t) && !(src && t.toLowerCase() === src.name.toLowerCase())) || '');
   const body = strip(r.text.replace(/<head[\s\S]*?<\/head>|<(header|nav|footer|aside)[\s\S]*?<\/\2>/gi, ' '));
   const at = title ? Math.max(0, body.toLowerCase().indexOf(title.toLowerCase().slice(0, 30))) : 0;
   const when = parseTextDate(body.slice(at)) || parseTextDate(body);
@@ -286,7 +292,7 @@ async function crawlSource(src) {
     }
     if (!items.length) {
       const links = detailLinks(page.text, page.url);
-      const found = (await pool(links, 4, eventFromPage)).filter(Boolean);
+      const found = (await pool(links, 4, (u) => eventFromPage(u, src))).filter(Boolean);
       if (found.length) { items.push(...found); rep.methods.push('event-pages'); }
     }
   }
@@ -295,8 +301,11 @@ async function crawlSource(src) {
   const official = src.type !== 'listing';
   items = items.filter((e) => e.title && e.start).map((e) => {
     const city = e.city && CITY_AREA.has(e.city.toLowerCase()) ? e.city : (official ? src.city : findCity(`${e.city} ${e.venue} ${e.desc}`));
-    return { ...e, title: e.title.replace(/\s+/g, ' ').trim(), venue: official ? (e.venue && !/^(tbd|online)$/i.test(e.venue) ? e.venue : src.name) : e.venue, city, source: src.name, official };
+    return { ...e, review: !!src.review, title: e.title.replace(/\s+/g, ' ').trim(), venue: official ? (e.venue && !/^(tbd|online)$/i.test(e.venue) ? e.venue : src.name) : e.venue, city, source: src.name, official };
   });
+  // the same title 3+ times from one site = a recurring program (covered by the weekly list)
+  const counts = new Map(); for (const e of items) { const k = [...titleTokens(e.title)].sort().join(' '); counts.set(k, (counts.get(k) || 0) + 1); }
+  items = items.map((e) => ({ ...e, recurring: counts.get([...titleTokens(e.title)].sort().join(' ')) >= 3 }));
   return { rep, items };
 }
 
@@ -304,7 +313,9 @@ function keep(e) {
   const end = e.end || e.start;
   if (!e.start || e.start > HORIZON || end < TODAY) return 'past or too far out';
   if (e.start < addDays(TODAY, -21)) return 'long-running';
-  if (EXCLUDE.test(`${e.title}`)) return 'members / closures / non-golf';
+  if (EXCLUDE.test(`${e.title}`) || PRIVATE.test(e.title)) return 'members / private / non-golf';
+  if (GENERIC_TITLE.test(e.title.trim()) || e.title.trim().length < 4) return 'no real title';
+  if (e.recurring) return 'recurring';
   if (!e.official) {
     if (!GOLFY.test(`${e.title} ${e.desc} ${e.venue}`)) return 'not golf';
     if (!CITY_AREA.has(String(e.city).toLowerCase())) return 'outside DFW';
@@ -348,7 +359,7 @@ function issueBody(items, report) {
     'Your changes go live within about 15 minutes. The list refreshes every morning.',
     '',
     `### Needs your OK (${review.filter((e) => !e.shown).length} waiting)`,
-    '_Found on multi-venue listing sites (Eventbrite, charity listings…). Hidden until you tick them._',
+    '_From listing sites, booking-style calendars, or titles that don\'t look like a public event. Hidden until you tick them._',
     ...(review.length ? review.map(issueLine) : ['_Nothing right now._']),
     '',
     `### From course & venue calendars (${auto.length})`,
@@ -365,6 +376,7 @@ async function readJson(path, fallback) { try { return JSON.parse(await fs.readF
 async function main() {
   const curated = await readJson(`${DATA}/curated.json`, { events: [], weekly: [], tba: [], opening: [] });
   const state = await readJson(`${DATA}/state.json`, { items: {} });
+  const superseded = new Set();
   let report = (await readJson(`${DATA}/crawl-report.json`, { sources: [] })).sources || [];
 
   // 1. apply ticks from the review issue
@@ -384,11 +396,17 @@ async function main() {
     const results = await pool(sources, 6, crawlSource);
     report = [];
     const curatedUp = (curated.events || []).filter((e) => (e.end || e.start) >= TODAY);
+    const failed = new Set(results.filter((r) => r.rep.error && !r.items.length).map((r) => r.rep.name));
     const seenNow = new Set();
     for (const { rep, items } of results) {
       for (const e of items) {
         const why = keep(e); if (why) continue;
-        if (curatedUp.some((c) => c.start === e.start && similar(c.title, e.title))) { rep.kept++; continue; } // already hand-listed
+        // already hand-listed? same title on a date inside the hand-listed event's dates (±2 days for a course's own calendar)
+        const near = curatedUp.find((c) => similar(c.title, e.title) && e.start >= addDays(c.start, e.official ? -2 : 0) && e.start <= addDays(c.end || c.start, e.official ? 2 : 0));
+        if (near) {
+          if (near.start === e.start || !e.official || e.review) { rep.kept++; continue; }
+          superseded.add(near.id); // the course's own calendar has a different date → trust it over the hand-listed copy
+        }
         let id = sha(`${e.start}|${[...titleTokens(e.title)].sort().join(' ')}`);
         const dup = Object.values(state.items).find((x) => x.id !== id && x.start === e.start && similar(x.title, e.title));
         if (dup) { if (dup.official || !e.official) id = dup.id; else { dup.gone = true; } }
@@ -396,15 +414,19 @@ async function main() {
         seenNow.add(id); rep.kept++;
         const prev = state.items[id];
         const rec = { id, title: e.title, start: e.start, end: e.end || '', time: e.time || '', venue: e.venue || '', city: e.city || '', area: areaOf(e.city), cat: categorize(`${e.title} ${e.desc}`), desc: e.desc || '', url: e.url || '', img: e.img || prev?.img || '', source: e.source, official: e.official, how: e.how, confirmed: true, firstSeen: prev?.firstSeen || TODAY, lastSeen: TODAY };
-        rec.shown = prev ? prev.shown : e.official;
+        const autoShow = e.official && !e.review && PUBLIC_EVENT.test(e.title);
+        rec.official = e.official && !e.review && autoShow; // anything not auto-shown sits in "Needs your OK"
+        rec.shown = prev?.touched ? prev.shown : autoShow;
         if (prev?.touched) rec.touched = true;
         state.items[id] = rec;
-        if (!prev) (e.official ? fresh.auto : fresh.review).push(rec);
+        if (!prev) (rec.official ? fresh.auto : fresh.review).push(rec);
       }
       report.push(rep);
     }
     // events no longer listed anywhere for 3+ days are treated as removed/cancelled
-    for (const it of Object.values(state.items)) if (!seenNow.has(it.id)) it.gone = it.lastSeen < addDays(TODAY, -3);
+    state.superseded = [...superseded];
+    // not listed any more: gone right away if its site answered; after 3 days if the site was down
+    for (const it of Object.values(state.items)) if (!seenNow.has(it.id)) it.gone = !failed.has(it.source) || it.lastSeen < addDays(TODAY, -3);
     // look up flyer images for new finds that have none
     const needImg = Object.values(state.items).filter((e) => !e.img && e.url && !e.imgTried && (e.end || e.start) >= TODAY).slice(0, MAX_IMG_LOOKUPS);
     await pool(needImg, 4, async (e) => { e.imgTried = true; const r = await get(e.url); if (r.ok) e.img = absUrl(metaContent(r.text, 'og:image'), r.url); });
@@ -416,7 +438,7 @@ async function main() {
 
   // 3. publish
   const found = Object.values(state.items).filter((e) => e.shown && !e.gone).map(({ id, title, start, end, time, venue, city, area, cat, desc, url, img, confirmed, source }) => ({ id: 'f-' + id, title, start, end, time, venue, city, area, cat, desc, url, img, confirmed, source }));
-  const events = [...(curated.events || []).filter((e) => (e.end || e.start) >= addDays(TODAY, -1)), ...found].sort((a, b) => a.start.localeCompare(b.start) || a.title.localeCompare(b.title));
+  const events = [...(curated.events || []).filter((e) => (e.end || e.start) >= addDays(TODAY, -1) && !(state.superseded || []).includes(e.id)), ...found].sort((a, b) => a.start.localeCompare(b.start) || a.title.localeCompare(b.title));
   const out = { updated: TODAY, region: curated.region || 'Dallas–Fort Worth', events, weekly: curated.weekly || [], tba: curated.tba || [], opening: curated.opening || [], stats: { ...(curated.stats || {}), sitesChecked: report.length, sitesWithEvents: report.filter((r) => r.kept > 0).length, fromCalendars: found.length } };
   await fs.writeFile(`${DATA}/events.json`, JSON.stringify(out));
   await fs.writeFile(`${DATA}/state.json`, JSON.stringify(state, null, 1));
