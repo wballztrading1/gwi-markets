@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-26",
+ "checked": "2026-09-27",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -92,7 +92,7 @@
     "event-pages"
    ],
    "found": 1,
-   "kept": 1,
+   "kept": 0,
    "error": ""
   },
   {
@@ -128,7 +128,7 @@
     "event-pages"
    ],
    "found": 2,
-   "kept": 2,
+   "kept": 1,
    "error": ""
   },
   {
@@ -171,8 +171,8 @@
     "structured-data",
     "ical"
    ],
-   "found": 48,
-   "kept": 13,
+   "found": 49,
+   "kept": 0,
    "error": ""
   },
   {
@@ -192,7 +192,7 @@
     "event-pages"
    ],
    "found": 5,
-   "kept": 3,
+   "kept": 0,
    "error": ""
   },
   {
@@ -303,7 +303,7 @@
     "ical"
    ],
    "found": 251,
-   "kept": 31,
+   "kept": 16,
    "error": ""
   },
   {
@@ -314,8 +314,8 @@
     "structured-data",
     "ical"
    ],
-   "found": 15,
-   "kept": 2,
+   "found": 10,
+   "kept": 0,
    "error": ""
   },
   {
@@ -335,7 +335,7 @@
     "ical"
    ],
    "found": 15,
-   "kept": 15,
+   "kept": 0,
    "error": ""
   },
   {

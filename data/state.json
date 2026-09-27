@@ -18,7 +18,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "shown": true
   },
   "2bebaf0731": {
@@ -41,7 +41,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "c0497e5b6b": {
    "id": "c0497e5b6b",
@@ -63,7 +64,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "4fb6dfbc41": {
    "id": "4fb6dfbc41",
@@ -85,7 +87,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "64f416ea9a": {
    "id": "64f416ea9a",
@@ -107,7 +110,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "1b170c13ce": {
    "id": "1b170c13ce",
@@ -128,7 +132,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "3d12509990": {
    "id": "3d12509990",
@@ -149,7 +154,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "665be245f6": {
    "id": "665be245f6",
@@ -170,7 +176,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "eba63085e7": {
    "id": "eba63085e7",
@@ -191,7 +198,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "ba6ada0d81": {
    "id": "ba6ada0d81",
@@ -212,7 +220,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "81f7387e6d": {
    "id": "81f7387e6d",
@@ -233,7 +242,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "512aaf44ef": {
    "id": "512aaf44ef",
@@ -254,7 +264,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "a8079af0a4": {
    "id": "a8079af0a4",
@@ -275,7 +286,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "da8699d01e": {
    "id": "da8699d01e",
@@ -296,7 +308,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "8c310a300e": {
    "id": "8c310a300e",
@@ -317,7 +330,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "ff80da082b": {
    "id": "ff80da082b",
@@ -338,7 +352,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "bb7b2744fe": {
    "id": "bb7b2744fe",
@@ -359,7 +374,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "7a9665b6cc": {
    "id": "7a9665b6cc",
@@ -380,7 +396,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "178aa87f5d": {
    "id": "178aa87f5d",
@@ -400,7 +417,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
+   "lastSeen": "2026-09-27",
    "shown": true
   },
   "299a64a754": {
@@ -423,7 +440,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "3bdca8da1d": {
    "id": "3bdca8da1d",
@@ -445,7 +463,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "f1fa4b773d": {
    "id": "f1fa4b773d",
@@ -467,7 +486,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "1a1cca8a7e": {
    "id": "1a1cca8a7e",
@@ -488,7 +508,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "406e3d386c": {
    "id": "406e3d386c",
@@ -504,12 +525,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "bb8e8e9f39": {
    "id": "bb8e8e9f39",
@@ -530,7 +551,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "bd1e440ffc": {
    "id": "bd1e440ffc",
@@ -551,7 +573,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "02a51fea73": {
    "id": "02a51fea73",
@@ -572,7 +595,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "97f637d25f": {
    "id": "97f637d25f",
@@ -588,12 +612,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "960e2e7c9e": {
    "id": "960e2e7c9e",
@@ -609,12 +633,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "77aafa0424": {
    "id": "77aafa0424",
@@ -630,12 +654,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "efa2bf7aef": {
    "id": "efa2bf7aef",
@@ -651,12 +675,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "2dee979ca7": {
    "id": "2dee979ca7",
@@ -677,7 +701,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "ca6aa861a7": {
    "id": "ca6aa861a7",
@@ -693,12 +718,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "ef287c90ce": {
    "id": "ef287c90ce",
@@ -719,7 +744,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "9ab3e2c32a": {
    "id": "9ab3e2c32a",
@@ -735,12 +761,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "439e02509d": {
    "id": "439e02509d",
@@ -761,7 +787,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "ac53ab4f2c": {
    "id": "ac53ab4f2c",
@@ -777,12 +804,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "dbd7bd2477": {
    "id": "dbd7bd2477",
@@ -803,7 +830,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "df70964ec6": {
    "id": "df70964ec6",
@@ -819,12 +847,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "ec0a9029f7": {
    "id": "ec0a9029f7",
@@ -845,7 +873,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "0b3ddfeb89": {
    "id": "0b3ddfeb89",
@@ -861,12 +890,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "80fe0ef6fe": {
    "id": "80fe0ef6fe",
@@ -882,12 +911,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "4357103b7c": {
    "id": "4357103b7c",
@@ -903,12 +932,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "e5a4ce28cd": {
    "id": "e5a4ce28cd",
@@ -929,7 +958,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "362fd7dcf5": {
    "id": "362fd7dcf5",
@@ -945,12 +975,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "e04b069aad": {
    "id": "e04b069aad",
@@ -971,7 +1001,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "129ad65b2b": {
    "id": "129ad65b2b",
@@ -987,12 +1018,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "f09fe23a0a": {
    "id": "f09fe23a0a",
@@ -1013,7 +1044,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "394794534e": {
    "id": "394794534e",
@@ -1029,12 +1061,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "40c963e7ba": {
    "id": "40c963e7ba",
@@ -1055,7 +1087,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "42bd340922": {
    "id": "42bd340922",
@@ -1076,7 +1109,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "01e82f716e": {
    "id": "01e82f716e",
@@ -1092,12 +1126,12 @@
    "url": "",
    "img": "",
    "source": "The Resort Golf Club",
-   "official": true,
+   "official": false,
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true
+   "lastSeen": "2026-09-27",
+   "shown": false
   },
   "b2296a91a0": {
    "id": "b2296a91a0",
@@ -1118,7 +1152,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "717921dfb8": {
    "id": "717921dfb8",
@@ -1140,7 +1175,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "de82f2497d": {
    "id": "de82f2497d",
@@ -1162,7 +1198,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "5802d48af2": {
    "id": "5802d48af2",
@@ -1184,7 +1221,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "24f43c9171": {
    "id": "24f43c9171",
@@ -1205,7 +1243,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": false
+   "shown": false,
+   "gone": true
   },
   "e2b6566908": {
    "id": "e2b6566908",
@@ -1226,7 +1265,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": false
+   "shown": false,
+   "gone": true
   },
   "44df7981e1": {
    "id": "44df7981e1",
@@ -1247,7 +1287,53 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
-   "shown": false
+   "shown": false,
+   "gone": true
+  },
+  "d64c73eac3": {
+   "id": "d64c73eac3",
+   "title": "Tee Times",
+   "start": "2026-10-31",
+   "end": "",
+   "time": "",
+   "venue": "Watters Creek",
+   "city": "Plano",
+   "area": "north",
+   "cat": "competition",
+   "desc": "Rates Food Contact Golf The Traditions Course The Players Course Architect’s Vision Visual Tour Golf Course Flyover Rates Watters Creek Senior Golf Association Watters Creek Ladies Golf League Twilight Golf™ League (Co-ed) Join Our Spark League GHIN…",
+   "url": "https://www.watterscreekgolf.com/component/jevents/eventdetail/269/-/halloween?Itemid=136",
+   "img": "",
+   "source": "Watters Creek",
+   "official": false,
+   "how": "event-page",
+   "confirmed": true,
+   "firstSeen": "2026-09-27",
+   "lastSeen": "2026-09-27",
+   "shown": false,
+   "imgTried": true
+  },
+  "a48cb89bfd": {
+   "id": "a48cb89bfd",
+   "title": "Ready to Book Your Tee Time?",
+   "start": "2026-09-27",
+   "end": "",
+   "time": "10:00 AM",
+   "venue": "Tenison Park Golf Course",
+   "city": "Dallas",
+   "area": "dallas",
+   "cat": "fun",
+   "desc": "Book Now Book Tee Time: 214.670.1402 3501 Samuell Blvd, Dallas, TX 75223 © 2023 Tenison Park Golf Course | Contact Us | Site Map | Designed and Hosted by 1-2-1 Marketing Close div > .uk-panel', row:true}\" data-uk-grid-margin > Home Tee Times Events Shop…",
+   "url": "https://www.tenisonpark.com/events/events-calendar/eventdetail/470/-/2026-dallas-city-championship-round-2",
+   "img": "",
+   "source": "Tenison Park Golf Course",
+   "official": false,
+   "how": "event-page",
+   "confirmed": true,
+   "firstSeen": "2026-09-27",
+   "lastSeen": "2026-09-27",
+   "shown": false,
+   "imgTried": true
   }
- }
+ },
+ "superseded": []
 }
