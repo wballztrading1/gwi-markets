@@ -315,7 +315,7 @@ function keep(e) {
   if (e.start < addDays(TODAY, -21)) return 'long-running';
   if (EXCLUDE.test(`${e.title}`) || PRIVATE.test(e.title)) return 'members / private / non-golf';
   if (GENERIC_TITLE.test(e.title.trim()) || e.title.trim().length < 4) return 'no real title';
-  if (e.recurring) return 'recurring';
+  if (e.recurring || /\b(mon|tues|wednes|thurs|fri|satur|sun)day (night|morning|afternoon|evening|twilight)\b|\bweekly\b|every (mon|tue|wed|thu|fri|sat|sun)/i.test(e.title)) return 'recurring';
   if (!e.official) {
     if (!GOLFY.test(`${e.title} ${e.desc} ${e.venue}`)) return 'not golf';
     if (!CITY_AREA.has(String(e.city).toLowerCase())) return 'outside DFW';
