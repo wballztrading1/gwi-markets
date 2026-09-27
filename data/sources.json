@@ -1,5 +1,5 @@
 {
- "note": "Sites the daily DFW Events updater checks. type: course | venue | listing (listing = multi-venue sites; their finds always need your OK).",
+ "note": "Sites the daily DFW Events updater checks. type: course | venue | listing (listing = multi-venue sites; their finds always need your OK). Add \"review\": true to a site whose calendar mixes in private bookings.",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -209,7 +209,9 @@
    "name": "The Resort Golf Club",
    "url": "https://www.resortgolfclub.com/event-calendar/",
    "city": "Fort Worth",
-   "type": "course"
+   "type": "course",
+   "review": true,
+   "note": "Calendar is a booking sheet (private outings) — finds always need your OK."
   },
   {
    "name": "Split Rail Links & Golf Club",
