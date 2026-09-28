@@ -1,16 +1,22 @@
 {
- "checked": "2026-09-27",
+ "checked": "2026-09-28",
  "total": 102,
- "live": 101,
- "updated": 4,
+ "live": 100,
+ "updated": 11,
  "hidden": [
   {
    "id": "073a73b0",
    "title": "FootJoy Tour Alpha Men's Golf Shoe (Previous Season Style)",
    "store": "PGA TOUR Superstore",
    "why": "sold out"
+  },
+  {
+   "id": "1bc1ed4c",
+   "title": "Titleist Scotty Cameron 2025 Studio Style Squareback 2 Putter",
+   "store": "2nd Swing Golf",
+   "why": "now only 20% off"
   }
  ],
- "unreadable": 23,
- "unclear": 17
+ "unreadable": 22,
+ "unclear": 7
 }
