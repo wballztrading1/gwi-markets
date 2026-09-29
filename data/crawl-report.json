@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-28",
+ "checked": "2026-09-29",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -40,8 +40,10 @@
   {
    "name": "The Bridges Golf Club",
    "url": "https://www.bridgestexasgolf.com/events-calendar",
-   "methods": [],
-   "found": 0,
+   "methods": [
+    "structured-data"
+   ],
+   "found": 2,
    "kept": 0,
    "error": ""
   },
@@ -171,7 +173,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 49,
+   "found": 61,
    "kept": 0,
    "error": ""
   },
@@ -201,7 +203,7 @@
    "methods": [
     "event-pages"
    ],
-   "found": 4,
+   "found": 5,
    "kept": 0,
    "error": ""
   },
@@ -232,12 +234,10 @@
   {
    "name": "PGA TOUR Superstore Plano",
    "url": "https://www.pgatoursuperstore.com/saturdays-at-the-superstore.html",
-   "methods": [
-    "event-pages"
-   ],
-   "found": 1,
+   "methods": [],
+   "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Golf Galaxy Dallas",

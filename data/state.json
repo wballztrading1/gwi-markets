@@ -22,29 +22,6 @@
    "shown": true,
    "gone": true
   },
-  "2bebaf0731": {
-   "id": "2bebaf0731",
-   "title": "Sky Creek Ranch Golf Club | Public Course",
-   "start": "2026-09-26",
-   "end": "",
-   "time": "",
-   "venue": "Sky Creek Ranch",
-   "city": "Keller",
-   "area": "mid",
-   "cat": "competition",
-   "desc": "18 hole championship golf course by Robert Trent Jones, Jr. Located just outside of Dallas & Fort Worth Texas, open to the public with fine dining on-site.",
-   "url": "https://www.skycreekranch.com/events/calendar/eventdetail/1036/-/member-appreciation-event",
-   "img": "",
-   "source": "Sky Creek Ranch",
-   "official": true,
-   "how": "event-page",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "imgTried": true,
-   "gone": true
-  },
   "c0497e5b6b": {
    "id": "c0497e5b6b",
    "title": "Halloween",
@@ -59,29 +36,6 @@
    "url": "https://www.watterscreekgolf.com/component/jevents/eventdetail/269/-/halloween?Itemid=136",
    "img": "",
    "source": "Watters Creek",
-   "official": true,
-   "how": "event-page",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "imgTried": true,
-   "gone": true
-  },
-  "4fb6dfbc41": {
-   "id": "4fb6dfbc41",
-   "title": "Events Calendar",
-   "start": "2026-09-26",
-   "end": "",
-   "time": "10:00 AM",
-   "venue": "Tenison Park Golf Course",
-   "city": "Dallas",
-   "area": "dallas",
-   "cat": "junior",
-   "desc": "Ladies League Senior League Instruction Instructors The Range Junior Golf Adult Group Instruction Club Fitting GHIN Handicap Email Club Contact Our Team Events Calendar Events Calendar 2026 Dallas City Championship - 05:00pm Hits : 894 2026 Dallas City…",
-   "url": "https://www.tenisonpark.com/events/events-calendar/eventdetail/469/-/2026-dallas-city-championship",
-   "img": "",
-   "source": "Tenison Park Golf Course",
    "official": true,
    "how": "event-page",
    "confirmed": true,
@@ -531,7 +485,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "bb8e8e9f39": {
@@ -618,7 +572,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "960e2e7c9e": {
@@ -639,7 +593,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "77aafa0424": {
@@ -660,7 +614,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "efa2bf7aef": {
@@ -681,7 +635,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "2dee979ca7": {
@@ -724,7 +678,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "ef287c90ce": {
@@ -767,7 +721,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "439e02509d": {
@@ -810,7 +764,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "dbd7bd2477": {
@@ -853,7 +807,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "ec0a9029f7": {
@@ -896,7 +850,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "80fe0ef6fe": {
@@ -917,7 +871,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "4357103b7c": {
@@ -938,7 +892,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "e5a4ce28cd": {
@@ -981,7 +935,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "e04b069aad": {
@@ -1024,7 +978,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "f09fe23a0a": {
@@ -1067,7 +1021,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "40c963e7ba": {
@@ -1132,7 +1086,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false
   },
   "b2296a91a0": {
@@ -1155,29 +1109,6 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "gone": true
-  },
-  "717921dfb8": {
-   "id": "717921dfb8",
-   "title": "OUTSIDE EVENT PM",
-   "start": "2026-09-26",
-   "end": "",
-   "time": "",
-   "venue": "Split Rail Links & Golf Club",
-   "city": "Aledo",
-   "area": "fortworth",
-   "cat": "fun",
-   "desc": "",
-   "url": "https://www.splitrailgolfclub.com/event/outside-event-6/",
-   "img": "",
-   "source": "Split Rail Links & Golf Club",
-   "official": true,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "imgTried": true,
    "gone": true
   },
   "de82f2497d": {
@@ -1310,7 +1241,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-09-28",
+   "lastSeen": "2026-09-29",
    "shown": false,
    "imgTried": true
   },
