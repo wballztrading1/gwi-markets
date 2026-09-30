@@ -45,29 +45,6 @@
    "imgTried": true,
    "gone": true
   },
-  "64f416ea9a": {
-   "id": "64f416ea9a",
-   "title": "Events Calendar",
-   "start": "2026-09-27",
-   "end": "",
-   "time": "10:00 AM",
-   "venue": "Tenison Park Golf Course",
-   "city": "Dallas",
-   "area": "dallas",
-   "cat": "junior",
-   "desc": "Ladies League Senior League Instruction Instructors The Range Junior Golf Adult Group Instruction Club Fitting GHIN Handicap Email Club Contact Our Team Events Calendar Events Calendar 2026 Dallas City Championship - Round 2 Hits : 547 2026 Dallas City…",
-   "url": "https://www.tenisonpark.com/events/events-calendar/eventdetail/470/-/2026-dallas-city-championship-round-2",
-   "img": "",
-   "source": "Tenison Park Golf Course",
-   "official": true,
-   "how": "event-page",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "imgTried": true,
-   "gone": true
-  },
   "1b170c13ce": {
    "id": "1b170c13ce",
    "title": "Home Plate Supper Club",
@@ -485,7 +462,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "bb8e8e9f39": {
@@ -572,7 +549,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "960e2e7c9e": {
@@ -593,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "77aafa0424": {
@@ -614,7 +591,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "efa2bf7aef": {
@@ -635,7 +612,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "2dee979ca7": {
@@ -678,30 +655,8 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
-  },
-  "ef287c90ce": {
-   "id": "ef287c90ce",
-   "title": "Bobcats Jr. League",
-   "start": "2026-09-27",
-   "end": "",
-   "time": "5:00 PM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "fun",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": true,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "gone": true
   },
   "9ab3e2c32a": {
    "id": "9ab3e2c32a",
@@ -721,7 +676,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "439e02509d": {
@@ -764,7 +719,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "dbd7bd2477": {
@@ -807,7 +762,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "ec0a9029f7": {
@@ -850,7 +805,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "80fe0ef6fe": {
@@ -871,7 +826,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "4357103b7c": {
@@ -893,7 +848,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-29",
-   "shown": false
+   "shown": false,
+   "gone": true
   },
   "e5a4ce28cd": {
    "id": "e5a4ce28cd",
@@ -935,7 +891,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "e04b069aad": {
@@ -978,7 +934,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "f09fe23a0a": {
@@ -1021,7 +977,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "40c963e7ba": {
@@ -1086,7 +1042,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false
   },
   "b2296a91a0": {
@@ -1241,32 +1197,9 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-09-29",
+   "lastSeen": "2026-09-30",
    "shown": false,
    "imgTried": true
-  },
-  "a48cb89bfd": {
-   "id": "a48cb89bfd",
-   "title": "Ready to Book Your Tee Time?",
-   "start": "2026-09-27",
-   "end": "",
-   "time": "10:00 AM",
-   "venue": "Tenison Park Golf Course",
-   "city": "Dallas",
-   "area": "dallas",
-   "cat": "fun",
-   "desc": "Book Now Book Tee Time: 214.670.1402 3501 Samuell Blvd, Dallas, TX 75223 © 2023 Tenison Park Golf Course | Contact Us | Site Map | Designed and Hosted by 1-2-1 Marketing Close div > .uk-panel', row:true}\" data-uk-grid-margin > Home Tee Times Events Shop…",
-   "url": "https://www.tenisonpark.com/events/events-calendar/eventdetail/470/-/2026-dallas-city-championship-round-2",
-   "img": "",
-   "source": "Tenison Park Golf Course",
-   "official": false,
-   "how": "event-page",
-   "confirmed": true,
-   "firstSeen": "2026-09-27",
-   "lastSeen": "2026-09-27",
-   "shown": false,
-   "imgTried": true,
-   "gone": true
   }
  },
  "superseded": []
