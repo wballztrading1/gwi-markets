@@ -1,9 +1,16 @@
 {
- "checked": "2026-09-30",
+ "checked": "2026-10-01",
  "total": 126,
- "live": 126,
+ "live": 125,
  "updated": 0,
- "hidden": [],
+ "hidden": [
+  {
+   "id": "02742143",
+   "title": "TaylorMade TP5 Golf Balls - Prior Generation",
+   "store": "Maple Hill Golf",
+   "why": "sold out"
+  }
+ ],
  "unreadable": 27,
  "unclear": 6
 }
