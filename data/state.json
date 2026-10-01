@@ -462,7 +462,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "bb8e8e9f39": {
@@ -549,7 +549,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "960e2e7c9e": {
@@ -570,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "77aafa0424": {
@@ -591,7 +591,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "efa2bf7aef": {
@@ -612,30 +612,8 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
-  },
-  "2dee979ca7": {
-   "id": "2dee979ca7",
-   "title": "Chisholm Trail HS tournament",
-   "start": "2026-09-28",
-   "end": "",
-   "time": "8:00 AM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "scramble",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": true,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "gone": true
   },
   "ca6aa861a7": {
    "id": "ca6aa861a7",
@@ -655,7 +633,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "9ab3e2c32a": {
@@ -676,7 +654,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "439e02509d": {
@@ -719,7 +697,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "dbd7bd2477": {
@@ -762,7 +740,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "ec0a9029f7": {
@@ -805,7 +783,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "80fe0ef6fe": {
@@ -826,7 +804,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "4357103b7c": {
@@ -891,7 +869,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "e04b069aad": {
@@ -934,7 +912,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "f09fe23a0a": {
@@ -977,7 +955,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "40c963e7ba": {
@@ -1042,7 +1020,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
    "shown": false
   },
   "b2296a91a0": {
@@ -1197,7 +1175,94 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-09-30",
+   "lastSeen": "2026-10-01",
+   "shown": false,
+   "imgTried": true
+  },
+  "f3d75b89fb": {
+   "id": "f3d75b89fb",
+   "title": "Ready to Reserve your Spot?",
+   "start": "2026-10-31",
+   "end": "",
+   "time": "",
+   "venue": "Cross Timbers Golf Course",
+   "city": "Azle",
+   "area": "fortworth",
+   "cat": "fun",
+   "desc": "Book Now Book A Tee Time: (817) 444-4940 1181 S. Stewart Street Azle, TX 76020 © 2025 Cross Timbers Golf Course | Contact Us | Site Map | Powered by foreUP Close div > .uk-panel', row:true}\" data-uk-grid-margin > Home Tee Times Passes Food Contact Home Golf…",
+   "url": "https://www.crosstimbersgc.com/events/events-calendar/eventdetail/269/-/halloween",
+   "img": "",
+   "source": "Cross Timbers Golf Course",
+   "official": false,
+   "how": "event-page",
+   "confirmed": true,
+   "firstSeen": "2026-10-01",
+   "lastSeen": "2026-10-01",
+   "shown": false,
+   "imgTried": true
+  },
+  "139c8ce78b": {
+   "id": "139c8ce78b",
+   "title": "Tournament",
+   "start": "2026-11-15",
+   "end": "",
+   "time": "8:00 AM",
+   "venue": "The Resort Golf Club",
+   "city": "Fort Worth",
+   "area": "fortworth",
+   "cat": "scramble",
+   "desc": "",
+   "url": "",
+   "img": "",
+   "source": "The Resort Golf Club",
+   "official": false,
+   "how": "ical",
+   "confirmed": true,
+   "firstSeen": "2026-10-01",
+   "lastSeen": "2026-10-01",
+   "shown": false
+  },
+  "00fd73cf09": {
+   "id": "00fd73cf09",
+   "title": "Looking to book a tee time?",
+   "start": "2026-10-17",
+   "end": "",
+   "time": "",
+   "venue": "Bridlewood Golf Course",
+   "city": "Flower Mound",
+   "area": "north",
+   "cat": "fun",
+   "desc": "Offering one of the finest public golf courses in the Dallas Metroplex, Bridlewood Golf Club boasts a Private Club experience at a Daily Fee price.",
+   "url": "https://www.bridlewoodgolf.com/events/calendar/eventdetail/1037/-/trunk-or-treat",
+   "img": "",
+   "source": "Bridlewood Golf Course",
+   "official": false,
+   "how": "event-page",
+   "confirmed": true,
+   "firstSeen": "2026-10-01",
+   "lastSeen": "2026-10-01",
+   "shown": false,
+   "imgTried": true
+  },
+  "9b58aeeda3": {
+   "id": "9b58aeeda3",
+   "title": "Looking to book a tee time?",
+   "start": "2026-10-29",
+   "end": "",
+   "time": "",
+   "venue": "Bridlewood Golf Course",
+   "city": "Flower Mound",
+   "area": "north",
+   "cat": "fun",
+   "desc": "Offering one of the finest public golf courses in the Dallas Metroplex, Bridlewood Golf Club boasts a Private Club experience at a Daily Fee price.",
+   "url": "https://www.bridlewoodgolf.com/events/calendar/eventdetail/1038/-/live-music-night",
+   "img": "",
+   "source": "Bridlewood Golf Course",
+   "official": false,
+   "how": "event-page",
+   "confirmed": true,
+   "firstSeen": "2026-10-01",
+   "lastSeen": "2026-10-01",
    "shown": false,
    "imgTried": true
   }

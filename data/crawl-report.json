@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-30",
+ "checked": "2026-10-01",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -25,7 +25,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 30,
+   "found": 60,
    "kept": 0,
    "error": ""
   },
@@ -82,18 +82,18 @@
   {
    "name": "Cross Timbers Golf Course",
    "url": "https://www.crosstimbersgc.com/events/events-calendar",
-   "methods": [],
-   "found": 0,
-   "kept": 0,
+   "methods": [
+    "event-pages"
+   ],
+   "found": 1,
+   "kept": 1,
    "error": ""
   },
   {
    "name": "Sky Creek Ranch",
    "url": "https://www.skycreekranch.com/events/calendar",
-   "methods": [
-    "event-pages"
-   ],
-   "found": 1,
+   "methods": [],
+   "found": 0,
    "kept": 0,
    "error": ""
   },
@@ -126,10 +126,8 @@
   {
    "name": "Tenison Park Golf Course",
    "url": "https://www.tenisonpark.com/events/events-calendar",
-   "methods": [
-    "event-pages"
-   ],
-   "found": 2,
+   "methods": [],
+   "found": 0,
    "kept": 0,
    "error": ""
   },
@@ -173,7 +171,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 49,
+   "found": 48,
    "kept": 0,
    "error": ""
   },
@@ -203,8 +201,8 @@
    "methods": [
     "event-pages"
    ],
-   "found": 5,
-   "kept": 0,
+   "found": 1,
+   "kept": 1,
    "error": ""
   },
   {
@@ -304,8 +302,8 @@
     "events-calendar",
     "ical"
    ],
-   "found": 251,
-   "kept": 15,
+   "found": 258,
+   "kept": 16,
    "error": ""
   },
   {
@@ -316,7 +314,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 10,
+   "found": 11,
    "kept": 0,
    "error": ""
   },
@@ -336,15 +334,17 @@
     "structured-data",
     "ical"
    ],
-   "found": 15,
+   "found": 17,
    "kept": 0,
    "error": ""
   },
   {
    "name": "Hawks Creek Golf Club",
    "url": "https://www.hawkscreek.com/calendar",
-   "methods": [],
-   "found": 0,
+   "methods": [
+    "event-pages"
+   ],
+   "found": 1,
    "kept": 0,
    "error": ""
   },
@@ -363,7 +363,7 @@
     "event-pages"
    ],
    "found": 2,
-   "kept": 0,
+   "kept": 2,
    "error": ""
   },
   {
