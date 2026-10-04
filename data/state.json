@@ -1,27 +1,5 @@
 {
  "items": {
-  "9e8d208478": {
-   "id": "9e8d208478",
-   "title": "Thursday Night Scramble",
-   "start": "2026-10-01",
-   "end": "",
-   "time": "5:10 PM",
-   "venue": "Oeste Ranch Golf Course",
-   "city": "Weatherford",
-   "area": "fortworth",
-   "cat": "scramble",
-   "desc": "A four person nine hole scramble designed to fit all skill levels. Buy tickets for up to 4 players at once... or if its just you we will pair you up!",
-   "url": "https://www.oesteranch.com/event-details/thursday-night-scramble-2026-10-01-17-10",
-   "img": "https://static.wixstatic.com/media/2e6946_ce228852676d47e49284b4746654f5b5~mv2.png",
-   "source": "Oeste Ranch Golf Course",
-   "official": true,
-   "how": "structured-data",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-27",
-   "shown": true,
-   "gone": true
-  },
   "c0497e5b6b": {
    "id": "c0497e5b6b",
    "title": "Halloween",
@@ -440,7 +418,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": true,
    "touched": true
   },
@@ -528,7 +506,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false
   },
   "960e2e7c9e": {
@@ -549,7 +527,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": true,
    "touched": true
   },
@@ -571,7 +549,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false
   },
   "efa2bf7aef": {
@@ -592,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false
   },
   "ca6aa861a7": {
@@ -613,7 +591,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": true,
    "touched": true
   },
@@ -635,7 +613,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": true,
    "touched": true
   },
@@ -679,7 +657,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": true,
    "touched": true
   },
@@ -723,7 +701,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": true,
    "touched": true
   },
@@ -767,7 +745,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false
   },
   "80fe0ef6fe": {
@@ -788,7 +766,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false
   },
   "e5a4ce28cd": {
@@ -831,7 +809,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false
   },
   "e04b069aad": {
@@ -874,7 +852,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": true,
    "touched": true
   },
@@ -918,7 +896,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": true,
    "touched": true
   },
@@ -984,7 +962,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false
   },
   "b2296a91a0": {
@@ -1139,7 +1117,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false,
    "imgTried": true
   },
@@ -1161,7 +1139,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false,
    "imgTried": true
   },
@@ -1183,7 +1161,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false
   },
   "00fd73cf09": {
@@ -1204,7 +1182,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false,
    "imgTried": true
   },
@@ -1226,9 +1204,30 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-03",
+   "lastSeen": "2026-10-04",
    "shown": false,
    "imgTried": true
+  },
+  "ae8ef93526": {
+   "id": "ae8ef93526",
+   "title": "12th Annual WoodrowFest Golf Tournament & Pub Party (RAFFLE & PRIZES)",
+   "start": "2026-10-22",
+   "end": "",
+   "time": "",
+   "venue": "Tenison Highlands Golf",
+   "city": "Dallas",
+   "area": "dallas",
+   "cat": "scramble",
+   "desc": "",
+   "url": "https://allevents.in/dallas/12th-annual-woodrowfest-golf-tournament-and-pub-party-raffle-and-prizes/200030765735217",
+   "img": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvYmMxMGQzZDk1YzdlMDA5Yjg3YjEwZTY1MzlkNGQ4OGUxNjc3OGM0MmY2M2Y1MDMzOGMwODYzYzY5NzE1NTFmMi1yaW1nLXc5NjAtaDk2MC1kY2Y4ZjhmOC1nbWlyP3Y9MTc5MTAyMjY5Ng.avif",
+   "source": "AllEvents (Dallas golf)",
+   "official": false,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-10-04",
+   "lastSeen": "2026-10-04",
+   "shown": false
   }
  },
  "superseded": []
