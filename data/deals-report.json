@@ -1,22 +1,9 @@
 {
  "checked": "2026-10-03",
- "total": 126,
- "live": 124,
+ "total": 131,
+ "live": 131,
  "updated": 1,
- "hidden": [
-  {
-   "id": "02742143",
-   "title": "TaylorMade TP5 Golf Balls - Prior Generation",
-   "store": "Maple Hill Golf",
-   "why": "sold out"
-  },
-  {
-   "id": "56b71ccf",
-   "title": "TaylorMade 2025 FlexTech Superlite Stand Bag",
-   "store": "TGW",
-   "why": "page removed"
-  }
- ],
- "unreadable": 27,
- "unclear": 6
+ "hidden": [],
+ "unreadable": 29,
+ "unclear": 5
 }
