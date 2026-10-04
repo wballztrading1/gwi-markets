@@ -1,22 +1,7 @@
 {
-"updated": "2026-09-26",
+"updated": "2026-10-03",
 "region": "Dallas–Fort Worth",
 "events": [
-{
-"id": "taco-bell-live-m-s-open-qualifier-final-day",
-"title": "Taco Bell Live Más Open Qualifier (final day)",
-"start": "2026-09-10",
-"end": "2026-09-27",
-"time": "During venue hours",
-"venue": "Topgolf (all DFW venues: Dallas, The Colony, Allen, Fort Worth, Grand Prairie)",
-"city": "Dallas-Fort Worth",
-"area": "multi",
-"cat": "competition",
-"desc": "Post a high score in the Shot Shuffle game for a chance to be one of nine players sent on an all-expenses-paid trip for two to the Nov 2 Live Más Open in Laguna Beach, hosted by Kevin Hart. There's also a $1 Pepsi fountain drink deal when you come with three friends.",
-"url": "https://topgolf.com/us/promo/taco-bell-open-qualifier/",
-"img": "https://s3.topgolf.com/uploads/images/misc/tg26-taco-bell-live-mas-open-promo-card-1200x675.jpg",
-"confirmed": true
-},
 {
 "id": "free-first-bucket-for-new-visitors",
 "title": "Free First Bucket for New Visitors",
@@ -29,66 +14,6 @@
 "cat": "deal",
 "desc": "First-time visitors get a free range bucket ($12 value), valid for 7 days after claiming. New customers also get a free hotdog and soda with a bucket purchase. The offer runs through Oct 30, 2026.",
 "url": "https://www.golfranch.com/locations/richardson-tx",
-"img": "",
-"confirmed": true
-},
-{
-"id": "2026-dallas-city-championship-round-2",
-"title": "2026 Dallas City Championship – Round 2",
-"start": "2026-09-27",
-"end": "",
-"time": "10:00 AM",
-"venue": "Tenison Park Golf Course",
-"city": "Dallas",
-"area": "dallas",
-"cat": "competition",
-"desc": "This is the final round of the Dallas City Championship. Round 1 is on Sept 26.",
-"url": "https://www.tenisonpark.com/events/events-calendar/eventdetail/470/-/2026-dallas-city-championship-round-2",
-"img": "",
-"confirmed": true
-},
-{
-"id": "ben-hogan-collegiate-invitational",
-"title": "Ben Hogan Collegiate Invitational",
-"start": "2026-09-28",
-"end": "2026-09-29",
-"time": "8:15 AM CT shotgun on Monday; about 8:00 AM on Tuesday",
-"venue": "Colonial Country Club",
-"city": "Fort Worth",
-"area": "fortworth",
-"cat": "competition",
-"desc": "54-hole men's collegiate stroke-play event for Big 12 Conference teams, with team and individual titles. The best four scores count each round. You can watch it at Colonial.",
-"url": "https://www.amateurgolf.com/amateur-golf-tournaments/9449/ben-hogan-collegiate-invitational",
-"img": "https://www.amateurgolf.com/_next/image?url=https%3A%2F%2Fvypaa6vansgqray4.public.blob.vercel-storage.com%2Fuploads%2F00064125.jpg&w=3840&q=60",
-"confirmed": true
-},
-{
-"id": "arcis-players-clinic-pitching-basics",
-"title": "Arcis Players' Clinic: Pitching Basics",
-"start": "2026-10-01",
-"end": "",
-"time": "5:00 PM",
-"venue": "The Golf Club at Fossil Creek",
-"city": "Fort Worth",
-"area": "fortworth",
-"cat": "clinic",
-"desc": "S2 Golf Academy clinic on pitching fundamentals, held at the driving range. You book through Acuity Scheduling.",
-"url": "https://arcisgolf.com/clubs/the-golf-club-at-fossil-creek/club-calendar",
-"img": "",
-"confirmed": true
-},
-{
-"id": "dal-golf-aviation-championship-tournament-act-v",
-"title": "DAL Golf A.C.T. V — Aviation Championship Tournament",
-"start": "2026-10-01",
-"end": "",
-"time": "7:30 AM shotgun",
-"venue": "Bear Creek Golf Club",
-"city": "Dallas",
-"area": "dallas",
-"cat": "scramble",
-"desc": "The aviation community's fifth annual charity tournament raises money for the Children's Advocacy Center for North Texas. An employee team costs $560, and sponsorships run from $1,600 to $8,000. A social night is set for Sept 30.",
-"url": "https://dalgolf.com/",
 "img": "",
 "confirmed": true
 },
@@ -198,6 +123,21 @@
 "confirmed": true
 },
 {
+"id": "carters-classic-charity-golf-tournament",
+"title": "Carter's Classic Charity Golf Tournament",
+"start": "2026-10-05",
+"end": "",
+"time": "1:00 PM - 7:30 PM",
+"venue": "The Clubs of Prestonwood — The Creek",
+"city": "Dallas",
+"area": "dallas",
+"cat": "scramble",
+"desc": "Charity tournament founded in memory of Carter Campisi. It provides hospitals with Caring Cradles and supports pregnancy and infant-loss education and awareness.",
+"url": "https://www.papercitymag.com/events/carters-classic-charity-golf-tournament/?amp",
+"img": "",
+"confirmed": false
+},
+{
 "id": "pga-of-america-women-s-golf-clinic-lantana",
 "title": "PGA of America Women's Golf Clinic – Lantana",
 "start": "2026-10-05",
@@ -240,7 +180,7 @@
 "desc": "Grapevine GC starts new green fee rates on October 8. The course also became a 27-hole facility on September 24.",
 "url": "https://grapevinegc.com/",
 "img": "",
-"confirmed": false
+"confirmed": true
 },
 {
 "id": "13th-annual-maggie-thompson-invitational",
@@ -271,6 +211,21 @@
 "url": "https://www.dbia-sw.org/golf",
 "img": "https://static.wixstatic.com/media/f97d44_ab67203404e64e48bb7b0c767d751481~mv2.png",
 "confirmed": true
+},
+{
+"id": "the-knights-classic-golf-tournament",
+"title": "The Knights Classic Golf Tournament",
+"start": "2026-10-09",
+"end": "",
+"time": "8:00 AM shotgun",
+"venue": "Indian Creek Golf Club",
+"city": "Carrollton",
+"area": "north",
+"cat": "scramble",
+"desc": "Omega Delta Phi Alumni Association of Dallas–Fort Worth tournament raising funds for student scholarships.",
+"url": "https://allevents.in/carrollton/the-knights-classic-golf-tournament-sponsored-by-pesina-law-firm/200030461401543",
+"img": "",
+"confirmed": false
 },
 {
 "id": "fall-market-at-pga-frisco",
@@ -322,7 +277,7 @@
 "title": "TheGrint Tour NTX: Torbay Cup",
 "start": "2026-10-11",
 "end": "",
-"time": "",
+"time": "8:00 AM",
 "venue": "Bear Creek Golf Club (East)",
 "city": "Dallas",
 "area": "dallas",
@@ -330,7 +285,7 @@
 "desc": "Amateur tour event in TheGrint Tour's North Texas 2026 schedule.",
 "url": "https://thegrinttour.com/tours/NorthTexas2026",
 "img": "",
-"confirmed": false
+"confirmed": true
 },
 {
 "id": "2026-damc-golf-classic",
@@ -363,6 +318,21 @@
 "confirmed": true
 },
 {
+"id": "golf-classic-2026-recovery-resource-council",
+"title": "Golf Classic 2026 — Recovery Resource Council",
+"start": "2026-10-14",
+"end": "",
+"time": "7:00 AM",
+"venue": "Texas Star Golf Course",
+"city": "Euless",
+"area": "mid",
+"cat": "scramble",
+"desc": "Recovery Resource Council's 37th annual Golf Classic, a 4-person scramble raising funds for wellness and recovery services. $250 per person.",
+"url": "https://charitygolfer.com/api/event/golf-classic-2026/pdf",
+"img": "",
+"confirmed": false
+},
+{
 "id": "fairways-to-foster-jubilee-invitational",
 "title": "Fairways to Foster Jubilee Invitational",
 "start": "2026-10-16",
@@ -372,10 +342,25 @@
 "city": "Dallas",
 "area": "dallas",
 "cat": "scramble",
-"desc": "Foursome charity invitational marking a centennial milestone, with proceeds supporting foster-care causes.",
+"desc": "Foursome charity invitational celebrating Foster College's centennial year, raising money for the college.",
 "url": "https://allevents.in/dallas/fairways-to-foster-jubilee-invitational/200030581672126",
 "img": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czkvYmFubmVycy80YmFhNjI4MTI2NzZiZjViMzQyMDI1ZjY2YTM1NzRlODQzNjZmNTJjYTE3MThmM2YxZjYyNzQ5NWQ4MTNjZjBhLXJpbWctdzEwOTItaDE0NDAtZGM1ODA4MDgtZ21pcj92PTE3ODgzNTA1OTQ.avif",
 "confirmed": false
+},
+{
+"id": "suaf-dallas-chapter-16th-annual-founders-golf-tournament",
+"title": "SUAF-Dallas Chapter 16th Annual Founders' Golf Tournament",
+"start": "2026-10-16",
+"end": "",
+"time": "8:00 AM shotgun",
+"venue": "Firewheel Golf Park — Lakes Course",
+"city": "Garland",
+"area": "east",
+"cat": "scramble",
+"desc": "Southern University Alumni Federation — Dallas Chapter fundraiser; the chapter provided over $45,000 in scholarships in 2025–26 to North Texas students attending Southern University. Early bird $125 per person / $500 per team, including breakfast and lunch.",
+"url": "https://www.eventbrite.com/e/suaf-dallas-chapter-16th-annual-founders-golf-tournament-tickets-1996355863127",
+"img": "",
+"confirmed": true
 },
 {
 "id": "xxio-club-fitting-day",
@@ -450,7 +435,7 @@
 "desc": "A Halloween trunk-or-treat social event listed on the Bridlewood club calendar.",
 "url": "https://www.bridlewoodgolf.com/events/calendar/eventdetail/1037/-/trunk-or-treat",
 "img": "",
-"confirmed": false
+"confirmed": true
 },
 {
 "id": "2026-transportation-club-of-dfw-annual-golf-tour",
@@ -496,6 +481,36 @@
 "url": "https://stores.golfgalaxy.com/tx/grapevine/3108/",
 "img": "",
 "confirmed": false
+},
+{
+"id": "15th-annual-charity-golf-tournament-the-nodding-donkey",
+"title": "15th Annual Charity Golf Tournament — The Nodding Donkey",
+"start": "2026-10-23",
+"end": "",
+"time": "12:00 PM shotgun",
+"venue": "Luna Vista Golf Course",
+"city": "Dallas",
+"area": "dallas",
+"cat": "scramble",
+"desc": "15th annual charity tournament with lunch and a post-round dinner, benefiting Scottish Rite for Children. $200 per player; registration opens 10:00 AM.",
+"url": "https://www.thenoddingdonkey.com/store/event/15th-annual-charity-golf-tournament/",
+"img": "",
+"confirmed": true
+},
+{
+"id": "2026-gleneagles-charity-classic-golf-tournament",
+"title": "2026 Gleneagles Charity Classic Golf Tournament",
+"start": "2026-10-23",
+"end": "",
+"time": "9:00 AM shotgun",
+"venue": "Gleneagles Country Club",
+"city": "Plano",
+"area": "north",
+"cat": "scramble",
+"desc": "18-hole scramble benefiting the Hendrick Scholarship Foundation, which supports Plano ISD students with college tuition and mentorship. Entry includes green fees, cart, breakfast and lunch; check-in 7:30 AM.",
+"url": "https://www.eventbrite.com/e/2026-gleneagles-charity-classic-golf-tournament-tickets-1993354248216",
+"img": "",
+"confirmed": true
 },
 {
 "id": "second-annual-nonpareil-plano-golf-classic",
@@ -588,6 +603,21 @@
 "confirmed": false
 },
 {
+"id": "the-par-anormal-open",
+"title": "The PAR-ANORMAL Open",
+"start": "2026-10-30",
+"end": "",
+"time": "4:30 shotgun start",
+"venue": "Timberlinks Golf Club",
+"city": "Denton",
+"area": "north",
+"cat": "scramble",
+"desc": "Halloween-themed 2-person, 9-hole scramble. $50 public / $25 members and residents, including golf, cart and awards, with an optional raffle. Register through the pro shop at 940-209-5374.",
+"url": "https://www.timberlinksgolfclub.com/the-par-anormal-open/",
+"img": "https://www.timberlinksgolfclub.com/wp-content/uploads/2026/01/Par-anormal-Open-26-Flyer.webp",
+"confirmed": false
+},
+{
 "id": "2026-trick-or-treat-scramble",
 "title": "2026 Trick or Treat Scramble",
 "start": "2026-10-31",
@@ -642,7 +672,7 @@
 "city": "Dallas",
 "area": "dallas",
 "cat": "scramble",
-"desc": "Corporate charity tournament hosted by CoVerica, with a full day of friendly competition. Listed prices run $0 to $750.",
+"desc": "CoVerica's annual charity tournament on Bear Creek's West Course, with hole-in-one, closest-to-the-pin and longest-drive contests. Proceeds support Genesis Women's Shelter & Support, The Warren Center and In-Sync Exotics. $250 per golfer or $750 per foursome; registration and breakfast from 7:30 AM, 9:00 AM shotgun.",
 "url": "https://allevents.in/dallas/coverica-cares-charity-golf-tournament-2026/100001994593087618",
 "img": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zOTcyMDkxZTFiNmZlNDFkODBhYTU2ZGQ4ZWYzMzRmYmQzOTdiMjQ4ZWMxZDQ3ZWUzMGRjYzIzMTIwZGIzYzQ5LXJpbWctdzEyMDAtaDYwMC1kY2Y4ZjhmOC1nbWlyLmpwZz92PTE3ODcyNjc0Mzc.avif",
 "confirmed": false
@@ -660,7 +690,7 @@
 "desc": "First Tee – Fort Worth's family glow golf fundraiser on the River's Edge par-3 course. The 2025 edition also had a glow putting course, an outdoor movie, music and games.",
 "url": "https://firstteeftworth.org/events/",
 "img": "",
-"confirmed": false
+"confirmed": true
 },
 {
 "id": "ping-fitting-day",
@@ -738,6 +768,36 @@
 "confirmed": true
 },
 {
+"id": "13u-pga-jr-league-championship",
+"title": "13u PGA Jr. League Championship",
+"start": "2026-11-11",
+"end": "2026-11-15",
+"time": "",
+"venue": "Fields Ranch West, PGA Frisco",
+"city": "Frisco",
+"area": "north",
+"cat": "junior",
+"desc": "Twelve 13u All-Star teams from across the country vie for the PGA Jr. League Championship at PGA Frisco's Fields Ranch West.",
+"url": "https://www.pgajrleague.com/junior-league-events/pga-jr-league-championship/",
+"img": "",
+"confirmed": true
+},
+{
+"id": "do-it-for-durrett-birdies-boots",
+"title": "Do It For Durrett — Birdies & Boots (12th Annual)",
+"start": "2026-11-13",
+"end": "",
+"time": "9:00 AM",
+"venue": "Grapevine Golf Course",
+"city": "Grapevine",
+"area": "mid",
+"cat": "scramble",
+"desc": "Four-man scramble with on-course games, followed by an evening celebration at Texas Live! in Arlington with a live auction and Randall King. The foundation has raised over $3 million for DFW families facing sudden loss.",
+"url": "https://www.eventbrite.com/e/do-it-for-durrett-birdies-boots-tickets-1994512075308",
+"img": "",
+"confirmed": true
+},
+{
 "id": "taylormade-fitting-day-2",
 "title": "TaylorMade Fitting Day 2",
 "start": "2026-11-13",
@@ -783,6 +843,51 @@
 "confirmed": true
 },
 {
+"id": "23rd-annual-turkey-shootout",
+"title": "23rd Annual Turkey Shootout",
+"start": "2026-11-23",
+"end": "",
+"time": "",
+"venue": "The Golf Club at Champions Circle",
+"city": "Fort Worth",
+"area": "fortworth",
+"cat": "scramble",
+"desc": "Thanksgiving-season charity shootout, listed as benefiting the American Cancer Society. $175 per person; registration was listed as coming soon, so check the listing before heading out.",
+"url": "https://charitygolfer.com/api/event/2026-23rd-annual-turkey-shootout-benefitting-american-cancer-society/pdf",
+"img": "",
+"confirmed": false
+},
+{
+"id": "2nd-annual-turkey-shoot",
+"title": "2nd Annual Turkey Shoot",
+"start": "2026-11-26",
+"end": "",
+"time": "8:00 AM start",
+"venue": "Timberlinks Golf Club",
+"city": "Denton",
+"area": "north",
+"cat": "scramble",
+"desc": "Thanksgiving Day 2-person, 9-hole scramble. $50 public / $25 members and residents, including golf, cart and awards, with an optional raffle. Register in the pro shop or call/text 940-209-5374.",
+"url": "https://www.timberlinksgolfclub.com/turkey-shoot/",
+"img": "https://www.timberlinksgolfclub.com/wp-content/uploads/2026/01/Turkey-Shoot-26-Flyer.webp",
+"confirmed": true
+},
+{
+"id": "superintendent-s-revenge",
+"title": "Superintendent's Revenge",
+"start": "2026-12-05",
+"end": "",
+"time": "9:00 AM shotgun",
+"venue": "Timberlinks Golf Club",
+"city": "Denton",
+"area": "north",
+"cat": "scramble",
+"desc": "Annual Superintendent's Revenge: a 2-person, 9-hole scramble on a tricked-up course setup. $50 public / $25 members and residents, including golf, cart and prizes, with an optional raffle. Register in the pro shop or call/text 940-209-5374.",
+"url": "https://www.timberlinksgolfclub.com/superintendents-revenge/",
+"img": "https://www.timberlinksgolfclub.com/wp-content/uploads/2026/01/Superintendents-Revenge-26-Flyer.webp",
+"confirmed": true
+},
+{
 "id": "tpgc-holiday-scramble",
 "title": "TPGC Holiday Scramble",
 "start": "2026-12-05",
@@ -794,6 +899,21 @@
 "cat": "scramble",
 "desc": "Tenison Park's holiday scramble, listed on the course events calendar. The page does not show a time or price.",
 "url": "https://www.tenisonpark.com/events/events-calendar/eventdetail/471/-/tpgc-holiday-scramble",
+"img": "",
+"confirmed": true
+},
+{
+"id": "communities-in-schools-dallas-kids-classic-golf-tournament",
+"title": "Communities In Schools of Dallas Region — Kids Classic Golf Tournament (15th Annual)",
+"start": "2026-12-07",
+"end": "",
+"time": "9:30 AM shotgun",
+"venue": "Cowboys Golf Club",
+"city": "Grapevine",
+"area": "mid",
+"cat": "scramble",
+"desc": "15th annual tournament, in its first year at the renovated Cowboys Golf Club. Funds help North Texas students stay in school and succeed.",
+"url": "https://cisdallas.org/golf/",
 "img": "",
 "confirmed": true
 },
@@ -829,6 +949,36 @@
 "featured": true
 },
 {
+"id": "more-than-golf-invitational",
+"title": "More Than Golf Invitational",
+"start": "2027-03-20",
+"end": "2027-03-22",
+"time": "",
+"venue": "Brookhaven Country Club",
+"city": "Farmers Branch",
+"area": "dallas",
+"cat": "competition",
+"desc": "Women's collegiate invitational hosted by the ANNIKA Foundation, moving to Brookhaven Country Club this year.",
+"url": "https://utamavs.com/news/2026/8/14/uta-womens-golf-unveils-full-2026-27-schedule.aspx",
+"img": "",
+"confirmed": true
+},
+{
+"id": "charles-schwab-women-s-collegiate-invitational",
+"title": "Charles Schwab Women's Collegiate Invitational",
+"start": "2027-03-22",
+"end": "2027-03-23",
+"time": "",
+"venue": "Colonial Country Club",
+"city": "Fort Worth",
+"area": "fortworth",
+"cat": "competition",
+"desc": "TCU-hosted women's collegiate invitational, billed as 'the Masters of college golf.' The 15-team field includes defending national champion Stanford, Auburn, Duke, Oregon, Texas, Texas A&M and Wake Forest.",
+"url": "https://gofrogs.com/news/2026/8/20/tcu-womens-golf-unveils-2026-27-schedule",
+"img": "",
+"confirmed": true
+},
+{
 "id": "maridoe-collegiate-invitational",
 "title": "Maridoe Collegiate Invitational",
 "start": "2027-03-30",
@@ -849,12 +999,12 @@
 "start": "2027-04-05",
 "end": "2027-04-06",
 "time": "",
-"venue": "Dallas Athletic Club",
+"venue": "Trinity Forest Golf Club",
 "city": "Dallas",
 "area": "dallas",
 "cat": "competition",
-"desc": "A women's college event hosted by SMU at Dallas Athletic Club. It is on Virginia's spring schedule as a tune-up before the ACC Championship.",
-"url": "https://virginiasports.com/news/2026/08/26/virginia-announces-2026-27-womens-golf-schedule",
+"desc": "Women's college event hosted by SMU at Trinity Forest Golf Club, played just before the conference-championship stretch.",
+"url": "https://gofrogs.com/news/2026/8/20/tcu-womens-golf-unveils-2026-27-schedule",
 "img": "",
 "confirmed": true
 },
@@ -870,6 +1020,21 @@
 "cat": "competition",
 "desc": "The Atlantic Coast Conference men's golf championship comes to Maridoe in the Dallas area, with SMU as a conference member.",
 "url": "https://theacc.com/news/2026/6/17/baseball-sites-and-dates-announced-for-2026-27-acc-championships.aspx",
+"img": "",
+"confirmed": true
+},
+{
+"id": "uac-women-s-golf-championship",
+"title": "United Athletic Conference Women's Golf Championship",
+"start": "2027-04-23",
+"end": "2027-04-25",
+"time": "",
+"venue": "1876 Country Club",
+"city": "Celina",
+"area": "north",
+"cat": "competition",
+"desc": "The inaugural United Athletic Conference women's golf championship, hosted at the new 1876 Country Club in Celina.",
+"url": "https://utamavs.com/news/2026/8/14/uta-womens-golf-unveils-full-2026-27-schedule.aspx",
 "img": "",
 "confirmed": true
 },
@@ -1296,24 +1461,6 @@
 "days": [
 "sat"
 ]
-},
-{
-"id": "summer-fun-pass-ending",
-"title": "Summer Fun Pass (ending)",
-"start": "",
-"end": "2026-09-30",
-"time": "",
-"venue": "Topgolf (Dallas, The Colony, Allen, Fort Worth, Grand Prairie)",
-"city": "Dallas-Fort Worth",
-"area": "multi",
-"cat": "deal",
-"desc": "Pass holders can bring five guests per visit and get food and retail savings. Valid through Sept 30.",
-"url": "https://topgolf.com/us/dallas/promo/summer-fun-pass/",
-"img": "",
-"confirmed": true,
-"recur": "Through 2026-09-30",
-"days": [],
-"ends": "2026-09-30"
 },
 {
 "id": "sunday-funday",
@@ -1969,53 +2116,7 @@
 ]
 }
 ],
-"tba": [
-{
-"id": "the-par-anormal-open",
-"title": "The PAR-ANORMAL Open",
-"start": "",
-"end": "",
-"time": "",
-"venue": "Timberlinks Golf Club",
-"city": "Denton",
-"area": "north",
-"cat": "scramble",
-"desc": "A Halloween-themed event listed under Upcoming Events.",
-"url": "https://www.timberlinksgolfclub.com/the-par-anormal-open/",
-"img": "https://www.timberlinksgolfclub.com/wp-content/uploads/2026/01/Par-anormal-Open-26-Flyer.webp",
-"confirmed": false
-},
-{
-"id": "2nd-annual-turkey-shoot",
-"title": "2nd Annual Turkey Shoot",
-"start": "",
-"end": "",
-"time": "",
-"venue": "Timberlinks Golf Club",
-"city": "Denton",
-"area": "north",
-"cat": "scramble",
-"desc": "A Thanksgiving-season event listed under Upcoming Events.",
-"url": "https://www.timberlinksgolfclub.com/turkey-shoot/",
-"img": "https://www.timberlinksgolfclub.com/wp-content/uploads/2026/01/Turkey-Shoot-26-Flyer.webp",
-"confirmed": false
-},
-{
-"id": "superintendent-s-revenge",
-"title": "Superintendent's Revenge",
-"start": "",
-"end": "",
-"time": "",
-"venue": "Timberlinks Golf Club",
-"city": "Denton",
-"area": "north",
-"cat": "competition",
-"desc": "A 2026 tournament with registration through GolfGenius. The date is only on the flyer image, and the event may already have happened.",
-"url": "https://www.timberlinksgolfclub.com/superintendents-revenge/",
-"img": "https://www.timberlinksgolfclub.com/wp-content/uploads/2026/01/Superintendents-Revenge-26-Flyer.webp",
-"confirmed": false
-}
-],
+"tba": [],
 "opening": [
 {
 "title": "Grapevine Golf Course is now 27 holes",
@@ -2051,15 +2152,6 @@
 "city": "Fort Worth",
 "desc": "New simulator lounge near Alliance with fall leagues starting Oct 6.",
 "url": "https://playxgolf.com/locations/alliance/",
-"cat": "opening"
-},
-{
-"title": "Topgolf Grand Prairie",
-"when": "Opened Jan 2026",
-"venue": "Topgolf Grand Prairie",
-"city": "Grand Prairie",
-"desc": "The metro's newest Topgolf, off I-20 / SH-360.",
-"url": "https://topgolf.com/us/grand-prairie/",
 "cat": "opening"
 }
 ],
