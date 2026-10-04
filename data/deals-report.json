@@ -1,9 +1,16 @@
 {
- "checked": "2026-10-03",
+ "checked": "2026-10-04",
  "total": 131,
- "live": 131,
- "updated": 1,
- "hidden": [],
+ "live": 130,
+ "updated": 3,
+ "hidden": [
+  {
+   "id": "74a0a8a0",
+   "title": "Bushnell Circle B Edition LPi Launch Monitor",
+   "store": "Worldwide Golf Shops",
+   "why": "page removed"
+  }
+ ],
  "unreadable": 29,
  "unclear": 5
 }
