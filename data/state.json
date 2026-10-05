@@ -1227,7 +1227,8 @@
    "confirmed": true,
    "firstSeen": "2026-10-04",
    "lastSeen": "2026-10-05",
-   "shown": false
+   "shown": true,
+   "touched": true
   }
  },
  "superseded": []
