@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-03",
+"updated": "2026-10-05",
 "region": "Dallas–Fort Worth",
 "events": [
 {
@@ -15,66 +15,6 @@
 "desc": "First-time visitors get a free range bucket ($12 value), valid for 7 days after claiming. New customers also get a free hotdog and soda with a bucket purchase. The offer runs through Oct 30, 2026.",
 "url": "https://www.golfranch.com/locations/richardson-tx",
 "img": "",
-"confirmed": true
-},
-{
-"id": "26th-annual-scholarship-golf-tournament-instruct",
-"title": "26th Annual Scholarship Golf Tournament & Instructional Clinic",
-"start": "2026-10-03",
-"end": "",
-"time": "8:00 AM shotgun",
-"venue": "Country View Golf Course",
-"city": "Lancaster",
-"area": "dallas",
-"cat": "scramble",
-"desc": "Shotgun-start tournament run by the Chuck Burch Scholarship Fund, with a silent auction, vendor exhibits and a youth challenge game. Proceeds fund student financial aid.",
-"url": "https://www.eventbrite.com/e/26th-annual-scholarship-golf-tournament-instructional-clinic-tickets-1979089947308",
-"img": "",
-"confirmed": true
-},
-{
-"id": "arcis-players-clinic-intermediate-wedges",
-"title": "Arcis Players' Clinic: Intermediate Wedges",
-"start": "2026-10-03",
-"end": "",
-"time": "12:00 PM",
-"venue": "The Golf Club at Fossil Creek",
-"city": "Fort Worth",
-"area": "fortworth",
-"cat": "clinic",
-"desc": "S2 Golf Academy clinic on intermediate wedge play, held at the driving range. You book through Acuity Scheduling.",
-"url": "https://arcisgolf.com/clubs/the-golf-club-at-fossil-creek/club-calendar",
-"img": "",
-"confirmed": true
-},
-{
-"id": "saturdays-at-the-superstore-9-hole-trackman-chal",
-"title": "Saturdays at the Superstore: 9-Hole TrackMan Challenge",
-"start": "2026-10-03",
-"end": "",
-"time": "11:00 AM-1:00 PM",
-"venue": "PGA TOUR Superstore Plano (Accent Dr.)",
-"city": "Plano",
-"area": "north",
-"cat": "clinic",
-"desc": "Free monthly clinic with 9 holes on TrackMan, course-strategy tips and short-game practice, open to all skill levels. Registration required.",
-"url": "https://www.pgatoursuperstore.com/stores/detail?StoreID=0401",
-"img": "",
-"confirmed": true
-},
-{
-"id": "yoga-mimosas",
-"title": "Yoga & Mimosas",
-"start": "2026-10-03",
-"end": "",
-"time": "10:00 AM - 11:30 AM",
-"venue": "The PGA District, PGA Frisco",
-"city": "Frisco",
-"area": "north",
-"cat": "fun",
-"desc": "Outdoor yoga class for all levels, followed by a mimosa or mocktail. Costs $20; registration is required through Eventbrite.",
-"url": "https://www.pgafrisco.com/events/yoga-mimosas-2/",
-"img": "https://www.pgafrisco.com/content/uploads/2026/08/Yoga-Mimosas.jpg",
 "confirmed": true
 },
 {
@@ -168,6 +108,21 @@
 "confirmed": true
 },
 {
+"id": "rebuilding-fore-the-future-2026",
+"title": "[Re]Building Fore the Future 2026",
+"start": "2026-10-07",
+"end": "",
+"time": "8:00 AM shotgun",
+"venue": "The Courses at Watters Creek",
+"city": "Plano",
+"area": "north",
+"cat": "scramble",
+"desc": "Charity golf day for Rebuilding Together North Texas, which does home repairs for neighbors in need. Contests, raffles, awards, breakfast and lunch are included.",
+"url": "https://rtntx.org/rebuilding4future2026",
+"img": "",
+"confirmed": true
+},
+{
 "id": "new-green-fee-rates-take-effect",
 "title": "New Green Fee Rates Take Effect",
 "start": "2026-10-08",
@@ -211,6 +166,21 @@
 "url": "https://www.dbia-sw.org/golf",
 "img": "https://static.wixstatic.com/media/f97d44_ab67203404e64e48bb7b0c767d751481~mv2.png",
 "confirmed": true
+},
+{
+"id": "7th-annual-par-tee-on-the-green",
+"title": "7th Annual Par-Tee on the Green Charity Golf Tournament",
+"start": "2026-10-09",
+"end": "",
+"time": "8:00 AM",
+"venue": "Golf Club at Twin Creeks",
+"city": "Allen",
+"area": "north",
+"cat": "scramble",
+"desc": "Charity tournament with men's, women's and co-ed flights, benefiting scholarships and community programs of the ABC Foundation and Alpha Kappa Alpha's Omega Alpha Omega chapter.",
+"url": "https://charitygolftoday.com/event?e=28272&ce=7f13ca",
+"img": "",
+"confirmed": false
 },
 {
 "id": "the-knights-classic-golf-tournament",
@@ -258,6 +228,21 @@
 "confirmed": true
 },
 {
+"id": "play-4-p-i-n-k-women-s-charity-golf-tournament",
+"title": "Play 4 P.I.N.K. Women's Charity Golf Tournament",
+"start": "2026-10-10",
+"end": "",
+"time": "8:00 AM check-in; 9:00 AM shotgun",
+"venue": "Brookhaven Country Club",
+"city": "Farmers Branch",
+"area": "dallas",
+"cat": "scramble",
+"desc": "Women's charity tournament benefiting breast cancer research, with lunch after play. $700 per team of four.",
+"url": "https://www.linkscoachgolf.com/tournaments",
+"img": "",
+"confirmed": false
+},
+{
 "id": "tour-edge-fitting-day",
 "title": "Tour Edge Fitting Day",
 "start": "2026-10-10",
@@ -286,6 +271,21 @@
 "url": "https://thegrinttour.com/tours/NorthTexas2026",
 "img": "",
 "confirmed": true
+},
+{
+"id": "2026-batson-cook-tee-it-up-charity-golf-tournament",
+"title": "2026 Batson-Cook Tee It Up Charity Golf Tournament",
+"start": "2026-10-12",
+"end": "",
+"time": "8:00 AM",
+"venue": "500 Trophy Club Dr",
+"city": "Trophy Club",
+"area": "north",
+"cat": "scramble",
+"desc": "Batson-Cook Construction's charity tournament, listed on Eventbrite for a Trophy Club address. The listing gives no beneficiary detail yet.",
+"url": "https://www.eventbrite.com.au/d/tx--trophy-club/charity-golf-tournament/",
+"img": "",
+"confirmed": false
 },
 {
 "id": "2026-damc-golf-classic",
@@ -329,6 +329,21 @@
 "cat": "scramble",
 "desc": "Recovery Resource Council's 37th annual Golf Classic, a 4-person scramble raising funds for wellness and recovery services. $250 per person.",
 "url": "https://charitygolfer.com/api/event/golf-classic-2026/pdf",
+"img": "",
+"confirmed": false
+},
+{
+"id": "mercy-cares-6th-annual-golf-tournament",
+"title": "Mercy Cares 6th Annual Golf Tournament",
+"start": "2026-10-15",
+"end": "",
+"time": "1:30 PM",
+"venue": "The Golf Club at Fossil Creek",
+"city": "Fort Worth",
+"area": "fortworth",
+"cat": "scramble",
+"desc": "Fundraiser for Mercy Cares, a Fort Worth nonprofit providing food to North Texas children and families facing food insecurity. $200 per person.",
+"url": "https://charitygolfer.com/api/event/mercy-cares-6th-annual-golf-tournament/pdf",
 "img": "",
 "confirmed": false
 },
@@ -393,6 +408,21 @@
 "confirmed": true
 },
 {
+"id": "9th-annual-kw-southlake-charity-golf-tournament",
+"title": "9th Annual KW Southlake Charity Golf Tournament",
+"start": "2026-10-17",
+"end": "",
+"time": "",
+"venue": "Bear Creek Golf Club",
+"city": "Dallas",
+"area": "dallas",
+"cat": "scramble",
+"desc": "Keller Williams Southlake's 9th annual charity tournament. The listing shows $175 per person and registration opening soon; beneficiary not yet announced.",
+"url": "https://charitygolfer.com/api/event/2026-9th-annual-kw-southlake-charity-golf-tournament/pdf",
+"img": "",
+"confirmed": false
+},
+{
 "id": "kids-golf-fun-day-trick-treat-tee-it-up",
 "title": "Kids' Golf Fun Day: Trick, Treat & TEE It Up",
 "start": "2026-10-17",
@@ -450,6 +480,36 @@
 "desc": "18-hole transportation-industry tournament with a putting contest, lunch, dinner, raffle and awards. It benefits the Transportation Club of DFW.",
 "url": "https://www.tcdfw.org/2026-annual-golf-tournament.html",
 "img": "https://www.tcdfw.org/uploads/1/1/2/1/11217077/published/198391057-336-255.jpg?1759519948",
+"confirmed": true
+},
+{
+"id": "buyers-barricades-charity-golf-tournament",
+"title": "Buyers Barricades Charity Golf Tournament",
+"start": "2026-10-19",
+"end": "",
+"time": "10:00 AM",
+"venue": "Lantana Golf Club",
+"city": "Lantana",
+"area": "north",
+"cat": "scramble",
+"desc": "Inaugural charity tournament benefiting The Women's Center, with on-course challenges, side games and a 19th-hole party. $375 per person.",
+"url": "https://charitygolfer.com/api/event/buyers-barricades-charity-golf-tournament/pdf",
+"img": "",
+"confirmed": false
+},
+{
+"id": "lena-pope-golf-classic",
+"title": "Lena Pope Golf Classic",
+"start": "2026-10-19",
+"end": "",
+"time": "8:30 AM – 3:30 PM",
+"venue": "Rockwood Park Golf Course",
+"city": "Fort Worth",
+"area": "fortworth",
+"cat": "scramble",
+"desc": "Annual fundraiser presented by Frost for Lena Pope's counseling, education and behavior programs for children and families, with a course food tour and a youth putting challenge.",
+"url": "https://lenapope.org/event/golf/",
+"img": "",
 "confirmed": true
 },
 {
@@ -603,6 +663,21 @@
 "confirmed": false
 },
 {
+"id": "6th-annual-hackers-ball-golf-tournament",
+"title": "6th Annual Hackers Ball Golf Tournament",
+"start": "2026-10-30",
+"end": "",
+"time": "8:00 AM",
+"venue": "Rockwood Park Golf Course",
+"city": "Fort Worth",
+"area": "fortworth",
+"cat": "scramble",
+"desc": "Four-person scramble benefiting Blue Family Fund, with lunch, a goody bag, on-course contests and a raffle. $150 per player or $500 per foursome on the organizer's site.",
+"url": "https://stayhappening.com/e/6th-annual-hackers-ball-golf-tournament-E2ISYT4XMIT",
+"img": "",
+"confirmed": false
+},
+{
 "id": "the-par-anormal-open",
 "title": "The PAR-ANORMAL Open",
 "start": "2026-10-30",
@@ -648,6 +723,21 @@
 "confirmed": true
 },
 {
+"id": "adult-teen-challenge-of-texas-golf-tournament",
+"title": "Adult & Teen Challenge of Texas Golf Tournament",
+"start": "2026-11-02",
+"end": "",
+"time": "7:00 AM registration; 8:00 AM shotgun",
+"venue": "The Golf Club at Fossil Creek",
+"city": "Fort Worth",
+"area": "fortworth",
+"cat": "scramble",
+"desc": "Charity tournament for Adult & Teen Challenge of Texas and its recovery programs; each four-person team funds two weeks of care for a student. $175 per player or $650 per team, with breakfast and lunch.",
+"url": "https://pro.gofundme.com/event/golf-tournament-2026/e840828",
+"img": "",
+"confirmed": true
+},
+{
 "id": "st-jude-evening-under-the-stars-golf-classic",
 "title": "St. Jude Evening Under the Stars Golf Classic",
 "start": "2026-11-02",
@@ -661,6 +751,21 @@
 "url": "https://www.stjude.org/get-involved/find-an-event/dinners-and-galas/evening-under-the-stars.html",
 "img": "https://www.stjude.org/content/sites/www/en_US/home/get-involved/find-an-event/dinners-and-galas/evening-under-the-stars/_jcr_content/image.img.800.high.png/1776435128041.png",
 "confirmed": true
+},
+{
+"id": "16th-annual-rhs-golf-tournament",
+"title": "16th Annual RHS Golf Tournament",
+"start": "2026-11-03",
+"end": "",
+"time": "",
+"venue": "Firewheel Golf Park",
+"city": "Garland",
+"area": "east",
+"cat": "scramble",
+"desc": "16th annual tournament at Garland's municipal Firewheel Golf Park. The listing shows $150 per person and registration opening soon; beneficiary not yet announced.",
+"url": "https://charitygolfer.com/api/event/2026-16th-annual-rhs-golf-tournament/pdf",
+"img": "",
+"confirmed": false
 },
 {
 "id": "coverica-cares-charity-golf-tournament-2026",
@@ -783,6 +888,36 @@
 "confirmed": true
 },
 {
+"id": "bk-real-estate-1st-annual-charity-golf-tournament",
+"title": "BK Real Estate 1st Annual Charity Golf Tournament",
+"start": "2026-11-13",
+"end": "",
+"time": "",
+"venue": "Bear Creek Golf Course",
+"city": "Dallas",
+"area": "dallas",
+"cat": "scramble",
+"desc": "Four-person scramble raising funds for Women Called Moses, which works to prevent and end domestic violence through education, resources and advocacy.",
+"url": "https://charitygolfer.com/texas/dallas/2026-bk-real-estate-1st-annual-charity-golf-tournament",
+"img": "",
+"confirmed": false
+},
+{
+"id": "burleson-professional-firefighters-golf-tournament-2026",
+"title": "Burleson Professional Firefighters Golf Tournament 2026",
+"start": "2026-11-13",
+"end": "",
+"time": "8:00 AM shotgun",
+"venue": "Hidden Creek Golf Course",
+"city": "Burleson",
+"area": "fortworth",
+"cat": "scramble",
+"desc": "Firefighters' charity tournament in Burleson. $125 per player or $500 per team.",
+"url": "https://www.linkscoachgolf.com/tournaments",
+"img": "",
+"confirmed": false
+},
+{
 "id": "do-it-for-durrett-birdies-boots",
 "title": "Do It For Durrett — Birdies & Boots (12th Annual)",
 "start": "2026-11-13",
@@ -871,6 +1006,21 @@
 "url": "https://www.timberlinksgolfclub.com/turkey-shoot/",
 "img": "https://www.timberlinksgolfclub.com/wp-content/uploads/2026/01/Turkey-Shoot-26-Flyer.webp",
 "confirmed": true
+},
+{
+"id": "dashing-through-the-district-holiday-night-market",
+"title": "Dashing Through The District: Holiday Night Market at PGA Frisco",
+"start": "2026-12-04",
+"end": "",
+"time": "4:00 PM – 8:00 PM",
+"venue": "PGA Frisco",
+"city": "Frisco",
+"area": "north",
+"cat": "expo",
+"desc": "Third annual outdoor holiday night market in the PGA District, with vendors selling food goods, candles, antiques and gifts.",
+"url": "https://www.eventeny.com/events/2026-dashing-through-the-district-holiday-night-market-at-pga-frisco-34689/",
+"img": "",
+"confirmed": false
 },
 {
 "id": "superintendent-s-revenge",
@@ -1035,6 +1185,21 @@
 "cat": "competition",
 "desc": "The inaugural United Athletic Conference women's golf championship, hosted at the new 1876 Country Club in Celina.",
 "url": "https://utamavs.com/news/2026/8/14/uta-womens-golf-unveils-full-2026-27-schedule.aspx",
+"img": "",
+"confirmed": true
+},
+{
+"id": "sydney-s-band-of-gold-golf-tournament",
+"title": "Sydney's Band of Gold Golf Tournament",
+"start": "2027-04-26",
+"end": "",
+"time": "",
+"venue": "Gentle Creek Country Club",
+"city": "Prosper",
+"area": "north",
+"cat": "scramble",
+"desc": "Fundraiser for The Cure Starts Now North Texas Chapter, supporting pediatric brain cancer research, held in honor of Sydney Bjornberg and Chaaya Prasad.",
+"url": "https://events.thecurestartsnow.org/media/byjfppu1/sponsorform-2027-band-of-gold.pdf",
 "img": "",
 "confirmed": true
 },
