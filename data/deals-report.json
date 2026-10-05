@@ -1,7 +1,7 @@
 {
- "checked": "2026-10-04",
+ "checked": "2026-10-05",
  "total": 131,
- "live": 130,
+ "live": 129,
  "updated": 3,
  "hidden": [
   {
@@ -9,6 +9,12 @@
    "title": "Bushnell Circle B Edition LPi Launch Monitor",
    "store": "Worldwide Golf Shops",
    "why": "page removed"
+  },
+  {
+   "id": "8ecfe86e",
+   "title": "FootJoy Traditions Spikeless Golf Shoes - White 57927",
+   "store": "Carl's Golfland",
+   "why": "sold out"
   }
  ],
  "unreadable": 29,
