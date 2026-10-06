@@ -1,16 +1,64 @@
 {
- "checked": "2026-10-05",
+ "checked": "2026-10-06",
  "total": 143,
- "live": 142,
- "updated": 0,
+ "live": 134,
+ "updated": 3,
  "hidden": [
   {
-   "id": "8ecfe86e",
-   "title": "FootJoy Traditions Spikeless Golf Shoes - White 57927",
-   "store": "Carl's Golfland",
-   "why": "sold out"
+   "id": "99f26173",
+   "title": "Callaway Elyte X Driver",
+   "store": "Callaway Golf Pre-Owned",
+   "why": "offer ended"
+  },
+  {
+   "id": "678e1418",
+   "title": "Callaway Elyte Night Edition Driver",
+   "store": "Callaway Golf Pre-Owned",
+   "why": "offer ended"
+  },
+  {
+   "id": "8af396b0",
+   "title": "Callaway Elyte Triple Diamond Max Driver",
+   "store": "Callaway Golf Pre-Owned",
+   "why": "offer ended"
+  },
+  {
+   "id": "a45e0f25",
+   "title": "Odyssey Ai-ONE Square 2 Square Max 1 Center Shaft Putter",
+   "store": "Callaway Golf Pre-Owned",
+   "why": "offer ended"
+  },
+  {
+   "id": "c3dd4e94",
+   "title": "Odyssey Ai-ONE Milled CRUISER Jailbird T Versa 90 Putter",
+   "store": "Callaway Golf Pre-Owned",
+   "why": "offer ended"
+  },
+  {
+   "id": "7882a494",
+   "title": "Callaway Elyte X Fairway Woods",
+   "store": "Callaway Golf Pre-Owned",
+   "why": "offer ended"
+  },
+  {
+   "id": "7472b3fa",
+   "title": "Callaway Elyte Max Fast Fairway Woods",
+   "store": "Callaway Golf Pre-Owned",
+   "why": "offer ended"
+  },
+  {
+   "id": "0e140f89",
+   "title": "Odyssey Ai-ONE Square 2 Square Double Wide Putter",
+   "store": "Callaway Golf Pre-Owned",
+   "why": "offer ended"
+  },
+  {
+   "id": "a64835be",
+   "title": "Callaway Apex Pro Irons",
+   "store": "Callaway Golf Pre-Owned",
+   "why": "offer ended"
   }
  ],
- "unreadable": 36,
- "unclear": 5
+ "unreadable": 26,
+ "unclear": 6
 }
