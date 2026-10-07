@@ -1,14 +1,26 @@
 {
- "checked": "2026-10-06",
+ "checked": "2026-10-07",
  "total": 143,
- "live": 134,
- "updated": 3,
+ "live": 132,
+ "updated": 0,
  "hidden": [
   {
    "id": "99f26173",
    "title": "Callaway Elyte X Driver",
    "store": "Callaway Golf Pre-Owned",
    "why": "offer ended"
+  },
+  {
+   "id": "1a45ff96",
+   "title": "TaylorMade Qi35 Max Driver",
+   "store": "Golf Discount",
+   "why": "sold out"
+  },
+  {
+   "id": "8ecfe86e",
+   "title": "FootJoy Traditions Spikeless Golf Shoes - White 57927",
+   "store": "Carl's Golfland",
+   "why": "sold out"
   },
   {
    "id": "678e1418",
