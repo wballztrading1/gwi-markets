@@ -42,8 +42,10 @@
   {
    "name": "The Bridges Golf Club",
    "url": "https://www.bridgestexasgolf.com/events-calendar",
-   "methods": [],
-   "found": 0,
+   "methods": [
+    "structured-data"
+   ],
+   "found": 2,
    "kept": 0,
    "error": ""
   },
