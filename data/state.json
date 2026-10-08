@@ -23,28 +23,6 @@
    "imgTried": true,
    "gone": true
   },
-  "1b170c13ce": {
-   "id": "1b170c13ce",
-   "title": "Home Plate Supper Club",
-   "start": "2026-10-05",
-   "end": "",
-   "time": "8:00 AM",
-   "venue": "Texas Rangers Golf Club",
-   "city": "Arlington",
-   "area": "mid",
-   "cat": "fun",
-   "desc": "@ Every first Monday of the month, we’re serving up a meal that’ll have you wishing your weekend would end sooner! Enjoy a thoughtfully crafted three-course dinner for just $20/Person. Reservations Required: (817) 575-8299. September Menu (Sept. 7, 2026):…",
-   "url": "https://www.texasrangersgolfclub.com/event/home-plate-supper-club/2026-10-05/",
-   "img": "https://www.texasrangersgolfclub.com/wp-content/uploads/sites/9836/2026/08/685147760_1339344701587345_1483123023202415599_n-1.jpg",
-   "source": "Texas Rangers Golf Club",
-   "official": true,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "gone": true
-  },
   "3d12509990": {
    "id": "3d12509990",
    "title": "Home Plate Supper Club",
@@ -418,7 +396,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": true,
    "touched": true
   },
@@ -506,7 +484,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": false
   },
   "960e2e7c9e": {
@@ -527,7 +505,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": true,
    "touched": true
   },
@@ -550,7 +528,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-10-07",
-   "shown": false
+   "shown": false,
+   "gone": true
   },
   "efa2bf7aef": {
    "id": "efa2bf7aef",
@@ -570,7 +549,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": false
   },
   "ca6aa861a7": {
@@ -591,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": true,
    "touched": true
   },
@@ -613,7 +592,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": true,
    "touched": true
   },
@@ -657,7 +636,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": true,
    "touched": true
   },
@@ -701,7 +680,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": true,
    "touched": true
   },
@@ -745,7 +724,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": false
   },
   "80fe0ef6fe": {
@@ -766,7 +745,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": false
   },
   "e5a4ce28cd": {
@@ -809,7 +788,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": false
   },
   "e04b069aad": {
@@ -852,7 +831,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": true,
    "touched": true
   },
@@ -896,7 +875,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": true,
    "touched": true
   },
@@ -962,7 +941,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": false
   },
   "b2296a91a0": {
@@ -1117,7 +1096,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": false,
    "imgTried": true
   },
@@ -1139,7 +1118,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": false,
    "imgTried": true
   },
@@ -1161,7 +1140,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": false
   },
   "00fd73cf09": {
@@ -1182,7 +1161,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": false,
    "imgTried": true
   },
@@ -1204,7 +1183,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": false,
    "imgTried": true
   },
@@ -1226,7 +1205,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-04",
-   "lastSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
    "shown": true,
    "touched": true
   }
