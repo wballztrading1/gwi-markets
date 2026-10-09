@@ -396,7 +396,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": true,
    "touched": true
   },
@@ -484,7 +484,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": false
   },
   "960e2e7c9e": {
@@ -505,7 +505,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": true,
    "touched": true
   },
@@ -549,7 +549,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": false
   },
   "ca6aa861a7": {
@@ -570,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": true,
    "touched": true
   },
@@ -592,7 +592,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": true,
    "touched": true
   },
@@ -636,7 +636,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": true,
    "touched": true
   },
@@ -680,7 +680,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": true,
    "touched": true
   },
@@ -724,7 +724,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": false
   },
   "80fe0ef6fe": {
@@ -745,7 +745,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": false
   },
   "e5a4ce28cd": {
@@ -788,7 +788,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": false
   },
   "e04b069aad": {
@@ -831,7 +831,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": true,
    "touched": true
   },
@@ -875,7 +875,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": true,
    "touched": true
   },
@@ -941,7 +941,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": false
   },
   "b2296a91a0": {
@@ -964,29 +964,6 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "gone": true
-  },
-  "de82f2497d": {
-   "id": "de82f2497d",
-   "title": "OUTSIDE EVENT AM",
-   "start": "2026-10-06",
-   "end": "",
-   "time": "",
-   "venue": "Split Rail Links & Golf Club",
-   "city": "Aledo",
-   "area": "fortworth",
-   "cat": "fun",
-   "desc": "",
-   "url": "https://www.splitrailgolfclub.com/event/outside-event-am-2/",
-   "img": "",
-   "source": "Split Rail Links & Golf Club",
-   "official": true,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "imgTried": true,
    "gone": true
   },
   "5802d48af2": {
@@ -1096,7 +1073,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": false,
    "imgTried": true
   },
@@ -1118,7 +1095,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": false,
    "imgTried": true
   },
@@ -1140,7 +1117,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": false
   },
   "00fd73cf09": {
@@ -1161,7 +1138,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": false,
    "imgTried": true
   },
@@ -1183,7 +1160,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": false,
    "imgTried": true
   },
@@ -1205,9 +1182,30 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-04",
-   "lastSeen": "2026-10-08",
+   "lastSeen": "2026-10-09",
    "shown": true,
    "touched": true
+  },
+  "51878b5fe2": {
+   "id": "51878b5fe2",
+   "title": "Stix Fundraiser Tournament",
+   "start": "2027-04-23",
+   "end": "",
+   "time": "8:00 AM",
+   "venue": "The Resort Golf Club",
+   "city": "Fort Worth",
+   "area": "fortworth",
+   "cat": "scramble",
+   "desc": "",
+   "url": "",
+   "img": "",
+   "source": "The Resort Golf Club",
+   "official": false,
+   "how": "ical",
+   "confirmed": true,
+   "firstSeen": "2026-10-09",
+   "lastSeen": "2026-10-09",
+   "shown": false
   }
  },
  "superseded": []
