@@ -396,7 +396,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": true,
    "touched": true
   },
@@ -484,7 +484,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": false
   },
   "960e2e7c9e": {
@@ -505,31 +505,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": true,
    "touched": true
-  },
-  "77aafa0424": {
-   "id": "77aafa0424",
-   "title": "Titanium Investments Tournament",
-   "start": "2026-10-07",
-   "end": "",
-   "time": "8:00 AM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "scramble",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": false,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-07",
-   "shown": false,
-   "gone": true
   },
   "efa2bf7aef": {
    "id": "efa2bf7aef",
@@ -549,7 +527,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": false
   },
   "ca6aa861a7": {
@@ -570,7 +548,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": true,
    "touched": true
   },
@@ -592,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": true,
    "touched": true
   },
@@ -636,7 +614,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": true,
    "touched": true
   },
@@ -680,7 +658,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": true,
    "touched": true
   },
@@ -724,7 +702,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": false
   },
   "80fe0ef6fe": {
@@ -746,7 +724,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-10-09",
-   "shown": false
+   "shown": false,
+   "gone": true
   },
   "e5a4ce28cd": {
    "id": "e5a4ce28cd",
@@ -788,7 +767,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": false
   },
   "e04b069aad": {
@@ -831,7 +810,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": true,
    "touched": true
   },
@@ -875,7 +854,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": true,
    "touched": true
   },
@@ -941,7 +920,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": false
   },
   "b2296a91a0": {
@@ -1073,7 +1052,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": false,
    "imgTried": true
   },
@@ -1095,7 +1074,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": false,
    "imgTried": true
   },
@@ -1117,7 +1096,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": false
   },
   "00fd73cf09": {
@@ -1138,7 +1117,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": false,
    "imgTried": true
   },
@@ -1160,7 +1139,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": false,
    "imgTried": true
   },
@@ -1182,7 +1161,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-04",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": true,
    "touched": true
   },
@@ -1204,7 +1183,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-10-09",
+   "lastSeen": "2026-10-10",
    "shown": false
   }
  },
