@@ -396,7 +396,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": true,
    "touched": true
   },
@@ -484,7 +484,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": false
   },
   "960e2e7c9e": {
@@ -505,7 +505,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": true,
    "touched": true
   },
@@ -527,7 +527,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": false
   },
   "ca6aa861a7": {
@@ -548,7 +548,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": true,
    "touched": true
   },
@@ -570,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": true,
    "touched": true
   },
@@ -614,7 +614,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": true,
    "touched": true
   },
@@ -658,7 +658,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": true,
    "touched": true
   },
@@ -702,30 +702,8 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": false
-  },
-  "80fe0ef6fe": {
-   "id": "80fe0ef6fe",
-   "title": "Lockheed F35 Tournament",
-   "start": "2026-10-09",
-   "end": "",
-   "time": "8:00 AM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "scramble",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": false,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-09",
-   "shown": false,
-   "gone": true
   },
   "e5a4ce28cd": {
    "id": "e5a4ce28cd",
@@ -767,7 +745,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": false
   },
   "e04b069aad": {
@@ -812,7 +790,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-10-11",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": true
   },
   "f09fe23a0a": {
    "id": "f09fe23a0a",
@@ -854,7 +833,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": true,
    "touched": true
   },
@@ -920,7 +899,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": false
   },
   "b2296a91a0": {
@@ -1052,7 +1031,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": false,
    "imgTried": true
   },
@@ -1074,7 +1053,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": false,
    "imgTried": true
   },
@@ -1118,7 +1097,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": false,
    "imgTried": true
   },
@@ -1140,7 +1119,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": false,
    "imgTried": true
   },
@@ -1162,7 +1141,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-04",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": true,
    "touched": true
   },
@@ -1184,7 +1163,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-10-11",
+   "lastSeen": "2026-10-12",
    "shown": false
   }
  },
