@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-08",
+"updated": "2026-10-12",
 "region": "Dallas–Fort Worth",
 "events": [
 {
@@ -14,156 +14,6 @@
 "cat": "deal",
 "desc": "First-time visitors get a free range bucket ($12 value), valid for 7 days after claiming. New customers also get a free hotdog and soda with a bucket purchase. The offer runs through Oct 30, 2026.",
 "url": "https://www.golfranch.com/locations/richardson-tx",
-"img": "",
-"confirmed": true
-},
-{
-"id": "new-green-fee-rates-take-effect",
-"title": "New Green Fee Rates Take Effect",
-"start": "2026-10-08",
-"end": "",
-"time": "",
-"venue": "Grapevine Golf Course",
-"city": "Grapevine",
-"area": "mid",
-"cat": "deal",
-"desc": "Grapevine GC starts new green fee rates on October 8. The course also became a 27-hole facility on September 24.",
-"url": "https://grapevinegc.com/",
-"img": "",
-"confirmed": true
-},
-{
-"id": "13th-annual-maggie-thompson-invitational",
-"title": "13th Annual Maggie Thompson Invitational",
-"start": "2026-10-09",
-"end": "",
-"time": "1:00 PM shotgun",
-"venue": "WestRidge Golf Course",
-"city": "McKinney",
-"area": "north",
-"cat": "scramble",
-"desc": "Four-person scramble at $125 per player, with a taco buffet, two mulligans and a $5,000 hole-in-one prize. Proceeds go mainly to the Amity Hospice Thanksgiving Dinner Drive.",
-"url": "https://www.maggiethompsoninvitational.com/",
-"img": "https://static.wixstatic.com/media/6f1159_b245e8991f764a9a94e8d81ad30844a1~mv2.jpg",
-"confirmed": true
-},
-{
-"id": "2026-dbia-sw-dfw-golf-tournament",
-"title": "2026 DBIA-SW DFW Golf Tournament",
-"start": "2026-10-09",
-"end": "",
-"time": "8:00 AM shotgun (6:30 AM registration)",
-"venue": "Cowboys Golf Club",
-"city": "Grapevine",
-"area": "mid",
-"cat": "scramble",
-"desc": "Foursome tournament for the architecture, engineering and construction industry at $1,700 per team. It includes closest-to-pin, long drive, beat-the-pro and best-dressed contests, and benefits the DBIA Southwest scholarship program.",
-"url": "https://www.dbia-sw.org/golf",
-"img": "https://static.wixstatic.com/media/f97d44_ab67203404e64e48bb7b0c767d751481~mv2.png",
-"confirmed": true
-},
-{
-"id": "7th-annual-par-tee-on-the-green",
-"title": "7th Annual Par-Tee on the Green Charity Golf Tournament",
-"start": "2026-10-09",
-"end": "",
-"time": "8:00 AM",
-"venue": "Golf Club at Twin Creeks",
-"city": "Allen",
-"area": "north",
-"cat": "scramble",
-"desc": "Charity tournament with men's, women's and co-ed flights, benefiting scholarships and community programs of the ABC Foundation and Alpha Kappa Alpha's Omega Alpha Omega chapter.",
-"url": "https://charitygolftoday.com/event?e=28272&ce=7f13ca",
-"img": "",
-"confirmed": false
-},
-{
-"id": "the-knights-classic-golf-tournament",
-"title": "The Knights Classic Golf Tournament",
-"start": "2026-10-09",
-"end": "",
-"time": "8:00 AM shotgun",
-"venue": "Indian Creek Golf Club",
-"city": "Carrollton",
-"area": "north",
-"cat": "scramble",
-"desc": "Omega Delta Phi Alumni Association of Dallas–Fort Worth tournament raising funds for student scholarships.",
-"url": "https://allevents.in/carrollton/the-knights-classic-golf-tournament-sponsored-by-pesina-law-firm/200030461401543",
-"img": "",
-"confirmed": false
-},
-{
-"id": "fall-market-at-pga-frisco",
-"title": "Fall Market at PGA Frisco",
-"start": "2026-10-10",
-"end": "",
-"time": "10:00 AM - 3:00 PM",
-"venue": "The PGA District, PGA Frisco",
-"city": "Frisco",
-"area": "north",
-"cat": "expo",
-"desc": "Outdoor market with more than 50 vendors selling artisan goods, fashion, jewelry, candles and fall decor.",
-"url": "https://www.pgafrisco.com/events/fall-market-at-pga-frisco/",
-"img": "https://www.pgafrisco.com/content/uploads/2026/07/Fall-Market-2026-1.png",
-"confirmed": true
-},
-{
-"id": "little-designers-fall-market-pumpkin-decorating",
-"title": "Little Designers: Fall Market Pumpkin Decorating",
-"start": "2026-10-10",
-"end": "",
-"time": "10:00 AM - 1:00 PM",
-"venue": "The PGA District, PGA Frisco",
-"city": "Frisco",
-"area": "north",
-"cat": "junior",
-"desc": "Kids decorate pumpkins during the Fall Market. Tickets are sold separately on Eventbrite.",
-"url": "https://www.pgafrisco.com/events/little-designers-in-the-district-fall-market-pumpkin-decorating/",
-"img": "https://www.pgafrisco.com/content/uploads/2026/07/Little-Designers-in-The-District-Fall-Market-Pumpkin-Decorating.png",
-"confirmed": true
-},
-{
-"id": "play-4-p-i-n-k-women-s-charity-golf-tournament",
-"title": "Play 4 P.I.N.K. Women's Charity Golf Tournament",
-"start": "2026-10-10",
-"end": "",
-"time": "8:00 AM check-in; 9:00 AM shotgun",
-"venue": "Brookhaven Country Club",
-"city": "Farmers Branch",
-"area": "dallas",
-"cat": "scramble",
-"desc": "Women's charity tournament benefiting breast cancer research, with lunch after play. $700 per team of four.",
-"url": "https://www.linkscoachgolf.com/tournaments",
-"img": "",
-"confirmed": false
-},
-{
-"id": "tour-edge-fitting-day",
-"title": "Tour Edge Fitting Day",
-"start": "2026-10-10",
-"end": "",
-"time": "10:00 AM - 2:00 PM",
-"venue": "Leonard Golf Links",
-"city": "Fort Worth",
-"area": "fortworth",
-"cat": "expo",
-"desc": "Tour Edge club fitting session at the Leonard Golf Links range. You book a slot online through uSchedule.",
-"url": "https://leonardgolflinks.com/",
-"img": "",
-"confirmed": true
-},
-{
-"id": "thegrint-tour-ntx-torbay-cup",
-"title": "TheGrint Tour NTX: Torbay Cup",
-"start": "2026-10-11",
-"end": "",
-"time": "8:00 AM",
-"venue": "Bear Creek Golf Club (East)",
-"city": "Dallas",
-"area": "dallas",
-"cat": "competition",
-"desc": "Amateur tour event in TheGrint Tour's North Texas 2026 schedule.",
-"url": "https://thegrinttour.com/tours/NorthTexas2026",
 "img": "",
 "confirmed": true
 },
@@ -318,6 +168,21 @@
 "confirmed": false
 },
 {
+"id": "ethel-ransom-club-5th-annual-golf-tournament",
+"title": "Ethel Ransom Club 5th Annual Golf Tournament",
+"start": "2026-10-17",
+"end": "",
+"time": "",
+"venue": "Iron Horse Golf Course",
+"city": "North Richland Hills",
+"area": "mid",
+"cat": "scramble",
+"desc": "Fifth annual Ethel Ransom Club charity tournament at Iron Horse, listed at $175 per person. A separate event from the Spooktacular Scramble at the same course that day.",
+"url": "https://charitygolfer.com/api/event/2026-ethel-ransom-club-5th-annual-golf-tournament/pdf",
+"img": "",
+"confirmed": false
+},
+{
 "id": "kids-golf-fun-day-trick-treat-tee-it-up",
 "title": "Kids' Golf Fun Day: Trick, Treat & TEE It Up",
 "start": "2026-10-17",
@@ -363,19 +228,19 @@
 "confirmed": true
 },
 {
-"id": "ethel-ransom-club-5th-annual-golf-tournament",
-"title": "Ethel Ransom Club 5th Annual Golf Tournament",
-"start": "2026-10-17",
-"end": "",
+"id": "2026-adaptive-championship",
+"title": "2026 Adaptive Championship",
+"start": "2026-10-19",
+"end": "2026-10-21",
 "time": "",
-"venue": "Iron Horse Golf Course",
-"city": "North Richland Hills",
+"venue": "Prairie Lakes Golf Course",
+"city": "Grand Prairie",
 "area": "mid",
-"cat": "scramble",
-"desc": "Fifth annual Ethel Ransom Club charity tournament at Iron Horse, listed at $175 per person. A separate event from the Spooktacular Scramble at the same course that day.",
-"url": "https://charitygolfer.com/api/event/2026-ethel-ransom-club-5th-annual-golf-tournament/pdf",
+"cat": "competition",
+"desc": "Texas Golf Association championship for male and female adaptive golfers: 36-hole individual stroke play plus a practice round, flighted by sport class, with men's, women's and senior champions. $195 entry included three rounds, lunches and tee gifts; entries closed Oct 8.",
+"url": "https://txga.org/adaptive-championship/",
 "img": "",
-"confirmed": false
+"confirmed": true
 },
 {
 "id": "2026-transportation-club-of-dfw-annual-golf-tour",
@@ -390,6 +255,21 @@
 "desc": "18-hole transportation-industry tournament with a putting contest, lunch, dinner, raffle and awards. It benefits the Transportation Club of DFW.",
 "url": "https://www.tcdfw.org/2026-annual-golf-tournament.html",
 "img": "https://www.tcdfw.org/uploads/1/1/2/1/11217077/published/198391057-336-255.jpg?1759519948",
+"confirmed": true
+},
+{
+"id": "abilene-christian-intercollegiate",
+"title": "Abilene Christian Intercollegiate",
+"start": "2026-10-19",
+"end": "2026-10-21",
+"time": "",
+"venue": "Halbert National",
+"city": "Granbury",
+"area": "fortworth",
+"cat": "competition",
+"desc": "Inaugural ACU-hosted college tournament at the new Halbert National course on Lake Granbury, with nine men's and nine women's teams playing three rounds of stroke play, covered live on Golf Channel.",
+"url": "https://acusports.com/news/2025/12/3/general-abilene-christian-intercollegiate-to-debut-in-october-2026-at-halbert-national",
+"img": "",
 "confirmed": true
 },
 {
@@ -419,21 +299,6 @@
 "cat": "scramble",
 "desc": "Annual fundraiser presented by Frost for Lena Pope's counseling, education and behavior programs for children and families, with a course food tour and a youth putting challenge.",
 "url": "https://lenapope.org/event/golf/",
-"img": "",
-"confirmed": true
-},
-{
-"id": "abilene-christian-intercollegiate",
-"title": "Abilene Christian Intercollegiate",
-"start": "2026-10-19",
-"end": "2026-10-21",
-"time": "",
-"venue": "Halbert National",
-"city": "Granbury",
-"area": "fortworth",
-"cat": "competition",
-"desc": "Inaugural ACU-hosted college tournament at the new Halbert National course on Lake Granbury, with nine men's and nine women's teams playing three rounds of stroke play, covered live on Golf Channel.",
-"url": "https://acusports.com/news/2025/12/3/general-abilene-christian-intercollegiate-to-debut-in-october-2026-at-halbert-national",
 "img": "",
 "confirmed": true
 },
@@ -498,21 +363,6 @@
 "confirmed": true
 },
 {
-"id": "second-annual-nonpareil-plano-golf-classic",
-"title": "Second Annual nonPareil Plano Golf Classic",
-"start": "2026-10-23",
-"end": "",
-"time": "8:00 AM shotgun",
-"venue": "WestRidge Golf Course",
-"city": "McKinney",
-"area": "north",
-"cat": "scramble",
-"desc": "18-hole shotgun event with foursomes, one group per hole. It benefits nonPareil Plano, a tech-training nonprofit for autistic adults.",
-"url": "https://www.npplanogolfclassic.org/",
-"img": "https://use1-eventcaddy-1.s3.amazonaws.com/uploads/tournament_website/banner/69610/895394db-9dbd-4d23-9d67-04d5f8cfd1fd.png",
-"confirmed": true
-},
-{
 "id": "47th-annual-golf-classics",
 "title": "47th Annual Golf Classics",
 "start": "2026-10-23",
@@ -526,6 +376,21 @@
 "url": "https://www.eventbrite.co.nz/d/tx--plano/golf/?page=0",
 "img": "",
 "confirmed": false
+},
+{
+"id": "second-annual-nonpareil-plano-golf-classic",
+"title": "Second Annual nonPareil Plano Golf Classic",
+"start": "2026-10-23",
+"end": "",
+"time": "8:00 AM shotgun",
+"venue": "WestRidge Golf Course",
+"city": "McKinney",
+"area": "north",
+"cat": "scramble",
+"desc": "18-hole shotgun event with foursomes, one group per hole. It benefits nonPareil Plano, a tech-training nonprofit for autistic adults.",
+"url": "https://www.npplanogolfclassic.org/",
+"img": "https://use1-eventcaddy-1.s3.amazonaws.com/uploads/tournament_website/banner/69610/895394db-9dbd-4d23-9d67-04d5f8cfd1fd.png",
+"confirmed": true
 },
 {
 "id": "cfw-senior-championship",
@@ -558,21 +423,6 @@
 "confirmed": false
 },
 {
-"id": "titleist-fitting-day",
-"title": "Titleist Fitting Day",
-"start": "2026-10-24",
-"end": "",
-"time": "10:00 AM - 4:00 PM",
-"venue": "Iron Horse Golf Course",
-"city": "North Richland Hills",
-"area": "mid",
-"cat": "expo",
-"desc": "A day of Titleist club fittings at Iron Horse. You register through the Titleist SureFit Hub. The page does not show a price.",
-"url": "https://ironhorsetx.com/event/titleist-fitting-day/",
-"img": "https://ironhorsetx.com/wp-content/uploads/sites/8/2026/08/Titleist-Fitting-Day.pdf-1.jpg",
-"confirmed": true
-},
-{
 "id": "spookeasy-at-lounge-by-topgolf-pga-frisco",
 "title": "Spookeasy at Lounge by Topgolf (PGA Frisco)",
 "start": "2026-10-24",
@@ -585,6 +435,21 @@
 "desc": "Lounge by Topgolf turns into a Halloween 'Spookeasy' pop-up through Nov 1, with costume nights (costumed guests get a house appetizer for the table on Thursdays) and Saturday DJ nights on Oct 24 and Oct 31.",
 "url": "https://www.pgafrisco.com/events/spookeasy/",
 "img": "",
+"confirmed": true
+},
+{
+"id": "titleist-fitting-day",
+"title": "Titleist Fitting Day",
+"start": "2026-10-24",
+"end": "",
+"time": "10:00 AM - 4:00 PM",
+"venue": "Iron Horse Golf Course",
+"city": "North Richland Hills",
+"area": "mid",
+"cat": "expo",
+"desc": "A day of Titleist club fittings at Iron Horse. You register through the Titleist SureFit Hub. The page does not show a price.",
+"url": "https://ironhorsetx.com/event/titleist-fitting-day/",
+"img": "https://ironhorsetx.com/wp-content/uploads/sites/8/2026/08/Titleist-Fitting-Day.pdf-1.jpg",
 "confirmed": true
 },
 {
@@ -693,6 +558,21 @@
 "confirmed": true
 },
 {
+"id": "2026-annual-spe-dallas-golf-tournament",
+"title": "2026 Annual SPE-Dallas Golf Tournament",
+"start": "2026-11-02",
+"end": "",
+"time": "10:00 AM shotgun",
+"venue": "Gleneagles Country Club",
+"city": "Plano",
+"area": "north",
+"cat": "scramble",
+"desc": "The Society of Petroleum Engineers – Dallas Section's four-player scramble across both Gleneagles courses, raising money for its Petroleum Engineering Scholarship Fund.",
+"url": "https://app.eventcaddy.com/events/2026-annual-spe-dallas-golf-tournament",
+"img": "",
+"confirmed": true
+},
+{
 "id": "adult-teen-challenge-of-texas-golf-tournament",
 "title": "Adult & Teen Challenge of Texas Golf Tournament",
 "start": "2026-11-02",
@@ -720,21 +600,6 @@
 "desc": "Golf day for the 25th annual St. Jude Evening Under the Stars, presented by Chili's, with a gala Nov 7 at the Omni Dallas. It benefits St. Jude Children's Research Hospital, and sponsorships are available.",
 "url": "https://www.stjude.org/get-involved/find-an-event/dinners-and-galas/evening-under-the-stars.html",
 "img": "https://www.stjude.org/content/sites/www/en_US/home/get-involved/find-an-event/dinners-and-galas/evening-under-the-stars/_jcr_content/image.img.800.high.png/1776435128041.png",
-"confirmed": true
-},
-{
-"id": "2026-annual-spe-dallas-golf-tournament",
-"title": "2026 Annual SPE-Dallas Golf Tournament",
-"start": "2026-11-02",
-"end": "",
-"time": "10:00 AM shotgun",
-"venue": "Gleneagles Country Club",
-"city": "Plano",
-"area": "north",
-"cat": "scramble",
-"desc": "The Society of Petroleum Engineers – Dallas Section's four-player scramble across both Gleneagles courses, raising money for its Petroleum Engineering Scholarship Fund.",
-"url": "https://app.eventcaddy.com/events/2026-annual-spe-dallas-golf-tournament",
-"img": "",
 "confirmed": true
 },
 {
@@ -783,6 +648,21 @@
 "confirmed": false
 },
 {
+"id": "friends-of-finley-foundation-golf-scramble",
+"title": "Friends of Finley Foundation Golf Scramble",
+"start": "2026-11-06",
+"end": "",
+"time": "8:00 AM – 2:00 PM",
+"venue": "7400 Country Club Dr",
+"city": "Wylie",
+"area": "north",
+"cat": "scramble",
+"desc": "Charity scramble supporting the Friends of Finley Foundation: $200 per player or $800 per team of four, with sponsorship packages also available on the ticketing page.",
+"url": "https://www.zeffy.com/en-US/ticketing/friends-of-finley-foundation-golf-scramble",
+"img": "",
+"confirmed": true
+},
+{
 "id": "glow-fore-it-family-glow-golf-night-first-tee-fo",
 "title": "Glow Fore It! Family Glow Golf Night (First Tee – Fort Worth)",
 "start": "2026-11-06",
@@ -809,6 +689,21 @@
 "cat": "expo",
 "desc": "PING club fitting event. You register through PING's fitting-events site.",
 "url": "https://leonardgolflinks.com/",
+"img": "",
+"confirmed": true
+},
+{
+"id": "saturdays-at-the-superstore-wedge-u-cation",
+"title": "Saturdays at the Superstore: Wedge-U-cation",
+"start": "2026-11-07",
+"end": "",
+"time": "11:00 AM",
+"venue": "PGA TOUR Superstore (DFW stores incl. Plano)",
+"city": "Plano",
+"area": "north",
+"cat": "clinic",
+"desc": "Free Saturday in-store clinic in PGA TOUR Superstore's series, on choosing the right wedges and practising chip shots. DFW stores run the series.",
+"url": "https://www.pgatoursuperstore.com/bookingtool?isBookingToolDirectLink=true&type=event&locationID=1261",
 "img": "",
 "confirmed": true
 },
@@ -843,19 +738,19 @@
 "confirmed": false
 },
 {
-"id": "saturdays-at-the-superstore-wedge-u-cation",
-"title": "Saturdays at the Superstore: Wedge-U-cation",
-"start": "2026-11-07",
+"id": "13th-annual-ype-dallas-golf-tournament",
+"title": "13th Annual YPE Dallas Golf Tournament",
+"start": "2026-11-09",
 "end": "",
-"time": "11:00 AM",
-"venue": "PGA TOUR Superstore (DFW stores incl. Plano)",
+"time": "9:00 AM",
+"venue": "Gleneagles Country Club",
 "city": "Plano",
 "area": "north",
-"cat": "clinic",
-"desc": "Free Saturday in-store clinic in PGA TOUR Superstore's series, on choosing the right wedges and practising chip shots. DFW stores run the series.",
-"url": "https://www.pgatoursuperstore.com/bookingtool?isBookingToolDirectLink=true&type=event&locationID=1261",
+"cat": "scramble",
+"desc": "Young Professionals in Energy – Dallas holds its 13th annual tournament at Gleneagles in Plano, listed on Eventbrite.",
+"url": "https://www.eventbrite.co.nz/d/tx--plano/golf/?page=0",
 "img": "",
-"confirmed": true
+"confirmed": false
 },
 {
 "id": "grand-rounds-golf-tournament",
@@ -871,21 +766,6 @@
 "url": "https://dallasfoundation.bswhealth.com/events/grand-rounds-golf-tournament/",
 "img": "https://dallasfoundation.bswhealth.com/wp-content/uploads/sites/2/2025/03/IMG_8993-scaled.jpg",
 "confirmed": true
-},
-{
-"id": "13th-annual-ype-dallas-golf-tournament",
-"title": "13th Annual YPE Dallas Golf Tournament",
-"start": "2026-11-09",
-"end": "",
-"time": "9:00 AM",
-"venue": "Gleneagles Country Club",
-"city": "Plano",
-"area": "north",
-"cat": "scramble",
-"desc": "Young Professionals in Energy – Dallas holds its 13th annual tournament at Gleneagles in Plano, listed on Eventbrite.",
-"url": "https://www.eventbrite.co.nz/d/tx--plano/golf/?page=0",
-"img": "",
-"confirmed": false
 },
 {
 "id": "ntpga-hope-cup",
@@ -1008,6 +888,21 @@
 "confirmed": false
 },
 {
+"id": "par-y-parranda-charity-golf-tournament",
+"title": "Par Y Parranda Charity Golf Tournament",
+"start": "2026-11-20",
+"end": "",
+"time": "",
+"venue": "Luna Vista Golf Course",
+"city": "Dallas",
+"area": "dallas",
+"cat": "scramble",
+"desc": "A culturally driven charity tournament benefiting the Dallas Hispanic Firefighters Association — golf with music, food, drinks, cigars, prizes and a 19th-hole after-party. Listed at $150 per person; registration includes 18 holes, cart, lunch, drink tickets and a raffle entry.",
+"url": "https://bryanstreettavern.com/dallas-old-east-dallas-village-bryan-street-tavern-events",
+"img": "",
+"confirmed": true
+},
+{
 "id": "saturdays-at-the-superstore-putt-quest",
 "title": "Saturdays at the Superstore: PUTT QUEST (Kids' Golf Fun Day)",
 "start": "2026-11-21",
@@ -1068,6 +963,21 @@
 "confirmed": true
 },
 {
+"id": "home-on-the-range-for-the-holidays",
+"title": "Home on The Range for The Holidays",
+"start": "2026-11-28",
+"end": "2026-12-19",
+"time": "5:00 PM – 8:00 PM",
+"venue": "The PGA District, PGA Frisco",
+"city": "Frisco",
+"area": "north",
+"cat": "fun",
+"desc": "Free Saturday-evening holiday series at PGA Frisco (Nov 28, Dec 5, 12 and 19): Merry Mini Golf on The Dance Floor, real reindeer, the Fields Ranch Holiday Express train, letters to Santa and a 6 PM tree lighting with Cowboy Santa. Nov 28 adds a holiday drone show; s'mores and Build-A-Buddy cost extra.",
+"url": "https://www.pgafrisco.com/events/home-on-the-range-for-the-holidays/",
+"img": "https://www.pgafrisco.com/content/uploads/2026/10/OMNIPGAFrisco-HOTR-PGADistrict-18-2-scaled.jpg",
+"confirmed": true
+},
+{
 "id": "dashing-through-the-district-holiday-night-market",
 "title": "Dashing Through The District: Holiday Night Market at PGA Frisco",
 "start": "2026-12-04",
@@ -1081,6 +991,21 @@
 "url": "https://www.eventeny.com/events/2026-dashing-through-the-district-holiday-night-market-at-pga-frisco-34689/",
 "img": "",
 "confirmed": false
+},
+{
+"id": "saturdays-at-the-superstore-trackman-skills-assessment",
+"title": "Saturdays at the Superstore: TrackMan Skills Assessment",
+"start": "2026-12-05",
+"end": "",
+"time": "11:00 AM",
+"venue": "PGA TOUR Superstore (DFW stores incl. Plano)",
+"city": "Plano",
+"area": "north",
+"cat": "clinic",
+"desc": "Saturday clinic and skills-assessment session using TrackMan, part of PGA TOUR Superstore's free in-store series at DFW stores.",
+"url": "https://www.pgatoursuperstore.com/bookingtool?isBookingToolDirectLink=true&type=event&locationID=1261",
+"img": "",
+"confirmed": true
 },
 {
 "id": "superintendent-s-revenge",
@@ -1109,21 +1034,6 @@
 "cat": "scramble",
 "desc": "Tenison Park's holiday scramble, listed on the course events calendar. The page does not show a time or price.",
 "url": "https://www.tenisonpark.com/events/events-calendar/eventdetail/471/-/tpgc-holiday-scramble",
-"img": "",
-"confirmed": true
-},
-{
-"id": "saturdays-at-the-superstore-trackman-skills-assessment",
-"title": "Saturdays at the Superstore: TrackMan Skills Assessment",
-"start": "2026-12-05",
-"end": "",
-"time": "11:00 AM",
-"venue": "PGA TOUR Superstore (DFW stores incl. Plano)",
-"city": "Plano",
-"area": "north",
-"cat": "clinic",
-"desc": "Saturday clinic and skills-assessment session using TrackMan, part of PGA TOUR Superstore's free in-store series at DFW stores.",
-"url": "https://www.pgatoursuperstore.com/bookingtool?isBookingToolDirectLink=true&type=event&locationID=1261",
 "img": "",
 "confirmed": true
 },
@@ -2414,6 +2324,26 @@
 "thu",
 "sat"
 ]
+},
+{
+"id": "topgolf-spark-golf-social-league",
+"title": "Topgolf × Spark Golf Social League",
+"start": "2026-10-06",
+"end": "2026-11-10",
+"time": "5:30 PM",
+"venue": "Topgolf (DFW locations)",
+"city": "Multiple",
+"area": "multi",
+"cat": "fun",
+"desc": "Six-week social 9-hole league in Topgolf bays using Toptracer virtual courses — casual competition, pick your weeks, $44 per player per round. Register through the Spark Golf app.",
+"url": "https://press.topgolf.com/2026-09-22-TOPGOLF-TEAMS-UP-WITH-SPARK-GOLF-FOR-NEW-SOCIAL-LEAGUE",
+"img": "",
+"confirmed": true,
+"recur": "Every Tuesday",
+"days": [
+"tue"
+],
+"ends": "2026-11-10"
 }
 ],
 "tba": [],
