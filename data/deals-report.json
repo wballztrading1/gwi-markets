@@ -1,16 +1,9 @@
 {
  "checked": "2026-10-12",
- "total": 145,
- "live": 144,
- "updated": 3,
- "hidden": [
-  {
-   "id": "aca235f1",
-   "title": "Titleist 2023 T200 Black Iron Set 6-PW AW",
-   "store": "2nd Swing Golf",
-   "why": "sold out"
-  }
- ],
- "unreadable": 34,
+ "total": 166,
+ "live": 166,
+ "updated": 2,
+ "hidden": [],
+ "unreadable": 38,
  "unclear": 6
 }
