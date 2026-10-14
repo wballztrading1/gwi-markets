@@ -1,88 +1,9 @@
 {
  "checked": "2026-10-14",
- "total": 166,
- "live": 153,
- "updated": 0,
- "hidden": [
-  {
-   "id": "99f26173",
-   "title": "Callaway Elyte X Driver",
-   "store": "Callaway Golf Pre-Owned",
-   "why": "offer ended"
-  },
-  {
-   "id": "db96bde2",
-   "title": "Titleist Vokey SM9 Tour Chrome Wedge",
-   "store": "Golf Discount",
-   "why": "sold out"
-  },
-  {
-   "id": "5652041a",
-   "title": "Bridgestone 2022 Tour B RXS White Bagged Golf Balls",
-   "store": "Golf Discount",
-   "why": "sold out"
-  },
-  {
-   "id": "304435d5",
-   "title": "Titleist Vokey SM10 Tour Chrome Wedge",
-   "store": "2nd Swing Golf",
-   "why": "sold out"
-  },
-  {
-   "id": "678e1418",
-   "title": "Callaway Elyte Night Edition Driver",
-   "store": "Callaway Golf Pre-Owned",
-   "why": "offer ended"
-  },
-  {
-   "id": "8af396b0",
-   "title": "Callaway Elyte Triple Diamond Max Driver",
-   "store": "Callaway Golf Pre-Owned",
-   "why": "offer ended"
-  },
-  {
-   "id": "7882a494",
-   "title": "Callaway Elyte X Fairway Woods",
-   "store": "Callaway Golf Pre-Owned",
-   "why": "offer ended"
-  },
-  {
-   "id": "7472b3fa",
-   "title": "Callaway Elyte Max Fast Fairway Woods",
-   "store": "Callaway Golf Pre-Owned",
-   "why": "offer ended"
-  },
-  {
-   "id": "1c223889",
-   "title": "Callaway Elyte Hybrids",
-   "store": "Callaway Golf Pre-Owned",
-   "why": "offer ended"
-  },
-  {
-   "id": "7b87d018",
-   "title": "Callaway Elyte X Hybrids",
-   "store": "Callaway Golf Pre-Owned",
-   "why": "offer ended"
-  },
-  {
-   "id": "e11e7b9c",
-   "title": "Callaway Elyte Triple Diamond Tour Draw Driver",
-   "store": "Callaway Golf Pre-Owned",
-   "why": "offer ended"
-  },
-  {
-   "id": "16e9a3fd",
-   "title": "Callaway Elyte Max Fast Hybrids",
-   "store": "Callaway Golf Pre-Owned",
-   "why": "offer ended"
-  },
-  {
-   "id": "078471bc",
-   "title": "Callaway Elyte X Irons",
-   "store": "Callaway Golf Pre-Owned",
-   "why": "offer ended"
-  }
- ],
- "unreadable": 28,
+ "total": 167,
+ "live": 167,
+ "updated": 2,
+ "hidden": [],
+ "unreadable": 38,
  "unclear": 6
 }
