@@ -1,14 +1,26 @@
 {
- "checked": "2026-10-13",
+ "checked": "2026-10-14",
  "total": 166,
- "live": 155,
- "updated": 3,
+ "live": 153,
+ "updated": 0,
  "hidden": [
   {
    "id": "99f26173",
    "title": "Callaway Elyte X Driver",
    "store": "Callaway Golf Pre-Owned",
    "why": "offer ended"
+  },
+  {
+   "id": "db96bde2",
+   "title": "Titleist Vokey SM9 Tour Chrome Wedge",
+   "store": "Golf Discount",
+   "why": "sold out"
+  },
+  {
+   "id": "5652041a",
+   "title": "Bridgestone 2022 Tour B RXS White Bagged Golf Balls",
+   "store": "Golf Discount",
+   "why": "sold out"
   },
   {
    "id": "304435d5",
