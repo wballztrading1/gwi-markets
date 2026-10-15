@@ -485,7 +485,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-10-15",
-   "shown": false
+   "shown": true,
+   "touched": true
   },
   "960e2e7c9e": {
    "id": "960e2e7c9e",
@@ -528,7 +529,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-10-15",
-   "shown": false
+   "shown": true,
+   "touched": true
   },
   "ca6aa861a7": {
    "id": "ca6aa861a7",
@@ -703,7 +705,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-10-15",
-   "shown": false
+   "shown": true,
+   "touched": true
   },
   "362fd7dcf5": {
    "id": "362fd7dcf5",
@@ -724,7 +727,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-10-15",
-   "shown": false
+   "shown": true,
+   "touched": true
   },
   "e04b069aad": {
    "id": "e04b069aad",
@@ -855,7 +859,8 @@
    "confirmed": true,
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-10-15",
-   "shown": false
+   "shown": true,
+   "touched": true
   },
   "b2296a91a0": {
    "id": "b2296a91a0",
@@ -1121,7 +1126,8 @@
    "confirmed": true,
    "firstSeen": "2026-10-09",
    "lastSeen": "2026-10-15",
-   "shown": false
+   "shown": true,
+   "touched": true
   },
   "ea96b33d35": {
    "id": "ea96b33d35",
