@@ -378,21 +378,6 @@
 "confirmed": true
 },
 {
-"id": "elf-louise-golf-classic",
-"title": "Elf Louise Golf Classic",
-"start": "2026-10-24",
-"end": "",
-"time": "9:00 AM shotgun start",
-"venue": "Grand Oaks Golf Course",
-"city": "Grand Prairie",
-"area": "mid",
-"cat": "scramble",
-"desc": "Four-person scramble benefiting the Elf Louise Project (Project Christmas Smile), which provides Christmas gifts to children in need. $65 per player / $260 per team, including green fee, cart, range balls, lunch and a goodie bag; mulligans and a putting contest are extra.",
-"url": "https://www.charitygolfer.com/event/elf-louise-golf-classic/",
-"img": "",
-"confirmed": true
-},
-{
 "id": "halloween-par-tee",
 "title": "Halloween Par-Tee",
 "start": "2026-10-24",
@@ -2524,26 +2509,6 @@
 "tue"
 ],
 "ends": "2026-11-10"
-},
-{
-"id": "spark-golf-topgolf-the-colony-league",
-"title": "Spark Golf League at Topgolf The Colony",
-"start": "2026-11-03",
-"end": "2026-12-15",
-"time": "7:00 PM",
-"venue": "Topgolf The Colony",
-"city": "The Colony",
-"area": "north",
-"cat": "league",
-"desc": "Spark Golf's 9-hole social league in Topgolf bays: 2-person teams play a new course each week, $28.50 per player per round. Season runs Tuesdays, Nov 3 to Dec 15, 2026.",
-"url": "https://sparkgolf.com/leagues/us/texas/the-colony/topgolf---the-colony-14581",
-"img": "",
-"confirmed": true,
-"recur": "Every Tuesday",
-"days": [
-"tue"
-],
-"ends": "2026-12-15"
 }
 ],
 "tba": [],
