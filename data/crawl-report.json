@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-14",
+ "checked": "2026-10-15",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -25,7 +25,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 40,
+   "found": 36,
    "kept": 0,
    "error": ""
   },
@@ -47,7 +47,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 6,
+   "found": 12,
    "kept": 0,
    "error": ""
   },
@@ -154,10 +154,14 @@
   {
    "name": "Rusted Rail Golf Club",
    "url": "https://rustedrailgolf.com/events/month/",
-   "methods": [],
-   "found": 0,
+   "methods": [
+    "events-calendar",
+    "structured-data",
+    "ical"
+   ],
+   "found": 19,
    "kept": 0,
-   "error": "HTTP 508"
+   "error": ""
   },
   {
    "name": "Meadowbrook Park Golf Course",
@@ -175,7 +179,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 44,
+   "found": 28,
    "kept": 0,
    "error": ""
   },
@@ -306,7 +310,7 @@
     "events-calendar",
     "ical"
    ],
-   "found": 255,
+   "found": 257,
    "kept": 13,
    "error": ""
   },
