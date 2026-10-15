@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-12",
+"updated": "2026-10-15",
 "region": "Dallas–Fort Worth",
 "events": [
 {
@@ -16,66 +16,6 @@
 "url": "https://www.golfranch.com/locations/richardson-tx",
 "img": "",
 "confirmed": true
-},
-{
-"id": "2026-batson-cook-tee-it-up-charity-golf-tournament",
-"title": "2026 Batson-Cook Tee It Up Charity Golf Tournament",
-"start": "2026-10-12",
-"end": "",
-"time": "8:00 AM",
-"venue": "500 Trophy Club Dr",
-"city": "Trophy Club",
-"area": "north",
-"cat": "scramble",
-"desc": "Batson-Cook Construction's charity tournament, listed on Eventbrite for a Trophy Club address. The listing gives no beneficiary detail yet.",
-"url": "https://www.eventbrite.com.au/d/tx--trophy-club/charity-golf-tournament/",
-"img": "",
-"confirmed": false
-},
-{
-"id": "2026-damc-golf-classic",
-"title": "2026 DAMC Golf Classic",
-"start": "2026-10-12",
-"end": "",
-"time": "8:00 AM shotgun (6:30 AM check-in)",
-"venue": "Brookhaven Country Club",
-"city": "Dallas",
-"area": "dallas",
-"cat": "scramble",
-"desc": "Two-player scramble at $200 per golfer or $375 per team. It funds Dallas A&M Club scholarships for local seniors going to Texas A&M.",
-"url": "https://www.dallasaggies.org/events/golf-classic/",
-"img": "https://www.dallasaggies.org/wp-content/uploads/2022/07/home-hero-1600x630-b.jpg",
-"confirmed": true
-},
-{
-"id": "bill-carollo-back-the-blue-golf-tournament",
-"title": "Bill Carollo \"Back The Blue\" Golf Tournament",
-"start": "2026-10-12",
-"end": "",
-"time": "10:00 AM shotgun (8:00 AM registration)",
-"venue": "Buffalo Creek Golf Course",
-"city": "Rockwall",
-"area": "east",
-"cat": "scramble",
-"desc": "27th annual tournament for the Assist the Officer Foundation, which supports first responders, with long drive and closest-to-pin contests. Sponsorships run $250 to $20,000, and meals, a hat and a swag bag are included.",
-"url": "https://atodallas.org/events/back-the-blue-golf-tournament/",
-"img": "https://atodallas.org/wp-content/uploads/2025/08/ATO-Golf-design-UPDATED.png",
-"confirmed": true
-},
-{
-"id": "golf-classic-2026-recovery-resource-council",
-"title": "Golf Classic 2026 — Recovery Resource Council",
-"start": "2026-10-14",
-"end": "",
-"time": "7:00 AM",
-"venue": "Texas Star Golf Course",
-"city": "Euless",
-"area": "mid",
-"cat": "scramble",
-"desc": "Recovery Resource Council's 37th annual Golf Classic, a 4-person scramble raising funds for wellness and recovery services. $250 per person.",
-"url": "https://charitygolfer.com/api/event/golf-classic-2026/pdf",
-"img": "",
-"confirmed": false
 },
 {
 "id": "mercy-cares-6th-annual-golf-tournament",
@@ -196,6 +136,36 @@
 "url": "https://www.pgatoursuperstore.com/saturdays-at-the-superstore.html",
 "img": "",
 "confirmed": false
+},
+{
+"id": "lonestar-boys-invitational-tjgt",
+"title": "Lonestar Boys Invitational (TJGT)",
+"start": "2026-10-17",
+"end": "2026-10-18",
+"time": "",
+"venue": "Southern Oaks Golf Club",
+"city": "Burleson",
+"area": "fortworth",
+"cat": "junior",
+"desc": "Texas Junior Golf Tour Elite Series boys invitational, listed as full on the tour's schedule page.",
+"url": "https://tournaments.tjgt.com/",
+"img": "",
+"confirmed": true
+},
+{
+"id": "new-tee-society-mens-golf-clinic",
+"title": "New Tee Society Men's Golf Clinic",
+"start": "2026-10-17",
+"end": "",
+"time": "3:00 PM - 5:00 PM",
+"venue": "The Highlands Performance Golf Center",
+"city": "Carrollton",
+"area": "north",
+"cat": "clinic",
+"desc": "First event from a new Dallas men's golf community: a beginner-friendly clinic with two professional instructors (90 minutes of instruction); clubs, range balls and tees provided. Ages 21+.",
+"url": "https://www.eventbrite.com/e/new-tee-society-mens-golf-clinic-tickets-1998165100605",
+"img": "",
+"confirmed": true
 },
 {
 "id": "spooktacular-scramble",
@@ -408,6 +378,21 @@
 "confirmed": true
 },
 {
+"id": "elf-louise-golf-classic",
+"title": "Elf Louise Golf Classic",
+"start": "2026-10-24",
+"end": "",
+"time": "9:00 AM shotgun start",
+"venue": "Grand Oaks Golf Course",
+"city": "Grand Prairie",
+"area": "mid",
+"cat": "scramble",
+"desc": "Four-person scramble benefiting the Elf Louise Project (Project Christmas Smile), which provides Christmas gifts to children in need. $65 per player / $260 per team, including green fee, cart, range balls, lunch and a goodie bag; mulligans and a putting contest are extra.",
+"url": "https://www.charitygolfer.com/event/elf-louise-golf-classic/",
+"img": "",
+"confirmed": true
+},
+{
 "id": "halloween-par-tee",
 "title": "Halloween Par-Tee",
 "start": "2026-10-24",
@@ -421,6 +406,21 @@
 "url": "https://www.pgafrisco.com/",
 "img": "",
 "confirmed": false
+},
+{
+"id": "north-texas-fall-classic-tjgt",
+"title": "North Texas Fall Classic (TJGT)",
+"start": "2026-10-24",
+"end": "2026-10-25",
+"time": "",
+"venue": "The Golf Club of Dallas",
+"city": "Dallas",
+"area": "dallas",
+"cat": "junior",
+"desc": "Texas Junior Golf Tour Open Series junior tournament; registration closes Oct 23, 2026 on the tour page.",
+"url": "https://tournaments.tjgt.com/",
+"img": "",
+"confirmed": true
 },
 {
 "id": "spookeasy-at-lounge-by-topgolf-pga-frisco",
@@ -468,6 +468,21 @@
 "confirmed": false
 },
 {
+"id": "titleist-fitting-day-indian-creek",
+"title": "Titleist Fitting Day — Indian Creek",
+"start": "2026-10-28",
+"end": "",
+"time": "",
+"venue": "Indian Creek Golf Club",
+"city": "Carrollton",
+"area": "north",
+"cat": "expo",
+"desc": "Bookable 60-minute fitting sessions with a Titleist custom-fitting specialist at the course. The course calendar does not print the year, so the date is marked to confirm.",
+"url": "https://www.indiancreekgolfclub.com/Calendar/UpcomingEvents",
+"img": "",
+"confirmed": false
+},
+{
 "id": "2026-dfw-airport-united-way-golf-tournament",
 "title": "2026 DFW Airport United Way Golf Tournament",
 "start": "2026-10-29",
@@ -479,6 +494,36 @@
 "cat": "scramble",
 "desc": "A United Way charity tournament run by the DFW Airport community. The listing estimates about $125 per player, and registration is through BirdEase.",
 "url": "https://charitygolfer.com/texas/dallas/2026-dfw-airport-united-way-golf-tournament",
+"img": "",
+"confirmed": false
+},
+{
+"id": "callaway-club-fitting-day-indian-creek",
+"title": "Callaway Club Fitting Day — Indian Creek",
+"start": "2026-10-29",
+"end": "",
+"time": "1:00 PM - 5:00 PM",
+"venue": "Indian Creek Golf Club",
+"city": "Carrollton",
+"area": "north",
+"cat": "expo",
+"desc": "Callaway club-fitting session with clubs tailored to your swing, running the same afternoon as the course's Callaway ball-fitting day. The course calendar does not print the year, so the date is marked to confirm.",
+"url": "https://www.indiancreekgolfclub.com/Calendar/UpcomingEvents",
+"img": "",
+"confirmed": false
+},
+{
+"id": "callaway-golf-ball-fitting-day-indian-creek",
+"title": "Callaway Golf Ball Fitting Day — Indian Creek",
+"start": "2026-10-29",
+"end": "",
+"time": "1:00 PM - 5:00 PM",
+"venue": "Indian Creek Golf Club",
+"city": "Carrollton",
+"area": "north",
+"cat": "expo",
+"desc": "Callaway ball-fitting session to match a ball model to your swing and playing style. The course calendar does not print the year, so the date is marked to confirm.",
+"url": "https://www.indiancreekgolfclub.com/Calendar/UpcomingEvents",
 "img": "",
 "confirmed": false
 },
@@ -540,6 +585,21 @@
 "desc": "A Halloween four-person team scramble with some trick holes and some treat holes. $99 per player includes golf, a player gift, lunch and hole contests. A skins game and raffle are optional.",
 "url": "https://www.indiancreekgolfclub.com/Calendar/UpcomingEvents",
 "img": "https://www.indiancreekgolfclub.com/webassets/057/events/Event_057_12419.png",
+"confirmed": true
+},
+{
+"id": "tee-up-and-hang-out-great-hearts-prairie-view-topgolf-event",
+"title": "Tee Up & Hang Out! — Great Hearts Prairie View Topgolf Event",
+"start": "2026-11-01",
+"end": "",
+"time": "4:30 PM - 6:30 PM",
+"venue": "Topgolf Fort Worth",
+"city": "Fort Worth",
+"area": "fortworth",
+"cat": "fun",
+"desc": "Family evening for Great Hearts Prairie View families at Topgolf Fort Worth. $25 per person includes up to 2 hours of play, a membership card and soda/tea; private bays are $150 (early-bird $125), holding up to 6 players plus 2 spectators.",
+"url": "https://www.zeffy.com/en-US/ticketing/tee-up-and-hang-out-great-hearts-prairie-view-topgolf-event",
+"img": "",
 "confirmed": true
 },
 {
@@ -738,6 +798,21 @@
 "confirmed": false
 },
 {
+"id": "the-miracle-cup-golf-tournament",
+"title": "The Miracle Cup Golf Tournament",
+"start": "2026-11-08",
+"end": "",
+"time": "11:00 AM shotgun start",
+"venue": "The Golf Club at Champions Circle",
+"city": "Fort Worth",
+"area": "fortworth",
+"cat": "scramble",
+"desc": "Miracles Through Golf's annual fall tournament and toy drive, partnered with Roanoke Police Department's Santa Cops toy drive to help struggling families at the holidays. Two-man Ryder-Cup-style format: 6 holes shamble, 6 best shot, 6 scramble; one donated toy earns a special raffle ticket.",
+"url": "https://miraclesthroughgolf.com/the-miracle-cup-golf-tournament/",
+"img": "https://miraclesthroughgolf.com/wp-content/uploads/2023/09/miracle-cup-trophy.png",
+"confirmed": true
+},
+{
 "id": "13th-annual-ype-dallas-golf-tournament",
 "title": "13th Annual YPE Dallas Golf Tournament",
 "start": "2026-11-09",
@@ -858,6 +933,21 @@
 "confirmed": true
 },
 {
+"id": "dallas-showcase-sherrill-park-tjgt",
+"title": "Dallas Showcase @ Sherrill Park (TJGT)",
+"start": "2026-11-14",
+"end": "2026-11-15",
+"time": "",
+"venue": "Sherrill Park Golf Course - Course Two",
+"city": "Richardson",
+"area": "north",
+"cat": "junior",
+"desc": "Texas Junior Golf Tour Open Series junior tournament; registration closes Nov 13, 2026 on the tour page.",
+"url": "https://tournaments.tjgt.com/",
+"img": "",
+"confirmed": true
+},
+{
 "id": "visit-from-the-creature-teacher",
 "title": "Visit from The Creature Teacher",
 "start": "2026-11-14",
@@ -886,6 +976,21 @@
 "url": "https://allevents.in/frisco/fpoa-charity-golf-tournament/200030623609852",
 "img": "",
 "confirmed": false
+},
+{
+"id": "golf-for-industry-education",
+"title": "Golf for Industry Education",
+"start": "2026-11-16",
+"end": "",
+"time": "12:00 PM scramble (10:30 AM check-in)",
+"venue": "Las Colinas Country Club",
+"city": "Irving",
+"area": "mid",
+"cat": "scramble",
+"desc": "PIA MidAmerica's Nolan Moore Memorial Education Foundation annual fundraiser for industry education, scramble format.",
+"url": "https://piamidam.org/events/",
+"img": "",
+"confirmed": true
 },
 {
 "id": "par-y-parranda-charity-golf-tournament",
@@ -946,6 +1051,21 @@
 "url": "https://charitygolfer.com/api/event/2026-23rd-annual-turkey-shootout-benefitting-american-cancer-society/pdf",
 "img": "",
 "confirmed": false
+},
+{
+"id": "turkey-challenge-shady-valley-tjgt",
+"title": "Turkey Challenge @ Shady Valley (TJGT)",
+"start": "2026-11-23",
+"end": "2026-11-24",
+"time": "",
+"venue": "Shady Valley Golf Club",
+"city": "Arlington",
+"area": "mid",
+"cat": "junior",
+"desc": "Texas Junior Golf Tour Open Series junior tournament in Thanksgiving week; registration closes Nov 22, 2026 on the tour page.",
+"url": "https://tournaments.tjgt.com/",
+"img": "",
+"confirmed": true
 },
 {
 "id": "2nd-annual-turkey-shoot",
@@ -1038,6 +1158,21 @@
 "confirmed": true
 },
 {
+"id": "tangle-ridge-shootout-tjgt",
+"title": "Tangle Ridge Shootout (TJGT)",
+"start": "2026-12-05",
+"end": "2026-12-06",
+"time": "",
+"venue": "Tangle Ridge Golf Club",
+"city": "Grand Prairie",
+"area": "mid",
+"cat": "junior",
+"desc": "Texas Junior Golf Tour Open Series junior tournament; registration closes Dec 4, 2026 on the tour page.",
+"url": "https://tournaments.tjgt.com/",
+"img": "",
+"confirmed": true
+},
+{
 "id": "communities-in-schools-dallas-kids-classic-golf-tournament",
 "title": "Communities In Schools of Dallas Region — Kids Classic Golf Tournament (15th Annual)",
 "start": "2026-12-07",
@@ -1080,6 +1215,51 @@
 "desc": "New Year's Day four-person scramble hosted by DLLS Sports. Entry includes breakfast, 18 holes with cart, contests, a gift pack and a buffet lunch.",
 "url": "https://events.humanitix.com/dlls-lone-star-open-scramble-golf-tournament",
 "img": "https://images.humanitix.com/i/0ki681GuQOGMcpNaTaHe@responsive-1600.webp",
+"confirmed": false
+},
+{
+"id": "rangers-new-year-kickoff-tjgt",
+"title": "Rangers New Year Kickoff (TJGT)",
+"start": "2027-01-09",
+"end": "2027-01-10",
+"time": "",
+"venue": "Texas Rangers Golf Club",
+"city": "Arlington",
+"area": "mid",
+"cat": "junior",
+"desc": "Texas Junior Golf Tour Open Series junior tournament opening the new year; the tour page shows registration opening Oct 15, 2026 (the year is inferred from the schedule order, so the date is marked to confirm).",
+"url": "https://tournaments.tjgt.com/",
+"img": "",
+"confirmed": false
+},
+{
+"id": "bbq-bash-prairie-lakes-tjgt",
+"title": "BBQ Bash @ Prairie Lakes (TJGT)",
+"start": "2027-01-16",
+"end": "2027-01-17",
+"time": "",
+"venue": "Prairie Lakes Golf Club",
+"city": "Grand Prairie",
+"area": "mid",
+"cat": "junior",
+"desc": "Texas Junior Golf Tour Open Series junior tournament on the Blue and Red courses; the tour page shows registration opening Oct 15, 2026 (the year is inferred from the schedule order, so the date is marked to confirm).",
+"url": "https://tournaments.tjgt.com/",
+"img": "",
+"confirmed": false
+},
+{
+"id": "the-star-showcase-frisco-lakes-tjgt",
+"title": "The Star Showcase @ Frisco Lakes (TJGT)",
+"start": "2027-01-30",
+"end": "2027-01-31",
+"time": "",
+"venue": "Frisco Lakes Golf Club",
+"city": "Frisco",
+"area": "north",
+"cat": "junior",
+"desc": "Texas Junior Golf Tour Open Series junior tournament; the tour page shows registration opening Oct 15, 2026 (the year is inferred from the schedule order, so the date is marked to confirm).",
+"url": "https://tournaments.tjgt.com/",
+"img": "",
 "confirmed": false
 },
 {
@@ -2344,6 +2524,26 @@
 "tue"
 ],
 "ends": "2026-11-10"
+},
+{
+"id": "spark-golf-topgolf-the-colony-league",
+"title": "Spark Golf League at Topgolf The Colony",
+"start": "2026-11-03",
+"end": "2026-12-15",
+"time": "7:00 PM",
+"venue": "Topgolf The Colony",
+"city": "The Colony",
+"area": "north",
+"cat": "league",
+"desc": "Spark Golf's 9-hole social league in Topgolf bays: 2-person teams play a new course each week, $28.50 per player per round. Season runs Tuesdays, Nov 3 to Dec 15, 2026.",
+"url": "https://sparkgolf.com/leagues/us/texas/the-colony/topgolf---the-colony-14581",
+"img": "",
+"confirmed": true,
+"recur": "Every Tuesday",
+"days": [
+"tue"
+],
+"ends": "2026-12-15"
 }
 ],
 "tba": [],
