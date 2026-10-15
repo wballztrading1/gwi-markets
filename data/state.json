@@ -1053,8 +1053,9 @@
    "confirmed": true,
    "firstSeen": "2026-10-01",
    "lastSeen": "2026-10-15",
-   "shown": false,
-   "imgTried": true
+   "shown": true,
+   "imgTried": true,
+   "touched": true
   },
   "9b58aeeda3": {
    "id": "9b58aeeda3",
@@ -1075,8 +1076,9 @@
    "confirmed": true,
    "firstSeen": "2026-10-01",
    "lastSeen": "2026-10-15",
-   "shown": false,
-   "imgTried": true
+   "shown": true,
+   "imgTried": true,
+   "touched": true
   },
   "ae8ef93526": {
    "id": "ae8ef93526",
