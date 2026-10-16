@@ -1,16 +1,9 @@
 {
  "checked": "2026-10-16",
- "total": 168,
+ "total": 167,
  "live": 167,
  "updated": 0,
- "hidden": [
-  {
-   "id": "5c7b4e88",
-   "title": "TaylorMade Qi35 Max Driver",
-   "store": "Golf Discount",
-   "why": "sold out"
-  }
- ],
+ "hidden": [],
  "unreadable": 38,
  "unclear": 5
 }
