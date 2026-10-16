@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-16",
  "deals": [
   {
    "id": "a8e8dbdd",
@@ -652,7 +652,7 @@
    "pct": 44,
    "cond": "new (closeout)",
    "condClass": "new",
-   "promo": "SAVE50 = $50 off $250+",
+   "promo": "",
    "ends": "",
    "note": "Customizable (loft/shaft/hand). 90-day Performance Guarantee.",
    "demand": 3,
@@ -1022,7 +1022,7 @@
    "pct": 33,
    "cond": "new",
    "condClass": "new",
-   "promo": "SAVE50 = $50 off $250+",
+   "promo": "",
    "ends": "",
    "note": "In stock, est. delivery 9/30-10/1.",
    "demand": 3,
@@ -1150,7 +1150,7 @@
    "condClass": "used",
    "promo": "",
    "ends": "",
-   "note": "Category-page 'From' price = lowest current set configuration/grade; store compare-at shown. 90-day warranty, 30-day returns.",
+   "note": "Category-page 'From' price = lowest current set configuration/grade; store compare-at shown. 90-day warranty, 30-day returns. Verified 2026-10-16 live: the $382.14 From price is an 8-PW,AW 4-club partial set (Good condition), not the listed configuration, so the listed price is kept.",
    "demand": 3,
    "value": "value",
    "why": "2025 game-improvement iron set; in stock",
@@ -1720,7 +1720,7 @@
    "pct": 50,
    "cond": "new",
    "condClass": "new",
-   "promo": "Code HALLOWEEN drops it to $17. Advance booking required; not valid Sat 5-8pm; $6 one-time new-player fee.",
+   "promo": "Code HALLOWEEN drops it to $18.09. Advance booking required; not valid Sat 5-8pm; $6 one-time new-player fee.",
    "ends": "",
    "note": "Advance booking required; $6 one-time new-player fee; not valid Sat 5-8pm; voucher promo value expires 90 days after purchase. Club rentals and parking included.",
    "demand": 2,
@@ -2001,12 +2001,12 @@
    "store": "Groupon",
    "url": "https://www.groupon.com/deals/club-59-golf",
    "img": "https://img.grouponcdn.com/deal/RjxtyU26jVMMQzZKzv6uU2/Gq-1000x600/v1/t2100x1260.webp",
-   "price": 79.29,
+   "price": 74.25,
    "was": 180,
-   "pct": 56,
+   "pct": 59,
    "cond": "new",
    "condClass": "new",
-   "promo": "Code HALLOWEEN drops it to $79.29.",
+   "promo": "Code EARLYBIRD drops it to $74.25.",
    "ends": "",
    "note": "Full 18-hole sim round; limit 2 per person; appointment required; promo value expires 180 days after purchase.",
    "demand": 2,
@@ -3049,12 +3049,12 @@
    "store": "Groupon",
    "url": "https://www.groupon.com/deals/the-green-jacket-indoor-golf-sports-bar",
    "img": "https://img.grouponcdn.com/deal/39hrqndeY75iBCeS4DdeWNitY8Gx/39-958x574/v1/t2100x1260.webp",
-   "price": 42.09,
+   "price": 39.38,
    "was": 70,
-   "pct": 40,
+   "pct": 44,
    "cond": "voucher",
    "condClass": "new",
-   "note": "$52.50 (25% off) without code; code HALLOWEEN brings it to $42.09. Club rental $10.",
+   "note": "$52.50 (25% off) without code; code HALLOWEEN brings it to $39.38. Club rental $10.",
    "why": "2 hours of sim time for 5 at about $8.50 each; 4.6 stars",
    "demand": 2
   },
@@ -3716,13 +3716,13 @@
    "store": "Groupon",
    "url": "https://www.groupon.com/deals/level-up-golf-1",
    "img": "",
-   "price": 32.09,
+   "price": 30.0,
    "was": 80.0,
    "cond": "voucher",
    "condClass": "new",
-   "promo": "Code HALLOWEEN drops it to $32.09.",
+   "promo": "Code HALLOWEEN drops it to $30.00.",
    "ends": "",
-   "note": "Base Groupon price $40 (50% off); code HALLOWEEN brings it to $32.09. 5.0-rated Richardson instructor.",
+   "note": "Base Groupon price $40 (50% off); code HALLOWEEN brings it to $30.00. 5.0-rated Richardson instructor.",
    "demand": 2,
    "value": "",
    "why": "Private simulator-coached lessons in Richardson at half price",
@@ -3732,7 +3732,7 @@
    "seen": "direct",
    "also": [],
    "id": "9841e61b",
-   "pct": 60
+   "pct": 62
   },
   {
    "promo": "",
@@ -4361,7 +4361,7 @@
   {
    "promo": "",
    "ends": "",
-   "note": "Seen on Golf Discount Bags & Carts collection grid 2026-10-14.",
+   "note": "Product page verified live 2026-10-16: $219.99/$324.99, Black variant in stock, Add to Cart enabled.",
    "demand": 2,
    "value": "value",
    "why": "Best-selling C-130 cart bag at 32% off",
@@ -4375,7 +4375,7 @@
    "cat": "bag",
    "group": "bags",
    "store": "Golf Discount",
-   "url": "https://www.golfdiscount.com/collections/bags-carts",
+   "url": "https://www.golfdiscount.com/collections/bags-carts/products/sun-mountain-2025-c130-cart-bag",
    "img": "",
    "price": 219.99,
    "was": 324.99,
@@ -4409,13 +4409,39 @@
    "condClass": "used",
    "id": "6dc671c8",
    "pct": 61
+  },
+  {
+   "promo": "",
+   "ends": "",
+   "note": "Product page InStock 2026-10-16; was and 33% OFF from Worldwide's own sale grid.",
+   "demand": 2,
+   "value": "value",
+   "why": "FootJoy's premium Premiere Series spiked shoe at 33% off",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": [],
+   "title": "FootJoy Premiere Series Packard Golf Shoes",
+   "brand": "FootJoy",
+   "cat": "shoes",
+   "group": "shoes",
+   "store": "Worldwide Golf Shops",
+   "url": "https://www.worldwidegolfshops.com/footjoy-mens-premiere-series-packard-golf-shoes-200000645/p",
+   "img": "",
+   "price": 149.95,
+   "was": 224.95,
+   "cond": "new (previous season style)",
+   "condClass": "new",
+   "id": "fa74a225",
+   "pct": 33
   }
  ],
  "promos": [
   {
    "store": "Rock Bottom Golf",
-   "title": "Our Cost Deals clearance (500+ items)",
-   "details": "Homepage 2026-10-12: Our Cost Deals and Drivetime doorbuster clearance, Titleist GT price drop, footwear clearance, bags & carts from $94.37. The earlier 20%-off-clubs/bags banner was not on the homepage this run.",
+   "title": "15% off new & used clubs, 20% off bags & carts + Our Cost Deals",
+   "details": "Homepage 2026-10-16: 15% off new & used clubs, 20% off bags & carts, Our Cost footwear and clearance. No code or end date shown.",
    "code": "",
    "ends": "",
    "url": "https://www.rockbottomgolf.com/",
@@ -4440,18 +4466,9 @@
    "img": "https://www.2ndswing.com/media/wysiwyg/TradeBonus15percentDrivers-SiteMain-_2000x550_2.png"
   },
   {
-   "store": "PGA TOUR Superstore",
-   "title": "$50 off $250+",
-   "details": "Save $50 on orders of $250 or more; shown sitewide on deals pages. PING, Titleist, FootJoy and some apparel brands excluded or partially restricted from promotions. Not shown on PGA's own deals page 2026-10-05; end date per third-party listings.",
-   "code": "SAVE50",
-   "ends": "2026-10-14",
-   "url": "https://www.pgatoursuperstore.com/golf-deals/",
-   "img": ""
-  },
-  {
    "store": "Groupon",
    "title": "Per-deal codes on DFW golf deals",
-   "details": "Groupon codes are currently per-deal with code HALLOWEEN: Topgolf Allen drops to $17, The Green Jacket simulator (Mansfield) to $42.09, CLUB 59 GOLF (Fort Worth) to $79.29, and Ryan Hixson Golf lessons (Richardson) to $32.09. Groupon also lists GolfNow-powered tee times at DFW courses.",
+   "details": "Groupon codes are currently per-deal: Topgolf Allen drops to $18.09 with code HALLOWEEN, The Green Jacket simulator (Mansfield) to $39.38 with code HALLOWEEN, CLUB 59 GOLF (Fort Worth) to $74.25 with code EARLYBIRD, and Ryan Hixson Golf lessons (Richardson) to $30.00 with code HALLOWEEN. Groupon also lists GolfNow-powered tee times at DFW courses.",
    "code": "",
    "ends": "",
    "url": "https://www.groupon.com/local/fort-worth/golf",
@@ -4504,7 +4521,7 @@
   },
   {
    "store": "Golf Galaxy",
-   "title": "Clearance event (978 items)",
+   "title": "Clearance event",
    "details": "Clearance apparel/accessories up to ~80% off (Nike, TravisMathew, Callaway, adidas, G/FORE). Used/demo drivers from major brands also listed.",
    "code": "",
    "ends": "",
@@ -4518,15 +4535,6 @@
    "code": "",
    "ends": "",
    "url": "https://www.footjoy.com/sale",
-   "img": ""
-  },
-  {
-   "store": "GolfNow",
-   "title": "Hot Deals - Dallas/Fort Worth + code SAMEDAY",
-   "details": "Code SAMEDAY: up to 20% off Hot Deals tee times for same-day play, 1-4 golfers, GolfNow.com/app, Oct 6-15, 2026 (official promotions page). DFW Hot Deals prices load dynamically.",
-   "code": "SAMEDAY",
-   "ends": "2026-10-15",
-   "url": "https://www.golfnow.com/tee-times/destination/dallas-ft-worth/hot-deals/search",
    "img": ""
   },
   {
@@ -4818,5 +4826,5 @@
    "source": "https://golf.com/gear/drivers/best-drivers-2026-fully-fit/ (list $649-$699; threshold is a judgment call, about 15% off)"
   }
  ],
- "researched": "2026-10-14"
+ "researched": "2026-10-16"
 }
