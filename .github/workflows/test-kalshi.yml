@@ -13,12 +13,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: node build-data.mjs out
+      - run: node build-data.mjs out 2>&1 | tee build.log
+      - run: grep -E 'Kalshi:|Built' build.log | while read -r l; do echo "::notice::$l"; done
       - run: |
           node -e '
           const m=require("./out/markets.json");
-          console.log(JSON.stringify(m.sources.map(s=>[s.source,s.count,s.message])));
+          console.log("::notice::SOURCES "+JSON.stringify(m.sources.map(s=>[s.source,s.count,s.message])));
           const k=m.markets.filter(x=>x.source=="kalshi");
           const c={};for(const x of k)c[x.eventTitle]=(c[x.eventTitle]||0)+1;
-          console.log("KALSHI BOARDS ON PAGE:",JSON.stringify(c,null,1));
-          console.log("TOTAL ON PAGE:",m.markets.length, m.note);'
+          console.log("::notice::KALSHI BOARDS ON PAGE "+JSON.stringify(c));
+          console.log("::notice::TOTAL ON PAGE "+m.markets.length+" "+m.note);'
