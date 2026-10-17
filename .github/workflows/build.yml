@@ -14,7 +14,9 @@ permissions:
 
 concurrency:
   group: gwi-pages
-  cancel-in-progress: false
+  # A newer build replaces an older one that is still waiting or stuck (an old run stuck in
+  # "Queued" blocked every build from Oct 5 to Oct 17, 2026). Builds take ~1 min, so nothing is lost.
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -29,6 +31,7 @@ jobs:
         with:
           node-version: '20'
       - name: Build markets.json and scores.json
+        timeout-minutes: 4
         run: node build-data.mjs out
         env:
           PREVIOUS_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
@@ -39,7 +42,9 @@ jobs:
           if [ -f data/deals.json ]; then cp data/deals.json out/deals.json; fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
+        timeout-minutes: 2
         with:
           path: out
       - id: deploy
+        timeout-minutes: 3
         uses: actions/deploy-pages@v4
