@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-16",
+ "checked": "2026-10-17",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -25,7 +25,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 40,
+   "found": 30,
    "kept": 0,
    "error": ""
   },
@@ -310,8 +310,8 @@
     "events-calendar",
     "ical"
    ],
-   "found": 257,
-   "kept": 13,
+   "found": 255,
+   "kept": 14,
    "error": ""
   },
   {
@@ -320,7 +320,7 @@
    "methods": [
     "structured-data"
    ],
-   "found": 1,
+   "found": 2,
    "kept": 0,
    "error": ""
   },
