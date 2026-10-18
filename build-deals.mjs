@@ -5,6 +5,7 @@
 //  - sold out / page gone            -> hidden
 //  - price went up and discount < 25% -> hidden
 //  - page couldn't be read (blocked)  -> kept at the last verified price for up to 10 days, then hidden
+//  - deal listed without a photo      -> the product image is taken from the store page when found
 // No packages needed — plain Node 20.
 import fs from 'node:fs/promises';
 
@@ -48,6 +49,23 @@ function meta(html, prop) {
   const tag = new RegExp(`<meta[^>]+(?:property|name|itemprop)=["']${prop}["'][^>]*>`, 'i').exec(html)?.[0];
   return tag ? (/content=["']([^"']*)["']/i.exec(tag)?.[1] || '') : '';
 }
+// ---- product image (only from real product pages; never logos or category banners) ----
+const BAD_IMG = /\.svg(\?|$)|logo|placeholder|no[-_]?image|spacer|sprite|icon|banner/i;
+function absUrl(u, base) { try { return u ? new URL(String(u).replace(/&amp;/g, '&'), base).href.replace(/^http:/, 'https:') : ''; } catch { return ''; } }
+function findProduct(o, depth = 0) {
+  if (!o || typeof o !== 'object' || depth > 8) return null;
+  if (Array.isArray(o)) { for (const x of o) { const p = findProduct(x, depth + 1); if (p) return p; } return null; }
+  if (/Product/.test([].concat(o['@type'] || []).join(' '))) return o;
+  for (const k of ['@graph', 'mainEntity', 'itemListElement']) if (o[k]) { const p = findProduct(o[k], depth + 1); if (p) return p; }
+  return null;
+}
+function extractImage(html, base) {
+  let img = '';
+  for (const j of jsonLd(html)) { const p = findProduct(j); if (p && p.image) { const i = [].concat(p.image)[0]; img = typeof i === 'string' ? i : (i?.url || i?.contentUrl || ''); if (img) break; } }
+  if (!img && /product/i.test(meta(html, 'og:type'))) img = meta(html, 'og:image');
+  img = absUrl(img, base);
+  return img && !BAD_IMG.test(img) ? img : '';
+}
 function extract(html) {
   // returns { price, inStock } — price may be null when not found
   const offers = jsonLd(html).flatMap((j) => findOffers(j));
@@ -68,7 +86,8 @@ async function shopify(url) {
     const avail = (j.variants || []).filter((v) => v.available);
     const pool_ = avail.length ? avail : j.variants || [];
     const price = pool_.length ? Math.min(...pool_.map((v) => v.price / 100)) : (j.price ? j.price / 100 : null);
-    return { price, inStock: avail.length > 0 || !!j.available };
+    const image = absUrl(j.featured_image || (j.images || [])[0] || '', m[1]);
+    return { price, inStock: avail.length > 0 || !!j.available, image: image && !BAD_IMG.test(image) ? image : '' };
   } catch { return null; }
 }
 
@@ -78,6 +97,7 @@ async function check(d) {
   let found = null;
   if (/\/products\//.test(d.url)) found = await shopify(d.url);
   if (!found && r.ok) found = extract(r.text);
+  if (found && !found.image && r.ok && !d.img) found.image = extractImage(r.text, r.url);
   if (!r.ok && !found) return { status: 'unreadable', http: r.status || r.error };
   if (/sold out|out of stock|no longer available|this product is unavailable/i.test(r.text.slice(0, 400000)) && found?.inStock == null) found = { ...(found || {}), inStock: false };
   return { status: 'ok', ...(found || {}) };
@@ -122,16 +142,19 @@ async function main() {
     }
     const pct = d.was ? Math.round((1 - price / d.was) * 100) : d.pct;
     if (!why && !PLAY.has(d.cat) && d.was && pct < MIN_PCT) why = `now only ${pct}% off`;
-    prev.items[d.id] = { price, listed: d.price, verified, inStock, why };
+    // v2: remember a product photo found on the store page for deals listed without one
+    const img = d.img || (r.status === 'ok' && r.image) || st.img || '';
+    if (!d.img && img && !st.img) report.imagesFound = (report.imagesFound || 0) + 1;
+    prev.items[d.id] = { price, listed: d.price, verified, inStock, why, ...(img && !d.img ? { img } : {}) };
     if (why) { report.hidden.push({ id: d.id, title: d.title, store: d.store, why }); return; }
     report.live++;
-    out.push({ ...d, price, pct, checked: verified });
+    out.push({ ...d, ...(img ? { img } : {}), price, pct, checked: verified });
   });
   const published = { updated: TODAY, researched: cur.researched || '', deals: out, promos: (cur.promos || []).filter((p) => !p.ends || p.ends >= TODAY), stores: cur.stores || [], thresholds: cur.thresholds || [] };
   await fs.writeFile(`${DATA}/deals.json`, JSON.stringify(published));
   await fs.writeFile(`${DATA}/deals-state.json`, JSON.stringify(prev, null, 1));
   await fs.writeFile(`${DATA}/deals-report.json`, JSON.stringify(report, null, 1));
-  console.log(`Live ${report.live}/${report.total} · prices changed ${report.updated} · unreadable ${report.unreadable} · hidden ${report.hidden.length}`);
+  console.log(`Live ${report.live}/${report.total} · prices changed ${report.updated} · unreadable ${report.unreadable} · hidden ${report.hidden.length} · new images ${report.imagesFound || 0}`);
   for (const h of report.hidden) console.log(`  hidden: ${h.title} (${h.store}) — ${h.why}`);
 }
 main().catch((e) => { console.error(e); process.exit(1); });
