@@ -91,6 +91,23 @@ async function shopify(url) {
   } catch { return null; }
 }
 
+// ---- same-product key (strict): brand + category + model words before the category word ----
+// Used to borrow a photo from another listing of the SAME product, to compare stores, and by price alerts.
+const STOP = new Set(['mens', 'men', 'golf', 'the', 'new', 'used', 'preowned', 'pre', 'owned', 'demo', 'open', 'box', 'closeout', 'certified', 'refurbished', 'sale']);
+const CATWORD = /\b(drivers?|fairway\s+woods?|fairways?|woods?|hybrids?|rescue|irons?|iron\s+set|wedges?|putters?|golf\s+balls?|balls?|(?:stand|cart|carry)\s+bag|bag|rangefinder|laser|launch\s+monitor|gps|watch|shoes?|polo|pullover|pants|shorts|hoodie|jacket|vest)\b/;
+export function pkey(d) {
+  if (!d || PLAY.has(d.cat)) return '';
+  const brand = String(d.brand || '').toLowerCase();
+  let t = String(d.title || '').toLowerCase().replace(/scotty cameron/g, 'scottycameron');
+  const lh = /left[\s-]*hand|\blh\b/.test(t);
+  t = t.replace(/\[[^\]]*\]|\([^)]*\)/g, ' ').split(/\s+-\s+/)[0].replace(/[’']/g, '');
+  const m = CATWORD.exec(t); if (!m) return '';
+  const bw = new Set(brand.split(/\s+/).map((w) => w.replace(/[^a-z0-9]/g, '')));
+  const words = t.slice(0, m.index).replace(/[-/]/g, '').split(/[^a-z0-9.]+/).filter((w) => w && !bw.has(w) && !STOP.has(w));
+  if (!words.length) return '';
+  return [brand, d.cat, words.join(' ') + (lh ? ' lh' : '')].join('|');
+}
+
 async function check(d) {
   const r = await get(d.url);
   if (r.status === 404 || r.status === 410) return { status: 'gone' };
@@ -145,11 +162,23 @@ async function main() {
     // v2: remember a product photo found on the store page for deals listed without one
     const img = d.img || (r.status === 'ok' && r.image) || st.img || '';
     if (!d.img && img && !st.img) report.imagesFound = (report.imagesFound || 0) + 1;
-    prev.items[d.id] = { price, listed: d.price, verified, inStock, why, ...(img && !d.img ? { img } : {}) };
+    // v3: daily price history (one point per day, ~90 days) for "lowest in 30 days" / "dropped this week"
+    const hist = (st.hist || []).filter((h) => h[0] !== TODAY && h[0] >= addDays(TODAY, -90));
+    if (!why && r.status !== 'unreadable') hist.push([TODAY, price]);
+    prev.items[d.id] = { price, listed: d.price, verified, inStock, why, hist, ...(img && !d.img ? { img } : {}) };
     if (why) { report.hidden.push({ id: d.id, title: d.title, store: d.store, why }); return; }
     report.live++;
-    out.push({ ...d, ...(img ? { img } : {}), price, pct, checked: verified });
+    const h30 = hist.filter((h) => h[0] >= addDays(TODAY, -30)).map((h) => h[1]);
+    const wk = hist.filter((h) => h[0] <= addDays(TODAY, -6)).pop();
+    const extra = { days: hist.length };
+    if (h30.length) extra.low30 = Math.min(...h30, price);
+    if (wk && wk[1] - price >= 1) extra.drop7 = Math.round((wk[1] - price) * 100) / 100;
+    out.push({ ...d, ...(img ? { img } : {}), price, pct, checked: verified, pkey: pkey(d), ...extra });
   });
+  // borrow a photo from another listing of the exact same product (same brand + category + model)
+  const photoByKey = {};
+  for (const x of out) if (x.img && x.pkey && !photoByKey[x.pkey]) photoByKey[x.pkey] = x.img;
+  for (const x of out) if (!x.img && x.pkey && photoByKey[x.pkey]) { x.img = photoByKey[x.pkey]; x.imgShared = true; report.imagesShared = (report.imagesShared || 0) + 1; }
   const published = { updated: TODAY, researched: cur.researched || '', deals: out, promos: (cur.promos || []).filter((p) => !p.ends || p.ends >= TODAY), stores: cur.stores || [], thresholds: cur.thresholds || [] };
   await fs.writeFile(`${DATA}/deals.json`, JSON.stringify(published));
   await fs.writeFile(`${DATA}/deals-state.json`, JSON.stringify(prev, null, 1));
@@ -157,4 +186,4 @@ async function main() {
   console.log(`Live ${report.live}/${report.total} · prices changed ${report.updated} · unreadable ${report.unreadable} · hidden ${report.hidden.length} · new images ${report.imagesFound || 0}`);
   for (const h of report.hidden) console.log(`  hidden: ${h.title} (${h.store}) — ${h.why}`);
 }
-main().catch((e) => { console.error(e); process.exit(1); });
+if (import.meta.url === `file://${process.argv[1]}`) main().catch((e) => { console.error(e); process.exit(1); });
