@@ -1,22 +1,9 @@
 {
  "checked": "2026-10-18",
- "total": 165,
- "live": 163,
- "updated": 0,
- "hidden": [
-  {
-   "id": "7f780bd8",
-   "title": "adidas Men's CodeChaos 25 BOA Golf Shoes",
-   "store": "TGW",
-   "why": "page removed"
-  },
-  {
-   "id": "cb0aa4a3",
-   "title": "Shangri-La Resort Stay & Play - 1 night + golf for 2",
-   "store": "Golf Moose",
-   "why": "sold out"
-  }
- ],
- "unreadable": 38,
- "unclear": 5
+ "total": 213,
+ "live": 213,
+ "updated": 1,
+ "hidden": [],
+ "unreadable": 45,
+ "unclear": 6
 }
