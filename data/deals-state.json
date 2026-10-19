@@ -53,7 +53,7 @@
   },
   "a8e8dbdd": {
    "price": 70,
-   "listed": 79.99,
+   "listed": 74.99,
    "verified": "2026-10-19",
    "inStock": true,
    "why": "",
@@ -71,7 +71,7 @@
   "45d7ecb3": {
    "price": 234.99,
    "listed": 234.99,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -178,7 +178,7 @@
   "91a54642": {
    "price": 199.87,
    "listed": 199.87,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -186,7 +186,7 @@
   "9897d432": {
    "price": 222.95,
    "listed": 222.95,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -194,7 +194,7 @@
   "77bb9adc": {
    "price": 119.42,
    "listed": 119.42,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -202,7 +202,7 @@
   "e2210f3f": {
    "price": 129.88,
    "listed": 129.88,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -346,7 +346,7 @@
   "99f26173": {
    "price": 210.39,
    "listed": 210.39,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -354,7 +354,7 @@
   "dd1b19ee": {
    "price": 233.77,
    "listed": 233.77,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -362,7 +362,7 @@
   "5d69b8e5": {
    "price": 168.17,
    "listed": 168.17,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -449,8 +449,8 @@
    ]
   },
   "f66e1b9e": {
-   "price": 199,
-   "listed": 199,
+   "price": 189,
+   "listed": 189,
    "verified": "2026-10-19",
    "inStock": true,
    "why": "",
@@ -461,7 +461,7 @@
     ],
     [
      "2026-10-19",
-     199
+     189
     ]
    ]
   },
@@ -535,7 +535,7 @@
   },
   "c08419f4": {
    "price": 379.99,
-   "listed": 389.99,
+   "listed": 379.99,
    "verified": "2026-10-19",
    "inStock": true,
    "why": "",
@@ -666,7 +666,7 @@
   "0db927f7": {
    "price": 449,
    "listed": 449,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": [
@@ -700,7 +700,7 @@
   "9a546e15": {
    "price": 443.79,
    "listed": 443.79,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -739,7 +739,7 @@
   "8628a728": {
    "price": 32.97,
    "listed": 32.97,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -764,7 +764,7 @@
   "7c87c38d": {
    "price": 19.99,
    "listed": 19.99,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": [
@@ -798,7 +798,7 @@
   "95d791f0": {
    "price": 73.6,
    "listed": 73.6,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -823,7 +823,7 @@
   "ec86f707": {
    "price": 48.97,
    "listed": 48.97,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -831,7 +831,7 @@
   "aa89e7bf": {
    "price": 52.97,
    "listed": 52.97,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -856,7 +856,7 @@
   "b28f0258": {
    "price": 59.99,
    "listed": 59.99,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": [
@@ -890,7 +890,7 @@
   "88c1cacb": {
    "price": 42.97,
    "listed": 42.97,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1024,7 +1024,7 @@
   "f91dca74": {
    "price": 20,
    "listed": 20,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1134,7 +1134,7 @@
   "0decebab": {
    "price": 999,
    "listed": 999,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1142,7 +1142,7 @@
   "93ef4775": {
    "price": 599.99,
    "listed": 599.99,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": [
@@ -1183,7 +1183,7 @@
   "77c3dc6f": {
    "price": 74.25,
    "listed": 74.25,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1274,7 +1274,7 @@
   "fa75f7d0": {
    "price": 29.99,
    "listed": 29.99,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": [
@@ -1427,7 +1427,7 @@
   "e7853c08": {
    "price": 199.99,
    "listed": 199.99,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1637,7 +1637,7 @@
   "da7adfec": {
    "price": 149.98,
    "listed": 149.98,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1761,7 +1761,7 @@
   "8f059897": {
    "price": 37.5,
    "listed": 37.5,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1769,7 +1769,7 @@
   "ee9d863c": {
    "price": 29.5,
    "listed": 29.5,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1777,7 +1777,7 @@
   "a7c45cd9": {
    "price": 38,
    "listed": 38,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1802,7 +1802,7 @@
   "112be177": {
    "price": 39.38,
    "listed": 39.38,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1810,7 +1810,7 @@
   "678e1418": {
    "price": 307.12,
    "listed": 307.12,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1818,7 +1818,7 @@
   "8af396b0": {
    "price": 329.12,
    "listed": 329.12,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1942,7 +1942,7 @@
   "7882a494": {
    "price": 119.42,
    "listed": 119.42,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1950,7 +1950,7 @@
   "7472b3fa": {
    "price": 127.11,
    "listed": 127.11,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1972,7 +1972,7 @@
   "932f100a": {
    "price": 149.95,
    "listed": 149.95,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -1980,7 +1980,7 @@
   "e36fbf8f": {
    "price": 129.95,
    "listed": 129.95,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2056,7 +2056,7 @@
   "1c223889": {
    "price": 98.51,
    "listed": 98.51,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2064,7 +2064,7 @@
   "7b87d018": {
    "price": 102.83,
    "listed": 102.83,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2072,7 +2072,7 @@
   "e11e7b9c": {
    "price": 313.19,
    "listed": 313.19,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2114,7 +2114,7 @@
   "3b7a202c": {
    "price": 350,
    "listed": 350,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2173,7 +2173,7 @@
   "9841e61b": {
    "price": 30,
    "listed": 30,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2322,7 +2322,7 @@
    ]
   },
   "5f153411": {
-   "price": 169.99,
+   "price": 70,
    "listed": 169.99,
    "verified": "2026-10-19",
    "inStock": true,
@@ -2334,12 +2334,12 @@
     ],
     [
      "2026-10-19",
-     169.99
+     70
     ]
    ]
   },
   "425afecf": {
-   "price": 149.99,
+   "price": 70,
    "listed": 149.99,
    "verified": "2026-10-19",
    "inStock": true,
@@ -2351,7 +2351,7 @@
     ],
     [
      "2026-10-19",
-     149.99
+     70
     ]
    ]
   },
@@ -2375,7 +2375,7 @@
   "16e9a3fd": {
    "price": 102.84,
    "listed": 102.84,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2383,7 +2383,7 @@
   "078471bc": {
    "price": 562.79,
    "listed": 562.79,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2459,7 +2459,7 @@
   "4a3044f7": {
    "price": 39,
    "listed": 39,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2467,7 +2467,7 @@
   "eb166338": {
    "price": 32,
    "listed": 32,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2584,7 +2584,7 @@
   "e8c082fd": {
    "price": 299.99,
    "listed": 299.99,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2592,7 +2592,7 @@
   "242e5ebe": {
    "price": 399.99,
    "listed": 399.99,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2600,7 +2600,7 @@
   "99e67f52": {
    "price": 449.99,
    "listed": 449.99,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2608,7 +2608,7 @@
   "a8e8f659": {
    "price": 249.98,
    "listed": 249.98,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2616,7 +2616,7 @@
   "fd25cb93": {
    "price": 649.99,
    "listed": 649.99,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -2624,7 +2624,7 @@
   "275846ec": {
    "price": 920,
    "listed": 920,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": [
@@ -2726,7 +2726,7 @@
   "98b5f2ae": {
    "price": 69,
    "listed": 69,
-   "verified": "2026-10-18",
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -3089,9 +3089,9 @@
    ]
   },
   "515da958": {
-   "price": 27.29,
-   "listed": 27.29,
-   "verified": "2026-10-18",
+   "price": 25.5,
+   "listed": 25.5,
+   "verified": "2026-10-19",
    "inStock": true,
    "why": "",
    "hist": []
@@ -3382,6 +3382,32 @@
     [
      "2026-10-19",
      55
+    ]
+   ]
+  },
+  "802f30af": {
+   "price": 184.99,
+   "listed": 184.99,
+   "verified": "2026-10-19",
+   "inStock": true,
+   "why": "",
+   "hist": [
+    [
+     "2026-10-19",
+     184.99
+    ]
+   ]
+  },
+  "6c19e602": {
+   "price": 149.95,
+   "listed": 149.95,
+   "verified": "2026-10-19",
+   "inStock": true,
+   "why": "",
+   "hist": [
+    [
+     "2026-10-19",
+     149.95
     ]
    ]
   }
