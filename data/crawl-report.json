@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-18",
+ "checked": "2026-10-19",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -399,11 +399,9 @@
   {
    "name": "CharityGolfer (Dallas)",
    "url": "https://charitygolfer.com/texas/dallas",
-   "methods": [
-    "structured-data"
-   ],
-   "found": 10,
-   "kept": 1,
+   "methods": [],
+   "found": 0,
+   "kept": 0,
    "error": ""
   },
   {
