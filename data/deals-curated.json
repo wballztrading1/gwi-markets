@@ -657,7 +657,7 @@
    "note": "Customizable (loft/shaft/hand). 90-day Performance Guarantee.",
    "demand": 3,
    "value": "value",
-   "why": "New Elyte at 44% off — prior-year flagship now replaced by Quantum",
+   "why": "New Elyte at 44% off \u2014 prior-year flagship now replaced by Quantum",
    "city": "",
    "includes": "",
    "trust": "ok",
@@ -855,7 +855,7 @@
   },
   {
    "id": "a4e737f2",
-   "title": "Callaway Paradym Ai Smoke Max Driver 9° Mitsubishi Diamana DF 60 Stiff",
+   "title": "Callaway Paradym Ai Smoke Max Driver 9\u00b0 Mitsubishi Diamana DF 60 Stiff",
    "brand": "Callaway",
    "cat": "driver",
    "group": "woods",
@@ -907,7 +907,7 @@
   },
   {
    "id": "0848e467",
-   "title": "Titleist GT3 Driver 10° Fujikura Speeder Evolution 757 Tour Spec X-Stiff",
+   "title": "Titleist GT3 Driver 10\u00b0 Fujikura Speeder Evolution 757 Tour Spec X-Stiff",
    "brand": "Titleist",
    "cat": "driver",
    "group": "woods",
@@ -1183,7 +1183,7 @@
    "condClass": "new",
    "promo": "",
    "ends": "",
-   "note": "Clearance; size availability may be limited.",
+   "note": "Size availability may be limited.",
    "demand": 2,
    "value": "",
    "why": "Nike Golf premium layer at 81% off",
@@ -1290,7 +1290,7 @@
    "note": "10 available. 4H, regular (5.5) flex.",
    "demand": 2,
    "value": "",
-   "why": "Paradym hybrid — popular 2023 model — under $80",
+   "why": "Paradym hybrid \u2014 popular 2023 model \u2014 under $80",
    "city": "",
    "includes": "",
    "trust": "ok",
@@ -1339,7 +1339,7 @@
    "condClass": "new",
    "promo": "",
    "ends": "",
-   "note": "Clearance.",
+   "note": "",
    "demand": 2,
    "value": "",
    "why": "TravisMathew 2026 polo at 67% off",
@@ -1365,7 +1365,7 @@
    "condClass": "new",
    "promo": "",
    "ends": "",
-   "note": "Clearance.",
+   "note": "",
    "demand": 2,
    "value": "",
    "why": "Popular TravisMathew polo, 2026 line",
@@ -3555,7 +3555,13 @@
    "includes": "",
    "trust": "ok",
    "seen": "direct",
-   "also": [],
+   "also": [
+    {
+     "store": "DICK'S Sporting Goods",
+     "price": 179,
+     "url": "https://www.dickssportinggoods.com/p/cobra-darkspeed-adapt-hybrid-24cbrmdsdpthybxxxhyb/24cbrmdsdpthybxxxhyb"
+    }
+   ],
    "id": "1f887805",
    "pct": 40
   },
@@ -5668,6 +5674,110 @@
    "trust": "ok",
    "why": "Forgiving game-improvement hybrid at 35% off, verified 2026-10-19",
    "also": []
+  },
+  {
+   "id": "b15466a9",
+   "title": "SkyTrak ST MAX Launch Monitor",
+   "brand": "SkyTrak",
+   "cat": "launch-monitor",
+   "group": "tech",
+   "store": "SkyTrak Golf",
+   "url": "https://www.skytrakgolf.com/products/launch-monitor",
+   "img": "https://www.skytrakgolf.com/cdn/shop/files/ST-MAX-2Ports-Angle_1200x1200_0386c4f7-faee-421c-82f3-3cee46daf444.jpg?v=1759442022",
+   "price": 1695,
+   "was": 2995,
+   "pct": 43,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "Includes 1 year free Core (Foresight) membership",
+   "ends": "",
+   "note": "SkyTrak's flagship launch monitor: dual Doppler radar plus photometric camera for ball and club data, with GOLFTEC Speed Training built in. Price verified on SkyTrak's own store 2026-10-19; also $1,695 at The Indoor Golf Shop.",
+   "demand": 3,
+   "value": "",
+   "why": "SkyTrak's flagship launch monitor at $1,300 off list",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": []
+  },
+  {
+   "id": "0efbebb1",
+   "title": "Foresight Sports GC3 Launch Monitor",
+   "brand": "Foresight Sports",
+   "cat": "launch-monitor",
+   "group": "tech",
+   "store": "The Indoor Golf Shop",
+   "url": "https://shopindoorgolf.com/products/foresight-sports-gc3-launch-monitor",
+   "img": "https://shopindoorgolf.com/cdn/shop/files/foresight-sports-gc3-launch-monitor.jpg?v=1736777730",
+   "price": 3999,
+   "was": 6999,
+   "pct": 43,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "Foresight Sports Fall Sale pricing on the standalone GC3 with ball and club data; includes 30 days of Foresight+ Gold with Course Pass Pro. Price verified on the product page 2026-10-19.",
+   "demand": 3,
+   "value": "",
+   "why": "Tour-trusted three-camera launch monitor, $3,000 off",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": []
+  },
+  {
+   "id": "924fd5a0",
+   "title": "PING G440 MAX Driver",
+   "brand": "PING",
+   "cat": "driver",
+   "group": "woods",
+   "store": "DICK'S Sporting Goods",
+   "url": "https://www.dickssportinggoods.com/p/ping-g440-max-driver-24pngmg440mxdrltcdrv/24pngmg440mxdrltcdrv",
+   "img": "https://dks.scene7.com/is/image/GolfGalaxy/24PNGMG440MXDRLTCDRV?qlt=70&wid=780&hei=780&fmt=pjpeg&op_sharpen=1&fit=constrain",
+   "price": 449,
+   "was": 619,
+   "pct": 27,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "Price and shipping availability verified on the product page 2026-10-19 (right hand, 9 degree, stiff shown as ship-available).",
+   "demand": 3,
+   "value": "",
+   "why": "PING's most forgiving current-generation driver at $170 under list",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": []
+  },
+  {
+   "id": "2338d89f",
+   "title": "Maxfli Tour X Golf Balls - 48 Pack",
+   "brand": "Maxfli",
+   "cat": "balls",
+   "group": "balls",
+   "store": "DICK'S Sporting Goods",
+   "url": "https://www.dickssportinggoods.com/p/maxfli-tour-x-golf-balls-48-pack-24maxumxfltrxb3g1gbl/24maxumxfltrxb3g1gbl",
+   "img": "https://dks.scene7.com/is/image/GolfGalaxy/24MAXUMXFLTRXB3G1GBL_White?qlt=70&wid=780&hei=780&fmt=pjpeg&op_sharpen=1&fit=constrain",
+   "price": 119.98,
+   "was": 159.99,
+   "pct": 25,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "48-pack (4 dozen), about $30 per dozen. Price and shipping availability verified on the product page 2026-10-19.",
+   "demand": 2,
+   "value": "",
+   "why": "Urethane tour ball at about $30 a dozen in the bulk pack",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": []
   }
  ],
  "releases": [
@@ -5684,7 +5794,7 @@
    "released": "2026-10-16",
    "source": "https://news.dunlopsports.com/us/media-news/raw-power--pure-sound--srixon-introduces-all-new-zxi-rkt-woods/s/f149f911-0f0f-47e0-969e-2f25a2c5c552",
    "hype": 4,
-   "buzz": "Already a winner before it reached shelves — Ryan Fox won The Open and Shane Lowry won the Irish Open with the RKT driver, so it launched to front-page coverage everywhere."
+   "buzz": "Already a winner before it reached shelves \u2014 Ryan Fox won The Open and Shane Lowry won the Irish Open with the RKT driver, so it launched to front-page coverage everywhere."
   },
   {
    "id": "02037d15",
@@ -5699,7 +5809,7 @@
    "released": "2026-10-16",
    "source": "https://news.dunlopsports.com/us/media-news/raw-power--pure-sound--srixon-introduces-all-new-zxi-rkt-woods/s/f149f911-0f0f-47e0-969e-2f25a2c5c552",
    "hype": 3,
-   "buzz": "Shares the RKT face with the driver and pairs adjustable sole weights with a hosel sleeve — a first for a Srixon fairway wood."
+   "buzz": "Shares the RKT face with the driver and pairs adjustable sole weights with a hosel sleeve \u2014 a first for a Srixon fairway wood."
   },
   {
    "id": "62e655bd",
@@ -5759,7 +5869,7 @@
    "released": "2026-10-01",
    "source": "https://www.foresightsports.com/blogs/golf-tips/the-all-new-foresight-gc2-launch-monitor-2026",
    "hype": 4,
-   "buzz": "Foresight accuracy at $1,699 is the draw — the home-sim crowd has wanted a cheaper way into this ecosystem for years."
+   "buzz": "Foresight accuracy at $1,699 is the draw \u2014 the home-sim crowd has wanted a cheaper way into this ecosystem for years."
   },
   {
    "id": "6376664c",
@@ -5789,7 +5899,7 @@
    "released": "2026-10-09",
    "source": "https://www.garmin.com/en-US/newsroom/press-release/outdoor/meet-approach-s72-garmins-ultimate-golf-smartwatch/",
    "hype": 3,
-   "buzz": "Garmin's first golf watch with on-wrist swing metrics and green reading — and its first with a speaker and mic for calls.",
+   "buzz": "Garmin's first golf watch with on-wrist swing metrics and green reading \u2014 and its first with a speaker and mic for calls.",
    "note": "47 mm; also in 43 mm. Ships in 1-3 business days from Garmin."
   }
  ],
@@ -5830,7 +5940,7 @@
    "confidence": "expected",
    "source": "https://golf.com/gear/golf-balls/titleist-begins-2027-pro-v1-tour-seeding/",
    "hype": 5,
-   "buzz": "Tour seeding is already underway and several players switched during the fall events — a new Pro V1 generation is the most watched ball launch in golf.",
+   "buzz": "Tour seeding is already underway and several players switched during the fall events \u2014 a new Pro V1 generation is the most watched ball launch in golf.",
    "note": "15th generation; retail date not yet announced by Titleist."
   },
   {
@@ -5867,7 +5977,7 @@
    "confidence": "expected",
    "source": "https://www.golfdigest.com/story/taylormade-wont-introduce-a-new-driver-in-2027-moving-to-two-year-product-cycle",
    "hype": 4,
-   "buzz": "Expected alongside the new driver — Callaway refreshes its full woods lineup on a yearly cycle."
+   "buzz": "Expected alongside the new driver \u2014 Callaway refreshes its full woods lineup on a yearly cycle."
   },
   {
    "id": "d51a0007",
@@ -6199,7 +6309,7 @@
    "founded": "1997",
    "rating": "Trustpilot 1.5/5 (51 reviews)",
    "verdict": "credible",
-   "notes": "DICK'S subsidiary, authorized dealer for all major brands. Low Trustpilot sample; complaints on shipping/order accuracy. Clubs clearance page thin — most deep d"
+   "notes": "DICK'S subsidiary, authorized dealer for all major brands. Low Trustpilot sample; complaints on shipping/order accuracy. Clubs clearance page thin \u2014 most deep d"
   },
   {
    "store": "Callaway Golf Pre-Owned",
@@ -6280,6 +6390,374 @@
    "rating": "",
    "verdict": "credible",
    "notes": "Tee-time site that advertises no booking fees and 'DEAL Times' up to 50% off; its Dallas-Fort Worth destination page mirrors GolfNow's destination ID (143), whi"
+  },
+  {
+   "store": "Pinemeadow Golf",
+   "url": "https://www.pinemeadowgolf.com",
+   "founded": "35+ years in business (per TopConsumerReviews); exact founding year not verified",
+   "rating": "BBB A+ (per TopConsumerReviews)",
+   "verdict": "credible",
+   "notes": "Factory-direct maker of value/clone clubs in Wilsonville, OR. 30-day satisfaction guarantee (returns/exchanges for refund or store credit, even after play per review sources) plus a 1-year warranty; sells its own PGX/clone lines rather than name brands."
+  },
+  {
+   "store": "Titleist",
+   "url": "https://www.titleist.com",
+   "founded": "Brand founded 1932 (Titleist's own history page); parent Acushnet traces to 1910",
+   "rating": "not found (no BBB/Trustpilot score verified)",
+   "verdict": "credible",
+   "notes": "The brand's official store (Acushnet Company). Returns within 30 days on new/unused items via its returns portal; personalized/custom products, custom-spec clubs, stamped wedges and Scotty Cameron limited releases are final sale, and shipping charges are non-refundable (per Titleist's own terms)."
+  },
+  {
+   "store": "Puma Golf",
+   "url": "https://www.pumagolf.com",
+   "founded": "PUMA founded 1948 (PUMA/Wikipedia)",
+   "rating": "not found (no BBB/Trustpilot score verified)",
+   "verdict": "credible",
+   "notes": "Official PUMA store; PUMA also owns Cobra Golf. PUMA's published terms allow free returns within 60 days with a PUMA account (30 days without), items unused/complete; personalized products excluded."
+  },
+  {
+   "store": "SWAG Golf",
+   "url": "https://www.swaggolf.com",
+   "founded": "Founded 2018, Chicago/Northbrook, IL (PGA Tour, Golf.com, company)",
+   "rating": "not found (no BBB/Trustpilot score verified)",
+   "verdict": "caution",
+   "notes": "Legit boutique putter/headcover brand (storefront also at swag.golf) whose drops sell out in minutes, but its own terms make all limited-release, pre-order, handcrafted, customized and markdown items FINAL SALE; only core-collection items, apparel and Rewind products can be returned within 30 days if new/unused, and the buyer pays return shipping."
+  },
+  {
+   "store": "Alphard Golf",
+   "url": "https://www.alphardgolf.com",
+   "founded": "US brand launched 2018 (Alphard Golf USA, a division of ProActive Sports); company founding year not verified",
+   "rating": "not found (no BBB/Trustpilot score verified)",
+   "verdict": "credible",
+   "notes": "Established electric-caddy brand (Club Booster, Cybercart) sold through TGW and other major retailers; MyGolfSpy 2025 award winner. Alphard publishes no standard direct return window, so terms vary by retailer (dealers commonly offer 30 days on unused items); products carry a 2-year warranty \u2014 confirm return terms with the seller before buying."
+  },
+  {
+   "store": "SkyTrak Golf",
+   "url": "https://www.skytrakgolf.com",
+   "founded": "Launched 2014 (SkyTrak LLC); acquired by GOLFTEC in 2022 (trade press)",
+   "rating": "not found (no BBB/Trustpilot score verified)",
+   "verdict": "credible",
+   "notes": "The manufacturer's own store for the SkyTrak/SkyTrak+ launch monitors, now owned by GOLFTEC. 30-day returns on undamaged, unused products but with a 20% restocking fee, buyer pays return shipping on simulator/studio packages, and membership plans are non-refundable (per SkyTrak's own product/return pages)."
+  },
+  {
+   "store": "The Indoor Golf Shop",
+   "url": "https://shopindoorgolf.com",
+   "founded": "Founded 2017, Celina, TX (per affiliate-industry profile); Inc. 5000 honoree",
+   "rating": "not found (no BBB/Trustpilot score verified)",
+   "verdict": "credible",
+   "notes": "Established golf-simulator retailer and maker of the SIGPRO line, with a physical showroom in Celina, TX and a price-match guarantee. Returns within 30 days on unused items, but ALL returns carry a 15% restocking fee and the buyer pays return shipping (per its own refund policy) \u2014 a real cost on big-ticket simulator gear."
+  },
+  {
+   "store": "GolfApparelShop",
+   "url": "https://www.golfapparelshop.com",
+   "founded": "not verified; the store is owned by Perry Ellis International (per the site's own Terms & Conditions)",
+   "rating": "not found (no BBB/Trustpilot score verified)",
+   "verdict": "credible",
+   "notes": "Official store of Perry Ellis International selling its licensed Callaway, PGA TOUR, Jack Nicklaus and Ben Hogan apparel at deep discounts. 30-day returns on unused items in original packaging; refunds exclude shipping and handling (per the site's own product-page policy)."
+  },
+  {
+   "store": "SQAIRZ",
+   "url": "https://sqairz.com",
+   "founded": "Founded 2019 (company/founder profiles)",
+   "rating": "not found (no BBB/Trustpilot score verified)",
+   "verdict": "credible",
+   "notes": "Direct-to-consumer performance golf shoe brand (Sir Nick Faldo is a partner/investor; also sold at DICK'S and Worldwide Golf Shops). Offers a 30-day performance guarantee \u2014 try the shoes and return them for a full refund if not satisfied \u2014 though some older buyer reviews report restocking/return-shipping fees of about $23, so confirm current terms at checkout."
+  },
+  {
+   "store": "Garmin",
+   "url": "https://www.garmin.com",
+   "founded": "Founded 1989 (Wikipedia/CB Insights)",
+   "rating": "Trustpilot ~1.9/5 (per review aggregator); BBB rating not verified",
+   "verdict": "credible",
+   "notes": "NYSE-listed manufacturer's own store (Approach golf GPS line). Most items returnable within 30 days in original condition; buyer covers return shipping, and opened software, downloads and custom products are non-returnable. The low Trustpilot score reflects complaint volume typical of very large consumer brands rather than legitimacy concerns."
+  },
+  {
+   "store": "Foresight Sports",
+   "url": "https://www.foresightsports.com",
+   "founded": "Founded 2010, San Diego, CA (CB Insights/company profiles)",
+   "rating": "not found (no BBB/Trustpilot score verified)",
+   "verdict": "caution",
+   "notes": "Legit top-tier launch-monitor maker (GCQuad, GC3, GC2), but manufacturer return terms are strict \u2014 authorized dealers state that Foresight sales are final under Foresight's own policy, and software licenses are non-returnable. Buyers should get return terms in writing before a big-ticket purchase or buy through a dealer that states its own return window."
+  },
+  {
+   "store": "Nike",
+   "url": "https://www.nike.com",
+   "founded": "Founded 1964 as Blue Ribbon Sports (Wikipedia)",
+   "rating": "BBB F, not accredited (BBB profile); Trustpilot ~1.7/5 (per TopConsumerReviews)",
+   "verdict": "caution",
+   "notes": "The brand's official store with a generous 60-day return window (free return shipping for Nike Members), but its BBB rating is F on complaint-handling volume and Trustpilot scores are poor \u2014 the low marks reflect customer-service complaints at massive scale, not legitimacy."
+  },
+  {
+   "store": "Academy Sports + Outdoors",
+   "url": "https://www.academy.com",
+   "founded": "1938 (Wikipedia; founded in San Antonio, TX)",
+   "rating": "BBB Not Rated, not accredited (BBB profile; file under review); Trustpilot 1.5/5 (per TopConsumerReviews)",
+   "verdict": "caution",
+   "notes": "Returns within 60 days with receipt for refund to original payment; items must be resalable in original packaging, and no-receipt returns get merchandise credit. Legit publicly traded chain (est. 1938, 300+ stores), but BBB is Not Rated/not accredited and review scores are poor."
+  },
+  {
+   "store": "DICK'S Sporting Goods",
+   "url": "https://www.dickssportinggoods.com",
+   "founded": "1948 (founded by Richard 'Dick' Stack in Binghamton, NY)",
+   "rating": "BBB F, not accredited (per BBB-based reporting); Trustpilot ~1.8/5 (per TopConsumerReviews)",
+   "verdict": "credible",
+   "notes": "90-day returns on most items in clean, resalable condition (45 days at Warehouse Sale locations); golf clubs also carry a play-guarantee exchange. Largest US sporting-goods retailer; the BBB F and low Trustpilot score reflect complaint handling at scale, not legitimacy."
+  },
+  {
+   "store": "Going Going Gone",
+   "url": "https://www.goinggoinggone.com",
+   "founded": "2021 (off-price concept launched by DICK'S Sporting Goods, May 2021)",
+   "rating": "No separate BBB/Trustpilot profile found; operates under parent DICK'S Sporting Goods (BBB F)",
+   "verdict": "credible",
+   "notes": "DICK'S-owned off-price chain; its own policy page states a 30-day return window on most products, and purchases can be returned to any DICK'S store. ScoreCard rewards apply, same as the parent chain."
+  },
+  {
+   "store": "Sportsman's Guide",
+   "url": "https://www.sportsmansguide.com",
+   "founded": "1970 (company site; founded by Gary Olen, South St. Paul, MN)",
+   "rating": "BBB rating not found; Sitejabber 2.4/5",
+   "verdict": "caution",
+   "notes": "Returns must be initiated within 90 days of shipment; free return shipping on its own brands and on clothing/footwear, with exclusions (ammunition, firearms, food, etc.). Optional paid Buyer's Club membership gives ~10% discounts but is not required to buy; legit since 1970, though review scores are weak."
+  },
+  {
+   "store": "Scheels",
+   "url": "https://www.scheels.com",
+   "founded": "1902 (first store opened in Sabin, MN)",
+   "rating": "BBB A- (per TopConsumerReviews; individual store profiles vary); Trustpilot 4.2/5",
+   "verdict": "credible",
+   "notes": "Free mail-in or in-store returns within 90 days of purchase in original packaging/condition; no-proof-of-purchase returns get store credit. Employee-owned chain with some of the strongest review scores in sporting goods."
+  },
+  {
+   "store": "Bass Pro Shops",
+   "url": "https://www.basspro.com",
+   "founded": "1972 (founded by Johnny Morris in Springfield, MO)",
+   "rating": "BBB A+ (per TopConsumerReviews)",
+   "verdict": "credible",
+   "notes": "Unused returns accepted within 60 days at any store or by mail; used/defective gear generally goes through the manufacturer's warranty. Parent company of Cabela's since 2017."
+  },
+  {
+   "store": "Cabela's",
+   "url": "https://www.cabelas.com",
+   "founded": "1961 (founded by Dick Cabela; acquired by Bass Pro Shops in 2017)",
+   "rating": "BBB A+ (per TopConsumerReviews)",
+   "verdict": "credible",
+   "notes": "Per Cabela's own help page, catalog/online items can be returned by mail or in store within 60 days with proof of purchase; items returned after 60 days are accepted on an inspection basis only. Returns are interchangeable with Bass Pro Shops stores."
+  },
+  {
+   "store": "Big 5 Sporting Goods",
+   "url": "https://www.big5sportinggoods.com",
+   "founded": "1955 (Encyclopedia.com company history)",
+   "rating": "BBB B-, not accredited (BBB profile; rating cites failure to respond to complaints); Trustpilot 2.6/5",
+   "verdict": "caution",
+   "notes": "Returns with receipt and photo ID for refund/exchange; mail returns have shipping deducted from the refund and no-receipt returns get store credit only. Established West Coast chain (est. 1955), but BBB grade and persistent poor-customer-service reviews warrant a caution flag."
+  },
+  {
+   "store": "Walmart",
+   "url": "https://www.walmart.com",
+   "founded": "1962 (first Walmart store opened in Rogers, AR)",
+   "rating": "BBB A+, accredited (BBB headquarters profile); Trustpilot ~1.6/5",
+   "verdict": "credible",
+   "notes": "Most items returnable within 90 days (shorter windows, ~30 days, for electronics); free returns in store or by mail. Caution only at the listing level: many golf items are sold by third-party Marketplace sellers with their own terms, so prefer items sold and shipped by Walmart."
+  },
+  {
+   "store": "Target",
+   "url": "https://www.target.com",
+   "founded": "1902 (as the Dayton company's Goodfellows store in Minneapolis; first Target store opened 1962)",
+   "rating": "BBB A+ (per TopConsumerReviews); Trustpilot 1.7/5",
+   "verdict": "credible",
+   "notes": "90 days to return most items for a full refund, plus 30 extra days when paying with a RedCard/Circle Card, and a full year on Target-owned brands. One of the most generous return policies among big-box retailers."
+  },
+  {
+   "store": "Amazon",
+   "url": "https://www.amazon.com",
+   "founded": "1994 (founded July 5, 1994, in Bellevue, WA)",
+   "rating": "BBB A+, accredited (BBB profile); Trustpilot 1.7/5",
+   "verdict": "credible",
+   "notes": "Items shipped from Amazon.com are generally returnable within 30 days of delivery. Third-party Marketplace sellers set their own return terms, so for the directory prefer items sold and shipped by Amazon or the brand itself."
+  },
+  {
+   "store": "Costco",
+   "url": "https://www.costco.com",
+   "founded": "1983 (first Costco warehouse in Seattle; roots in Price Club, 1976)",
+   "rating": "BBB A+, not accredited (BBB profiles)",
+   "verdict": "credible",
+   "notes": "Paid membership required to shop. Risk-Free 100% Satisfaction Guarantee: most merchandise can be returned at any time, but electronics and major appliances must be returned within 90 days; the membership fee itself is refundable at any time."
+  },
+  {
+   "store": "Sam's Club",
+   "url": "https://www.samsclub.com",
+   "founded": "1983 (first club opened April 7, 1983, in Midwest City, OK; Walmart-owned)",
+   "rating": "BBB A+, not accredited (BBB profile)",
+   "verdict": "credible",
+   "notes": "Paid membership required to shop. 100% Satisfaction Guarantee with no time limit on most items; electronics and major appliances within 90 days, motorsports/commercial equipment within 30 days, cell phones within 14 days."
+  },
+  {
+   "store": "BJ's Wholesale Club",
+   "url": "https://www.bjs.com",
+   "founded": "1984 (per CB Insights)",
+   "rating": "BBB rating not found; Trustpilot 1.9/5",
+   "verdict": "credible",
+   "notes": "Paid membership required to shop (non-members pay a surcharge with a one-day pass). Most items are returnable within about a year with proof of purchase \u2014 proof of purchase is required for all returns \u2014 with shorter windows for electronics (90 days), groceries (90 days) and certain home items (30 days); bulk purchases over $1,000 are final sale."
+  },
+  {
+   "store": "Best Buy",
+   "url": "https://www.bestbuy.com",
+   "founded": "1966 (founded as an audio specialty store)",
+   "rating": "BBB A+ (per TopConsumerReviews; BBB business profile on file)",
+   "verdict": "credible",
+   "notes": "Short return window: 15 days for most products (14 days for activatable devices), extended to 60 days for My Best Buy Plus/Total members; some opened items carry restocking fees. Legit national electronics chain, but the 15-day standard window is the toughest here."
+  },
+  {
+   "store": "Kohl's",
+   "url": "https://www.kohls.com",
+   "founded": "1962 (Brookfield, WI); ~64 years in business",
+   "rating": "BBB: Accredited, A+ (corporate profile). Trustpilot: not verified (conflicting secondary reports)",
+   "verdict": "credible",
+   "notes": "Returns accepted up to 180 days with or without a receipt, in-store or by mail. Long-established national chain with a generous return policy."
+  },
+  {
+   "store": "Macy's",
+   "url": "https://www.macys.com",
+   "founded": "1858 (New York City); ~168 years in business",
+   "rating": "BBB: not accredited; corporate profile Not Rated, a store profile rated F for unanswered complaints. Trustpilot: 2.0/5 (506 reviews)",
+   "verdict": "caution",
+   "notes": "Returns within 30 days in saleable condition; Last Act items are final sale. Legit historic chain, but poor BBB/Trustpilot standing and a tightened 30-day window."
+  },
+  {
+   "store": "JCPenney",
+   "url": "https://www.jcpenney.com",
+   "founded": "1902 (Kemmerer, WY); ~124 years in business",
+   "rating": "BBB: not accredited, A-. Trustpilot score for the main store: not found",
+   "verdict": "credible",
+   "notes": "Returns within 60 days with receipt; in-store returns free, mail returns a flat $8 via UPS. Solid BBB grade and clear return terms."
+  },
+  {
+   "store": "Belk",
+   "url": "https://www.belk.com",
+   "founded": "1888 (Monroe, NC); ~138 years in business",
+   "rating": "BBB: not accredited, A+. Trustpilot: not found (secondary sites rate belk.com ~2.0/5)",
+   "verdict": "caution",
+   "notes": "Current returns page says most returns within 30 days, shipping fees non-refundable and a $12.95 carrier return fee; older Belk pages still cite 180 days. Legit chain, but returns have tightened."
+  },
+  {
+   "store": "Boscov's",
+   "url": "https://www.boscovs.com",
+   "founded": "1914 (Reading, PA); ~112 years in business",
+   "rating": "BBB: A+ (accredited per BBB listing). Trustpilot: 1.9/5, rated Poor (146 reviews)",
+   "verdict": "caution",
+   "notes": "Returns gist (secondary summaries of Boscov's policy; its own returns page was not directly opened): most items within 90 days with packing slip and tags; shorter windows for jewelry, furniture and clearance exclusions. Legit family-owned chain with poor online-order reviews."
+  },
+  {
+   "store": "Blain's Farm & Fleet",
+   "url": "https://www.farmandfleet.com",
+   "founded": "1955 (Wisconsin); ~71 years in business",
+   "rating": "BBB: only a single-location profile found (B, not accredited, 34 complaints); no company-wide profile found. Trustpilot: not found",
+   "verdict": "credible",
+   "notes": "Returns/exchanges within 90 days in-store or by mail, refund to original payment. Family-owned Midwest retailer; the B rating is one location, not the company."
+  },
+  {
+   "store": "TJ Maxx",
+   "url": "https://tjmaxx.tjx.com",
+   "founded": "1977 (first store, Auburn, MA); ~49 years in business",
+   "rating": "BBB (parent TJX Companies): A-, not accredited. Trustpilot numeric score: not found",
+   "verdict": "credible",
+   "notes": "Online purchases returnable within 40 days of order date, free in-store or by mail with an $11.99 per-package fee deducted. Largest US off-price retailer under TJX."
+  },
+  {
+   "store": "Marshalls",
+   "url": "https://www.marshalls.com",
+   "founded": "1956 (Beverly, MA); 70 years in business, TJX-owned since 1995",
+   "rating": "BBB (parent TJX Companies): A-, not accredited. Trustpilot: 2.1/5 (114 reviews)",
+   "verdict": "caution",
+   "notes": "In-store purchases returnable within 30 days with receipt; later or receipt-less returns get merchandise credit only. Legit TJX chain, but poor Trustpilot score with recurring refund and online-order complaints."
+  },
+  {
+   "store": "IZOD",
+   "url": "https://izod.com",
+   "founded": "1938 (brand introduced to the US); ~88 years",
+   "rating": "BBB: not found. Trustpilot: not found",
+   "verdict": "caution",
+   "notes": "IZOD's own terms state sale and worn items are non-refundable and online orders cannot be returned to IZOD stores; a standalone returns page was not found on izod.com. Legit heritage brand (Authentic Brands Group) with restrictive terms and no verifiable ratings."
+  },
+  {
+   "store": "Perry Ellis",
+   "url": "https://www.perryellis.com",
+   "founded": "1967 (Perry Ellis International, as Supreme International); ~59 years in business",
+   "rating": "BBB: not found. Trustpilot: 4.2/5 (151 reviews)",
+   "verdict": "credible",
+   "notes": "Returns within 30 days, unworn with receipt; mail returns use a prepaid label with a flat $6 deducted, final sale excluded. Established brand with a good Trustpilot score and clear policy."
+  },
+  {
+   "store": "Columbia Sportswear",
+   "url": "https://www.columbia.com",
+   "founded": "1938 (Portland, OR); 88 years in business",
+   "rating": "BBB: not found. Trustpilot (UK profile): 1.7/5 (127 reviews); no US score found",
+   "verdict": "caution",
+   "notes": "Returns must be received within 60 days, new/unworn, with $6 deducted for the return label. Legit publicly traded company, but review scores cite unresponsive service and slow refunds."
+  },
+  {
+   "store": "Oakley",
+   "url": "https://www.oakley.com",
+   "founded": "1975 (Southern California); 51 years in business, now EssilorLuxottica",
+   "rating": "BBB: no Oakley-specific profile; parent Luxottica Retail North America is not accredited with an F rating (143 unanswered complaints). Trustpilot: not found",
+   "verdict": "caution",
+   "notes": "Most items returnable within 30 days in resalable condition with proof of purchase; custom products are not returnable. Legit global brand, but the parent's BBB record is poor."
+  },
+  {
+   "store": "BYLT Basics",
+   "url": "https://byltbasics.com",
+   "founded": "2016 (Costa Mesa, CA); ~10 years in business",
+   "rating": "BBB: not found. Trustpilot: 4.4/5 (2,341 reviews)",
+   "verdict": "credible",
+   "notes": "Returns within 30 days, unworn with tags; $7 fee when using BYLT's return label, exchanges ship free; final sale excluded. Strong verified Trustpilot score for a DTC brand."
+  },
+  {
+   "store": "Bollman Hat Co.",
+   "url": "https://bollmanhats.com",
+   "founded": "1868 (Adamstown, PA); 158 years in business",
+   "rating": "BBB: not found. Trustpilot: not found",
+   "verdict": "credible",
+   "notes": "America's oldest hat maker, employee-owned; bollmanhats.com is corporate/B2B and consumer sales run through hats.com and brand sites. No returns page was found on bollmanhats.com itself; a secondary summary of hats.com cites 30 days with a $9.99 return fee (not verified on a Bollman page)."
+  },
+  {
+   "store": "Weatherman Umbrella",
+   "url": "https://www.weathermanumbrella.com",
+   "founded": "2017 (Brooklyn, NY); 9 years in business",
+   "rating": "BBB: not found. Trustpilot: not found",
+   "verdict": "credible",
+   "notes": "Return requests within 30 days for a refund (45 days for exchange/store credit) with a $10 restocking fee; golf umbrellas carry a limited lifetime defect warranty. Legit DTC brand also sold through authorized retailers like Nordstrom."
+  },
+  {
+   "store": "Woot!",
+   "url": "https://www.woot.com",
+   "founded": "2004; ~22 years in business, owned by Amazon since 2010",
+   "rating": "BBB A+ reported by secondary review sites (a current BBB.org profile was not directly verified). Trustpilot: ~1.5/5 (150+ reviews)",
+   "verdict": "credible",
+   "notes": "Most items returnable within 30 days of delivery; return shipping is deducted unless the item is damaged/defective, and Bags of Crap are non-returnable. Amazon-owned and long-running; low scores reflect slow service and refund friction, not legitimacy."
+  },
+  {
+   "store": "DailySteals",
+   "url": "https://www.dailysteals.com",
+   "founded": "2009 (per its own About page); ~16 years in business",
+   "rating": "BBB profile: not found (reviewers claim an F rating and no accreditation). Trustpilot: not found. SmartCustomer: 2.4/5 across 424 reviews, 72% 1-star",
+   "verdict": "caution",
+   "notes": "30-day returns require prior RMA approval, original shipping is never credited and buyers pay return shipping. Recurring complaints of refurbished goods sold as new, wrong items, and unresponsive email-only support."
+  },
+  {
+   "store": "Tanga",
+   "url": "https://www.tanga.com",
+   "founded": "2006 (Chandler, AZ); ~20 years in business",
+   "rating": "BBB: not found (complainants allege non-response to BBB). Trustpilot profile exists but its score was not retrieved. SmartCustomer: 3.3/5 (966 reviews)",
+   "verdict": "caution",
+   "notes": "Return gist (secondary summaries; Tanga's own returns page was not retrieved): most items within 30 days with support authorization, final sale excluded unless defective, buyers often bear return shipping. Polarized reviews with recurring slow-shipping, wrong/used-item and refund complaints."
+  },
+  {
+   "store": "UnbeatableSale",
+   "url": "https://www.unbeatablesale.com",
+   "founded": "2004 (Lakewood, NJ); ~22 years in business",
+   "rating": "BBB: A+ (BBB listing for Unbeatable Sale.com, Inc.). Trustpilot: 1.7/5 (84 reviews)",
+   "verdict": "caution",
+   "notes": "30-day returns require an RA number, are shipped freight-prepaid by the customer, and refused deliveries incur a 25% restocking fee; original shipping is not refunded. Established seller, but very low Trustpilot score and costly return terms."
   }
  ],
  "thresholds": [
