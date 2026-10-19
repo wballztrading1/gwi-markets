@@ -8,6 +8,8 @@
 //  - deal listed without a photo      -> the product image is taken from the store page when found
 //  - New Gear (curated "releases")    -> shown for 10 days from the first day the checker sees it, then dropped;
 //                                        hidden early if the page is gone or sold out (no discount needed)
+//  - Coming Soon (curated "upcoming")  -> announced launches; dropped once the date passes or the product is released
+//  - every deal gets `added` (first day seen) for the "New deals this week" box
 // No packages needed — plain Node 20.
 import fs from 'node:fs/promises';
 
@@ -167,7 +169,8 @@ async function main() {
     // v3: daily price history (one point per day, ~90 days) for "lowest in 30 days" / "dropped this week"
     const hist = (st.hist || []).filter((h) => h[0] !== TODAY && h[0] >= addDays(TODAY, -90));
     if (!why && r.status !== 'unreadable') hist.push([TODAY, price]);
-    prev.items[d.id] = { price, listed: d.price, verified, inStock, why, hist, ...(img && !d.img ? { img } : {}) };
+    const firstSeen = st.first || (st.hist && st.hist[0] && st.hist[0][0]) || TODAY;
+    prev.items[d.id] = { price, listed: d.price, verified, inStock, why, hist, first: firstSeen, ...(img && !d.img ? { img } : {}) };
     if (why) { report.hidden.push({ id: d.id, title: d.title, store: d.store, why }); return; }
     report.live++;
     const h30 = hist.filter((h) => h[0] >= addDays(TODAY, -30)).map((h) => h[1]);
@@ -175,7 +178,7 @@ async function main() {
     const extra = { days: hist.length };
     if (h30.length) extra.low30 = Math.min(...h30, price);
     if (wk && wk[1] - price >= 1) extra.drop7 = Math.round((wk[1] - price) * 100) / 100;
-    out.push({ ...d, ...(img ? { img } : {}), price, pct, checked: verified, pkey: pkey(d), ...extra });
+    out.push({ ...d, ...(img ? { img } : {}), price, pct, checked: verified, added: firstSeen, pkey: pkey(d), ...extra });
   });
   // borrow a photo from another listing of the exact same product (same brand + category + model)
   const photoByKey = {};
@@ -212,7 +215,22 @@ async function main() {
   });
   relOut.sort((a, b) => (b.first || '').localeCompare(a.first || '') || (b.released || '').localeCompare(a.released || ''));
 
-  const published = { updated: TODAY, researched: cur.researched || '', deals: out, releases: relOut, promos: (cur.promos || []).filter((p) => !p.ends || p.ends >= TODAY), stores: cur.stores || [], thresholds: cur.thresholds || [] };
+  // ---- Coming Soon: announced launches with an expected date (no page checks; the weekly scan maintains them) ----
+  // date: 'YYYY-MM-DD' (exact) or 'YYYY-MM' (month only). Hidden 3 days after an exact date / after the month ends,
+  // and as soon as the same product (same url or same brand+title) is listed under releases.
+  const relTitles = new Set(relOut.map((r) => (r.brand + '|' + r.title).toLowerCase()));
+  const upOut = (cur.upcoming || []).filter((u) => {
+    const dt = String(u.date || '');
+    let last = '';
+    if (/^\d{4}-\d{2}-\d{2}$/.test(dt)) last = addDays(dt, 3);
+    else if (/^\d{4}-\d{2}$/.test(dt)) { const [y, m] = dt.split('-').map(Number); last = new Date(Date.UTC(y, m, 0)).toISOString().slice(0, 10); }
+    if (last && last < TODAY) return false;
+    if (relTitles.has((u.brand + '|' + u.title).toLowerCase())) return false;
+    return true;
+  }).sort((a, b) => String(a.date || '9999').localeCompare(String(b.date || '9999')));
+  report.upcoming = upOut.length;
+
+  const published = { updated: TODAY, researched: cur.researched || '', deals: out, releases: relOut, upcoming: upOut, promos: (cur.promos || []).filter((p) => !p.ends || p.ends >= TODAY), stores: cur.stores || [], thresholds: cur.thresholds || [] };
   await fs.writeFile(`${DATA}/deals.json`, JSON.stringify(published));
   await fs.writeFile(`${DATA}/deals-state.json`, JSON.stringify(prev, null, 1));
   await fs.writeFile(`${DATA}/deals-report.json`, JSON.stringify(report, null, 1));
