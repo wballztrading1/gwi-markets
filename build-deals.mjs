@@ -6,13 +6,15 @@
 //  - price went up and discount < 25% -> hidden
 //  - page couldn't be read (blocked)  -> kept at the last verified price for up to 10 days, then hidden
 //  - deal listed without a photo      -> the product image is taken from the store page when found
+//  - New Gear (curated "releases")    -> shown for 10 days from the first day the checker sees it, then dropped;
+//                                        hidden early if the page is gone or sold out (no discount needed)
 // No packages needed — plain Node 20.
 import fs from 'node:fs/promises';
 
 const DATA = process.env.DATA_DIR || 'data';
 const TODAY = process.env.TODAY || new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Chicago' }).format(new Date());
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36';
-const MIN_PCT = 25, STALE_DAYS = 10;
+const MIN_PCT = 25, STALE_DAYS = 10, NEW_GEAR_DAYS = 10;
 const PLAY = new Set(['tee-times', 'range', 'lesson', 'trip']);
 
 const addDays = (ymd, n) => { const d = new Date(ymd + 'T12:00:00Z'); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
@@ -179,11 +181,43 @@ async function main() {
   const photoByKey = {};
   for (const x of out) if (x.img && x.pkey && !photoByKey[x.pkey]) photoByKey[x.pkey] = x.img;
   for (const x of out) if (!x.img && x.pkey && photoByKey[x.pkey]) { x.img = photoByKey[x.pkey]; x.imgShared = true; report.imagesShared = (report.imagesShared || 0) + 1; }
-  const published = { updated: TODAY, researched: cur.researched || '', deals: out, promos: (cur.promos || []).filter((p) => !p.ends || p.ends >= TODAY), stores: cur.stores || [], thresholds: cur.thresholds || [] };
+  // ---- New Gear: new releases found by the weekly scan, shown for NEW_GEAR_DAYS from first sighting ----
+  const releases = cur.releases || [];
+  const relKey = (r) => 'rel:' + String(r.url || r.id || '').replace(/^https?:\/\/(www\.)?/, '').replace(/[?#].*$/, '').replace(/\/+$/, '').toLowerCase();
+  const relOut = []; report.newGear = { total: releases.length, live: 0, expired: 0, hidden: [] };
+  const relSeen = new Set();
+  const relResults = await pool(releases, 5, (r) => {
+    const st = prev.items[relKey(r)];
+    const first = st?.first || TODAY;
+    return first < addDays(TODAY, -(NEW_GEAR_DAYS - 1)) ? { status: 'expired' } : check(r);
+  });
+  releases.forEach((r, i) => {
+    const k = relKey(r); if (relSeen.has(k)) return; relSeen.add(k);
+    const st = prev.items[k] || {}; const res = relResults[i];
+    const first = st.first || TODAY, until = addDays(first, NEW_GEAR_DAYS - 1);
+    let price = st.price ?? r.price ?? null, why = '';
+    if (res.status === 'expired') why = 'shown 10 days';
+    else if (res.status === 'gone') why = 'page removed';
+    else if (res.status === 'ok') {
+      if (res.inStock === false && !r.preorder) why = 'sold out';
+      const base = r.price || price;
+      if (res.price && (!base || (res.price <= base * 1.15 && res.price >= base * 0.4))) price = res.price;
+    }
+    const img = r.img || (res.status === 'ok' && res.image) || st.img || '';
+    prev.items[k] = { first, price, why, ...(img && !r.img ? { img } : {}) };
+    if (why) { if (why === 'shown 10 days') report.newGear.expired++; else report.newGear.hidden.push({ title: r.title, store: r.store, why }); return; }
+    report.newGear.live++;
+    relOut.push({ ...r, ...(img ? { img } : {}), price, first, until, checked: res.status === 'ok' ? TODAY : (st.checked || first) });
+    prev.items[k].checked = relOut[relOut.length - 1].checked;
+  });
+  relOut.sort((a, b) => (b.first || '').localeCompare(a.first || '') || (b.released || '').localeCompare(a.released || ''));
+
+  const published = { updated: TODAY, researched: cur.researched || '', deals: out, releases: relOut, promos: (cur.promos || []).filter((p) => !p.ends || p.ends >= TODAY), stores: cur.stores || [], thresholds: cur.thresholds || [] };
   await fs.writeFile(`${DATA}/deals.json`, JSON.stringify(published));
   await fs.writeFile(`${DATA}/deals-state.json`, JSON.stringify(prev, null, 1));
   await fs.writeFile(`${DATA}/deals-report.json`, JSON.stringify(report, null, 1));
   console.log(`Live ${report.live}/${report.total} · prices changed ${report.updated} · unreadable ${report.unreadable} · hidden ${report.hidden.length} · new images ${report.imagesFound || 0}`);
   for (const h of report.hidden) console.log(`  hidden: ${h.title} (${h.store}) — ${h.why}`);
+  console.log(`New Gear: live ${report.newGear.live}/${report.newGear.total} · aged out ${report.newGear.expired} · hidden ${report.newGear.hidden.length}`);
 }
 if (import.meta.url === `file://${process.argv[1]}`) main().catch((e) => { console.error(e); process.exit(1); });
