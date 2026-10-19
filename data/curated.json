@@ -108,6 +108,21 @@
 "confirmed": true
 },
 {
+"id": "golf-like-a-girl-womens-clinic",
+"title": "Golf Like A Girl Women's Golf Clinic",
+"start": "2026-10-22",
+"end": "",
+"time": "5:00 PM",
+"venue": "2nd Swing Golf",
+"city": "The Colony",
+"area": "north",
+"cat": "clinic",
+"desc": "A women's golf clinic at 2nd Swing Golf in The Colony, organized by Golf Like A Girl.",
+"url": "https://givebutter.com/glgxtx1022w",
+"img": "",
+"confirmed": true
+},
+{
 "id": "trackman-indoor-golf-day",
 "title": "TrackMan Indoor Golf Day",
 "start": "2026-10-22",
@@ -166,6 +181,21 @@
 "url": "https://www.eventbrite.co.nz/d/tx--plano/golf/?page=0",
 "img": "",
 "confirmed": false
+},
+{
+"id": "girls-golf-spooktacular",
+"title": "Girls Golf Spooktacular!",
+"start": "2026-10-23",
+"end": "",
+"time": "5:30 PM – 7:00 PM",
+"venue": "Rockwood Park Golf Course",
+"city": "Fort Worth",
+"area": "fortworth",
+"cat": "junior",
+"desc": "Free LPGA*USGA Girls Golf event for girls ages 5–18, run by First Tee – Fort Worth at Rockwood Park: themed golf skills activities and coaching tips, with clubs provided for newcomers. Sign up through the Girls Golf App.",
+"url": "https://firstteeftworth.org/lpgausga-girls-golf/",
+"img": "",
+"confirmed": true
 },
 {
 "id": "second-annual-nonpareil-plano-golf-classic",
@@ -331,6 +361,21 @@
 "url": "https://www.indiancreekgolfclub.com/Calendar/UpcomingEvents",
 "img": "",
 "confirmed": false
+},
+{
+"id": "trunk-or-treat-bridges-golf-club",
+"title": "Trunk-or-Treat — The Bridges Golf Club",
+"start": "2026-10-29",
+"end": "",
+"time": "5:00 PM – 9:00 PM",
+"venue": "The Bridges Golf Club",
+"city": "Gunter",
+"area": "north",
+"cat": "fun",
+"desc": "The inaugural Bridges Golf Club Trunk-or-Treat in Gunter — free and open to the community. Decorate a golf cart or trunk, enter the adult and kids costume contests, and stay for a movie on the lawn at 7:00 PM. Cart/trunk spots are limited to 20, so RSVP is required.",
+"url": "https://www.bridgestexasgolf.com/event/trunk-or-treat/",
+"img": "https://www.bridgestexasgolf.com/wp-content/uploads/sites/5809/2026/10/Trunk-or-Treat-1.png?w=240",
+"confirmed": true
 },
 {
 "id": "2026-annual-charity-golf-tournament-diamond-hill",
@@ -603,21 +648,6 @@
 "confirmed": true
 },
 {
-"id": "shake-rattle-and-roll-golf-tournament",
-"title": "Shake, Rattle & Roll Golf Tournament",
-"start": "2026-11-07",
-"end": "",
-"time": "9:00 AM shotgun",
-"venue": "Benbrook / Z Boaz Golf Course",
-"city": "Fort Worth",
-"area": "fortworth",
-"cat": "scramble",
-"desc": "City of Fort Worth 4-person scramble at Z Boaz (Benbrook), presented with South Fort Worth Rotary: $65 entry includes green fee, cart and lunch, with prizes for 1st–3rd plus closest-to-the-pin and longest-drive contests. Sign up by Nov 4 in the pro shop or by phone.",
-"url": "https://www.fortworthgolf.org/events/tournaments",
-"img": "",
-"confirmed": true
-},
-{
 "id": "veterans-day-supercars-show",
 "title": "Veterans Day Supercars Show",
 "start": "2026-11-07",
@@ -738,6 +768,21 @@
 "confirmed": false
 },
 {
+"id": "iapd-southern-charitable-golf-tournament",
+"title": "IAPD Southern Charitable Golf Tournament",
+"start": "2026-11-12",
+"end": "",
+"time": "",
+"venue": "Grapevine Golf Course",
+"city": "Grapevine",
+"area": "mid",
+"cat": "scramble",
+"desc": "The fifth annual IAPD Southern Charitable Golf Tournament at Grapevine Golf Course, played with peers from the performance plastics industry. $275 for IAPD members and $375 for nonmembers; proceeds fund the IAPD Charitable Foundation's scholarship program.",
+"url": "https://www.iapd.org/IAPD/IAPD/Events/Golf/Southern/Southern-Golf.aspx",
+"img": "",
+"confirmed": true
+},
+{
 "id": "burleson-professional-firefighters-golf-tournament-2026",
 "title": "Burleson Professional Firefighters Golf Tournament 2026",
 "start": "2026-11-13",
@@ -813,6 +858,21 @@
 "confirmed": true
 },
 {
+"id": "sigep-texas-kappa-40th-annual-golf-tournament",
+"title": "SigEp Texas Kappa 40th Annual Golf Tournament",
+"start": "2026-11-14",
+"end": "",
+"time": "2:00 PM shotgun",
+"venue": "Iron Horse Golf Course",
+"city": "North Richland Hills",
+"area": "mid",
+"cat": "scramble",
+"desc": "Sigma Phi Epsilon's Texas Kappa chapter (UT Arlington) hosts its 40th annual four-person scramble at Iron Horse, funding leadership development programs and scholarships. $135 per golfer or $400 per foursome, including greens fee, cart and a post-tournament reception and dinner.",
+"url": "https://sigeptxkappa.com/golf-tournament.html",
+"img": "",
+"confirmed": true
+},
+{
 "id": "visit-from-the-creature-teacher",
 "title": "Visit from The Creature Teacher",
 "start": "2026-11-14",
@@ -854,6 +914,21 @@
 "cat": "scramble",
 "desc": "PIA MidAmerica's Nolan Moore Memorial Education Foundation annual fundraiser for industry education, scramble format.",
 "url": "https://piamidam.org/events/",
+"img": "",
+"confirmed": true
+},
+{
+"id": "girls-golf-glow-golf-event",
+"title": "Girls Golf Glow Golf Event",
+"start": "2026-11-18",
+"end": "",
+"time": "5:30 PM – 7:00 PM",
+"venue": "Squaw Creek Golf Course",
+"city": "Willow Park",
+"area": "fortworth",
+"cat": "junior",
+"desc": "Free LPGA*USGA Girls Golf evening event for girls ages 5–18, run by First Tee – Fort Worth at Squaw Creek: themed golf skills activities and coaching tips, with clubs provided for newcomers. Sign up through the Girls Golf App.",
+"url": "https://firstteeftworth.org/lpgausga-girls-golf/",
 "img": "",
 "confirmed": true
 },
@@ -948,21 +1023,6 @@
 "confirmed": true
 },
 {
-"id": "turkey-tussle-pecan-valley",
-"title": "Turkey Tussle",
-"start": "2026-11-26",
-"end": "",
-"time": "8:00 AM shotgun",
-"venue": "Pecan Valley Golf Course (River Course)",
-"city": "Fort Worth",
-"area": "fortworth",
-"cat": "scramble",
-"desc": "Thanksgiving-morning City of Fort Worth event on Pecan Valley's River Course: a 2-person scramble for $50 per player, including green fee, cart, range balls and prizes. Sign up by Nov 24 in the pro shop or by phone.",
-"url": "https://www.fortworthgolf.org/events/tournaments",
-"img": "",
-"confirmed": true
-},
-{
 "id": "home-on-the-range-for-the-holidays",
 "title": "Home on The Range for The Holidays",
 "start": "2026-11-28",
@@ -991,6 +1051,21 @@
 "url": "https://www.eventeny.com/events/2026-dashing-through-the-district-holiday-night-market-at-pga-frisco-34689/",
 "img": "",
 "confirmed": false
+},
+{
+"id": "pgc-27-golf-tournament",
+"title": "PGC '27 Golf Tournament",
+"start": "2026-12-05",
+"end": "",
+"time": "8:00 AM",
+"venue": "The Resort Golf Club",
+"city": "Fort Worth",
+"area": "fortworth",
+"cat": "scramble",
+"desc": "Fundraiser for AHS Project Graduation Celebrate 2027, supporting a safe, drug-free after-prom celebration for AHS seniors, at The Resort Golf Club in Fort Worth. $100 per player or $400 per four-person team.",
+"url": "https://www.zeffy.com/en-US/ticketing/pgc-27-golf-tournament",
+"img": "",
+"confirmed": true
 },
 {
 "id": "saturdays-at-the-superstore-trackman-skills-assessment",
@@ -1077,23 +1152,8 @@
 "city": "Farmers Branch",
 "area": "dallas",
 "cat": "scramble",
-"desc": "Scramble-format fundraiser at Brookhaven supporting Junior Players and arts programs for North Texas youth. Players get a swag bag and catered lunch, with awards, raffles and a silent auction after the round; register by Nov 30.",
-"url": "https://fwtx.com/events/swing-arts-golf-tournament/",
-"img": "",
-"confirmed": false
-},
-{
-"id": "christmas-classic-z-boaz",
-"title": "Christmas Classic",
-"start": "2026-12-12",
-"end": "",
-"time": "9:00 AM shotgun",
-"venue": "Benbrook / Z Boaz Golf Course",
-"city": "Fort Worth",
-"area": "fortworth",
-"cat": "scramble",
-"desc": "City of Fort Worth holiday 4-person scramble at Z Boaz (Benbrook): $65 entry includes green fee, cart and lunch, with prizes for 1st–3rd plus closest-to-the-pin and longest-drive contests. Sign up by Dec 9 in the pro shop or by phone.",
-"url": "https://www.fortworthgolf.org/events/tournaments",
+"desc": "Scramble-format fundraiser at Brookhaven supporting Junior Players and arts programs for North Texas youth. Early-bird entry is $180 per player ($720 per foursome) through Oct 31; standard registration is $220 per player ($880 per foursome). Players get a swag bag and catered lunch, with awards, raffles and a silent auction after the round.",
+"url": "https://juniorplayers.org/golf",
 "img": "",
 "confirmed": true
 },
@@ -1275,6 +1335,21 @@
 "cat": "clinic",
 "desc": "Spring 2027 edition of PGA TOUR Superstore's free Saturday series, combining putting instruction with a golf-ball fitting.",
 "url": "https://www.pgatoursuperstore.com/bookingtool?isBookingToolDirectLink=true&type=event&locationID=1261",
+"img": "",
+"confirmed": true
+},
+{
+"id": "st-marys-golf-classic",
+"title": "St. Mary's Golf Classic",
+"start": "2027-04-03",
+"end": "",
+"time": "2:00 PM shotgun",
+"venue": "Bear Creek Golf Club (West Course)",
+"city": "Dallas",
+"area": "dallas",
+"cat": "scramble",
+"desc": "Inaugural charity tournament hosted by St. Mary's Orthodox Church of Farmers Branch at Bear Creek's West Course: a 4-person scramble followed by a dinner and awards banquet. $150 per player or $600 per foursome, including cart and dinner; a portion of net proceeds benefits a local charity partner.",
+"url": "https://stmarysgolfclassic.org",
 "img": "",
 "confirmed": true
 },
