@@ -2928,10 +2928,6 @@
     [
      "2026-10-18",
      37
-    ],
-    [
-     "2026-10-19",
-     37
     ]
    ]
   },
@@ -2944,10 +2940,6 @@
    "hist": [
     [
      "2026-10-18",
-     53
-    ],
-    [
-     "2026-10-19",
      53
     ]
    ]
@@ -3410,6 +3402,48 @@
      149.95
     ]
    ]
+  },
+  "rel:pgatoursuperstore.com/zxi-rkt-driver/2000000064564.html": {
+   "first": "2026-10-19",
+   "price": 649.99,
+   "why": "",
+   "checked": "2026-10-19"
+  },
+  "rel:golfgalaxy.com/p/srixon-zxi-rkt-fairway-woods-26srimgolftrmio4utai4/26srimgolftrmio4utai4": {
+   "first": "2026-10-19",
+   "price": 379.99,
+   "why": "",
+   "checked": "2026-10-19"
+  },
+  "rel:golfgalaxy.com/p/srixon-zxi-rkt-hybrid-26srimgolfhrihqoursts/26srimgolfhrihqoursts": {
+   "first": "2026-10-19",
+   "price": 329.99,
+   "why": "",
+   "checked": "2026-10-19"
+  },
+  "rel:pgatoursuperstore.com/zxi5-second-generation-irons-w%2f-steel-shafts/2000000064303.html": {
+   "first": "2026-10-19",
+   "price": 1499.99,
+   "why": "",
+   "checked": "2026-10-19"
+  },
+  "rel:pgatoursuperstore.com/zxi7-second-generation-irons-w%2f-steel-shafts/2000000064304.html": {
+   "first": "2026-10-19",
+   "price": 1499.99,
+   "why": "",
+   "checked": "2026-10-19"
+  },
+  "rel:foresightsports.com/products/gc2": {
+   "first": "2026-10-19",
+   "price": 1699,
+   "why": "",
+   "checked": "2026-10-19"
+  },
+  "rel:pgatoursuperstore.com/mlm-2x-pro-launch-monitor-w%2f-titleist-rpt/2000000064814.html": {
+   "first": "2026-10-19",
+   "price": 899.99,
+   "why": "",
+   "checked": "2026-10-19"
   }
  }
 }
