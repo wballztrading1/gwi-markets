@@ -447,7 +447,7 @@
    "first": "2026-10-18"
   },
   "dcbf34e5": {
-   "price": 834.99,
+   "price": 923.99,
    "listed": 834.99,
    "verified": "2026-10-19",
    "inStock": true,
@@ -459,7 +459,7 @@
     ],
     [
      "2026-10-19",
-     834.99
+     923.99
     ]
    ],
    "first": "2026-10-18"
@@ -514,7 +514,7 @@
    "first": "2026-10-18"
   },
   "7f3f6c6b": {
-   "price": 171.99,
+   "price": 189.99,
    "listed": 171.99,
    "verified": "2026-10-19",
    "inStock": true,
@@ -526,7 +526,7 @@
     ],
     [
      "2026-10-19",
-     171.99
+     189.99
     ]
    ],
    "first": "2026-10-18"
@@ -3665,6 +3665,12 @@
   "rel:pgatoursuperstore.com/mlm-2x-pro-launch-monitor-w%2f-titleist-rpt/2000000064814.html": {
    "first": "2026-10-19",
    "price": 899.99,
+   "why": "",
+   "checked": "2026-10-19"
+  },
+  "rel:garmin.com/en-us/p/1937117/pn/010-04148-00": {
+   "first": "2026-10-19",
+   "price": 799.99,
    "why": "",
    "checked": "2026-10-19"
   }
