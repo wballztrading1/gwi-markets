@@ -396,7 +396,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -484,7 +484,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -506,7 +506,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -528,7 +528,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -550,7 +550,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -572,7 +572,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -616,7 +616,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -660,7 +660,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -706,7 +706,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-10-19",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": true
   },
   "362fd7dcf5": {
    "id": "362fd7dcf5",
@@ -726,7 +727,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -792,7 +793,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -858,7 +859,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -882,29 +883,6 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-09-26",
    "shown": true,
-   "gone": true
-  },
-  "5802d48af2": {
-   "id": "5802d48af2",
-   "title": "Spooktacular Scramble",
-   "start": "2026-10-16",
-   "end": "2026-10-17",
-   "time": "7:00 PM",
-   "venue": "Iron Horse Golf Course",
-   "city": "North Richland Hills",
-   "area": "mid",
-   "cat": "scramble",
-   "desc": "",
-   "url": "https://ironhorsetx.com/event/spooktacular-scramble/",
-   "img": "",
-   "source": "Iron Horse Golf Course",
-   "official": true,
-   "how": "structured-data",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "imgTried": true,
    "gone": true
   },
   "24f43c9171": {
@@ -991,7 +969,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": false,
    "imgTried": true
   },
@@ -1013,7 +991,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": false,
    "imgTried": true
   },
@@ -1039,30 +1017,6 @@
    "shown": false,
    "gone": true
   },
-  "00fd73cf09": {
-   "id": "00fd73cf09",
-   "title": "Looking to book a tee time?",
-   "start": "2026-10-17",
-   "end": "",
-   "time": "",
-   "venue": "Bridlewood Golf Course",
-   "city": "Flower Mound",
-   "area": "north",
-   "cat": "fun",
-   "desc": "Offering one of the finest public golf courses in the Dallas Metroplex, Bridlewood Golf Club boasts a Private Club experience at a Daily Fee price.",
-   "url": "https://www.bridlewoodgolf.com/events/calendar/eventdetail/1037/-/trunk-or-treat",
-   "img": "",
-   "source": "Bridlewood Golf Course",
-   "official": false,
-   "how": "event-page",
-   "confirmed": true,
-   "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-17",
-   "shown": true,
-   "touched": true,
-   "imgTried": true,
-   "gone": true
-  },
   "9b58aeeda3": {
    "id": "9b58aeeda3",
    "title": "Looking to book a tee time?",
@@ -1081,7 +1035,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1104,7 +1058,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-04",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
@@ -1126,29 +1080,29 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true,
    "touched": true
   },
   "ea96b33d35": {
    "id": "ea96b33d35",
-   "title": "2026 Super Scramble",
+   "title": "Super Scramble",
    "start": "2026-11-07",
    "end": "",
    "time": "9:00 AM",
-   "venue": "Dallas",
-   "city": "Dallas",
-   "area": "dallas",
+   "venue": "Oeste Ranch Golf Course",
+   "city": "Weatherford",
+   "area": "fortworth",
    "cat": "scramble",
-   "desc": "Join us November 7th for the 2026 Super Scramble! Our bittersweet send off to the Tuesday Night Scramble Series.",
-   "url": "https://www.keetonpark.com/event-details/2026-super-scramble",
-   "img": "https://static.wixstatic.com/media/2e6946_02166e341174438ab8a6be5bf2305f23~mv2.jpg",
-   "source": "Keeton Park Golf Course",
+   "desc": "Grab your crew and get ready for a Super Scramble where every shot counts and the pressure never lets up. Big drives, clutch putts, and just enough chaos to keep it interesting.",
+   "url": "https://www.oesteranch.com/event-details/super-scramble",
+   "img": "https://static.wixstatic.com/media/f82f02_1dd58f789b384d1080b1ac2a97e84d1a~mv2.jpg",
+   "source": "Oeste Ranch Golf Course",
    "official": true,
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": true
   },
   "de3efb80a5": {
@@ -1169,7 +1123,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-19",
+   "lastSeen": "2026-10-20",
    "shown": false
   }
  },
