@@ -657,7 +657,7 @@
    "note": "Customizable (loft/shaft/hand). 90-day Performance Guarantee.",
    "demand": 3,
    "value": "value",
-   "why": "New Elyte at 44% off \u2014 prior-year flagship now replaced by Quantum",
+   "why": "New Elyte at 44% off — prior-year flagship now replaced by Quantum",
    "city": "",
    "includes": "",
    "trust": "ok",
@@ -855,7 +855,7 @@
   },
   {
    "id": "a4e737f2",
-   "title": "Callaway Paradym Ai Smoke Max Driver 9\u00b0 Mitsubishi Diamana DF 60 Stiff",
+   "title": "Callaway Paradym Ai Smoke Max Driver 9° Mitsubishi Diamana DF 60 Stiff",
    "brand": "Callaway",
    "cat": "driver",
    "group": "woods",
@@ -907,7 +907,7 @@
   },
   {
    "id": "0848e467",
-   "title": "Titleist GT3 Driver 10\u00b0 Fujikura Speeder Evolution 757 Tour Spec X-Stiff",
+   "title": "Titleist GT3 Driver 10° Fujikura Speeder Evolution 757 Tour Spec X-Stiff",
    "brand": "Titleist",
    "cat": "driver",
    "group": "woods",
@@ -1290,7 +1290,7 @@
    "note": "10 available. 4H, regular (5.5) flex.",
    "demand": 2,
    "value": "",
-   "why": "Paradym hybrid \u2014 popular 2023 model \u2014 under $80",
+   "why": "Paradym hybrid — popular 2023 model — under $80",
    "city": "",
    "includes": "",
    "trust": "ok",
@@ -5778,6 +5778,216 @@
    "trust": "ok",
    "seen": "direct",
    "also": []
+  },
+  {
+   "id": "1ec4127a",
+   "title": "PUMA Phantomcat Nitro Sport Golf Shoes",
+   "brand": "PUMA",
+   "cat": "shoes",
+   "group": "shoes",
+   "store": "Puma Golf",
+   "url": "https://www.pumagolf.com/products/phantomcat-nitro-sport-golf-shoes",
+   "img": "https://cdn.shopify.com/s/files/1/0562/1186/5673/files/310220_01_sv01.jpg?v=1749142773",
+   "price": 74.99,
+   "was": 150.0,
+   "pct": 50,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "",
+   "demand": 3,
+   "value": "",
+   "why": "PUMA's spiked Phantomcat Nitro at half its $150 list at the brand's own store.",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": []
+  },
+  {
+   "id": "de47f3b1",
+   "title": "PUMA Fusion Crush Sport Wide Spikeless Golf Shoes",
+   "brand": "PUMA",
+   "cat": "shoes",
+   "group": "shoes",
+   "store": "Puma Golf",
+   "url": "https://www.pumagolf.com/products/fusion-crush-sport-wide-golf-shoes",
+   "img": "https://cdn.shopify.com/s/files/1/0562/1186/5673/files/379204_05_sv01.jpg?v=1766079100",
+   "price": 49.99,
+   "was": 100.0,
+   "pct": 50,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "Wide width model; most sizes 8-13 in stock.",
+   "demand": 2,
+   "value": "",
+   "why": "Wide-fit spikeless shoe at half price direct from PUMA.",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": []
+  },
+  {
+   "id": "72120349",
+   "title": "PUMA Ignite Articulate Golf Shoes",
+   "brand": "PUMA",
+   "cat": "shoes",
+   "group": "shoes",
+   "store": "Puma Golf",
+   "url": "https://www.pumagolf.com/products/ignite-articulate-golf-shoes",
+   "img": "https://cdn.shopify.com/s/files/1/0562/1186/5673/files/376078_03_sv01_4602b3a3-cba9-448e-bc54-42fbf1211287.jpg?v=1772737064",
+   "price": 99.0,
+   "was": 180.0,
+   "pct": 45,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "Spiked and waterproof.",
+   "demand": 3,
+   "value": "",
+   "why": "Waterproof spiked Ignite at $99 vs the $180 list at PUMA's own store.",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": []
+  },
+  {
+   "id": "104220ba",
+   "title": "PUMA Volition Tipped Golf Polo",
+   "brand": "PUMA",
+   "cat": "apparel",
+   "group": "apparel",
+   "store": "Puma Golf",
+   "url": "https://www.pumagolf.com/products/volition-tipped-golf-polo",
+   "img": "https://cdn.shopify.com/s/files/1/0562/1186/5673/files/630180_01.jpg?v=1746065318",
+   "price": 44.99,
+   "was": 75.0,
+   "pct": 40,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "Volition America collection supporting Folds of Honor.",
+   "demand": 2,
+   "value": "",
+   "why": "PUMA's Volition polo at 40% off the brand's own list.",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": []
+  },
+  {
+   "id": "24f88a03",
+   "title": "PUMA Avant Wingtip Spikeless Golf Shoes",
+   "brand": "PUMA",
+   "cat": "shoes",
+   "group": "shoes",
+   "store": "Puma Golf",
+   "url": "https://www.pumagolf.com/products/puma-avant-wingtip-golf-shoes",
+   "img": "https://cdn.shopify.com/s/files/1/0562/1186/5673/files/378824_05_sv01.jpg?v=1749143531",
+   "price": 104.99,
+   "was": 140.0,
+   "pct": 25,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "",
+   "demand": 2,
+   "value": "",
+   "why": "Classic wingtip spikeless styling at 25% off direct from PUMA.",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": []
+  },
+  {
+   "id": "613a032b",
+   "title": "Cobra Grandsport-35 3D Printed Putter",
+   "brand": "Cobra",
+   "cat": "putter",
+   "group": "putters",
+   "store": "Cobra Golf",
+   "url": "https://www.cobragolf.com/products/3dp-grandsport-35-putter",
+   "img": "https://cdn.shopify.com/s/files/1/0634/7833/3657/files/p8421_hero.jpg?v=1760627248",
+   "price": 249.99,
+   "was": 349.0,
+   "pct": 28,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "Right-hand 34-inch only at this price; other lengths and left-hand are sold out.",
+   "demand": 2,
+   "value": "",
+   "why": "Cobra's 3D printed Grandsport-35 putter at $100 under list at Cobra direct.",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": [],
+   "family": "3D Printed"
+  },
+  {
+   "id": "eb17b696",
+   "title": "Cobra Agera RS-30 3D Printed Putter",
+   "brand": "Cobra",
+   "cat": "putter",
+   "group": "putters",
+   "store": "Cobra Golf",
+   "url": "https://www.cobragolf.com/products/3dp-agera-rs-30-putter",
+   "img": "https://cdn.shopify.com/s/files/1/0634/7833/3657/files/p8452_back_angled.jpg?v=1760626627",
+   "price": 249.99,
+   "was": 349.0,
+   "pct": 28,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "Right-hand 34 and 35 inch in stock.",
+   "demand": 2,
+   "value": "",
+   "why": "Cobra's 3D printed Agera RS-30 mallet at $100 under list at Cobra direct.",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": [],
+   "family": "3D Printed"
+  },
+  {
+   "id": "df08de8e",
+   "title": "PUMA Women's Boulder 1/2 Snap Pullover Golf Sweater",
+   "brand": "PUMA",
+   "cat": "apparel",
+   "group": "apparel",
+   "store": "Cobra Golf",
+   "url": "https://www.cobragolf.com/products/womens-boulder-half-snap-pullover-golf-sweater",
+   "img": "https://cdn.shopify.com/s/files/1/0634/7833/3657/files/633036_06.jpg?v=1750092595",
+   "price": 50.99,
+   "was": 85.0,
+   "pct": 40,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "Poised Pink colorway at this price; other colorways are full price.",
+   "demand": 2,
+   "value": "",
+   "why": "PUMA women's Boulder pullover at 40% off in the Poised Pink colorway.",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": []
   }
  ],
  "releases": [
@@ -5794,7 +6004,7 @@
    "released": "2026-10-16",
    "source": "https://news.dunlopsports.com/us/media-news/raw-power--pure-sound--srixon-introduces-all-new-zxi-rkt-woods/s/f149f911-0f0f-47e0-969e-2f25a2c5c552",
    "hype": 4,
-   "buzz": "Already a winner before it reached shelves \u2014 Ryan Fox won The Open and Shane Lowry won the Irish Open with the RKT driver, so it launched to front-page coverage everywhere."
+   "buzz": "Already a winner before it reached shelves — Ryan Fox won The Open and Shane Lowry won the Irish Open with the RKT driver, so it launched to front-page coverage everywhere."
   },
   {
    "id": "02037d15",
@@ -5809,7 +6019,7 @@
    "released": "2026-10-16",
    "source": "https://news.dunlopsports.com/us/media-news/raw-power--pure-sound--srixon-introduces-all-new-zxi-rkt-woods/s/f149f911-0f0f-47e0-969e-2f25a2c5c552",
    "hype": 3,
-   "buzz": "Shares the RKT face with the driver and pairs adjustable sole weights with a hosel sleeve \u2014 a first for a Srixon fairway wood."
+   "buzz": "Shares the RKT face with the driver and pairs adjustable sole weights with a hosel sleeve — a first for a Srixon fairway wood."
   },
   {
    "id": "62e655bd",
@@ -5869,7 +6079,7 @@
    "released": "2026-10-01",
    "source": "https://www.foresightsports.com/blogs/golf-tips/the-all-new-foresight-gc2-launch-monitor-2026",
    "hype": 4,
-   "buzz": "Foresight accuracy at $1,699 is the draw \u2014 the home-sim crowd has wanted a cheaper way into this ecosystem for years."
+   "buzz": "Foresight accuracy at $1,699 is the draw — the home-sim crowd has wanted a cheaper way into this ecosystem for years."
   },
   {
    "id": "6376664c",
@@ -5899,7 +6109,7 @@
    "released": "2026-10-09",
    "source": "https://www.garmin.com/en-US/newsroom/press-release/outdoor/meet-approach-s72-garmins-ultimate-golf-smartwatch/",
    "hype": 3,
-   "buzz": "Garmin's first golf watch with on-wrist swing metrics and green reading \u2014 and its first with a speaker and mic for calls.",
+   "buzz": "Garmin's first golf watch with on-wrist swing metrics and green reading — and its first with a speaker and mic for calls.",
    "note": "47 mm; also in 43 mm. Ships in 1-3 business days from Garmin."
   }
  ],
@@ -5940,7 +6150,7 @@
    "confidence": "expected",
    "source": "https://golf.com/gear/golf-balls/titleist-begins-2027-pro-v1-tour-seeding/",
    "hype": 5,
-   "buzz": "Tour seeding is already underway and several players switched during the fall events \u2014 a new Pro V1 generation is the most watched ball launch in golf.",
+   "buzz": "Tour seeding is already underway and several players switched during the fall events — a new Pro V1 generation is the most watched ball launch in golf.",
    "note": "15th generation; retail date not yet announced by Titleist."
   },
   {
@@ -5977,7 +6187,7 @@
    "confidence": "expected",
    "source": "https://www.golfdigest.com/story/taylormade-wont-introduce-a-new-driver-in-2027-moving-to-two-year-product-cycle",
    "hype": 4,
-   "buzz": "Expected alongside the new driver \u2014 Callaway refreshes its full woods lineup on a yearly cycle."
+   "buzz": "Expected alongside the new driver — Callaway refreshes its full woods lineup on a yearly cycle."
   },
   {
    "id": "d51a0007",
@@ -6309,7 +6519,7 @@
    "founded": "1997",
    "rating": "Trustpilot 1.5/5 (51 reviews)",
    "verdict": "credible",
-   "notes": "DICK'S subsidiary, authorized dealer for all major brands. Low Trustpilot sample; complaints on shipping/order accuracy. Clubs clearance page thin \u2014 most deep d"
+   "notes": "DICK'S subsidiary, authorized dealer for all major brands. Low Trustpilot sample; complaints on shipping/order accuracy. Clubs clearance page thin — most deep d"
   },
   {
    "store": "Callaway Golf Pre-Owned",
@@ -6429,7 +6639,7 @@
    "founded": "US brand launched 2018 (Alphard Golf USA, a division of ProActive Sports); company founding year not verified",
    "rating": "not found (no BBB/Trustpilot score verified)",
    "verdict": "credible",
-   "notes": "Established electric-caddy brand (Club Booster, Cybercart) sold through TGW and other major retailers; MyGolfSpy 2025 award winner. Alphard publishes no standard direct return window, so terms vary by retailer (dealers commonly offer 30 days on unused items); products carry a 2-year warranty \u2014 confirm return terms with the seller before buying."
+   "notes": "Established electric-caddy brand (Club Booster, Cybercart) sold through TGW and other major retailers; MyGolfSpy 2025 award winner. Alphard publishes no standard direct return window, so terms vary by retailer (dealers commonly offer 30 days on unused items); products carry a 2-year warranty — confirm return terms with the seller before buying."
   },
   {
    "store": "SkyTrak Golf",
@@ -6445,7 +6655,7 @@
    "founded": "Founded 2017, Celina, TX (per affiliate-industry profile); Inc. 5000 honoree",
    "rating": "not found (no BBB/Trustpilot score verified)",
    "verdict": "credible",
-   "notes": "Established golf-simulator retailer and maker of the SIGPRO line, with a physical showroom in Celina, TX and a price-match guarantee. Returns within 30 days on unused items, but ALL returns carry a 15% restocking fee and the buyer pays return shipping (per its own refund policy) \u2014 a real cost on big-ticket simulator gear."
+   "notes": "Established golf-simulator retailer and maker of the SIGPRO line, with a physical showroom in Celina, TX and a price-match guarantee. Returns within 30 days on unused items, but ALL returns carry a 15% restocking fee and the buyer pays return shipping (per its own refund policy) — a real cost on big-ticket simulator gear."
   },
   {
    "store": "GolfApparelShop",
@@ -6461,7 +6671,7 @@
    "founded": "Founded 2019 (company/founder profiles)",
    "rating": "not found (no BBB/Trustpilot score verified)",
    "verdict": "credible",
-   "notes": "Direct-to-consumer performance golf shoe brand (Sir Nick Faldo is a partner/investor; also sold at DICK'S and Worldwide Golf Shops). Offers a 30-day performance guarantee \u2014 try the shoes and return them for a full refund if not satisfied \u2014 though some older buyer reviews report restocking/return-shipping fees of about $23, so confirm current terms at checkout."
+   "notes": "Direct-to-consumer performance golf shoe brand (Sir Nick Faldo is a partner/investor; also sold at DICK'S and Worldwide Golf Shops). Offers a 30-day performance guarantee — try the shoes and return them for a full refund if not satisfied — though some older buyer reviews report restocking/return-shipping fees of about $23, so confirm current terms at checkout."
   },
   {
    "store": "Garmin",
@@ -6477,7 +6687,7 @@
    "founded": "Founded 2010, San Diego, CA (CB Insights/company profiles)",
    "rating": "not found (no BBB/Trustpilot score verified)",
    "verdict": "caution",
-   "notes": "Legit top-tier launch-monitor maker (GCQuad, GC3, GC2), but manufacturer return terms are strict \u2014 authorized dealers state that Foresight sales are final under Foresight's own policy, and software licenses are non-returnable. Buyers should get return terms in writing before a big-ticket purchase or buy through a dealer that states its own return window."
+   "notes": "Legit top-tier launch-monitor maker (GCQuad, GC3, GC2), but manufacturer return terms are strict — authorized dealers state that Foresight sales are final under Foresight's own policy, and software licenses are non-returnable. Buyers should get return terms in writing before a big-ticket purchase or buy through a dealer that states its own return window."
   },
   {
    "store": "Nike",
@@ -6485,7 +6695,7 @@
    "founded": "Founded 1964 as Blue Ribbon Sports (Wikipedia)",
    "rating": "BBB F, not accredited (BBB profile); Trustpilot ~1.7/5 (per TopConsumerReviews)",
    "verdict": "caution",
-   "notes": "The brand's official store with a generous 60-day return window (free return shipping for Nike Members), but its BBB rating is F on complaint-handling volume and Trustpilot scores are poor \u2014 the low marks reflect customer-service complaints at massive scale, not legitimacy."
+   "notes": "The brand's official store with a generous 60-day return window (free return shipping for Nike Members), but its BBB rating is F on complaint-handling volume and Trustpilot scores are poor — the low marks reflect customer-service complaints at massive scale, not legitimacy."
   },
   {
    "store": "Academy Sports + Outdoors",
@@ -6597,7 +6807,7 @@
    "founded": "1984 (per CB Insights)",
    "rating": "BBB rating not found; Trustpilot 1.9/5",
    "verdict": "credible",
-   "notes": "Paid membership required to shop (non-members pay a surcharge with a one-day pass). Most items are returnable within about a year with proof of purchase \u2014 proof of purchase is required for all returns \u2014 with shorter windows for electronics (90 days), groceries (90 days) and certain home items (30 days); bulk purchases over $1,000 are final sale."
+   "notes": "Paid membership required to shop (non-members pay a surcharge with a one-day pass). Most items are returnable within about a year with proof of purchase — proof of purchase is required for all returns — with shorter windows for electronics (90 days), groceries (90 days) and certain home items (30 days); bulk purchases over $1,000 are final sale."
   },
   {
    "store": "Best Buy",
