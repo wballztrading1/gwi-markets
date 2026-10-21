@@ -1,8 +1,8 @@
 {
- "checked": "2026-10-20",
+ "checked": "2026-10-21",
  "total": 227,
- "live": 217,
- "updated": 2,
+ "live": 215,
+ "updated": 0,
  "hidden": [
   {
    "id": "99f26173",
@@ -53,6 +53,18 @@
    "why": "offer ended"
   },
   {
+   "id": "5bced8c8",
+   "title": "Cleveland Launcher XL2 Driver",
+   "store": "Golf Discount",
+   "why": "sold out"
+  },
+  {
+   "id": "5d4c887a",
+   "title": "Cleveland HiBore XL Driver",
+   "store": "Golf Discount",
+   "why": "sold out"
+  },
+  {
    "id": "16e9a3fd",
    "title": "Callaway Elyte Max Fast Hybrids",
    "store": "Callaway Golf Pre-Owned",
@@ -65,8 +77,8 @@
    "why": "offer ended"
   }
  ],
- "unreadable": 37,
- "unclear": 8,
+ "unreadable": 38,
+ "unclear": 7,
  "newGear": {
   "total": 8,
   "live": 8,
