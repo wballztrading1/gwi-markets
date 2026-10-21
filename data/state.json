@@ -396,7 +396,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -444,28 +444,6 @@
    "shown": true,
    "gone": true
   },
-  "02a51fea73": {
-   "id": "02a51fea73",
-   "title": "Bobcats Jr. League",
-   "start": "2026-10-18",
-   "end": "",
-   "time": "4:00 PM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "fun",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": true,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "gone": true
-  },
   "97f637d25f": {
    "id": "97f637d25f",
    "title": "Eaton Sapphires Tournament",
@@ -484,7 +462,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -506,7 +484,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -528,7 +506,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -550,7 +528,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -572,7 +550,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -616,7 +594,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -660,7 +638,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -727,7 +705,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -793,7 +771,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -859,7 +837,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -969,7 +947,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": false,
    "imgTried": true
   },
@@ -991,7 +969,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": false,
    "imgTried": true
   },
@@ -1035,7 +1013,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1058,7 +1036,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-04",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -1080,7 +1058,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true,
    "touched": true
   },
@@ -1102,7 +1080,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": true
   },
   "de3efb80a5": {
@@ -1123,7 +1101,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-20",
+   "lastSeen": "2026-10-21",
    "shown": false
   }
  },
