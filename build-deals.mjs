@@ -6,7 +6,7 @@
 //  - price went up and discount < 25% -> hidden
 //  - page couldn't be read (blocked)  -> kept at the last verified price for up to 10 days, then hidden
 //  - deal listed without a photo      -> the product image is taken from the store page when found
-//  - New Gear (curated "releases")    -> shown for 10 days from the first day the checker sees it, then dropped;
+//  - New Gear (curated "releases")    -> shown for 30 days from the first day the checker sees it, then dropped;
 //                                        hidden early if the page is gone or sold out (no discount needed)
 //  - Coming Soon (curated "upcoming")  -> announced launches; dropped once the date passes or the product is released
 //  - every deal gets `added` (first day seen) for the "New deals this week" box
@@ -16,7 +16,7 @@ import fs from 'node:fs/promises';
 const DATA = process.env.DATA_DIR || 'data';
 const TODAY = process.env.TODAY || new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Chicago' }).format(new Date());
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36';
-const MIN_PCT = 25, STALE_DAYS = 10, NEW_GEAR_DAYS = 10;
+const MIN_PCT = 25, STALE_DAYS = 10, NEW_GEAR_DAYS = 30;
 const PLAY = new Set(['tee-times', 'range', 'lesson', 'trip']);
 
 const addDays = (ymd, n) => { const d = new Date(ymd + 'T12:00:00Z'); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
@@ -199,7 +199,7 @@ async function main() {
     const st = prev.items[k] || {}; const res = relResults[i];
     const first = st.first || TODAY, until = addDays(first, NEW_GEAR_DAYS - 1);
     let price = st.price ?? r.price ?? null, why = '';
-    if (res.status === 'expired') why = 'shown 10 days';
+    if (res.status === 'expired') why = `shown ${NEW_GEAR_DAYS} days`;
     else if (res.status === 'gone') why = 'page removed';
     else if (res.status === 'ok') {
       if (res.inStock === false && !r.preorder) why = 'sold out';
@@ -208,7 +208,7 @@ async function main() {
     }
     const img = r.img || (res.status === 'ok' && res.image) || st.img || '';
     prev.items[k] = { first, price, why, ...(img && !r.img ? { img } : {}) };
-    if (why) { if (why === 'shown 10 days') report.newGear.expired++; else report.newGear.hidden.push({ title: r.title, store: r.store, why }); return; }
+    if (why) { if (why === `shown ${NEW_GEAR_DAYS} days`) report.newGear.expired++; else report.newGear.hidden.push({ title: r.title, store: r.store, why }); return; }
     report.newGear.live++;
     relOut.push({ ...r, ...(img ? { img } : {}), price, first, until, checked: res.status === 'ok' ? TODAY : (st.checked || first) });
     prev.items[k].checked = relOut[relOut.length - 1].checked;
