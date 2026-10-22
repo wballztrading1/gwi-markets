@@ -1,8 +1,8 @@
 {
- "checked": "2026-10-21",
+ "checked": "2026-10-22",
  "total": 238,
- "live": 229,
- "updated": 0,
+ "live": 228,
+ "updated": 3,
  "hidden": [
   {
    "id": "99f26173",
@@ -57,10 +57,16 @@
    "title": "Callaway Elyte X Irons",
    "store": "Callaway Golf Pre-Owned",
    "why": "offer ended"
+  },
+  {
+   "id": "8487f8f4",
+   "title": "Sun Mountain 2025 C-130 Cart Bag",
+   "store": "Golf Discount",
+   "why": "sold out"
   }
  ],
- "unreadable": 37,
- "unclear": 7,
+ "unreadable": 41,
+ "unclear": 9,
  "newGear": {
   "total": 11,
   "live": 11,
