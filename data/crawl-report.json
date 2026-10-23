@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-22",
+ "checked": "2026-10-23",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -159,7 +159,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 14,
+   "found": 21,
    "kept": 0,
    "error": ""
   },
@@ -311,7 +311,7 @@
     "ical"
    ],
    "found": 256,
-   "kept": 13,
+   "kept": 12,
    "error": ""
   },
   {
