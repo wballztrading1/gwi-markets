@@ -1,10 +1,17 @@
 {
- "checked": "2026-10-25",
- "total": 284,
- "live": 284,
- "updated": 3,
- "hidden": [],
- "unreadable": 58,
+ "checked": "2026-10-26",
+ "total": 305,
+ "live": 304,
+ "updated": 19,
+ "hidden": [
+  {
+   "id": "b42b8200",
+   "title": "Callaway Elyte Triple Diamond Fairway Woods",
+   "store": "Carl's Golfland",
+   "why": "sold out"
+  }
+ ],
+ "unreadable": 57,
  "unclear": 11,
  "newGear": {
   "total": 14,
