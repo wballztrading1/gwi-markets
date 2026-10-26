@@ -1056,7 +1056,8 @@
    "confirmed": true,
    "firstSeen": "2026-10-23",
    "lastSeen": "2026-10-25",
-   "shown": false
+   "shown": true,
+   "touched": true
   },
   "b903ed6f74": {
    "id": "b903ed6f74",
