@@ -396,7 +396,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -462,7 +462,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -484,7 +484,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -506,7 +506,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -528,7 +528,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -550,7 +550,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -594,7 +594,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -604,28 +604,6 @@
    "start": "2026-11-13",
    "end": "",
    "time": "8:30 AM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "fun",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": true,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "gone": true
-  },
-  "ec0a9029f7": {
-   "id": "ec0a9029f7",
-   "title": "Dido Church (Tentative)",
-   "start": "2026-10-24",
-   "end": "",
-   "time": "8:00 AM",
    "venue": "The Resort Golf Club",
    "city": "Fort Worth",
    "area": "fortworth",
@@ -660,7 +638,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -726,7 +704,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -792,7 +770,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -902,7 +880,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": false,
    "imgTried": true
   },
@@ -924,7 +902,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": false,
    "imgTried": true
   },
@@ -968,7 +946,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -991,7 +969,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -1013,7 +991,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true
   },
   "de3efb80a5": {
@@ -1034,7 +1012,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": false
   },
   "770358535d": {
@@ -1055,7 +1033,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-27",
    "shown": true,
    "touched": true
   },
@@ -1079,7 +1057,8 @@
    "firstSeen": "2026-10-25",
    "lastSeen": "2026-10-26",
    "shown": false,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "176dd91380": {
    "id": "176dd91380",
@@ -1101,7 +1080,8 @@
    "firstSeen": "2026-10-25",
    "lastSeen": "2026-10-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "48c3720444": {
    "id": "48c3720444",
@@ -1123,7 +1103,8 @@
    "firstSeen": "2026-10-25",
    "lastSeen": "2026-10-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   }
  },
  "superseded": []
