@@ -509,32 +509,6 @@
    "also": []
   },
   {
-   "id": "99f26173",
-   "title": "Callaway Elyte X Driver",
-   "brand": "Callaway",
-   "cat": "driver",
-   "group": "woods",
-   "store": "Callaway Golf Pre-Owned",
-   "url": "https://www.callawaygolfpreowned.com/drivers/drivers-2025-elyte-x.html",
-   "img": "https://prd-sfcc.callawaygolfpreowned.com/dw/image/v2/AADH_PRD/on/demandware.static/-/Sites-CGI-ItemMaster/default/v1790055543903/sits/drivers-2025-elyte-x/drivers-2025-elyte-x___1.png",
-   "price": 206.05,
-   "was": 457.89,
-   "pct": 55,
-   "cond": "certified pre-owned (from price, lowest grade)",
-   "condClass": "used",
-   "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
-   "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns.",
-   "demand": 3,
-   "value": "value",
-   "why": "Draw-bias, max-forgiveness Elyte for slicers; high demand flagged on page",
-   "city": "",
-   "includes": "",
-   "trust": "ok",
-   "seen": "direct",
-   "also": []
-  },
-  {
    "id": "dd1b19ee",
    "title": "Callaway Elyte Max Fast Driver",
    "brand": "Callaway",
@@ -631,7 +605,7 @@
    "note": "Customizable (loft/shaft/hand). 90-day Performance Guarantee.",
    "demand": 3,
    "value": "value",
-   "why": "New Elyte at 44% off \u2014 prior-year flagship now replaced by Quantum",
+   "why": "New Elyte at 44% off — prior-year flagship now replaced by Quantum",
    "city": "",
    "includes": "",
    "trust": "ok",
@@ -829,7 +803,7 @@
   },
   {
    "id": "a4e737f2",
-   "title": "Callaway Paradym Ai Smoke Max Driver 9\u00b0 Mitsubishi Diamana DF 60 Stiff",
+   "title": "Callaway Paradym Ai Smoke Max Driver 9° Mitsubishi Diamana DF 60 Stiff",
    "brand": "Callaway",
    "cat": "driver",
    "group": "woods",
@@ -881,7 +855,7 @@
   },
   {
    "id": "0848e467",
-   "title": "Titleist GT3 Driver 10\u00b0 Fujikura Speeder Evolution 757 Tour Spec X-Stiff",
+   "title": "Titleist GT3 Driver 10° Fujikura Speeder Evolution 757 Tour Spec X-Stiff",
    "brand": "Titleist",
    "cat": "driver",
    "group": "woods",
@@ -1264,7 +1238,7 @@
    "note": "10 available. 4H, regular (5.5) flex.",
    "demand": 2,
    "value": "",
-   "why": "Paradym hybrid \u2014 popular 2023 model \u2014 under $80",
+   "why": "Paradym hybrid — popular 2023 model — under $80",
    "city": "",
    "includes": "",
    "trust": "ok",
@@ -2939,58 +2913,6 @@
    "also": [],
    "city": "",
    "includes": "",
-   "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns.",
-   "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
-   "value": "value",
-   "why": "Night Edition of the 2025 Elyte flagship at half the store compare-at",
-   "trust": "ok",
-   "seen": "direct",
-   "cond": "certified pre-owned (from price, lowest grade)",
-   "condClass": "used",
-   "demand": 3,
-   "img": "https://prd-sfcc.callawaygolfpreowned.com/dw/image/v2/AADH_PRD/on/demandware.static/-/Sites-CGI-ItemMaster/default/v1792302001522/sits/drivers-2025-elyte-night-mode/drivers-2025-elyte-night-mode___1.png?sw=600&q=75&bgcolor=F7F7F7&sfrm=png",
-   "title": "Callaway Elyte Night Edition Driver",
-   "brand": "Callaway",
-   "cat": "driver",
-   "group": "woods",
-   "store": "Callaway Golf Pre-Owned",
-   "url": "https://www.callawaygolfpreowned.com/drivers/drivers-2025-elyte-night-mode.html",
-   "price": 227.7,
-   "was": 505.99,
-   "id": "678e1418",
-   "pct": 55
-  },
-  {
-   "also": [],
-   "city": "",
-   "includes": "",
-   "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns.",
-   "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
-   "value": "value",
-   "why": "Tour-preferred Triple Diamond Max head, certified pre-owned",
-   "trust": "ok",
-   "seen": "direct",
-   "cond": "certified pre-owned (from price, lowest grade)",
-   "condClass": "used",
-   "demand": 3,
-   "img": "https://prd-sfcc.callawaygolfpreowned.com/dw/image/v2/AADH_PRD/on/demandware.static/-/Sites-CGI-ItemMaster/default/v1792302001522/sits/drivers-2025-elyte-td-max/drivers-2025-elyte-td-max___1.png?sw=600&q=75&bgcolor=F7F7F7&sfrm=png",
-   "title": "Callaway Elyte Triple Diamond Max Driver",
-   "brand": "Callaway",
-   "cat": "driver",
-   "group": "woods",
-   "store": "Callaway Golf Pre-Owned",
-   "url": "https://www.callawaygolfpreowned.com/drivers/drivers-2025-elyte-td-max.html",
-   "price": 329.12,
-   "was": 506.33,
-   "id": "8af396b0",
-   "pct": 35
-  },
-  {
-   "also": [],
-   "city": "",
-   "includes": "",
    "note": "",
    "promo": "",
    "ends": "",
@@ -3147,58 +3069,6 @@
    "also": [],
    "city": "",
    "includes": "",
-   "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns.",
-   "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
-   "value": "value",
-   "why": "Current Elyte fairway line, certified pre-owned at 50% off compare-at",
-   "trust": "ok",
-   "seen": "direct",
-   "cond": "certified pre-owned (from price, lowest grade)",
-   "condClass": "used",
-   "demand": 3,
-   "img": "https://prd-sfcc.callawaygolfpreowned.com/dw/image/v2/AADH_PRD/on/demandware.static/-/Sites-CGI-ItemMaster/default/v1792302001522/sits/fwoods-2025-elyte-x/fwoods-2025-elyte-x___1.png?sw=600&q=75&bgcolor=F7F7F7&sfrm=png",
-   "title": "Callaway Elyte X Fairway Woods",
-   "brand": "Callaway",
-   "cat": "fairway",
-   "group": "woods",
-   "store": "Callaway Golf Pre-Owned",
-   "url": "https://www.callawaygolfpreowned.com/fairway-woods/fwoods-2025-elyte-x.html",
-   "price": 119.42,
-   "was": 265.38,
-   "id": "7882a494",
-   "pct": 55
-  },
-  {
-   "also": [],
-   "city": "",
-   "includes": "",
-   "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns.",
-   "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
-   "value": "value",
-   "why": "Lightweight Max Fast Elyte fairway, certified pre-owned at 45% off",
-   "trust": "ok",
-   "seen": "direct",
-   "cond": "certified pre-owned (from price, lowest grade)",
-   "condClass": "used",
-   "demand": 2,
-   "img": "https://prd-sfcc.callawaygolfpreowned.com/dw/image/v2/AADH_PRD/on/demandware.static/-/Sites-CGI-ItemMaster/default/v1792302001522/sits/fwoods-2025-elyte-max-fast/fwoods-2025-elyte-max-fast___1.png?sw=600&q=75&bgcolor=F7F7F7&sfrm=png",
-   "title": "Callaway Elyte Max Fast Fairway Woods",
-   "brand": "Callaway",
-   "cat": "fairway",
-   "group": "woods",
-   "store": "Callaway Golf Pre-Owned",
-   "url": "https://www.callawaygolfpreowned.com/fairway-woods/fwoods-2025-elyte-max-fast.html",
-   "price": 127.11,
-   "was": 254.21,
-   "id": "7472b3fa",
-   "pct": 50
-  },
-  {
-   "also": [],
-   "city": "",
-   "includes": "",
    "note": "Previous Season Style, InStock on footjoy.com 2026-10-05.",
    "promo": "",
    "ends": "",
@@ -3350,58 +3220,6 @@
    "was": 58,
    "id": "72944d06",
    "pct": 40
-  },
-  {
-   "title": "Callaway Elyte Hybrids",
-   "brand": "Callaway",
-   "cat": "hybrid",
-   "group": "woods",
-   "store": "Callaway Golf Pre-Owned",
-   "url": "https://www.callawaygolfpreowned.com/hybrids/hybrids-2025-elyte.html",
-   "img": "https://prd-sfcc.callawaygolfpreowned.com/dw/image/v2/AADH_PRD/on/demandware.static/-/Sites-CGI-ItemMaster/default/v1792302001522/sits/hybrids-2025-elyte/hybrids-2025-elyte___1.png?sw=600&q=75&bgcolor=F7F7F7&sfrm=png",
-   "price": 98.51,
-   "was": 218.9,
-   "cond": "certified pre-owned (from price, lowest grade)",
-   "condClass": "used",
-   "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
-   "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns. Price seen on Elyte Family page 2026-10-07.",
-   "demand": 3,
-   "value": "value",
-   "why": "2025 Callaway flagship hybrid line (581 reviews on-site)",
-   "city": "",
-   "includes": "",
-   "trust": "ok",
-   "seen": "direct",
-   "also": [],
-   "id": "1c223889",
-   "pct": 55
-  },
-  {
-   "title": "Callaway Elyte X Hybrids",
-   "brand": "Callaway",
-   "cat": "hybrid",
-   "group": "woods",
-   "store": "Callaway Golf Pre-Owned",
-   "url": "https://www.callawaygolfpreowned.com/hybrids/hybrids-2025-elyte-x.html",
-   "img": "https://prd-sfcc.callawaygolfpreowned.com/dw/image/v2/AADH_PRD/on/demandware.static/-/Sites-CGI-ItemMaster/default/v1792302001522/sits/hybrids-2025-elyte-x/hybrids-2025-elyte-x___1.png?sw=600&q=75&bgcolor=F7F7F7&sfrm=png",
-   "price": 102.83,
-   "was": 228.52,
-   "cond": "certified pre-owned (from price, lowest grade)",
-   "condClass": "used",
-   "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
-   "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns. Price seen on Elyte Family page 2026-10-07.",
-   "demand": 3,
-   "value": "value",
-   "why": "Draw-bias Elyte X hybrid (334 reviews on-site)",
-   "city": "",
-   "includes": "",
-   "trust": "ok",
-   "seen": "direct",
-   "also": [],
-   "id": "7b87d018",
-   "pct": 55
   },
   {
    "title": "TaylorMade Qi35 LS Driver",
@@ -3830,58 +3648,6 @@
    "condClass": "new",
    "id": "44eb97f0",
    "pct": 56
-  },
-  {
-   "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
-   "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns. Price seen on Elyte Family page 2026-10-12.",
-   "demand": 3,
-   "value": "value",
-   "why": "Lightweight Elyte Max Fast hybrid at 55% off on CPO",
-   "city": "",
-   "includes": "",
-   "trust": "ok",
-   "seen": "direct",
-   "also": [],
-   "title": "Callaway Elyte Max Fast Hybrids",
-   "brand": "Callaway",
-   "cat": "hybrid",
-   "group": "woods",
-   "store": "Callaway Golf Pre-Owned",
-   "url": "https://www.callawaygolfpreowned.com/hybrids/hybrids-2025-elyte-max-fast.html",
-   "img": "https://prd-sfcc.callawaygolfpreowned.com/dw/image/v2/AADH_PRD/on/demandware.static/-/Sites-CGI-ItemMaster/default/v1792302001522/sits/hybrids-2025-elyte-max-fast/hybrids-2025-elyte-max-fast___1.png?sw=600&q=75&bgcolor=F7F7F7&sfrm=png",
-   "price": 102.84,
-   "was": 228.52,
-   "cond": "certified pre-owned (from price, lowest grade)",
-   "condClass": "used",
-   "id": "16e9a3fd",
-   "pct": 55
-  },
-  {
-   "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
-   "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns. Price seen on Elyte Family page 2026-10-12.",
-   "demand": 3,
-   "value": "value",
-   "why": "Game-improvement Elyte X iron set at 30% off on CPO",
-   "city": "",
-   "includes": "",
-   "trust": "ok",
-   "seen": "direct",
-   "also": [],
-   "title": "Callaway Elyte X Irons",
-   "brand": "Callaway",
-   "cat": "irons",
-   "group": "irons",
-   "store": "Callaway Golf Pre-Owned",
-   "url": "https://www.callawaygolfpreowned.com/iron-sets/irons-2025-elyte-x.html",
-   "img": "https://prd-sfcc.callawaygolfpreowned.com/dw/image/v2/AADH_PRD/on/demandware.static/-/Sites-CGI-ItemMaster/default/v1792302001522/sits/irons-2025-elyte-x/irons-2025-elyte-x___1.png?sw=600&q=75&bgcolor=F7F7F7&sfrm=png",
-   "price": 468.99,
-   "was": 669.99,
-   "cond": "certified pre-owned (from price, lowest grade)",
-   "condClass": "used",
-   "id": "078471bc",
-   "pct": 30
   },
   {
    "promo": "",
@@ -6172,7 +5938,7 @@
    "condClass": "used",
    "promo": "",
    "ends": "",
-   "note": "Single used unit: right-handed 9\u00b0, Mitsubishi Kai'li White 60 stiff, 45.25in.",
+   "note": "Single used unit: right-handed 9°, Mitsubishi Kai'li White 60 stiff, 45.25in.",
    "demand": 3,
    "value": "value",
    "why": "PING's 10K-MOI flagship from 2024, a third off in Above Average condition.",
@@ -6198,7 +5964,7 @@
    "condClass": "used",
    "promo": "",
    "ends": "",
-   "note": "Single used unit: right-handed 10\u00b0, Mitsubishi Tensei AV Blue 55 regular, 45.75in. 2nd Swing Certified.",
+   "note": "Single used unit: right-handed 10°, Mitsubishi Tensei AV Blue 55 regular, 45.75in. 2nd Swing Certified.",
    "demand": 2,
    "value": "value",
    "why": "Titleist's TSR2 at 53% off its original list, certified pre-owned.",
@@ -6714,32 +6480,6 @@
    "also": []
   },
   {
-   "id": "b4ddb7bc",
-   "title": "Callaway Elyte Triple Diamond Tour Draw Driver",
-   "brand": "Callaway",
-   "cat": "driver",
-   "group": "woods",
-   "family": "Elyte",
-   "store": "Callaway Golf Pre-Owned",
-   "url": "https://www.callawaygolfpreowned.com/drivers/drivers-2025-elyte-td-tour-draw.html",
-   "img": "https://prd-sfcc.callawaygolfpreowned.com/dw/image/v2/AADH_PRD/on/demandware.static/-/Sites-CGI-ItemMaster/default/v1792733991810/sits/drivers-2025-elyte-td-tour-draw/drivers-2025-elyte-td-tour-draw___1.png?sw=3000&q=90&bgcolor=F7F7F7&sfrm=png",
-   "price": 313.19,
-   "was": 521.99,
-   "cond": "certified pre-owned (from price, lowest grade)",
-   "condClass": "used",
-   "demand": 2,
-   "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
-   "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns.",
-   "pct": 40,
-   "value": "",
-   "city": "",
-   "includes": "",
-   "trust": "ok",
-   "seen": "direct",
-   "also": []
-  },
-  {
    "id": "e4f02512",
    "title": "Callaway Elyte HL Irons",
    "brand": "Callaway",
@@ -6755,7 +6495,7 @@
    "condClass": "used",
    "demand": 2,
    "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
+   "ends": "",
    "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns.",
    "pct": 25,
    "value": "",
@@ -6780,7 +6520,7 @@
    "condClass": "used",
    "demand": 2,
    "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
+   "ends": "",
    "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns.",
    "pct": 25,
    "value": "",
@@ -6805,7 +6545,7 @@
    "condClass": "used",
    "demand": 2,
    "promo": "Wicked Good Deals - up to 35% off clubs + up to 55% off Elyte, no code required",
-   "ends": "2026-10-26",
+   "ends": "",
    "note": "Category-page 'From' price = lowest condition grade/config; store compare-at shown. 90-day warranty, 30-day returns.",
    "pct": 25,
    "value": "",
@@ -6892,7 +6632,7 @@
   },
   {
    "id": "bb595342",
-   "title": "Pinemeadow PGX SS Wedge - 56\u00b0",
+   "title": "Pinemeadow PGX SS Wedge - 56°",
    "brand": "Pinemeadow",
    "cat": "wedge",
    "group": "irons",
@@ -6917,7 +6657,7 @@
   },
   {
    "id": "f25dd0d8",
-   "title": "Pinemeadow Pre Nickel Wedge - 56\u00b0",
+   "title": "Pinemeadow Pre Nickel Wedge - 56°",
    "brand": "Pinemeadow",
    "cat": "wedge",
    "group": "irons",
@@ -7944,6 +7684,59 @@
    "trust": "ok",
    "seen": "direct",
    "also": []
+  },
+  {
+   "id": "07752598",
+   "title": "Jones Trouper 3.0 Stand Bag",
+   "brand": "Jones",
+   "cat": "bag",
+   "group": "bags",
+   "store": "Carl's Golfland",
+   "url": "https://www.carlsgolfland.com/jones-trouper-3-0-stand-bag",
+   "img": "https://www.carlsgolfland.com/media/catalog/product/cache/d69ef9f06ed26ee571b3d9d7a80a892a/j/o/jones_trouper_3_0_r_stand_bag_steel_blue_field_khaki_hero.jpg",
+   "price": 179.99,
+   "was": 309.99,
+   "pct": 42,
+   "cond": "new",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "Steel Blue/Field Khaki colorway shown; listed 'As low as $179.99'.",
+   "demand": 3,
+   "value": "",
+   "why": "Jones' updated lightweight stand bag with 5-way top and cooler pocket",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": []
+  },
+  {
+   "id": "25d12b26",
+   "title": "Ping G440 SFT HL Driver",
+   "brand": "Ping",
+   "cat": "driver",
+   "group": "woods",
+   "store": "PGA TOUR Superstore",
+   "url": "https://www.pgatoursuperstore.com/g440-sft-hl-driver/2000000049132.html",
+   "img": "https://cdn.media.amplience.net/i/pgatss/2000000049132-01_pc?$large$&fmt=auto",
+   "price": 448.98,
+   "was": 619.99,
+   "pct": 28,
+   "cond": "New",
+   "condClass": "new",
+   "promo": "",
+   "ends": "",
+   "note": "High-launch SFT variant; stock clubs ready to ship",
+   "demand": 3,
+   "value": "",
+   "why": "",
+   "city": "",
+   "includes": "",
+   "trust": "ok",
+   "seen": "direct",
+   "also": [],
+   "family": "G440"
   }
  ],
  "releases": [
@@ -7960,7 +7753,7 @@
    "released": "2026-10-16",
    "source": "https://news.dunlopsports.com/us/media-news/raw-power--pure-sound--srixon-introduces-all-new-zxi-rkt-woods/s/f149f911-0f0f-47e0-969e-2f25a2c5c552",
    "hype": 4,
-   "buzz": "Already a winner before it reached shelves \u2014 Ryan Fox won The Open and Shane Lowry won the Irish Open with the RKT driver, so it launched to front-page coverage everywhere."
+   "buzz": "Already a winner before it reached shelves — Ryan Fox won The Open and Shane Lowry won the Irish Open with the RKT driver, so it launched to front-page coverage everywhere."
   },
   {
    "id": "02037d15",
@@ -7975,7 +7768,7 @@
    "released": "2026-10-16",
    "source": "https://news.dunlopsports.com/us/media-news/raw-power--pure-sound--srixon-introduces-all-new-zxi-rkt-woods/s/f149f911-0f0f-47e0-969e-2f25a2c5c552",
    "hype": 3,
-   "buzz": "Shares the RKT face with the driver and pairs adjustable sole weights with a hosel sleeve \u2014 a first for a Srixon fairway wood."
+   "buzz": "Shares the RKT face with the driver and pairs adjustable sole weights with a hosel sleeve — a first for a Srixon fairway wood."
   },
   {
    "id": "62e655bd",
@@ -8035,7 +7828,7 @@
    "released": "2026-10-01",
    "source": "https://www.foresightsports.com/blogs/golf-tips/the-all-new-foresight-gc2-launch-monitor-2026",
    "hype": 4,
-   "buzz": "Foresight accuracy at $1,699 is the draw \u2014 the home-sim crowd has wanted a cheaper way into this ecosystem for years."
+   "buzz": "Foresight accuracy at $1,699 is the draw — the home-sim crowd has wanted a cheaper way into this ecosystem for years."
   },
   {
    "id": "6376664c",
@@ -8065,7 +7858,7 @@
    "released": "2026-10-09",
    "source": "https://www.garmin.com/en-US/newsroom/press-release/outdoor/meet-approach-s72-garmins-ultimate-golf-smartwatch/",
    "hype": 3,
-   "buzz": "Garmin's first golf watch with on-wrist swing metrics and green reading \u2014 and its first with a speaker and mic for calls.",
+   "buzz": "Garmin's first golf watch with on-wrist swing metrics and green reading — and its first with a speaker and mic for calls.",
    "note": "47 mm; also in 43 mm. Ships in 1-3 business days from Garmin."
   },
   {
@@ -8143,7 +7936,7 @@
    "img": "https://golfwrx.com/wp-content/uploads/2026/10/Vokey_Signature_60M.jpeg",
    "price": 399.0,
    "hype": 4,
-   "buzz": "Bob Vokey's own favorite grind \u2014 the one that started the M family \u2014 gets a 1,000-piece Slate Blue encore.",
+   "buzz": "Bob Vokey's own favorite grind — the one that started the M family — gets a 1,000-piece Slate Blue encore.",
    "note": "Limited to 1,000 worldwide, 60 deg only, Slate Blue, Project X shaft. 5-6 week ship times per Vokey page.",
    "id": "3f8d2485"
   },
@@ -8176,7 +7969,7 @@
    "source": "https://www.newswire.com/news/nikon-introduces-the-coolshot-proiii-stabilized-black-laser-22869812",
    "hype": 2,
    "buzz": "A blacked-out limited edition of Nikon's flagship stabilized rangefinder.",
-   "note": "Announced Oct 8; Nikon says available starting mid-October."
+   "note": "Announced Oct 8; Nikon says available starting mid-October; in stock on Nikon's own page at $529.95 (verified Oct 28). No exact at-retail day published — kept in upcoming, not filed as a release."
   },
   {
    "id": "d51a0003",
@@ -8188,7 +7981,7 @@
    "confidence": "expected",
    "source": "https://golf.com/gear/golf-balls/titleist-begins-2027-pro-v1-tour-seeding/",
    "hype": 5,
-   "buzz": "Tour seeding is already underway and several players switched during the fall events \u2014 a new Pro V1 generation is the most watched ball launch in golf.",
+   "buzz": "Tour seeding is already underway and several players switched during the fall events — a new Pro V1 generation is the most watched ball launch in golf.",
    "note": "Tour seeding started at the Baycurrent Classic (Oct 8-11); tour players already gaming them."
   },
   {
@@ -8227,7 +8020,7 @@
    "confidence": "expected",
    "source": "https://www.golfdigest.com/story/taylormade-wont-introduce-a-new-driver-in-2027-moving-to-two-year-product-cycle",
    "hype": 4,
-   "buzz": "Expected alongside the new driver \u2014 Callaway refreshes its full woods lineup on a yearly cycle.",
+   "buzz": "Expected alongside the new driver — Callaway refreshes its full woods lineup on a yearly cycle.",
    "note": "golf.com expects November USGA-list sightings; Callaway a holdout on annual wood cadence."
   },
   {
@@ -8378,7 +8171,7 @@
    "source": "https://www.soleretriever.com/news/articles/eastside-golf-nike-zero-gravity-collection-release-date-october-2026",
    "hype": 3,
    "buzz": "Eastside's third Nike golf two-pack pairs streetwear styling with tour-proven silhouettes just ahead of the holidays.",
-   "note": "Air Max 90 G + Nike Infinity NEXT% Tour 3 in black/iridescent; $200 per pair.",
+   "note": "Air Max 90 G ($140) + Infinity NEXT% Tour 3 ($200) in black/iridescent; launches Oct 30.",
    "id": "74d84323"
   },
   {
@@ -8413,7 +8206,7 @@
    "confidence": "rumored",
    "source": "https://www.theheadpro.com/equipment/winners-equipment-brennan-baycurrent-2026/",
    "hype": 2,
-   "buzz": "A new GOLO tour prototype showed up in a winner's bag \u2014 the classic Scotty Cameron leak pattern.",
+   "buzz": "A new GOLO tour prototype showed up in a winner's bag — the classic Scotty Cameron leak pattern.",
    "note": "Michael Brennan won the Baycurrent Classic Oct 12 with a GOLO 6 Tour prototype in the bag.",
    "id": "0fb761b2"
   }
@@ -8553,15 +8346,6 @@
    "ends": "2026-10-30",
    "url": "https://www.globalgolf.com/",
    "img": ""
-  },
-  {
-   "store": "Callaway Golf Pre-Owned",
-   "title": "Wicked Good Deals - Up to 35% Off Clubs + up to 55% Off Elyte",
-   "details": "No coupon code required. Prices on site reflect savings. Also 20% off Quantum. Excludes Gift Cards, Golf Balls, Golf Bags, and Complete Sets.",
-   "code": "",
-   "ends": "2026-10-26",
-   "url": "https://www.callawaygolfpreowned.com/",
-   "img": ""
   }
  ],
  "stores": [
@@ -8643,7 +8427,7 @@
    "founded": "1997",
    "rating": "Trustpilot 1.5/5 (51 reviews)",
    "verdict": "credible",
-   "notes": "DICK'S subsidiary, authorized dealer for all major brands. Low Trustpilot sample; complaints on shipping/order accuracy. Clubs clearance page thin \u2014 most deep d"
+   "notes": "DICK'S subsidiary, authorized dealer for all major brands. Low Trustpilot sample; complaints on shipping/order accuracy. Clubs clearance page thin — most deep d"
   },
   {
    "store": "Callaway Golf Pre-Owned",
@@ -8763,7 +8547,7 @@
    "founded": "US brand launched 2018 (Alphard Golf USA, a division of ProActive Sports); company founding year not verified",
    "rating": "not found (no BBB/Trustpilot score verified)",
    "verdict": "credible",
-   "notes": "Established electric-caddy brand (Club Booster, Cybercart) sold through TGW and other major retailers; MyGolfSpy 2025 award winner. Alphard publishes no standard direct return window, so terms vary by retailer (dealers commonly offer 30 days on unused items); products carry a 2-year warranty \u2014 confirm return terms with the seller before buying."
+   "notes": "Established electric-caddy brand (Club Booster, Cybercart) sold through TGW and other major retailers; MyGolfSpy 2025 award winner. Alphard publishes no standard direct return window, so terms vary by retailer (dealers commonly offer 30 days on unused items); products carry a 2-year warranty — confirm return terms with the seller before buying."
   },
   {
    "store": "SkyTrak Golf",
@@ -8779,7 +8563,7 @@
    "founded": "Founded 2017, Celina, TX (per affiliate-industry profile); Inc. 5000 honoree",
    "rating": "not found (no BBB/Trustpilot score verified)",
    "verdict": "credible",
-   "notes": "Established golf-simulator retailer and maker of the SIGPRO line, with a physical showroom in Celina, TX and a price-match guarantee. Returns within 30 days on unused items, but ALL returns carry a 15% restocking fee and the buyer pays return shipping (per its own refund policy) \u2014 a real cost on big-ticket simulator gear."
+   "notes": "Established golf-simulator retailer and maker of the SIGPRO line, with a physical showroom in Celina, TX and a price-match guarantee. Returns within 30 days on unused items, but ALL returns carry a 15% restocking fee and the buyer pays return shipping (per its own refund policy) — a real cost on big-ticket simulator gear."
   },
   {
    "store": "GolfApparelShop",
@@ -8795,7 +8579,7 @@
    "founded": "Founded 2019 (company/founder profiles)",
    "rating": "not found (no BBB/Trustpilot score verified)",
    "verdict": "credible",
-   "notes": "Direct-to-consumer performance golf shoe brand (Sir Nick Faldo is a partner/investor; also sold at DICK'S and Worldwide Golf Shops). Offers a 30-day performance guarantee \u2014 try the shoes and return them for a full refund if not satisfied \u2014 though some older buyer reviews report restocking/return-shipping fees of about $23, so confirm current terms at checkout."
+   "notes": "Direct-to-consumer performance golf shoe brand (Sir Nick Faldo is a partner/investor; also sold at DICK'S and Worldwide Golf Shops). Offers a 30-day performance guarantee — try the shoes and return them for a full refund if not satisfied — though some older buyer reviews report restocking/return-shipping fees of about $23, so confirm current terms at checkout."
   },
   {
    "store": "Garmin",
@@ -8811,7 +8595,7 @@
    "founded": "Founded 2010, San Diego, CA (CB Insights/company profiles)",
    "rating": "not found (no BBB/Trustpilot score verified)",
    "verdict": "caution",
-   "notes": "Legit top-tier launch-monitor maker (GCQuad, GC3, GC2), but manufacturer return terms are strict \u2014 authorized dealers state that Foresight sales are final under Foresight's own policy, and software licenses are non-returnable. Buyers should get return terms in writing before a big-ticket purchase or buy through a dealer that states its own return window."
+   "notes": "Legit top-tier launch-monitor maker (GCQuad, GC3, GC2), but manufacturer return terms are strict — authorized dealers state that Foresight sales are final under Foresight's own policy, and software licenses are non-returnable. Buyers should get return terms in writing before a big-ticket purchase or buy through a dealer that states its own return window."
   },
   {
    "store": "Nike",
@@ -8819,7 +8603,7 @@
    "founded": "Founded 1964 as Blue Ribbon Sports (Wikipedia)",
    "rating": "BBB F, not accredited (BBB profile); Trustpilot ~1.7/5 (per TopConsumerReviews)",
    "verdict": "caution",
-   "notes": "The brand's official store with a generous 60-day return window (free return shipping for Nike Members), but its BBB rating is F on complaint-handling volume and Trustpilot scores are poor \u2014 the low marks reflect customer-service complaints at massive scale, not legitimacy."
+   "notes": "The brand's official store with a generous 60-day return window (free return shipping for Nike Members), but its BBB rating is F on complaint-handling volume and Trustpilot scores are poor — the low marks reflect customer-service complaints at massive scale, not legitimacy."
   },
   {
    "store": "Academy Sports + Outdoors",
@@ -8931,7 +8715,7 @@
    "founded": "1984 (per CB Insights)",
    "rating": "BBB rating not found; Trustpilot 1.9/5",
    "verdict": "credible",
-   "notes": "Paid membership required to shop (non-members pay a surcharge with a one-day pass). Most items are returnable within about a year with proof of purchase \u2014 proof of purchase is required for all returns \u2014 with shorter windows for electronics (90 days), groceries (90 days) and certain home items (30 days); bulk purchases over $1,000 are final sale."
+   "notes": "Paid membership required to shop (non-members pay a surcharge with a one-day pass). Most items are returnable within about a year with proof of purchase — proof of purchase is required for all returns — with shorter windows for electronics (90 days), groceries (90 days) and certain home items (30 days); bulk purchases over $1,000 are final sale."
   },
   {
    "store": "Best Buy",
@@ -9166,5 +8950,5 @@
    "source": "https://golf.com/gear/drivers/best-drivers-2026-fully-fit/ (list $649-$699; threshold is a judgment call, about 15% off)"
   }
  ],
- "researched": "2026-10-26"
+ "researched": "2026-10-28"
 }
