@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-27",
+ "checked": "2026-10-28",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -25,8 +25,8 @@
     "structured-data",
     "ical"
    ],
-   "found": 33,
-   "kept": 0,
+   "found": 34,
+   "kept": 7,
    "error": ""
   },
   {
@@ -47,7 +47,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 12,
+   "found": 6,
    "kept": 0,
    "error": ""
   },
@@ -81,7 +81,7 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "TimeoutError"
   },
   {
    "name": "Cross Timbers Golf Course",
@@ -159,8 +159,8 @@
     "structured-data",
     "ical"
    ],
-   "found": 21,
-   "kept": 0,
+   "found": 29,
+   "kept": 3,
    "error": ""
   },
   {
@@ -179,7 +179,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 28,
+   "found": 40,
    "kept": 0,
    "error": ""
   },
@@ -189,7 +189,7 @@
    "methods": [
     "structured-data"
    ],
-   "found": 2,
+   "found": 1,
    "kept": 0,
    "error": ""
   },
@@ -285,7 +285,7 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "TimeoutError"
   },
   {
    "name": "Stone Creek Golf Club",
@@ -310,7 +310,7 @@
     "events-calendar",
     "ical"
    ],
-   "found": 254,
+   "found": 256,
    "kept": 12,
    "error": ""
   },
@@ -335,14 +335,10 @@
   {
    "name": "Iron Horse Golf Course",
    "url": "https://ironhorsetx.com/events/list/",
-   "methods": [
-    "events-calendar",
-    "structured-data",
-    "ical"
-   ],
-   "found": 10,
+   "methods": [],
+   "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 504"
   },
   {
    "name": "Hawks Creek Golf Club",
@@ -410,7 +406,7 @@
    "methods": [
     "structured-data"
    ],
-   "found": 9,
+   "found": 10,
    "kept": 9,
    "error": ""
   }

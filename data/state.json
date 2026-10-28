@@ -396,7 +396,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -462,7 +462,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -484,7 +484,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -506,7 +506,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -528,7 +528,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -550,7 +550,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -594,7 +594,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -638,7 +638,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -704,7 +704,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -770,7 +770,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -880,7 +880,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": false,
    "imgTried": true
   },
@@ -894,7 +894,7 @@
    "city": "Azle",
    "area": "fortworth",
    "cat": "fun",
-   "desc": "Book Now Book A Tee Time: (817) 444-4940 1181 S. Stewart Street Azle, TX 76020 © 2025 Cross Timbers Golf Course | Contact Us | Site Map | Powered by foreUP Close div > .uk-panel', row:true}\" data-uk-grid-margin > Home Tee Times Passes Food Contact Home Golf…",
+   "desc": "Book Now Book A Tee Time: (817) 444-4940 1181 S. Stewart Street Azle, TX 76020 © 2026 Cross Timbers Golf Course | Contact Us | Site Map | Powered by foreUP Close div > .uk-panel', row:true}\" data-uk-grid-margin > Home Tee Times Passes Food Contact Home Golf…",
    "url": "https://www.crosstimbersgc.com/events/events-calendar/eventdetail/269/-/halloween",
    "img": "",
    "source": "Cross Timbers Golf Course",
@@ -902,7 +902,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": false,
    "imgTried": true
   },
@@ -946,7 +946,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -969,7 +969,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -991,7 +991,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true
   },
   "de3efb80a5": {
@@ -1012,7 +1012,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": false
   },
   "770358535d": {
@@ -1033,7 +1033,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-10-27",
+   "lastSeen": "2026-10-28",
    "shown": true,
    "touched": true
   },
@@ -1055,10 +1055,9 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-10-25",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-28",
    "shown": false,
-   "imgTried": true,
-   "gone": true
+   "imgTried": true
   },
   "176dd91380": {
    "id": "176dd91380",
@@ -1078,10 +1077,9 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-10-25",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-28",
    "shown": true,
-   "imgTried": true,
-   "gone": true
+   "imgTried": true
   },
   "48c3720444": {
    "id": "48c3720444",
@@ -1101,10 +1099,75 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-10-25",
-   "lastSeen": "2026-10-26",
+   "lastSeen": "2026-10-28",
    "shown": true,
-   "imgTried": true,
-   "gone": true
+   "imgTried": true
+  },
+  "2f2b496b10": {
+   "id": "2f2b496b10",
+   "title": "Thirsty Thursday with Brian Lynn Jones",
+   "start": "2026-11-05",
+   "end": "",
+   "time": "6:00 PM",
+   "venue": "Rusted Rail Golf",
+   "city": "Celina",
+   "area": "north",
+   "cat": "fun",
+   "desc": "Brian Lynn Jones brings live music to Rusted Rail Bar & Grill on Thursday night. Happy Hour runs all day, so come early and grab a good seat.",
+   "url": "https://rustedrailgolf.com/event/thirsty-thursday-with-brian-lynn-jones/",
+   "img": "https://rustedrailgolf.com/wp-content/uploads/2026/10/11_5-Thirsty-Thursday-1.png",
+   "source": "Rusted Rail Golf Club",
+   "official": false,
+   "how": "events-calendar",
+   "confirmed": true,
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28",
+   "shown": false,
+   "imgTried": true
+  },
+  "0dad016a63": {
+   "id": "0dad016a63",
+   "title": "Thirsty Thursday with Chaser Crouch",
+   "start": "2026-11-12",
+   "end": "",
+   "time": "6:00 PM",
+   "venue": "Rusted Rail Golf",
+   "city": "Celina",
+   "area": "north",
+   "cat": "fun",
+   "desc": "Chaser Crouch brings his country sound to Rusted Rail Bar & Grill on Thursday night. Happy Hour runs all day, so get there early and settle in.",
+   "url": "https://rustedrailgolf.com/event/thirsty-thursday-with-chaser-crouch/",
+   "img": "https://rustedrailgolf.com/wp-content/uploads/2026/10/11_12-Thirsty-Thursday.png",
+   "source": "Rusted Rail Golf Club",
+   "official": false,
+   "how": "events-calendar",
+   "confirmed": true,
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28",
+   "shown": false,
+   "imgTried": true
+  },
+  "2aa456bef3": {
+   "id": "2aa456bef3",
+   "title": "Thirsty Thursday with John Nutt",
+   "start": "2026-11-19",
+   "end": "",
+   "time": "6:00 PM",
+   "venue": "Rusted Rail Golf",
+   "city": "Celina",
+   "area": "north",
+   "cat": "fun",
+   "desc": "John Nutt plays live at Rusted Rail Bar & Grill on Thursday night, and Happy Hour runs all day. Grab your crew and make a night of it.",
+   "url": "https://rustedrailgolf.com/event/thirsty-thursday-with-john-nutt/",
+   "img": "https://rustedrailgolf.com/wp-content/uploads/2026/10/11_19-Thirsty-Thursday.png",
+   "source": "Rusted Rail Golf Club",
+   "official": false,
+   "how": "events-calendar",
+   "confirmed": true,
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28",
+   "shown": false,
+   "imgTried": true
   }
  },
  "superseded": []
