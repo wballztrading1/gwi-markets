@@ -1,11 +1,18 @@
 {
- "checked": "2026-10-28",
+ "checked": "2026-10-29",
  "total": 296,
- "live": 296,
+ "live": 295,
  "updated": 3,
- "hidden": [],
+ "hidden": [
+  {
+   "id": "1a806260",
+   "title": "TaylorMade Tour Staff Golf Cart Bag",
+   "store": "PGA TOUR Superstore",
+   "why": "sold out"
+  }
+ ],
  "unreadable": 47,
- "unclear": 13,
+ "unclear": 12,
  "newGear": {
   "total": 14,
   "live": 14,
