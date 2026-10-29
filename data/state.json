@@ -1122,8 +1122,9 @@
    "confirmed": true,
    "firstSeen": "2026-10-28",
    "lastSeen": "2026-10-28",
-   "shown": false,
-   "imgTried": true
+   "shown": true,
+   "imgTried": true,
+   "touched": true
   },
   "0dad016a63": {
    "id": "0dad016a63",
@@ -1144,8 +1145,9 @@
    "confirmed": true,
    "firstSeen": "2026-10-28",
    "lastSeen": "2026-10-28",
-   "shown": false,
-   "imgTried": true
+   "shown": true,
+   "imgTried": true,
+   "touched": true
   },
   "2aa456bef3": {
    "id": "2aa456bef3",
@@ -1166,8 +1168,9 @@
    "confirmed": true,
    "firstSeen": "2026-10-28",
    "lastSeen": "2026-10-28",
-   "shown": false,
-   "imgTried": true
+   "shown": true,
+   "imgTried": true,
+   "touched": true
   }
  },
  "superseded": []
