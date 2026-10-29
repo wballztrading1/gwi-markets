@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-29",
  "region": "Dallas–Fort Worth",
  "events": [
   {
@@ -31,36 +31,6 @@
    "url": "https://www.pgafrisco.com/events/spookeasy/",
    "img": "",
    "confirmed": true
-  },
-  {
-   "id": "apga-at-cedar-crest",
-   "title": "APGA at Cedar Crest",
-   "start": "2026-10-25",
-   "end": "2026-10-27",
-   "time": "",
-   "venue": "Cedar Crest Golf Course",
-   "city": "Dallas",
-   "area": "dallas",
-   "cat": "pro",
-   "desc": "Inaugural APGA Tour stop in Dallas and the finale of the 2026 APGA Farmers Insurance Fall Series: 36 holes plus a practice round with a $33,000 purse, open for the first time to any professional men's golfer, not just APGA members.",
-   "url": "https://www.apgatour.org/pressreleases/2026apgaatthe1912club-nff35",
-   "img": "",
-   "confirmed": true
-  },
-  {
-   "id": "bishop-lynch-golf-tournament",
-   "title": "Bishop Lynch Golf Tournament",
-   "start": "2026-10-26",
-   "end": "",
-   "time": "",
-   "venue": "Dallas Athletic Club",
-   "city": "Dallas",
-   "area": "dallas",
-   "cat": "scramble",
-   "desc": "Bishop Lynch High School's charity outing supporting its athletics and student-athletes — a rare chance for non-members to play the private Dallas Athletic Club.",
-   "url": "https://www.playprivategolf.com/events/bishop-lynch-golf-tournament-dallas-athletic-club-969d14a7-00be-41d3-9fa3-092bab9f7a29",
-   "img": "",
-   "confirmed": false
   },
   {
    "id": "titleist-fitting-day-indian-creek",
@@ -423,6 +393,21 @@
    "confirmed": true
   },
   {
+   "id": "guardian-knight-8th-annual-golf-tournament",
+   "title": "Guardian Knight 8th Annual Golf Tournament",
+   "start": "2026-11-06",
+   "end": "",
+   "time": "8:00 AM",
+   "venue": "Prairie Lakes Golf Course",
+   "city": "Grand Prairie",
+   "area": "mid",
+   "cat": "scramble",
+   "desc": "Eighth annual charity golf tournament benefiting the Guardian Knight Cancer Foundation. $125 per player or $500 per team of four; sponsorship packages available.",
+   "url": "https://guardianknight.org/events/8th-annual-golf-tournament/",
+   "img": "",
+   "confirmed": true
+  },
+  {
    "id": "18th-annual-lakeridge-charitable-golf-tournament",
    "title": "18th Annual LakeRidge Charitable Golf Tournament",
    "start": "2026-11-07",
@@ -486,7 +471,7 @@
    "id": "veterans-day-weekend-at-pga-frisco",
    "title": "Veterans Day Weekend at PGA Frisco",
    "start": "2026-11-07",
-   "end": "",
+   "end": "2026-11-11",
    "time": "10:00 AM - 9:00 PM",
    "venue": "The PGA District, PGA Frisco",
    "city": "Frisco",
@@ -915,7 +900,7 @@
    "desc": "Free outdoor holiday concert kicking off the Christmas season at PGA Frisco, with Limelight Band (a subgroup of Emerald City Band) playing top hits and holiday classics. No tickets required; bring a lawn blanket (outside food and drink and lawn chairs not permitted; dogs on leash welcome).",
    "url": "https://local.churchofjesuschrist.org/en/units/us/tx/frisco-ysa-ward-1086954546/events/kick-off-to-christmas-concert",
    "img": "",
-   "confirmed": false
+   "confirmed": true
   },
   {
    "id": "home-on-the-range-for-the-holidays",
@@ -1094,6 +1079,21 @@
    "cat": "junior",
    "desc": "Kids' full-swing skills challenges with TrackMan feedback, part of PGA TOUR Superstore's free Saturday series.",
    "url": "https://www.pgatoursuperstore.com/bookingtool?isBookingToolDirectLink=true&type=event&locationID=1261",
+   "img": "",
+   "confirmed": true
+  },
+  {
+   "id": "new-years-early-eve-at-pga-frisco",
+   "title": "New Year's Early Eve at PGA Frisco",
+   "start": "2026-12-31",
+   "end": "",
+   "time": "6:00 PM – 9:00 PM",
+   "venue": "The PGA District, PGA Frisco",
+   "city": "Frisco",
+   "area": "north",
+   "cat": "fun",
+   "desc": "Free family-friendly early New Year's celebration in The PGA District: live party band Extended Play 6:30–8:45 PM followed by a 15-minute fireworks show. Bring a blanket (no lawn chairs; no dogs due to fireworks). The linked listing is for optional premium parking only; the event itself needs no ticket.",
+   "url": "https://www.eventbrite.com/e/parking-pass-only-new-years-early-eve-at-pga-frisco-tickets-2003511541955",
    "img": "",
    "confirmed": true
   },
@@ -1535,23 +1535,6 @@
     "mon",
     "wed"
    ]
-  },
-  {
-   "id": "first-tee-of-granbury-fall-session",
-   "title": "First Tee of Granbury Fall Session",
-   "start": "2026-09-08",
-   "end": "2026-10-27",
-   "time": "6:00 PM - 7:30 PM",
-   "venue": "Granbury Country Club / Granbury Golf Course",
-   "city": "Granbury",
-   "area": "fortworth",
-   "cat": "junior",
-   "desc": "First Tee youth program for ages 6-16, running now. Enrollment is $50 for one child, $75 for two or $100 per family, and financial aid is available.",
-   "url": "http://granburycountryclub.com/",
-   "img": "",
-   "confirmed": false,
-   "recur": "Ongoing through Oct 27",
-   "days": []
   },
   {
    "id": "sunday-monday-15-rounds",
