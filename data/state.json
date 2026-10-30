@@ -463,7 +463,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -487,7 +487,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-10-29",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": true
   },
   "efa2bf7aef": {
    "id": "efa2bf7aef",
@@ -507,7 +508,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -529,7 +530,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -551,7 +552,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -595,7 +596,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -639,7 +640,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -705,7 +706,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -771,7 +772,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -881,7 +882,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": false,
    "imgTried": true
   },
@@ -903,7 +904,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": false,
    "imgTried": true
   },
@@ -950,7 +951,8 @@
    "lastSeen": "2026-10-29",
    "shown": true,
    "touched": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "51878b5fe2": {
    "id": "51878b5fe2",
@@ -970,7 +972,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -992,7 +994,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true
   },
   "de3efb80a5": {
@@ -1013,7 +1015,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": false
   },
   "770358535d": {
@@ -1034,7 +1036,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -1058,7 +1060,8 @@
    "firstSeen": "2026-10-25",
    "lastSeen": "2026-10-29",
    "shown": false,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "176dd91380": {
    "id": "176dd91380",
@@ -1080,7 +1083,8 @@
    "firstSeen": "2026-10-25",
    "lastSeen": "2026-10-29",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "48c3720444": {
    "id": "48c3720444",
@@ -1102,7 +1106,8 @@
    "firstSeen": "2026-10-25",
    "lastSeen": "2026-10-29",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "2f2b496b10": {
    "id": "2f2b496b10",
@@ -1122,7 +1127,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -1144,7 +1149,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
   },
@@ -1166,9 +1171,53 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-10-30",
    "shown": true,
    "touched": true
+  },
+  "498646592c": {
+   "id": "498646592c",
+   "title": "Battle of the Rail Club Championship",
+   "start": "2026-11-07",
+   "end": "",
+   "time": "8:00 AM",
+   "venue": "Rusted Rail Golf",
+   "city": "Celina",
+   "area": "north",
+   "cat": "competition",
+   "desc": "Compete for the 1st place trophy at the Rusted Rail Club Championship. The day starts with an 8:00 AM shotgun, and entry is $75 per player. Prizes will be awarded for closest to the pin on all par 3s and longest drive on holes 1 and 10. Stick around after…",
+   "url": "https://rustedrailgolf.com/event/battle-of-the-rail-club-championship/",
+   "img": "https://rustedrailgolf.com/wp-content/uploads/2026/10/Social-1080-6-1.png",
+   "source": "Rusted Rail Golf Club",
+   "official": true,
+   "how": "events-calendar",
+   "confirmed": true,
+   "firstSeen": "2026-10-30",
+   "lastSeen": "2026-10-30",
+   "shown": true,
+   "imgTried": true
+  },
+  "eee283bdc6": {
+   "id": "eee283bdc6",
+   "title": "Rusted Rail’s Polar Express Craft Extravaganza",
+   "start": "2026-11-28",
+   "end": "",
+   "time": "10:00 AM",
+   "venue": "Rusted Rail Golf",
+   "city": "Celina",
+   "area": "north",
+   "cat": "junior",
+   "desc": "All aboard for the holidays! Join us for a free holiday craft market, open to the whole community. Shop local vendors, enjoy cocktails and a hot chocolate bar, and bring the kids for photos with Santa, Christmas music and children’s activities. Vendors,…",
+   "url": "https://rustedrailgolf.com/event/rusted-rails-polar-express-craft-extravaganza/",
+   "img": "https://rustedrailgolf.com/wp-content/uploads/2026/10/Rusted-Rail-_-2026-Polar-Express-Craft-Extravaganza-_-Campaign-Graphics.png",
+   "source": "Rusted Rail Golf Club",
+   "official": false,
+   "how": "events-calendar",
+   "confirmed": true,
+   "firstSeen": "2026-10-30",
+   "lastSeen": "2026-10-30",
+   "shown": false,
+   "imgTried": true
   }
  },
  "superseded": []
