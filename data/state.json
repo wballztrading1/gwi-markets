@@ -378,29 +378,6 @@
    "shown": true,
    "gone": true
   },
-  "406e3d386c": {
-   "id": "406e3d386c",
-   "title": "Tournament - Community Storehouse",
-   "start": "2026-10-28",
-   "end": "",
-   "time": "1:30 PM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "scramble",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": false,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-28",
-   "shown": true,
-   "touched": true,
-   "gone": true
-  },
   "bb8e8e9f39": {
    "id": "bb8e8e9f39",
    "title": "Azle Masonic Lodge",
@@ -463,7 +440,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -508,7 +485,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -530,7 +507,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -552,7 +529,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -596,7 +573,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -640,7 +617,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -650,28 +627,6 @@
    "start": "2027-05-06",
    "end": "",
    "time": "8:00 AM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "scramble",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": true,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "gone": true
-  },
-  "f09fe23a0a": {
-   "id": "f09fe23a0a",
-   "title": "Tournament - Eaton High School",
-   "start": "2026-10-28",
-   "end": "",
-   "time": "7:30 AM",
    "venue": "The Resort Golf Club",
    "city": "Fort Worth",
    "area": "fortworth",
@@ -708,7 +663,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-10-30",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": true
   },
   "40c963e7ba": {
    "id": "40c963e7ba",
@@ -772,7 +728,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -882,7 +838,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": false,
    "imgTried": true
   },
@@ -904,7 +860,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": false,
    "imgTried": true
   },
@@ -972,7 +928,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -994,7 +950,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true
   },
   "de3efb80a5": {
@@ -1015,7 +971,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": false
   },
   "770358535d": {
@@ -1036,7 +992,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -1127,7 +1083,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -1149,7 +1105,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -1171,7 +1127,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-10-28",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
    "shown": true,
    "touched": true
   },
@@ -1193,9 +1149,8 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-10-30",
-   "lastSeen": "2026-10-30",
-   "shown": true,
-   "imgTried": true
+   "lastSeen": "2026-10-31",
+   "shown": true
   },
   "eee283bdc6": {
    "id": "eee283bdc6",
@@ -1215,7 +1170,28 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-10-30",
-   "lastSeen": "2026-10-30",
+   "lastSeen": "2026-10-31",
+   "shown": false
+  },
+  "6233836062": {
+   "id": "6233836062",
+   "title": "Arlington Golf Canned Food Drive",
+   "start": "2026-11-02",
+   "end": "2026-11-24",
+   "time": "8:00 AM",
+   "venue": "Meadowbrook Park Golf Course",
+   "city": "Arlington",
+   "area": "mid",
+   "cat": "deal",
+   "desc": "@ Together, we’re teeing up hope for local families. Donate three or more canned goods and enjoy 15% off your green fee and cart from Nov. 2 to Nov. 24, 2026. Promo is valid at Texas Rangers Golf Club, Tierra Verde Golf Club, Lake Arlington Golf Course and…",
+   "url": "https://www.meadowbrookparkgolfcourse.com/event/arlington-golf-canned-food-drive/",
+   "img": "",
+   "source": "Meadowbrook Park Golf Course",
+   "official": false,
+   "how": "events-calendar",
+   "confirmed": true,
+   "firstSeen": "2026-10-31",
+   "lastSeen": "2026-10-31",
    "shown": false,
    "imgTried": true
   }
