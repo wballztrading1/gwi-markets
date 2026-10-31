@@ -1,11 +1,18 @@
 {
- "checked": "2026-10-30",
+ "checked": "2026-10-31",
  "total": 321,
- "live": 321,
- "updated": 0,
- "hidden": [],
- "unreadable": 49,
- "unclear": 16,
+ "live": 320,
+ "updated": 2,
+ "hidden": [
+  {
+   "id": "bc482476",
+   "title": "Pinemeadow PGX TS Hybrids",
+   "store": "Pinemeadow Golf",
+   "why": "offer ended"
+  }
+ ],
+ "unreadable": 48,
+ "unclear": 15,
  "newGear": {
   "total": 17,
   "live": 17,
