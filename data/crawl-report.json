@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-31",
+ "checked": "2026-11-01",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -25,7 +25,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 43,
+   "found": 45,
    "kept": 0,
    "error": ""
   },
@@ -82,19 +82,19 @@
   {
    "name": "Cross Timbers Golf Course",
    "url": "https://www.crosstimbersgc.com/events/events-calendar",
-   "methods": [
-    "event-pages"
-   ],
-   "found": 1,
-   "kept": 1,
+   "methods": [],
+   "found": 0,
+   "kept": 0,
    "error": ""
   },
   {
    "name": "Sky Creek Ranch",
    "url": "https://www.skycreekranch.com/events/calendar",
-   "methods": [],
-   "found": 0,
-   "kept": 0,
+   "methods": [
+    "event-pages"
+   ],
+   "found": 1,
+   "kept": 1,
    "error": ""
   },
   {
@@ -112,7 +112,7 @@
     "event-pages"
    ],
    "found": 1,
-   "kept": 1,
+   "kept": 0,
    "error": ""
   },
   {
@@ -155,8 +155,8 @@
     "structured-data",
     "ical"
    ],
-   "found": 26,
-   "kept": 5,
+   "found": 45,
+   "kept": 0,
    "error": ""
   },
   {
@@ -164,10 +164,11 @@
    "url": "https://www.meadowbrookparkgolfcourse.com/events",
    "methods": [
     "events-calendar",
+    "structured-data",
     "ical"
    ],
-   "found": 2,
-   "kept": 1,
+   "found": 6,
+   "kept": 0,
    "error": ""
   },
   {
@@ -178,7 +179,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 30,
+   "found": 38,
    "kept": 0,
    "error": ""
   },
@@ -205,10 +206,8 @@
   {
    "name": "Rockwood Park Golf Course",
    "url": "https://www.fortworthgolf.org/events/calendar",
-   "methods": [
-    "event-pages"
-   ],
-   "found": 1,
+   "methods": [],
+   "found": 0,
    "kept": 0,
    "error": ""
   },
@@ -309,17 +308,15 @@
     "events-calendar",
     "ical"
    ],
-   "found": 255,
+   "found": 259,
    "kept": 9,
    "error": ""
   },
   {
    "name": "Split Rail Links & Golf Club",
    "url": "https://www.splitrailgolfclub.com/events/",
-   "methods": [
-    "structured-data"
-   ],
-   "found": 1,
+   "methods": [],
+   "found": 0,
    "kept": 0,
    "error": ""
   },
@@ -339,17 +336,15 @@
     "structured-data",
     "ical"
    ],
-   "found": 10,
+   "found": 12,
    "kept": 0,
    "error": ""
   },
   {
    "name": "Hawks Creek Golf Club",
    "url": "https://www.hawkscreek.com/calendar",
-   "methods": [
-    "event-pages"
-   ],
-   "found": 1,
+   "methods": [],
+   "found": 0,
    "kept": 0,
    "error": ""
   },
@@ -368,7 +363,7 @@
     "event-pages"
    ],
    "found": 2,
-   "kept": 0,
+   "kept": 2,
    "error": ""
   },
   {

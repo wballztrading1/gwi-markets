@@ -440,32 +440,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-31",
+   "lastSeen": "2026-11-01",
    "shown": true,
    "touched": true
-  },
-  "960e2e7c9e": {
-   "id": "960e2e7c9e",
-   "title": "Halloween Hoot",
-   "start": "2026-10-29",
-   "end": "",
-   "time": "9:00 AM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "fun",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": false,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-29",
-   "shown": true,
-   "touched": true,
-   "gone": true
   },
   "efa2bf7aef": {
    "id": "efa2bf7aef",
@@ -485,7 +462,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-31",
+   "lastSeen": "2026-11-01",
    "shown": true,
    "touched": true
   },
@@ -507,7 +484,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-31",
+   "lastSeen": "2026-11-01",
    "shown": true,
    "touched": true
   },
@@ -529,7 +506,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-31",
+   "lastSeen": "2026-11-01",
    "shown": true,
    "touched": true
   },
@@ -573,7 +550,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-31",
+   "lastSeen": "2026-11-01",
    "shown": true,
    "touched": true
   },
@@ -617,7 +594,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-31",
+   "lastSeen": "2026-11-01",
    "shown": true,
    "touched": true
   },
@@ -728,7 +705,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-10-31",
+   "lastSeen": "2026-11-01",
    "shown": true,
    "touched": true
   },
@@ -840,7 +817,8 @@
    "firstSeen": "2026-09-27",
    "lastSeen": "2026-10-31",
    "shown": false,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "f3d75b89fb": {
    "id": "f3d75b89fb",
@@ -862,7 +840,8 @@
    "firstSeen": "2026-10-01",
    "lastSeen": "2026-10-31",
    "shown": false,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "139c8ce78b": {
    "id": "139c8ce78b",
@@ -886,30 +865,6 @@
    "shown": false,
    "gone": true
   },
-  "9b58aeeda3": {
-   "id": "9b58aeeda3",
-   "title": "Looking to book a tee time?",
-   "start": "2026-10-29",
-   "end": "",
-   "time": "",
-   "venue": "Bridlewood Golf Course",
-   "city": "Flower Mound",
-   "area": "north",
-   "cat": "fun",
-   "desc": "Offering one of the finest public golf courses in the Dallas Metroplex, Bridlewood Golf Club boasts a Private Club experience at a Daily Fee price.",
-   "url": "https://www.bridlewoodgolf.com/events/calendar/eventdetail/1038/-/live-music-night",
-   "img": "",
-   "source": "Bridlewood Golf Course",
-   "official": false,
-   "how": "event-page",
-   "confirmed": true,
-   "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-29",
-   "shown": true,
-   "touched": true,
-   "imgTried": true,
-   "gone": true
-  },
   "51878b5fe2": {
    "id": "51878b5fe2",
    "title": "Stix Fundraiser Tournament",
@@ -928,7 +883,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-10-31",
+   "lastSeen": "2026-11-01",
    "shown": true,
    "touched": true
   },
@@ -950,7 +905,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-10-31",
+   "lastSeen": "2026-11-01",
    "shown": true
   },
   "de3efb80a5": {
@@ -971,7 +926,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-10-31",
+   "lastSeen": "2026-11-01",
    "shown": false
   },
   "770358535d": {
@@ -992,7 +947,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-10-31",
+   "lastSeen": "2026-11-01",
    "shown": true,
    "touched": true
   },
@@ -1085,7 +1040,8 @@
    "firstSeen": "2026-10-28",
    "lastSeen": "2026-10-31",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": true
   },
   "0dad016a63": {
    "id": "0dad016a63",
@@ -1107,7 +1063,8 @@
    "firstSeen": "2026-10-28",
    "lastSeen": "2026-10-31",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": true
   },
   "2aa456bef3": {
    "id": "2aa456bef3",
@@ -1129,7 +1086,8 @@
    "firstSeen": "2026-10-28",
    "lastSeen": "2026-10-31",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": true
   },
   "498646592c": {
    "id": "498646592c",
@@ -1150,7 +1108,8 @@
    "confirmed": true,
    "firstSeen": "2026-10-30",
    "lastSeen": "2026-10-31",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "eee283bdc6": {
    "id": "eee283bdc6",
@@ -1171,7 +1130,8 @@
    "confirmed": true,
    "firstSeen": "2026-10-30",
    "lastSeen": "2026-10-31",
-   "shown": false
+   "shown": false,
+   "gone": true
   },
   "6233836062": {
    "id": "6233836062",
@@ -1192,6 +1152,73 @@
    "confirmed": true,
    "firstSeen": "2026-10-31",
    "lastSeen": "2026-10-31",
+   "shown": false,
+   "imgTried": true,
+   "gone": true
+  },
+  "c79979eaee": {
+   "id": "c79979eaee",
+   "title": "Looking to book a tee time?",
+   "start": "2026-11-13",
+   "end": "",
+   "time": "",
+   "venue": "Sky Creek Ranch",
+   "city": "Keller",
+   "area": "mid",
+   "cat": "competition",
+   "desc": "18 hole championship golf course by Robert Trent Jones, Jr. Located just outside of Dallas & Fort Worth Texas, open to the public with fine dining on-site.",
+   "url": "https://www.skycreekranch.com/events/calendar/eventdetail/1037/-/casino-night",
+   "img": "",
+   "source": "Sky Creek Ranch",
+   "official": false,
+   "how": "event-page",
+   "confirmed": true,
+   "firstSeen": "2026-11-01",
+   "lastSeen": "2026-11-01",
+   "shown": false,
+   "imgTried": true
+  },
+  "d4fb2fdf68": {
+   "id": "d4fb2fdf68",
+   "title": "Looking to book a tee time?",
+   "start": "2026-11-15",
+   "end": "",
+   "time": "",
+   "venue": "Bridlewood Golf Course",
+   "city": "Flower Mound",
+   "area": "north",
+   "cat": "fun",
+   "desc": "Offering one of the finest public golf courses in the Dallas Metroplex, Bridlewood Golf Club boasts a Private Club experience at a Daily Fee price.",
+   "url": "https://www.bridlewoodgolf.com/events/calendar/eventdetail/1039/-/carnival-night",
+   "img": "",
+   "source": "Bridlewood Golf Course",
+   "official": false,
+   "how": "event-page",
+   "confirmed": true,
+   "firstSeen": "2026-11-01",
+   "lastSeen": "2026-11-01",
+   "shown": false,
+   "imgTried": true
+  },
+  "b24d444ad8": {
+   "id": "b24d444ad8",
+   "title": "Looking to book a tee time?",
+   "start": "2026-11-18",
+   "end": "",
+   "time": "",
+   "venue": "Bridlewood Golf Course",
+   "city": "Flower Mound",
+   "area": "north",
+   "cat": "fun",
+   "desc": "Offering one of the finest public golf courses in the Dallas Metroplex, Bridlewood Golf Club boasts a Private Club experience at a Daily Fee price.",
+   "url": "https://www.bridlewoodgolf.com/events/calendar/eventdetail/1040/-/live-music-night",
+   "img": "",
+   "source": "Bridlewood Golf Course",
+   "official": false,
+   "how": "event-page",
+   "confirmed": true,
+   "firstSeen": "2026-11-01",
+   "lastSeen": "2026-11-01",
    "shown": false,
    "imgTried": true
   }
