@@ -1,9 +1,51 @@
 {
- "checked": "2026-10-31",
+ "checked": "2026-11-01",
  "total": 321,
- "live": 320,
- "updated": 2,
+ "live": 313,
+ "updated": 0,
  "hidden": [
+  {
+   "id": "74a0a8a0",
+   "title": "Bushnell Circle B Edition LPi Launch Monitor",
+   "store": "PGA TOUR Superstore",
+   "why": "sold out"
+  },
+  {
+   "id": "0af67205",
+   "title": "Indian Creek Golf Club (Creek Course) - Weekday Super Twilight (cart included)",
+   "store": "Indian Creek Golf Club (City of Carrollton)",
+   "why": "offer ended"
+  },
+  {
+   "id": "0ab06144",
+   "title": "Indian Creek Golf Club (Creek Course) - Weekend Super Twilight (cart included)",
+   "store": "Indian Creek Golf Club (City of Carrollton)",
+   "why": "offer ended"
+  },
+  {
+   "id": "1b307863",
+   "title": "Indian Creek Golf Club (Lakes Course) - Weekday Super Twilight (cart included)",
+   "store": "Indian Creek Golf Club (City of Carrollton)",
+   "why": "offer ended"
+  },
+  {
+   "id": "f4be1ea8",
+   "title": "Indian Creek Golf Club (Lakes Course) - Weekend Super Twilight (cart included)",
+   "store": "Indian Creek Golf Club (City of Carrollton)",
+   "why": "offer ended"
+  },
+  {
+   "id": "878055df",
+   "title": "Indian Creek Golf Club - Junior Rate (cart included)",
+   "store": "Indian Creek Golf Club (City of Carrollton)",
+   "why": "offer ended"
+  },
+  {
+   "id": "7e1868f3",
+   "title": "Indian Creek Golf Club - Weekday Senior Rate (cart included)",
+   "store": "Indian Creek Golf Club (City of Carrollton)",
+   "why": "offer ended"
+  },
   {
    "id": "bc482476",
    "title": "Pinemeadow PGX TS Hybrids",
@@ -12,12 +54,12 @@
   }
  ],
  "unreadable": 48,
- "unclear": 15,
+ "unclear": 45,
  "newGear": {
   "total": 17,
   "live": 17,
   "expired": 0,
   "hidden": []
  },
- "upcoming": 18
+ "upcoming": 17
 }
