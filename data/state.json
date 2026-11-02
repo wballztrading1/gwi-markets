@@ -440,7 +440,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
    "touched": true
   },
@@ -462,7 +462,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
    "touched": true
   },
@@ -471,7 +471,7 @@
    "title": "Superintendent Revenge",
    "start": "2026-11-21",
    "end": "",
-   "time": "11:00 AM",
+   "time": "10:30 AM",
    "venue": "The Resort Golf Club",
    "city": "Fort Worth",
    "area": "fortworth",
@@ -484,7 +484,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
    "touched": true
   },
@@ -506,7 +506,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
    "touched": true
   },
@@ -550,7 +550,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
    "touched": true
   },
@@ -594,7 +594,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
    "touched": true
   },
@@ -682,7 +682,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
    "touched": true
   },
@@ -860,7 +860,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
    "touched": true
   },
@@ -882,7 +882,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true
   },
   "de3efb80a5": {
@@ -903,7 +903,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": false
   },
   "770358535d": {
@@ -924,7 +924,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
    "touched": true
   },
@@ -1151,10 +1151,10 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
-   "imgTried": true,
-   "touched": true
+   "touched": true,
+   "imgTried": true
   },
   "d4fb2fdf68": {
    "id": "d4fb2fdf68",
@@ -1174,10 +1174,10 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
-   "imgTried": true,
-   "touched": true
+   "touched": true,
+   "imgTried": true
   },
   "b24d444ad8": {
    "id": "b24d444ad8",
@@ -1197,10 +1197,10 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-01",
+   "lastSeen": "2026-11-02",
    "shown": true,
-   "imgTried": true,
-   "touched": true
+   "touched": true,
+   "imgTried": true
   }
  },
  "superseded": []
