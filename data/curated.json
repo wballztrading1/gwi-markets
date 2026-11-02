@@ -1,199 +1,19 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-11-02",
  "region": "Dallas–Fort Worth",
  "events": [
   {
-   "id": "free-first-bucket-for-new-visitors",
-   "title": "Free First Bucket for New Visitors",
-   "start": "2026-09-26",
-   "end": "2026-10-30",
+   "id": "blitzens-at-lounge-by-topgolf",
+   "title": "Blitzen's at Lounge by Topgolf",
+   "start": "2026-11-01",
+   "end": "2027-01-03",
    "time": "",
-   "venue": "Golf Ranch Richardson",
-   "city": "Richardson",
-   "area": "north",
-   "cat": "deal",
-   "desc": "First-time visitors get a free range bucket ($12 value), valid for 7 days after claiming. New customers also get a free hotdog and soda with a bucket purchase. The offer runs through Oct 30, 2026.",
-   "url": "https://www.golfranch.com/locations/richardson-tx",
-   "img": "",
-   "confirmed": true
-  },
-  {
-   "id": "spookeasy-at-lounge-by-topgolf-pga-frisco",
-   "title": "Spookeasy at Lounge by Topgolf (PGA Frisco)",
-   "start": "2026-10-24",
-   "end": "2026-10-31",
-   "time": "DJ nights Oct 24 6:00–9:00 PM & Oct 31 7:00–10:00 PM",
    "venue": "Lounge by Topgolf, Omni PGA Frisco Resort & Spa",
    "city": "Frisco",
    "area": "north",
    "cat": "fun",
-   "desc": "Lounge by Topgolf turns into a Halloween 'Spookeasy' pop-up through Nov 1, with costume nights (costumed guests get a house appetizer for the table on Thursdays) and Saturday DJ nights on Oct 24 and Oct 31.",
-   "url": "https://www.pgafrisco.com/events/spookeasy/",
-   "img": "",
-   "confirmed": true
-  },
-  {
-   "id": "titleist-fitting-day-indian-creek",
-   "title": "Titleist Fitting Day — Indian Creek",
-   "start": "2026-10-28",
-   "end": "",
-   "time": "",
-   "venue": "Indian Creek Golf Club",
-   "city": "Carrollton",
-   "area": "north",
-   "cat": "expo",
-   "desc": "Bookable 60-minute fitting sessions with a Titleist custom-fitting specialist at the course. The course calendar does not print the year, so the date is marked to confirm.",
-   "url": "https://www.indiancreekgolfclub.com/Calendar/UpcomingEvents",
-   "img": "",
-   "confirmed": false
-  },
-  {
-   "id": "2026-dfw-airport-united-way-golf-tournament",
-   "title": "2026 DFW Airport United Way Golf Tournament",
-   "start": "2026-10-29",
-   "end": "",
-   "time": "8:00 AM – 12:00 PM",
-   "venue": "Bear Creek Golf Club",
-   "city": "Dallas",
-   "area": "dallas",
-   "cat": "scramble",
-   "desc": "A United Way charity tournament run by the DFW Airport community. The listing estimates about $125 per player, and registration is through BirdEase.",
-   "url": "https://charitygolfer.com/texas/dallas/2026-dfw-airport-united-way-golf-tournament",
-   "img": "",
-   "confirmed": false
-  },
-  {
-   "id": "callaway-club-fitting-day-indian-creek",
-   "title": "Callaway Club Fitting Day — Indian Creek",
-   "start": "2026-10-29",
-   "end": "",
-   "time": "1:00 PM - 5:00 PM",
-   "venue": "Indian Creek Golf Club",
-   "city": "Carrollton",
-   "area": "north",
-   "cat": "expo",
-   "desc": "Callaway club-fitting session with clubs tailored to your swing, running the same afternoon as the course's Callaway ball-fitting day. The course calendar does not print the year, so the date is marked to confirm.",
-   "url": "https://www.indiancreekgolfclub.com/Calendar/UpcomingEvents",
-   "img": "",
-   "confirmed": false
-  },
-  {
-   "id": "callaway-golf-ball-fitting-day-indian-creek",
-   "title": "Callaway Golf Ball Fitting Day — Indian Creek",
-   "start": "2026-10-29",
-   "end": "",
-   "time": "1:00 PM - 5:00 PM",
-   "venue": "Indian Creek Golf Club",
-   "city": "Carrollton",
-   "area": "north",
-   "cat": "expo",
-   "desc": "Callaway ball-fitting session to match a ball model to your swing and playing style. The course calendar does not print the year, so the date is marked to confirm.",
-   "url": "https://www.indiancreekgolfclub.com/Calendar/UpcomingEvents",
-   "img": "",
-   "confirmed": false
-  },
-  {
-   "id": "trunk-or-treat-bridges-golf-club",
-   "title": "Trunk-or-Treat — The Bridges Golf Club",
-   "start": "2026-10-29",
-   "end": "",
-   "time": "5:00 PM – 9:00 PM",
-   "venue": "The Bridges Golf Club",
-   "city": "Gunter",
-   "area": "north",
-   "cat": "fun",
-   "desc": "The inaugural Bridges Golf Club Trunk-or-Treat in Gunter — free and open to the community. Decorate a golf cart or trunk, enter the adult and kids costume contests, and stay for a movie on the lawn at 7:00 PM. Cart/trunk spots are limited to 20, so RSVP is required.",
-   "url": "https://www.bridgestexasgolf.com/event/trunk-or-treat/",
-   "img": "https://www.bridgestexasgolf.com/wp-content/uploads/sites/5809/2026/10/Trunk-or-Treat-1.png?w=240",
-   "confirmed": true
-  },
-  {
-   "id": "2026-annual-charity-golf-tournament-diamond-hill",
-   "title": "2026 Annual Charity Golf Tournament (Diamond Hill-Jarvis Heritage Foundation)",
-   "start": "2026-10-30",
-   "end": "",
-   "time": "8:00 AM",
-   "venue": "The Golf Club at Fossil Creek",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "scramble",
-   "desc": "Annual fundraiser for the Diamond Hill-Jarvis Heritage Foundation, which supports educational opportunities for Diamond Hill-Jarvis High School students.",
-   "url": "https://allevents.in/fort-worth/2026-annual-charity-golf-tournament/200030492424014",
-   "img": "https://cdn-az.allevents.in/events7/banners/7b5d5e6a97d5fe40dd2bb6c3af88e38fb36052c01ace43bd5c726e40e24dff86-rimg-w851-h315-dcf8f8f8-gmir?v=1788504487",
-   "confirmed": false
-  },
-  {
-   "id": "6th-annual-hackers-ball-golf-tournament",
-   "title": "6th Annual Hackers Ball Golf Tournament",
-   "start": "2026-10-30",
-   "end": "",
-   "time": "8:00 AM",
-   "venue": "Rockwood Park Golf Course",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "scramble",
-   "desc": "Four-person scramble benefiting Blue Family Fund, with lunch, a goody bag, on-course contests and a raffle. $150 per player or $500 per foursome on the organizer's site.",
-   "url": "https://stayhappening.com/e/6th-annual-hackers-ball-golf-tournament-E2ISYT4XMIT",
-   "img": "",
-   "confirmed": false
-  },
-  {
-   "id": "service-1st-initiatives-annual-golf-tournament",
-   "title": "Service 1st Initiatives Annual Golf Tournament",
-   "start": "2026-10-30",
-   "end": "",
-   "time": "",
-   "venue": "The Golf Club of Dallas",
-   "city": "Dallas",
-   "area": "dallas",
-   "cat": "scramble",
-   "desc": "Annual charity tournament in the Links and Luxe weekend: teams of up to four (solo players are placed on a team) in Men, Women and 65+ categories. All proceeds go to programs that develop young men in the Greater Arlington community and college scholarships. An evening Sneakerball follows the golf.",
-   "url": "https://www.service1stinitiatives.org/annual-golf-tournament",
-   "img": "",
-   "confirmed": true
-  },
-  {
-   "id": "the-par-anormal-open",
-   "title": "The PAR-ANORMAL Open",
-   "start": "2026-10-30",
-   "end": "",
-   "time": "4:30 shotgun start",
-   "venue": "Timberlinks Golf Club",
-   "city": "Denton",
-   "area": "north",
-   "cat": "scramble",
-   "desc": "Halloween-themed 2-person, 9-hole scramble. $50 public / $25 members and residents, including golf, cart and awards, with an optional raffle. Register through the pro shop at 940-209-5374.",
-   "url": "https://www.timberlinksgolfclub.com/the-par-anormal-open/",
-   "img": "https://www.timberlinksgolfclub.com/wp-content/uploads/2026/01/Par-anormal-Open-26-Flyer.webp",
-   "confirmed": false
-  },
-  {
-   "id": "2026-trick-or-treat-scramble",
-   "title": "2026 Trick or Treat Scramble",
-   "start": "2026-10-31",
-   "end": "",
-   "time": "",
-   "venue": "Indian Creek Golf Club",
-   "city": "Carrollton",
-   "area": "north",
-   "cat": "scramble",
-   "desc": "A Halloween four-person team scramble with some trick holes and some treat holes. $99 per player includes golf, a player gift, lunch and hole contests. A skins game and raffle are optional.",
-   "url": "https://www.indiancreekgolfclub.com/Calendar/UpcomingEvents",
-   "img": "https://www.indiancreekgolfclub.com/webassets/057/events/Event_057_12419.png",
-   "confirmed": true
-  },
-  {
-   "id": "tee-up-and-hang-out-great-hearts-prairie-view-topgolf-event",
-   "title": "Tee Up & Hang Out! — Great Hearts Prairie View Topgolf Event",
-   "start": "2026-11-01",
-   "end": "",
-   "time": "4:30 PM - 6:30 PM",
-   "venue": "Topgolf Fort Worth",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "fun",
-   "desc": "Family evening for Great Hearts Prairie View families at Topgolf Fort Worth. $25 per person includes up to 2 hours of play, a membership card and soda/tea; private bays are $150 (early-bird $125), holding up to 6 players plus 2 spectators.",
-   "url": "https://www.zeffy.com/en-US/ticketing/tee-up-and-hang-out-great-hearts-prairie-view-topgolf-event",
+   "desc": "Holiday pop-up bar at Lounge by Topgolf, open to guests and locals: over-the-top holiday décor, eight seasonal cocktails, a zero-proof mocktail and hot chocolate, plus festive snacks. Signature drinks include The Blitzen, the Espress-Ho Ho Martini and the Naughty or Spice.",
+   "url": "https://www.omnihotels.com/hotels/pga-frisco/dining/blitzens",
    "img": "",
    "confirmed": true
   },
@@ -378,21 +198,6 @@
    "confirmed": true
   },
   {
-   "id": "swing-fore-miracles",
-   "title": "Swing Fore Miracles",
-   "start": "2026-11-06",
-   "end": "",
-   "time": "",
-   "venue": "Topgolf The Colony",
-   "city": "The Colony",
-   "area": "north",
-   "cat": "fun",
-   "desc": "Children's Medical Center Foundation's signature Play Yellow event, presented by Neighborhood Credit Union and now in its 6th year. Teams of six compete in Topgolf bays; proceeds support the new Dallas pediatric campus project from Children's Health and UT Southwestern.",
-   "url": "https://give.childrens.com/events/swing-fore-miracles",
-   "img": "",
-   "confirmed": true
-  },
-  {
    "id": "guardian-knight-8th-annual-golf-tournament",
    "title": "Guardian Knight 8th Annual Golf Tournament",
    "start": "2026-11-06",
@@ -404,6 +209,21 @@
    "cat": "scramble",
    "desc": "Eighth annual charity golf tournament benefiting the Guardian Knight Cancer Foundation. $125 per player or $500 per team of four; sponsorship packages available.",
    "url": "https://guardianknight.org/events/8th-annual-golf-tournament/",
+   "img": "",
+   "confirmed": true
+  },
+  {
+   "id": "swing-fore-miracles",
+   "title": "Swing Fore Miracles",
+   "start": "2026-11-06",
+   "end": "",
+   "time": "",
+   "venue": "Topgolf The Colony",
+   "city": "The Colony",
+   "area": "north",
+   "cat": "fun",
+   "desc": "Children's Medical Center Foundation's signature Play Yellow event, presented by Neighborhood Credit Union and now in its 6th year. Teams of six compete in Topgolf bays; proceeds support the new Dallas pediatric campus project from Children's Health and UT Southwestern.",
+   "url": "https://give.childrens.com/events/swing-fore-miracles",
    "img": "",
    "confirmed": true
   },
@@ -918,6 +738,21 @@
    "confirmed": true
   },
   {
+   "id": "merry-margaritas-mixology-class-with-casamigos",
+   "title": "Merry Margaritas Mixology Class with Casamigos",
+   "start": "2026-11-28",
+   "end": "2026-12-19",
+   "time": "1:00 PM – 2:00 PM",
+   "venue": "The Lookout Lounge & Bar, Omni PGA Frisco Resort & Spa",
+   "city": "Frisco",
+   "area": "north",
+   "cat": "fun",
+   "desc": "Hands-on holiday mixology class (Nov 28, Dec 5, 12 and 19) with the Casamigos team: 20 minutes of tequila education, then craft and sip three signature margaritas — The Classic, The Holiday Cider and The Cranberry. Ticket includes light bar bites, a take-home gift and validated valet parking. Ages 21 and up.",
+   "url": "https://www.pgafrisco.com/events/merry-margaritas-mixology-class-with-casamigos/",
+   "img": "https://www.pgafrisco.com/content/uploads/2026/10/Merry-Margarita-Mixology-Class-1.jpg",
+   "confirmed": true
+  },
+  {
    "id": "dashing-through-the-district-holiday-night-market",
    "title": "Dashing Through The District: Holiday Night Market at PGA Frisco",
    "start": "2026-12-04",
@@ -1006,6 +841,21 @@
    "url": "https://tournaments.tjgt.com/",
    "img": "",
    "confirmed": true
+  },
+  {
+   "id": "apt-winters-edge-at-fossil-creek",
+   "title": "Winter's Edge at Fossil Creek (Amateur Players Tour)",
+   "start": "2026-12-06",
+   "end": "",
+   "time": "",
+   "venue": "The Golf Club at Fossil Creek",
+   "city": "Fort Worth",
+   "area": "fortworth",
+   "cat": "competition",
+   "desc": "Flighted amateur stroke-play tournament in the Dallas/Fort Worth Amateur Players Tour chapter, with five divisions plus net games. Registration closes Nov 27.",
+   "url": "https://aptgolf.org/2027-dfw-season-opener-at-heritage-ranch-elevated/",
+   "img": "",
+   "confirmed": false
   },
   {
    "id": "communities-in-schools-dallas-kids-classic-golf-tournament",
@@ -1339,6 +1189,21 @@
    "confirmed": true
   },
   {
+   "id": "bgcgtc-2027-golf-classic",
+   "title": "Boys & Girls Clubs of Greater Tarrant County 2027 Golf Classic",
+   "start": "2027-04-26",
+   "end": "",
+   "time": "9:00 AM shotgun (7:30 AM registration & breakfast)",
+   "venue": "Shady Oaks Country Club",
+   "city": "Westworth Village",
+   "area": "fortworth",
+   "cat": "scramble",
+   "desc": "Centennial-year golf classic supporting Boys & Girls Clubs of Greater Tarrant County youth programs, with contests, prizes, breakfast, lunch and an awards luncheon.",
+   "url": "https://bgcgtc.org/events/",
+   "img": "",
+   "confirmed": false
+  },
+  {
    "id": "kipp-golf-classic",
    "title": "KIPP Golf Classic",
    "start": "2027-04-26",
@@ -1479,25 +1344,6 @@
  ],
  "weekly": [
   {
-   "id": "spooky-movie-series-in-the-district",
-   "title": "Spooky Movie Series in The District",
-   "start": "2026-10-02",
-   "end": "2026-10-30",
-   "time": "7:00 PM - 9:00 PM",
-   "venue": "The PGA District, PGA Frisco",
-   "city": "Frisco",
-   "area": "north",
-   "cat": "fun",
-   "desc": "Free family Halloween movies on the lawn every Friday in October, including Hocus Pocus on Oct 23 and Hocus Pocus 2 on Oct 30. Bring a blanket; lawn chairs and outside food are not allowed.",
-   "url": "https://www.pgafrisco.com/events/spooky-movie-night-in-the-district/",
-   "img": "https://www.pgafrisco.com/content/uploads/2026/08/Spooky-Movie-Series-4.png",
-   "confirmed": true,
-   "recur": "Every Friday in October",
-   "days": [
-    "fri"
-   ]
-  },
-  {
    "id": "thursday-night-scramble",
    "title": "Thursday Night Scramble",
    "start": "2026-10-01",
@@ -1554,25 +1400,6 @@
    "days": [
     "sun",
     "mon"
-   ]
-  },
-  {
-   "id": "thursday-night-9-hole-scramble",
-   "title": "Thursday Night 9-Hole Scramble",
-   "start": "2026-10-01",
-   "end": "2026-10-29",
-   "time": "5:30 PM - 10:00 PM",
-   "venue": "Grand Oaks Golf Club",
-   "city": "Grand Prairie",
-   "area": "mid",
-   "cat": "scramble",
-   "desc": "A weekly 9-hole scramble that the course says runs April through October. $30; sign up through the pro shop.",
-   "url": "http://www.grandoaksgc.com/events/",
-   "img": "https://www.grandoaksgc.com/wp-content/uploads/2026/04/Screenshot-2026-04-07-at-9.30.34-PM.png",
-   "confirmed": false,
-   "recur": "Every Thursday (Apr–Oct)",
-   "days": [
-    "thu"
    ]
   },
   {
@@ -1637,25 +1464,6 @@
    "recur": "First Monday of every month",
    "days": [
     "mon"
-   ]
-  },
-  {
-   "id": "spark-golf-thursday-fall-league",
-   "title": "Spark Golf Thursday Fall League",
-   "start": "2026-09-10",
-   "end": "2026-10-29",
-   "time": "Late afternoon tee times (~4:20-5:00 PM)",
-   "venue": "Riverside Golf Club",
-   "city": "Grand Prairie",
-   "area": "mid",
-   "cat": "league",
-   "desc": "A casual 9-hole social league with a team net best-ball game and an individual game. It is $33 per round with cart included, and joining is free.",
-   "url": "https://www.spark.golf/golf-leagues/riverside-grand-prairie-tx-chlE1nCDsU",
-   "img": "",
-   "confirmed": false,
-   "recur": "Every Thursday",
-   "days": [
-    "thu"
    ]
   },
   {
@@ -2163,24 +1971,6 @@
     "sat",
     "sun"
    ]
-  },
-  {
-   "id": "10-off-holiday-parties-book-by-oct-31",
-   "title": "10% Off Holiday Parties (book by Oct 31)",
-   "start": "",
-   "end": "2026-10-31",
-   "time": "",
-   "venue": "Puttery Dallas (Grandscape)",
-   "city": "The Colony",
-   "area": "north",
-   "cat": "deal",
-   "desc": "Holiday parties and events are 10% off when booked by Oct 31.",
-   "url": "https://www.puttery.com/locations/dallas/",
-   "img": "",
-   "confirmed": true,
-   "recur": "Through 2026-10-31",
-   "days": [],
-   "ends": "2026-10-31"
   },
   {
    "id": "9-after-9",
