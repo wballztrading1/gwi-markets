@@ -1201,6 +1201,27 @@
    "shown": true,
    "touched": true,
    "imgTried": true
+  },
+  "422c5127cf": {
+   "id": "422c5127cf",
+   "title": "Present Grove Scramble",
+   "start": "2026-12-05",
+   "end": "",
+   "time": "9:30 AM",
+   "venue": "Dallas",
+   "city": "Dallas",
+   "area": "dallas",
+   "cat": "junior",
+   "desc": "The 3rd Annual Present Grove Scramble is back! Grab your foursome (or come solo) for a 9:30 a.m. shotgun start, contests, prizes, and a great cause. Every round helps Community Partners of Dallas grant wishes for children in need across Dallas County. Bring…",
+   "url": "https://www.keetonpark.com/event-details/present-grove-scramble-3",
+   "img": "https://static.wixstatic.com/media/2e6946_584524eb286347f89e78e302d5a13579~mv2.png",
+   "source": "Keeton Park Golf Course",
+   "official": true,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-02",
+   "lastSeen": "2026-11-02",
+   "shown": true
   }
  },
  "superseded": []
