@@ -1,28 +1,5 @@
 {
  "items": {
-  "c0497e5b6b": {
-   "id": "c0497e5b6b",
-   "title": "Halloween",
-   "start": "2026-10-31",
-   "end": "",
-   "time": "",
-   "venue": "Watters Creek",
-   "city": "Plano",
-   "area": "north",
-   "cat": "fun",
-   "desc": "Previous Repeat Next Repeat Hits : 33570 Happy Halloween! © 2023 The Courses at Watters Creek | 7201 Chase Oaks Boulevard, Plano, TX 75025 | Reservations: 214.509.4653 Powered by foreUP Contact Us | Site Map Close div > .uk-panel', row:true}\"…",
-   "url": "https://www.watterscreekgolf.com/component/jevents/eventdetail/269/-/halloween?Itemid=136",
-   "img": "",
-   "source": "Watters Creek",
-   "official": true,
-   "how": "event-page",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "imgTried": true,
-   "gone": true
-  },
   "3d12509990": {
    "id": "3d12509990",
    "title": "Home Plate Supper Club",
@@ -287,29 +264,6 @@
    "shown": true,
    "gone": true
   },
-  "299a64a754": {
-   "id": "299a64a754",
-   "title": "Events Calendar",
-   "start": "2026-10-31",
-   "end": "",
-   "time": "",
-   "venue": "Riverside Golf Club",
-   "city": "Grand Prairie",
-   "area": "mid",
-   "cat": "fun",
-   "desc": "Riverside Golf Club - Grand Prairie, TX",
-   "url": "https://www.playriversidetx.com/upcoming-events/eventdetail/269/-/halloween",
-   "img": "",
-   "source": "Riverside Golf Club",
-   "official": true,
-   "how": "event-page",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "imgTried": true,
-   "gone": true
-  },
   "3bdca8da1d": {
    "id": "3bdca8da1d",
    "title": "Events Calendar",
@@ -442,7 +396,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-11-02",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "efa2bf7aef": {
    "id": "efa2bf7aef",
@@ -464,7 +419,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-11-02",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "ca6aa861a7": {
    "id": "ca6aa861a7",
@@ -486,7 +442,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-11-02",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "9ab3e2c32a": {
    "id": "9ab3e2c32a",
@@ -508,7 +465,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-11-02",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "439e02509d": {
    "id": "439e02509d",
@@ -552,7 +510,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-11-02",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "dbd7bd2477": {
    "id": "dbd7bd2477",
@@ -596,7 +555,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-11-02",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "e04b069aad": {
    "id": "e04b069aad",
@@ -684,7 +644,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-11-02",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "b2296a91a0": {
    "id": "b2296a91a0",
@@ -774,52 +735,6 @@
    "shown": false,
    "gone": true
   },
-  "d64c73eac3": {
-   "id": "d64c73eac3",
-   "title": "Tee Times",
-   "start": "2026-10-31",
-   "end": "",
-   "time": "",
-   "venue": "Watters Creek",
-   "city": "Plano",
-   "area": "north",
-   "cat": "competition",
-   "desc": "Rates Food Contact Golf The Traditions Course The Players Course Architect’s Vision Visual Tour Golf Course Flyover Rates Watters Creek Senior Golf Association Watters Creek Ladies Golf League Twilight Golf™ League (Co-ed) Join Our Spark League GHIN…",
-   "url": "https://www.watterscreekgolf.com/component/jevents/eventdetail/269/-/halloween?Itemid=136",
-   "img": "",
-   "source": "Watters Creek",
-   "official": false,
-   "how": "event-page",
-   "confirmed": true,
-   "firstSeen": "2026-09-27",
-   "lastSeen": "2026-10-31",
-   "shown": false,
-   "imgTried": true,
-   "gone": true
-  },
-  "f3d75b89fb": {
-   "id": "f3d75b89fb",
-   "title": "Ready to Reserve your Spot?",
-   "start": "2026-10-31",
-   "end": "",
-   "time": "",
-   "venue": "Cross Timbers Golf Course",
-   "city": "Azle",
-   "area": "fortworth",
-   "cat": "fun",
-   "desc": "Book Now Book A Tee Time: (817) 444-4940 1181 S. Stewart Street Azle, TX 76020 © 2026 Cross Timbers Golf Course | Contact Us | Site Map | Powered by foreUP Close div > .uk-panel', row:true}\" data-uk-grid-margin > Home Tee Times Passes Food Contact Home Golf…",
-   "url": "https://www.crosstimbersgc.com/events/events-calendar/eventdetail/269/-/halloween",
-   "img": "",
-   "source": "Cross Timbers Golf Course",
-   "official": false,
-   "how": "event-page",
-   "confirmed": true,
-   "firstSeen": "2026-10-01",
-   "lastSeen": "2026-10-31",
-   "shown": false,
-   "imgTried": true,
-   "gone": true
-  },
   "139c8ce78b": {
    "id": "139c8ce78b",
    "title": "Tournament",
@@ -862,7 +777,8 @@
    "firstSeen": "2026-10-09",
    "lastSeen": "2026-11-02",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "ea96b33d35": {
    "id": "ea96b33d35",
@@ -882,7 +798,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-03",
    "shown": true
   },
   "de3efb80a5": {
@@ -904,7 +820,8 @@
    "confirmed": true,
    "firstSeen": "2026-10-17",
    "lastSeen": "2026-11-02",
-   "shown": false
+   "shown": false,
+   "gone": false
   },
   "770358535d": {
    "id": "770358535d",
@@ -924,7 +841,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-03",
    "shown": true,
    "touched": true
   },
@@ -1151,7 +1068,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-03",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1174,7 +1091,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-03",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1197,7 +1114,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-03",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1220,7 +1137,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-03",
    "shown": true
   }
  },

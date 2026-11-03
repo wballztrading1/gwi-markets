@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-02",
+ "checked": "2026-11-03",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -25,7 +25,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 42,
+   "found": 45,
    "kept": 0,
    "error": ""
   },
@@ -42,8 +42,10 @@
   {
    "name": "The Bridges Golf Club",
    "url": "https://www.bridgestexasgolf.com/events-calendar",
-   "methods": [],
-   "found": 0,
+   "methods": [
+    "structured-data"
+   ],
+   "found": 3,
    "kept": 0,
    "error": ""
   },
@@ -163,11 +165,10 @@
    "name": "Meadowbrook Park Golf Course",
    "url": "https://www.meadowbrookparkgolfcourse.com/events",
    "methods": [
-    "events-calendar",
     "structured-data",
     "ical"
    ],
-   "found": 6,
+   "found": 5,
    "kept": 0,
    "error": ""
   },
@@ -179,7 +180,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 38,
+   "found": 32,
    "kept": 0,
    "error": ""
   },
@@ -304,13 +305,10 @@
   {
    "name": "The Resort Golf Club",
    "url": "https://www.resortgolfclub.com/event-calendar/",
-   "methods": [
-    "events-calendar",
-    "ical"
-   ],
-   "found": 259,
-   "kept": 9,
-   "error": ""
+   "methods": [],
+   "found": 0,
+   "kept": 0,
+   "error": "TimeoutError"
   },
   {
    "name": "Split Rail Links & Golf Club",
