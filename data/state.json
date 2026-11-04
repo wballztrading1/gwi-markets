@@ -394,10 +394,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-04",
    "shown": true,
-   "touched": true,
-   "gone": false
+   "touched": true
   },
   "efa2bf7aef": {
    "id": "efa2bf7aef",
@@ -417,10 +416,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-04",
    "shown": true,
-   "touched": true,
-   "gone": false
+   "touched": true
   },
   "ca6aa861a7": {
    "id": "ca6aa861a7",
@@ -440,10 +438,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-04",
    "shown": true,
-   "touched": true,
-   "gone": false
+   "touched": true
   },
   "9ab3e2c32a": {
    "id": "9ab3e2c32a",
@@ -463,32 +460,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-04",
    "shown": true,
-   "touched": true,
-   "gone": false
-  },
-  "439e02509d": {
-   "id": "439e02509d",
-   "title": "Bobcats Jr. League",
-   "start": "2026-11-01",
-   "end": "",
-   "time": "3:00 PM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "fun",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": true,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "gone": true
+   "touched": true
   },
   "ac53ab4f2c": {
    "id": "ac53ab4f2c",
@@ -511,7 +485,7 @@
    "lastSeen": "2026-11-02",
    "shown": true,
    "touched": true,
-   "gone": false
+   "gone": true
   },
   "dbd7bd2477": {
    "id": "dbd7bd2477",
@@ -553,10 +527,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-04",
    "shown": true,
-   "touched": true,
-   "gone": false
+   "touched": true
   },
   "e04b069aad": {
    "id": "e04b069aad",
@@ -642,10 +615,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-04",
    "shown": true,
-   "touched": true,
-   "gone": false
+   "touched": true
   },
   "b2296a91a0": {
    "id": "b2296a91a0",
@@ -775,10 +747,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-04",
    "shown": true,
-   "touched": true,
-   "gone": false
+   "touched": true
   },
   "ea96b33d35": {
    "id": "ea96b33d35",
@@ -798,7 +769,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-11-03",
+   "lastSeen": "2026-11-04",
    "shown": true
   },
   "de3efb80a5": {
@@ -819,9 +790,8 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-02",
-   "shown": false,
-   "gone": false
+   "lastSeen": "2026-11-04",
+   "shown": false
   },
   "770358535d": {
    "id": "770358535d",
@@ -841,7 +811,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-03",
+   "lastSeen": "2026-11-04",
    "shown": true,
    "touched": true
   },
@@ -1068,7 +1038,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-03",
+   "lastSeen": "2026-11-04",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1091,7 +1061,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-03",
+   "lastSeen": "2026-11-04",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1114,7 +1084,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-03",
+   "lastSeen": "2026-11-04",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1137,7 +1107,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-03",
+   "lastSeen": "2026-11-04",
    "shown": true
   }
  },

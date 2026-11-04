@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-03",
+ "checked": "2026-11-04",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -25,7 +25,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 45,
+   "found": 42,
    "kept": 0,
    "error": ""
   },
@@ -42,10 +42,8 @@
   {
    "name": "The Bridges Golf Club",
    "url": "https://www.bridgestexasgolf.com/events-calendar",
-   "methods": [
-    "structured-data"
-   ],
-   "found": 3,
+   "methods": [],
+   "found": 0,
    "kept": 0,
    "error": ""
   },
@@ -305,10 +303,13 @@
   {
    "name": "The Resort Golf Club",
    "url": "https://www.resortgolfclub.com/event-calendar/",
-   "methods": [],
-   "found": 0,
-   "kept": 0,
-   "error": "TimeoutError"
+   "methods": [
+    "events-calendar",
+    "ical"
+   ],
+   "found": 259,
+   "kept": 8,
+   "error": ""
   },
   {
    "name": "Split Rail Links & Golf Club",
