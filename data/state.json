@@ -1,27 +1,5 @@
 {
  "items": {
-  "3d12509990": {
-   "id": "3d12509990",
-   "title": "Home Plate Supper Club",
-   "start": "2026-11-02",
-   "end": "",
-   "time": "8:00 AM",
-   "venue": "Texas Rangers Golf Club",
-   "city": "Arlington",
-   "area": "mid",
-   "cat": "fun",
-   "desc": "@ Every first Monday of the month, we’re serving up a meal that’ll have you wishing your weekend would end sooner! Enjoy a thoughtfully crafted three-course dinner for just $20/Person. Reservations Required: (817) 575-8299. September Menu (Sept. 7, 2026):…",
-   "url": "https://www.texasrangersgolfclub.com/event/home-plate-supper-club/2026-11-02/",
-   "img": "https://www.texasrangersgolfclub.com/wp-content/uploads/sites/9836/2026/08/685147760_1339344701587345_1483123023202415599_n-1.jpg",
-   "source": "Texas Rangers Golf Club",
-   "official": true,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-09-26",
-   "shown": true,
-   "gone": true
-  },
   "665be245f6": {
    "id": "665be245f6",
    "title": "Home Plate Supper Club",
@@ -394,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true,
    "touched": true
   },
@@ -416,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true,
    "touched": true
   },
@@ -438,7 +416,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true,
    "touched": true
   },
@@ -460,32 +438,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true,
    "touched": true
-  },
-  "ac53ab4f2c": {
-   "id": "ac53ab4f2c",
-   "title": "Cops for Kids Tournament",
-   "start": "2026-11-02",
-   "end": "",
-   "time": "9:00 AM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "junior",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": false,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-02",
-   "shown": true,
-   "touched": true,
-   "gone": true
   },
   "dbd7bd2477": {
    "id": "dbd7bd2477",
@@ -527,7 +482,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true,
    "touched": true
   },
@@ -615,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true,
    "touched": true
   },
@@ -747,7 +702,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true,
    "touched": true
   },
@@ -769,7 +724,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true
   },
   "de3efb80a5": {
@@ -790,7 +745,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": false
   },
   "770358535d": {
@@ -811,7 +766,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true,
    "touched": true
   },
@@ -1038,7 +993,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1061,7 +1016,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1084,7 +1039,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1107,7 +1062,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-04",
+   "lastSeen": "2026-11-05",
    "shown": true
   }
  },
