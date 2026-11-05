@@ -25,7 +25,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 45,
+   "found": 42,
    "kept": 0,
    "error": ""
   },
@@ -79,7 +79,7 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "TimeoutError"
   },
   {
    "name": "Cross Timbers Golf Course",
@@ -284,7 +284,7 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "TimeoutError"
   },
   {
    "name": "Stone Creek Golf Club",
@@ -332,14 +332,10 @@
   {
    "name": "Iron Horse Golf Course",
    "url": "https://ironhorsetx.com/events/list/",
-   "methods": [
-    "events-calendar",
-    "structured-data",
-    "ical"
-   ],
-   "found": 12,
+   "methods": [],
+   "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "TimeoutError"
   },
   {
    "name": "Hawks Creek Golf Club",
