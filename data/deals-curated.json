@@ -77,7 +77,13 @@
       "includes": "",
       "trust": "ok",
       "seen": "direct",
-      "also": []
+      "also": [
+        {
+          "store": "TGW",
+          "price": 299.0,
+          "url": "https://www.tgw.com/p/cobra-mens-darkspeed-adapt-maxk-driver/-/YT0xMDEyMDIz"
+        }
+      ]
     },
     {
       "id": "7af98d12",
@@ -678,16 +684,16 @@
       "cat": "hybrid",
       "group": "woods",
       "store": "2nd Swing Golf",
-      "url": "https://www.2ndswing.com/golf-clubs/hybrids/srixon-zxi-hybrid/right-handed-regular-graphite-40dot5in-d-32543982856",
-      "img": "https://www.2ndswing.com/images/standard/D-32543982856.jpg",
-      "price": 171.99,
+      "url": "https://www.2ndswing.com/golf-clubs/hybrids/srixon-zxi-hybrid/right-handed-regular-graphite-40dot5in-m-d2546951589",
+      "img": "https://www.2ndswing.com/images/standard/M-D2546951589.jpg?width=1280&height=1280&fit=bounds&fit=bounds",
+      "price": 189.99,
       "was": 279.99,
-      "pct": 39,
+      "pct": 32,
       "cond": "pre-owned (Average)",
       "condClass": "used",
       "promo": "",
       "ends": "",
-      "note": "RH, Regular graphite. Price seen on the clearance grid page; the product page was not opened.",
+      "note": "RH 3 Hybrid 19deg, Ventus TR Blue HB 7 Regular, 40.5in, Average, Minneapolis. Re-verified 2026-11-06; the $171.99 unit is gone.",
       "demand": 3,
       "value": "value",
       "why": "Current Srixon hybrid",
@@ -5705,16 +5711,16 @@
       "cat": "driver",
       "group": "woods",
       "store": "2nd Swing Golf",
-      "url": "https://www.2ndswing.com/golf-clubs/drivers/ping-g430-max-10k-driver/right-handed-stiff-graphite-45dot25in-d-92649504779",
-      "img": "https://www.2ndswing.com/images/standard/D-92649504779.jpg?width=400&height=400&fit=bounds",
+      "url": "https://www.2ndswing.com/golf-clubs/drivers/ping-g430-max-10k-driver/right-handed-stiff-graphite-45dot75in-d-72545130941",
+      "img": "https://www.2ndswing.com/images/standard/D-72545130941.jpg?width=1280&height=1280&fit=bounds&fit=bounds",
       "price": 399.99,
       "was": 599.99,
       "pct": 33,
-      "cond": "pre-owned (Above Average 9.0)",
+      "cond": "pre-owned (Average)",
       "condClass": "used",
       "promo": "",
       "ends": "",
-      "note": "Single used unit: right-handed 9\u00b0, Mitsubishi Kai'li White 60 stiff, 45.25in.",
+      "note": "Single used unit: RH 10.5deg, ALTA CB 55 stiff, 45.75in, Average. Re-verified 2026-11-06; the checker's $439.99 is the Above Average grade of this model.",
       "demand": 3,
       "value": "value",
       "why": "PING's 10K-MOI flagship from 2024, a third off in Above Average condition.",
@@ -7603,14 +7609,14 @@
       "store": "TGW",
       "url": "https://www.tgw.com/p/puma-mens-avant-golf-shoes/-/YT0xMDExNzAx",
       "img": "https://image.tgw.com/adimgs/l/P197177/z-whiteblack-x.jpg",
-      "price": 99.99,
+      "price": 76.99,
       "was": 139.95,
-      "pct": 29,
+      "pct": 45,
       "cond": "new",
       "condClass": "new",
       "promo": "",
       "ends": "",
-      "note": "",
+      "note": "Price dropped to $76.99, re-verified 2026-11-06. White/Black, sizes 7-15 in stock.",
       "demand": 2,
       "value": "",
       "why": "PUMA Avant at 29% off",
@@ -9052,6 +9058,66 @@
       "trust": "caution",
       "seen": "direct",
       "also": []
+    },
+    {
+      "id": "2941ad7f",
+      "title": "TaylorMade Qi35 LS Driver",
+      "brand": "TaylorMade",
+      "cat": "driver",
+      "group": "woods",
+      "store": "eBay - Mr Topes Golf",
+      "url": "https://www.ebay.com/itm/336742389723",
+      "img": "https://i.ebayimg.com/images/g/fIwAAeSwZ2ZqwqvR/s-l500.webp",
+      "price": 299.0,
+      "was": 449.99,
+      "pct": 34,
+      "cond": "new",
+      "condClass": "new",
+      "promo": "",
+      "ends": "",
+      "note": "Matte Chromium, 9.0deg, Regular, RH; headcover included. Seller Mr Topes Golf: 99.9% positive, 62,764 feedback, Top Rated Plus since 2004. +$7.79 delivery; 30-day returns.",
+      "demand": 3,
+      "value": "",
+      "why": "New Qi35 LS at 34% off list and 34% below the lowest listed price elsewhere ($404.99 at Golf Discount)",
+      "city": "",
+      "includes": "",
+      "trust": "ok",
+      "seen": "direct",
+      "also": [
+        {
+          "store": "Golf Discount",
+          "price": 404.99,
+          "url": "https://www.golfdiscount.com/products/taylormade-qi35-ls-driver"
+        }
+      ],
+      "family": "Qi35"
+    },
+    {
+      "id": "646f9f90",
+      "title": "Callaway Elyte Triple Diamond Driver",
+      "brand": "Callaway",
+      "cat": "driver",
+      "group": "woods",
+      "store": "eBay - Golf Direct Now",
+      "url": "https://www.ebay.com/itm/227547898231",
+      "img": "https://i.ebayimg.com/images/g/czkAAeSw6MhqxWxG/s-l500.webp",
+      "price": 349.95,
+      "was": 669.99,
+      "pct": 48,
+      "cond": "new",
+      "condClass": "new",
+      "promo": "",
+      "ends": "",
+      "note": "New 2025 model. Seller Golf Direct Now: 99.7% positive, 123,246 feedback, Top Rated Plus. Free 2-4 day delivery; 30-day returns; last one.",
+      "demand": 3,
+      "value": "",
+      "why": "New Elyte Triple Diamond driver at 48% off list",
+      "city": "",
+      "includes": "",
+      "trust": "ok",
+      "seen": "direct",
+      "also": [],
+      "family": "Elyte"
     }
   ],
   "releases": [
@@ -9318,6 +9384,66 @@
       "hype": 2,
       "buzz": "Winter layering piece from adidas's cold-weather collection, announced with retail listings but little discussion found.",
       "note": "Men's quilted vest in the Ultimate365+ Course Control Layering collection."
+    },
+    {
+      "id": "cda54ae7",
+      "title": "Odyssey TRTL Slant Neck Putter",
+      "brand": "Odyssey",
+      "cat": "putter",
+      "group": "putters",
+      "store": "TGW",
+      "url": "https://www.tgw.com/p/odyssey-trtl-slant-neck-putter/-/YT0zMDMwMjA3",
+      "img": "https://image.tgw.com/adimgs/l/P205409/1-z.jpg",
+      "price": 349.99,
+      "released": "2026-11-06",
+      "source": "https://golfweek.usatoday.com/story/sports/golf/equipment/2026/10/28/odyssey-trtl-putters-feature-ai-star-insert-zero-torque-option/92396244007/",
+      "hype": 4,
+      "buzz": "The turtle-shaped mallet that swept Japan's sales charts and showed up in Min Woo Lee's bag is finally on US shelves."
+    },
+    {
+      "id": "c7e2e09f",
+      "title": "Odyssey TRTL Double Bend Putter",
+      "brand": "Odyssey",
+      "cat": "putter",
+      "group": "putters",
+      "store": "TGW",
+      "url": "https://www.tgw.com/p/odyssey-trtl-double-bend-putter/-/YT0zMDMwMjA4",
+      "img": "https://image.tgw.com/adimgs/l/P205408/1-z.jpg",
+      "price": 349.99,
+      "released": "2026-11-06",
+      "source": "https://golfweek.usatoday.com/story/sports/golf/equipment/2026/10/28/odyssey-trtl-putters-feature-ai-star-insert-zero-torque-option/92396244007/",
+      "hype": 4,
+      "buzz": "The face-balanced version of the turtle mallet that topped Japan's charts, built for straight-back-straight-through strokes."
+    },
+    {
+      "id": "e25f3ff2",
+      "title": "Odyssey TRTL CH Putter",
+      "brand": "Odyssey",
+      "cat": "putter",
+      "group": "putters",
+      "store": "TGW",
+      "url": "https://www.tgw.com/p/odyssey-trtl-ch-putter/-/YT0zMDMwMjAw",
+      "img": "https://image.tgw.com/adimgs/l/P205407/1-z.jpg",
+      "price": 349.99,
+      "released": "2026-11-06",
+      "source": "https://golfweek.usatoday.com/story/sports/golf/equipment/2026/10/28/odyssey-trtl-putters-feature-ai-star-insert-zero-torque-option/92396244007/",
+      "hype": 4,
+      "buzz": "The crank-hosel version of the turtle mallet that topped Japan's charts, for players who like a mallet with a bit of arc."
+    },
+    {
+      "id": "812402db",
+      "title": "Odyssey S2S TRTL Max Zero Torque Putter",
+      "brand": "Odyssey",
+      "cat": "putter",
+      "group": "putters",
+      "store": "TGW",
+      "url": "https://www.tgw.com/p/odyssey-s2s-trtl-max-zero-torque-putter/-/YT0zMDMwMjA1",
+      "img": "https://image.tgw.com/adimgs/l/P205410/1-z.jpg",
+      "price": 399.99,
+      "released": "2026-11-06",
+      "source": "https://golfweek.usatoday.com/story/sports/golf/equipment/2026/10/28/odyssey-trtl-putters-feature-ai-star-insert-zero-torque-option/92396244007/",
+      "hype": 4,
+      "buzz": "The oversized zero-torque version of the turtle mallet, pairing the high-MOI head with Square 2 Square stability."
     }
   ],
   "upcoming": [
@@ -9512,19 +9638,6 @@
       "note": "GTS 3-wood prototype won the Baycurrent Classic with Michael Brennan Oct 12 (tour sighting of the GTS wood family)."
     },
     {
-      "title": "Odyssey TRTL Putters",
-      "brand": "Odyssey",
-      "cat": "putter",
-      "group": "putters",
-      "date": "2026-11-06",
-      "confidence": "confirmed",
-      "source": "https://golfweek.usatoday.com/story/sports/golf/equipment/2026/10/28/odyssey-trtl-putters-feature-ai-star-insert-zero-torque-option/92396244007/",
-      "hype": 4,
-      "buzz": "Zero-torque putters that already top Japan's sales charts arrive in the US, with tour players already gaming them.",
-      "note": "Four shapes (CH, DB, S, Max S2S); pre-orders open; $349.99 (Max S2S $399.99).",
-      "id": "b7e4834f"
-    },
-    {
       "title": "FootJoy Traditions 2027",
       "brand": "FootJoy",
       "cat": "shoes",
@@ -9572,7 +9685,8 @@
       "source": "https://golfwrx.com/788989/bettinardi-unveils-2027-28-queen-b-series-putters-lineup/",
       "hype": 3,
       "buzz": "A fresh French Gold finish refreshes a long-running fan-favorite line, with pre-orders opening weeks before shops get stock.",
-      "note": "Pre-orders open Nov 3, 2026; in stores Nov 19, 2026; $499.99."
+      "note": "Pre-orders open Nov 3, 2026 (verified at bettinardi.com); in stores Nov 19, 2026; $499.99. No TGW pre-order page exists.",
+      "preorder": "https://bettinardi.com/collections/2026-2027-queen-b-putter-series/products/queen-b-2-putter"
     }
   ],
   "promos": [
@@ -9718,6 +9832,15 @@
       "code": "",
       "ends": "2026-11-08",
       "url": "https://www.globalgolf.com/",
+      "img": ""
+    },
+    {
+      "store": "TGW",
+      "title": "$40 off orders $149+",
+      "details": "Code G40149 seen on TGW product pages 2026-11-06; free shipping $99+.",
+      "code": "G40149",
+      "ends": "",
+      "url": "https://www.tgw.com/",
       "img": ""
     }
   ],
@@ -10249,6 +10372,22 @@
       "rating": "BBB: A+ (BBB listing for Unbeatable Sale.com, Inc.). Trustpilot: 1.7/5 (84 reviews)",
       "verdict": "caution",
       "notes": "30-day returns require an RA number, are shipped freight-prepaid by the customer, and refused deliveries incur a 25% restocking fee; original shipping is not refunded. Established seller, but very low Trustpilot score and costly return terms."
+    },
+    {
+      "store": "eBay - Golf Direct Now",
+      "url": "https://www.ebay.com/str/golfdirectnow",
+      "founded": "n/a (eBay golf seller)",
+      "rating": "eBay feedback 99.7% positive (123,246 ratings), Top Rated Plus",
+      "verdict": "credible",
+      "notes": "Large golf seller on eBay; verified 2026-11-06 via the Elyte Triple Diamond Driver listing. Buy It Now only; new clubs."
+    },
+    {
+      "store": "eBay - Mr Topes Golf",
+      "url": "https://www.ebay.com/str/mrtopesgolf",
+      "founded": "2004 (eBay seller since 2004)",
+      "rating": "eBay feedback 99.9% positive (62,764 ratings), Top Rated Plus, 182K items sold",
+      "verdict": "credible",
+      "notes": "Large golf seller on eBay; verified 2026-11-06 via the Qi35 LS Driver listing. Buy It Now only; new clubs."
     }
   ],
   "thresholds": [
@@ -10323,5 +10462,5 @@
       "source": "https://golf.com/gear/drivers/best-drivers-2026-fully-fit/ (list $649-$699; threshold is a judgment call, about 15% off)"
     }
   ],
-  "researched": "2026-11-04"
+  "researched": "2026-11-06"
 }
