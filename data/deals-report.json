@@ -1,16 +1,16 @@
 {
- "checked": "2026-11-05",
- "total": 345,
- "live": 345,
- "updated": 0,
+ "checked": "2026-11-06",
+ "total": 347,
+ "live": 347,
+ "updated": 2,
  "hidden": [],
- "unreadable": 64,
- "unclear": 44,
+ "unreadable": 63,
+ "unclear": 45,
  "newGear": {
-  "total": 17,
-  "live": 6,
-  "expired": 11,
+  "total": 21,
+  "live": 7,
+  "expired": 14,
   "hidden": []
  },
- "upcoming": 19
+ "upcoming": 18
 }
