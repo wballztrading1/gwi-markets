@@ -372,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true,
    "touched": true
   },
@@ -394,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true,
    "touched": true
   },
@@ -416,7 +416,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true,
    "touched": true
   },
@@ -438,7 +438,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true,
    "touched": true
   },
@@ -482,7 +482,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true,
    "touched": true
   },
@@ -570,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true,
    "touched": true
   },
@@ -702,7 +702,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true,
    "touched": true
   },
@@ -724,7 +724,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-10-14",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true
   },
   "de3efb80a5": {
@@ -745,7 +745,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": false
   },
   "770358535d": {
@@ -768,7 +768,8 @@
    "firstSeen": "2026-10-23",
    "lastSeen": "2026-11-06",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": true
   },
   "b903ed6f74": {
    "id": "b903ed6f74",
@@ -993,7 +994,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1016,7 +1017,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1039,7 +1040,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1062,7 +1063,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": true
   },
   "deaf85f3b5": {
@@ -1083,7 +1084,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-06",
+   "lastSeen": "2026-11-07",
    "shown": false
   }
  },
