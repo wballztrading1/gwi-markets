@@ -372,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": true,
    "touched": true
   },
@@ -394,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": true,
    "touched": true
   },
@@ -416,7 +416,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": true,
    "touched": true
   },
@@ -438,7 +438,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": true,
    "touched": true
   },
@@ -482,7 +482,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": true,
    "touched": true
   },
@@ -570,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": true,
    "touched": true
   },
@@ -702,7 +702,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": true,
    "touched": true
   },
@@ -725,7 +725,8 @@
    "confirmed": true,
    "firstSeen": "2026-10-14",
    "lastSeen": "2026-11-07",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "de3efb80a5": {
    "id": "de3efb80a5",
@@ -745,7 +746,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": false
   },
   "770358535d": {
@@ -838,29 +839,6 @@
    "lastSeen": "2026-10-29",
    "shown": true,
    "imgTried": true,
-   "gone": true
-  },
-  "2f2b496b10": {
-   "id": "2f2b496b10",
-   "title": "Thirsty Thursday with Brian Lynn Jones",
-   "start": "2026-11-05",
-   "end": "",
-   "time": "6:00 PM",
-   "venue": "Rusted Rail Golf",
-   "city": "Celina",
-   "area": "north",
-   "cat": "fun",
-   "desc": "Brian Lynn Jones brings live music to Rusted Rail Bar & Grill on Thursday night. Happy Hour runs all day, so come early and grab a good seat.",
-   "url": "https://rustedrailgolf.com/event/thirsty-thursday-with-brian-lynn-jones/",
-   "img": "https://rustedrailgolf.com/wp-content/uploads/2026/10/11_5-Thirsty-Thursday-1.png",
-   "source": "Rusted Rail Golf Club",
-   "official": false,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-10-28",
-   "lastSeen": "2026-10-31",
-   "shown": true,
-   "touched": true,
    "gone": true
   },
   "0dad016a63": {
@@ -994,7 +972,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1017,7 +995,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1040,7 +1018,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1063,7 +1041,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "shown": true
   },
   "deaf85f3b5": {
@@ -1084,7 +1062,72 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
+   "shown": false
+  },
+  "9306a4262c": {
+   "id": "9306a4262c",
+   "title": "Christmas Day",
+   "start": "2026-12-24",
+   "end": "2026-12-25",
+   "time": "6:00 PM",
+   "venue": "Grapevine Golf Course",
+   "city": "Grapevine",
+   "area": "mid",
+   "cat": "fun",
+   "desc": "<p>Practice Facilities and Golf Course Closed All Day</p>\\n",
+   "url": "https://grapevinegc.com/event/christmas-day/",
+   "img": "",
+   "source": "Grapevine Golf Course",
+   "official": true,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-08",
+   "lastSeen": "2026-11-08",
+   "shown": true,
+   "imgTried": true
+  },
+  "c516d877d5": {
+   "id": "c516d877d5",
+   "title": "Christmas Day",
+   "start": "2026-12-25",
+   "end": "",
+   "time": "12:00 AM",
+   "venue": "Grapevine Golf Course",
+   "city": "Grapevine",
+   "area": "mid",
+   "cat": "fun",
+   "desc": "Practice Facilities and Golf Course Closed All Day",
+   "url": "https://grapevinegc.com/event/christmas-day/",
+   "img": "",
+   "source": "Grapevine Golf Course",
+   "official": true,
+   "how": "ical",
+   "confirmed": true,
+   "firstSeen": "2026-11-08",
+   "lastSeen": "2026-11-08",
+   "shown": true,
+   "imgTried": true
+  },
+  "38f2cf17ce": {
+   "id": "38f2cf17ce",
+   "title": "Bobcats Tour Championship",
+   "start": "2026-12-06",
+   "end": "",
+   "time": "12:30 PM",
+   "venue": "The Resort Golf Club",
+   "city": "Fort Worth",
+   "area": "fortworth",
+   "cat": "competition",
+   "desc": "",
+   "url": "",
+   "img": "",
+   "source": "The Resort Golf Club",
+   "official": false,
+   "how": "ical",
+   "confirmed": true,
+   "firstSeen": "2026-11-08",
+   "lastSeen": "2026-11-08",
    "shown": false
   }
  },
