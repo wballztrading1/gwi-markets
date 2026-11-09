@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-09",
   "region": "Dallas–Fort Worth",
   "events": [
     {
@@ -33,156 +33,6 @@
       "confirmed": true
     },
     {
-      "id": "coverica-cares-charity-golf-tournament-2026",
-      "title": "CoVerica Cares Charity Golf Tournament 2026",
-      "start": "2026-11-05",
-      "end": "",
-      "time": "7:30 AM - 2:00 PM",
-      "venue": "Bear Creek Golf Club",
-      "city": "Dallas",
-      "area": "dallas",
-      "cat": "scramble",
-      "desc": "CoVerica's annual charity tournament on Bear Creek's West Course, with hole-in-one, closest-to-the-pin and longest-drive contests. Proceeds support Genesis Women's Shelter & Support, The Warren Center and In-Sync Exotics. $250 per golfer or $750 per foursome; registration and breakfast from 7:30 AM, 9:00 AM shotgun.",
-      "url": "https://allevents.in/dallas/coverica-cares-charity-golf-tournament-2026/100001994593087618",
-      "img": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy8zOTcyMDkxZTFiNmZlNDFkODBhYTU2ZGQ4ZWYzMzRmYmQzOTdiMjQ4ZWMxZDQ3ZWUzMGRjYzIzMTIwZGIzYzQ5LXJpbWctdzEyMDAtaDYwMC1kY2Y4ZjhmOC1nbWlyLmpwZz92PTE3ODcyNjc0Mzc.avif",
-      "confirmed": true
-    },
-    {
-      "id": "fwmbcc-27th-annual-golf-tournament",
-      "title": "FWMBCC 27th Annual Golf Tournament Scholarship Fundraiser",
-      "start": "2026-11-05",
-      "end": "",
-      "time": "",
-      "venue": "Texas Star Golf Course",
-      "city": "Euless",
-      "area": "mid",
-      "cat": "scramble",
-      "desc": "The Fort Worth Metropolitan Black Chamber of Commerce's 27th annual scholarship-fundraiser tournament, this year at Texas Star in Euless. Proceeds benefit the chamber's mission and scholarship funds for local students pursuing higher education.",
-      "url": "https://fwmbcc.org/wp-content/uploads/2026/08/FWMBCC-Annual-Golf-Tournament-Sponsorship-Deck-2.pdf",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "friends-of-finley-foundation-golf-scramble",
-      "title": "Friends of Finley Foundation Golf Scramble",
-      "start": "2026-11-06",
-      "end": "",
-      "time": "8:00 AM – 2:00 PM",
-      "venue": "7400 Country Club Dr",
-      "city": "Wylie",
-      "area": "north",
-      "cat": "scramble",
-      "desc": "Charity scramble supporting the Friends of Finley Foundation: $200 per player or $800 per team of four, with sponsorship packages also available on the ticketing page.",
-      "url": "https://www.zeffy.com/en-US/ticketing/friends-of-finley-foundation-golf-scramble",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "glow-fore-it-family-glow-golf-night-first-tee-fo",
-      "title": "Glow Fore It! Family Glow Golf Night (First Tee – Fort Worth)",
-      "start": "2026-11-06",
-      "end": "",
-      "time": "",
-      "venue": "Rockwood Park Golf Course – River's Edge Par 3 & Ben Hogan Learning Center",
-      "city": "Fort Worth",
-      "area": "fortworth",
-      "cat": "fun",
-      "desc": "First Tee – Fort Worth's family glow golf fundraiser on the River's Edge par-3 course. The 2025 edition also had a glow putting course, an outdoor movie, music and games.",
-      "url": "https://firstteeftworth.org/events/",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "guardian-knight-8th-annual-golf-tournament",
-      "title": "Guardian Knight 8th Annual Golf Tournament",
-      "start": "2026-11-06",
-      "end": "",
-      "time": "8:00 AM",
-      "venue": "Prairie Lakes Golf Course",
-      "city": "Grand Prairie",
-      "area": "mid",
-      "cat": "scramble",
-      "desc": "Eighth annual charity golf tournament benefiting the Guardian Knight Cancer Foundation. $125 per player or $500 per team of four; sponsorship packages available.",
-      "url": "https://guardianknight.org/events/8th-annual-golf-tournament/",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "swing-fore-miracles",
-      "title": "Swing Fore Miracles",
-      "start": "2026-11-06",
-      "end": "",
-      "time": "",
-      "venue": "Topgolf The Colony",
-      "city": "The Colony",
-      "area": "north",
-      "cat": "fun",
-      "desc": "Children's Medical Center Foundation's signature Play Yellow event, presented by Neighborhood Credit Union and now in its 6th year. Teams of six compete in Topgolf bays; proceeds support the new Dallas pediatric campus project from Children's Health and UT Southwestern.",
-      "url": "https://give.childrens.com/events/swing-fore-miracles",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "18th-annual-lakeridge-charitable-golf-tournament",
-      "title": "18th Annual LakeRidge Charitable Golf Tournament",
-      "start": "2026-11-07",
-      "end": "",
-      "time": "8:30 AM (7:00 AM registration)",
-      "venue": "Tangle Ridge Golf Club",
-      "city": "Grand Prairie",
-      "area": "mid",
-      "cat": "scramble",
-      "desc": "LakeRidge Charitable Foundation tournament, which has donated over $500,000 through its first 17 editions. The 2026 beneficiaries are Mission Cedar Hill, Cedar Hill Shares, Cedar Hill All Pro Dads and Cedar Hill Disabled American Veterans Chapter 240.",
-      "url": "https://charitygolftoday.com/event?e=27482&ce=b595c3",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "ping-fitting-day",
-      "title": "PING Fitting Day",
-      "start": "2026-11-07",
-      "end": "",
-      "time": "9:00 AM - 1:00 PM",
-      "venue": "Leonard Golf Links",
-      "city": "Fort Worth",
-      "area": "fortworth",
-      "cat": "expo",
-      "desc": "PING club fitting event. You register through PING's fitting-events site.",
-      "url": "https://leonardgolflinks.com/",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "saturdays-at-the-superstore-wedge-u-cation",
-      "title": "Saturdays at the Superstore: Wedge-U-cation",
-      "start": "2026-11-07",
-      "end": "",
-      "time": "11:00 AM",
-      "venue": "PGA TOUR Superstore (DFW stores incl. Plano)",
-      "city": "Plano",
-      "area": "north",
-      "cat": "clinic",
-      "desc": "Free Saturday in-store clinic in PGA TOUR Superstore's series, on choosing the right wedges and practising chip shots. DFW stores run the series.",
-      "url": "https://www.pgatoursuperstore.com/bookingtool?isBookingToolDirectLink=true&type=event&locationID=1261",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "veterans-day-supercars-show",
-      "title": "Veterans Day Supercars Show",
-      "start": "2026-11-07",
-      "end": "",
-      "time": "11:00 AM - 1:00 PM",
-      "venue": "The PGA District, PGA Frisco",
-      "city": "Frisco",
-      "area": "north",
-      "cat": "expo",
-      "desc": "Supercar show held during the Veterans Day weekend at PGA Frisco.",
-      "url": "https://www.pgafrisco.com/",
-      "img": "",
-      "confirmed": false
-    },
-    {
       "id": "veterans-day-weekend-at-pga-frisco",
       "title": "Veterans Day Weekend at PGA Frisco",
       "start": "2026-11-07",
@@ -198,64 +48,19 @@
       "confirmed": false
     },
     {
-      "id": "woo-invitational",
-      "title": "WOO Invitational",
-      "start": "2026-11-07",
-      "end": "",
-      "time": "12:00 PM shotgun (10:00 AM check-in)",
-      "venue": "Sky Creek Ranch Golf Club",
-      "city": "Keller",
-      "area": "mid",
-      "cat": "scramble",
-      "desc": "Annual charity invitational hosted by the OAR Success Foundation, funding the OARSmen college-prep program for DFW high-school juniors and seniors. Scramble with brunch, silent/live auction and a post-event dinner: $350 single, $700 twosome, $1,300 foursome.",
-      "url": "https://www.greatgolfeventsinc.com/wooinvitational",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "canyon-creek-charity-classic",
-      "title": "Canyon Creek Charity Classic",
-      "start": "2026-11-08",
-      "end": "",
-      "time": "12:30 PM shotgun",
-      "venue": "Canyon Creek Country Club",
-      "city": "Richardson",
-      "area": "north",
-      "cat": "scramble",
-      "desc": "Charity Classic golf tournament at Canyon Creek Country Club, with online and silent auctions. Register through the event page; details to confirm with the organizer.",
-      "url": "https://canyon-creek-cc-charity-classic.eventlify.com/",
-      "img": "",
-      "confirmed": false
-    },
-    {
-      "id": "the-miracle-cup-golf-tournament",
-      "title": "The Miracle Cup Golf Tournament",
-      "start": "2026-11-08",
-      "end": "",
-      "time": "11:00 AM shotgun start",
-      "venue": "The Golf Club at Champions Circle",
-      "city": "Fort Worth",
-      "area": "fortworth",
-      "cat": "scramble",
-      "desc": "Miracles Through Golf's annual fall tournament and toy drive, partnered with Roanoke Police Department's Santa Cops toy drive to help struggling families at the holidays. Two-man Ryder-Cup-style format: 6 holes shamble, 6 best shot, 6 scramble; one donated toy earns a special raffle ticket.",
-      "url": "https://miraclesthroughgolf.com/the-miracle-cup-golf-tournament/",
-      "img": "https://miraclesthroughgolf.com/wp-content/uploads/2023/09/miracle-cup-trophy.png",
-      "confirmed": true
-    },
-    {
       "id": "13th-annual-ype-dallas-golf-tournament",
       "title": "13th Annual YPE Dallas Golf Tournament",
       "start": "2026-11-09",
       "end": "",
-      "time": "9:00 AM",
+      "time": "9:00 AM registration, 10:00 AM shotgun",
       "venue": "Gleneagles Country Club",
       "city": "Plano",
       "area": "north",
       "cat": "scramble",
       "desc": "Young Professionals in Energy – Dallas holds its 13th annual tournament at Gleneagles in Plano, listed on Eventbrite.",
-      "url": "https://www.eventbrite.co.nz/d/tx--plano/golf/?page=0",
+      "url": "https://www.eventbrite.com/e/13th-annual-ype-dallas-golf-tournament-tickets-1994744265796",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "grand-rounds-golf-tournament",
@@ -300,7 +105,7 @@
       "desc": "CharityGolfer lists the Seeds of Hope classic at Bear Creek at $150 per person, with the beneficiary still to be announced and registration not yet open — details to confirm with the organizer.",
       "url": "https://charitygolfer.com/api/event/2026-pcv-vrm-seeds-of-hope-9th-annual-charity-golf-classic/pdf",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "13u-pga-jr-league-championship",
@@ -327,10 +132,10 @@
       "city": "Dallas",
       "area": "dallas",
       "cat": "scramble",
-      "desc": "Veterans Day scramble hosted by BK Real Estate, raising funds for Cowtown Warriors, which supports wounded and disabled veterans in North Texas. Listed at $175 per person, with registration via GolfStatus.",
+      "desc": "Veterans Day scramble hosted by BK Real Estate, raising funds for Cowtown Warriors, which supports wounded and disabled veterans in North Texas. Listed at $150 per person, with registration via GolfStatus.",
       "url": "https://charitygolfer.com/api/event/2026-3rd-annual-charity-golf-tournament-hosted-by-bk-real-estate/pdf",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "iapd-southern-charitable-golf-tournament",
@@ -360,7 +165,7 @@
       "desc": "Firefighters' charity tournament in Burleson. $125 per player or $500 per team.",
       "url": "https://www.linkscoachgolf.com/tournaments",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "do-it-for-durrett-birdies-boots",
@@ -465,7 +270,7 @@
       "desc": "Charity tournament of the Frisco Police Officers Association at Stonebriar Country Club in Frisco.",
       "url": "https://allevents.in/frisco/fpoa-charity-golf-tournament/200030623609852",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "five-iron-golf-winter-league-2026",
@@ -582,10 +387,10 @@
       "city": "Fort Worth",
       "area": "fortworth",
       "cat": "scramble",
-      "desc": "Thanksgiving-season charity shootout, listed as benefiting the American Cancer Society. $175 per person; registration was listed as coming soon, so check the listing before heading out.",
+      "desc": "Thanksgiving-season charity shootout benefiting the American Cancer Society. $180 per person; registration via Eventbrite.",
       "url": "https://charitygolfer.com/api/event/2026-23rd-annual-turkey-shootout-benefitting-american-cancer-society/pdf",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "turkey-challenge-shady-valley-tjgt",
@@ -780,7 +585,7 @@
       "desc": "Flighted amateur stroke-play tournament in the Dallas/Fort Worth Amateur Players Tour chapter, with five divisions plus net games. Registration closes Nov 27.",
       "url": "https://aptgolf.org/2027-dfw-season-opener-at-heritage-ranch-elevated/",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "communities-in-schools-dallas-kids-classic-golf-tournament",
@@ -840,7 +645,7 @@
       "desc": "Fundraiser for the Carson Scholars Fund with a shotgun start, lunch on the course and a dinner and awards ceremony. CharityGolfer lists entry at $200 per person; register through carsonscholars.org.",
       "url": "https://charitygolfer.com/api/event/frisco-texas-charity-golf-tournament/pdf",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "saturdays-at-the-superstore-full-swing-skills-challenge",
@@ -900,7 +705,7 @@
       "desc": "New Year's Day four-person scramble hosted by DLLS Sports. Entry includes breakfast, 18 holes with cart, contests, a gift pack and a buffet lunch.",
       "url": "https://events.humanitix.com/dlls-lone-star-open-scramble-golf-tournament",
       "img": "https://images.humanitix.com/i/0ki681GuQOGMcpNaTaHe@responsive-1600.webp",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "rangers-new-year-kickoff-tjgt",
@@ -915,7 +720,7 @@
       "desc": "Texas Junior Golf Tour Open Series junior tournament opening the new year; the tour page shows registration opening Oct 15, 2026 (the year is inferred from the schedule order, so the date is marked to confirm).",
       "url": "https://tournaments.tjgt.com/",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "bbq-bash-prairie-lakes-tjgt",
@@ -930,7 +735,7 @@
       "desc": "Texas Junior Golf Tour Open Series junior tournament on the Blue and Red courses; the tour page shows registration opening Oct 15, 2026 (the year is inferred from the schedule order, so the date is marked to confirm).",
       "url": "https://tournaments.tjgt.com/",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "the-star-showcase-frisco-lakes-tjgt",
@@ -945,7 +750,7 @@
       "desc": "Texas Junior Golf Tour Open Series junior tournament; the tour page shows registration opening Oct 15, 2026 (the year is inferred from the schedule order, so the date is marked to confirm).",
       "url": "https://tournaments.tjgt.com/",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "2027-texas-golf-expo-dallas",
@@ -1141,7 +946,7 @@
       "desc": "Centennial-year golf classic supporting Boys & Girls Clubs of Greater Tarrant County youth programs, with contests, prizes, breakfast, lunch and an awards luncheon.",
       "url": "https://bgcgtc.org/events/",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "kipp-golf-classic",
@@ -1264,7 +1069,7 @@
       "desc": "ANNIKA WAPT women's pro/amateur championship at the now-27-hole Grapevine Golf Course, with a Pro-Am on Jun 1. Free and open to the public for spectators; the top two finishers earn Epson Tour exemptions.",
       "url": "https://www.grapevinetexasusa.com/events/annual-events-festivals/texaswomensopen/",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "2027-pga-buying-summit",
@@ -2194,7 +1999,23 @@
       "ends": "2026-11-10"
     }
   ],
-  "tba": [],
+  "tba": [
+    {
+      "id": "dallas-autumn-open",
+      "title": "The Inaugural Dallas Autumn Open",
+      "start": "",
+      "end": "",
+      "time": "7:00 AM shotgun",
+      "venue": "Mesquite Golf Club",
+      "city": "Mesquite",
+      "area": "east",
+      "cat": "competition",
+      "desc": "Inaugural two-man scramble at Mesquite Golf Club, late November 2026 — exact date to be announced. Net scoring with handicaps capped at 20, a 36-team field, post-round lunch and awards. Green and cart fees ($65 per player) are paid at the course.",
+      "url": "https://dallasautumnopen.com/",
+      "img": "",
+      "confirmed": false
+    }
+  ],
   "opening": [
     {
       "title": "Grapevine Golf Course is now 27 holes",
