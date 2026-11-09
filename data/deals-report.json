@@ -1,11 +1,18 @@
 {
  "checked": "2026-11-09",
  "total": 354,
- "live": 354,
- "updated": 2,
- "hidden": [],
+ "live": 353,
+ "updated": 1,
+ "hidden": [
+  {
+   "id": "aa28d48a",
+   "title": "NIKE Men's Air Max Plus G Golf Shoes",
+   "store": "TGW",
+   "why": "sold out"
+  }
+ ],
  "unreadable": 66,
- "unclear": 46,
+ "unclear": 44,
  "newGear": {
   "total": 24,
   "live": 10,
