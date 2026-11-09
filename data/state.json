@@ -372,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true,
    "touched": true
   },
@@ -394,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true,
    "touched": true
   },
@@ -416,7 +416,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true,
    "touched": true
   },
@@ -438,7 +438,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true,
    "touched": true
   },
@@ -482,7 +482,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true,
    "touched": true
   },
@@ -570,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true,
    "touched": true
   },
@@ -702,7 +702,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true,
    "touched": true
   },
@@ -746,54 +746,8 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": false
-  },
-  "770358535d": {
-   "id": "770358535d",
-   "title": "ALPFA Dallas 2nd Annual Golf Scramble",
-   "start": "2026-11-06",
-   "end": "",
-   "time": "",
-   "venue": "Bear Creek Golf Club",
-   "city": "Dallas",
-   "area": "dallas",
-   "cat": "scramble",
-   "desc": "",
-   "url": "https://allevents.in/dallas/alpfa-dallas-2nd-annual-golf-scramble/100002003738230988",
-   "img": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czYvYmFubmVycy9iOWJiZGQyZTliODkwNjA0MjU0MzY4Y2EzYWJiMWE5MmZlZmZhMjNjODVlNDIwMmM3Zjc5NmM5ZDkwZjg4Y2RiLXJpbWctdzEwODAtaDEzNTAtZGMwODI4NTgtZ21pci5qcGc_dj0xNzkyNjQxNjY0.avif",
-   "source": "AllEvents (Dallas golf)",
-   "official": false,
-   "how": "structured-data",
-   "confirmed": true,
-   "firstSeen": "2026-10-23",
-   "lastSeen": "2026-11-06",
-   "shown": true,
-   "touched": true,
-   "gone": true
-  },
-  "b903ed6f74": {
-   "id": "b903ed6f74",
-   "title": "Fidelity Event",
-   "start": "2026-11-06",
-   "end": "",
-   "time": "",
-   "venue": "Grapevine Golf Course",
-   "city": "Grapevine",
-   "area": "mid",
-   "cat": "fun",
-   "desc": "@ 8:30 am Shotgun, 160 Players (Course opens for public play at 3:00 pm) Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
-   "url": "https://grapevinegc.com/event/fidelity-event/",
-   "img": "",
-   "source": "Grapevine Golf Course",
-   "official": false,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-10-25",
-   "lastSeen": "2026-10-29",
-   "shown": false,
-   "imgTried": true,
-   "gone": true
   },
   "176dd91380": {
    "id": "176dd91380",
@@ -972,7 +926,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -995,7 +949,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1018,7 +972,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1041,7 +995,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true
   },
   "deaf85f3b5": {
@@ -1062,7 +1016,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": false
   },
   "9306a4262c": {
@@ -1085,27 +1039,28 @@
    "firstSeen": "2026-11-08",
    "lastSeen": "2026-11-08",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "c516d877d5": {
    "id": "c516d877d5",
    "title": "Christmas Day",
    "start": "2026-12-25",
    "end": "",
-   "time": "12:00 AM",
+   "time": "",
    "venue": "Grapevine Golf Course",
    "city": "Grapevine",
    "area": "mid",
    "cat": "fun",
-   "desc": "Practice Facilities and Golf Course Closed All Day",
+   "desc": "@ Practice Facilities and Golf Course Closed All Day Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
    "url": "https://grapevinegc.com/event/christmas-day/",
    "img": "",
    "source": "Grapevine Golf Course",
    "official": true,
-   "how": "ical",
+   "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": true,
    "imgTried": true
   },
@@ -1127,7 +1082,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-08",
+   "lastSeen": "2026-11-09",
    "shown": false
   }
  },
