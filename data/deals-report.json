@@ -1,13 +1,19 @@
 {
- "checked": "2026-11-09",
+ "checked": "2026-11-10",
  "total": 354,
- "live": 353,
- "updated": 1,
+ "live": 352,
+ "updated": 0,
  "hidden": [
   {
    "id": "aa28d48a",
    "title": "NIKE Men's Air Max Plus G Golf Shoes",
    "store": "TGW",
+   "why": "page removed"
+  },
+  {
+   "id": "613a032b",
+   "title": "Cobra Grandsport-35 3D Printed Putter",
+   "store": "Cobra Golf",
    "why": "sold out"
   }
  ],
