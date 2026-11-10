@@ -372,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true,
    "touched": true
   },
@@ -394,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true,
    "touched": true
   },
@@ -416,7 +416,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true,
    "touched": true
   },
@@ -438,7 +438,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true,
    "touched": true
   },
@@ -482,7 +482,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true,
    "touched": true
   },
@@ -570,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true,
    "touched": true
   },
@@ -702,31 +702,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true,
    "touched": true
-  },
-  "ea96b33d35": {
-   "id": "ea96b33d35",
-   "title": "Super Scramble",
-   "start": "2026-11-07",
-   "end": "",
-   "time": "9:00 AM",
-   "venue": "Oeste Ranch Golf Course",
-   "city": "Weatherford",
-   "area": "fortworth",
-   "cat": "scramble",
-   "desc": "Grab your crew and get ready for a Super Scramble where every shot counts and the pressure never lets up. Big drives, clutch putts, and just enough chaos to keep it interesting.",
-   "url": "https://www.oesteranch.com/event-details/super-scramble",
-   "img": "https://static.wixstatic.com/media/f82f02_1dd58f789b384d1080b1ac2a97e84d1a~mv2.jpg",
-   "source": "Oeste Ranch Golf Course",
-   "official": true,
-   "how": "structured-data",
-   "confirmed": true,
-   "firstSeen": "2026-10-14",
-   "lastSeen": "2026-11-07",
-   "shown": true,
-   "gone": true
   },
   "de3efb80a5": {
    "id": "de3efb80a5",
@@ -746,7 +724,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": false
   },
   "176dd91380": {
@@ -841,28 +819,6 @@
    "touched": true,
    "gone": true
   },
-  "498646592c": {
-   "id": "498646592c",
-   "title": "Battle of the Rail Club Championship",
-   "start": "2026-11-07",
-   "end": "",
-   "time": "8:00 AM",
-   "venue": "Rusted Rail Golf",
-   "city": "Celina",
-   "area": "north",
-   "cat": "competition",
-   "desc": "Compete for the 1st place trophy at the Rusted Rail Club Championship. The day starts with an 8:00 AM shotgun, and entry is $75 per player. Prizes will be awarded for closest to the pin on all par 3s and longest drive on holes 1 and 10. Stick around after…",
-   "url": "https://rustedrailgolf.com/event/battle-of-the-rail-club-championship/",
-   "img": "https://rustedrailgolf.com/wp-content/uploads/2026/10/Social-1080-6-1.png",
-   "source": "Rusted Rail Golf Club",
-   "official": true,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-10-30",
-   "lastSeen": "2026-10-31",
-   "shown": true,
-   "gone": true
-  },
   "eee283bdc6": {
    "id": "eee283bdc6",
    "title": "Rusted Rail’s Polar Express Craft Extravaganza",
@@ -926,7 +882,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -949,7 +905,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -972,7 +928,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -995,7 +951,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true
   },
   "deaf85f3b5": {
@@ -1016,7 +972,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": false
   },
   "9306a4262c": {
@@ -1060,7 +1016,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": true,
    "imgTried": true
   },
@@ -1082,7 +1038,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-09",
+   "lastSeen": "2026-11-10",
    "shown": false
   }
  },
