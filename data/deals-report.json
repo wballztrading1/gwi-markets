@@ -1,17 +1,10 @@
 {
  "checked": "2026-11-11",
- "total": 368,
+ "total": 367,
  "live": 367,
- "updated": 3,
- "hidden": [
-  {
-   "id": "2dde6ef4",
-   "title": "TaylorMade Men's Qi35 MAX Driver",
-   "store": "TGW",
-   "why": "page removed"
-  }
- ],
- "unreadable": 69,
+ "updated": 0,
+ "hidden": [],
+ "unreadable": 68,
  "unclear": 43,
  "newGear": {
   "total": 25,
