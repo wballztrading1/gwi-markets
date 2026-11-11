@@ -1,29 +1,23 @@
 {
- "checked": "2026-11-10",
- "total": 354,
- "live": 352,
- "updated": 0,
+ "checked": "2026-11-11",
+ "total": 368,
+ "live": 367,
+ "updated": 3,
  "hidden": [
   {
-   "id": "aa28d48a",
-   "title": "NIKE Men's Air Max Plus G Golf Shoes",
+   "id": "2dde6ef4",
+   "title": "TaylorMade Men's Qi35 MAX Driver",
    "store": "TGW",
    "why": "page removed"
-  },
-  {
-   "id": "613a032b",
-   "title": "Cobra Grandsport-35 3D Printed Putter",
-   "store": "Cobra Golf",
-   "why": "sold out"
   }
  ],
- "unreadable": 66,
- "unclear": 44,
+ "unreadable": 69,
+ "unclear": 43,
  "newGear": {
-  "total": 24,
-  "live": 10,
+  "total": 25,
+  "live": 11,
   "expired": 14,
   "hidden": []
  },
- "upcoming": 25
+ "upcoming": 28
 }
