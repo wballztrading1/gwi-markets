@@ -25,8 +25,8 @@
     "structured-data",
     "ical"
    ],
-   "found": 44,
-   "kept": 1,
+   "found": 42,
+   "kept": 0,
    "error": ""
   },
   {
@@ -42,10 +42,8 @@
   {
    "name": "The Bridges Golf Club",
    "url": "https://www.bridgestexasgolf.com/events-calendar",
-   "methods": [
-    "structured-data"
-   ],
-   "found": 3,
+   "methods": [],
+   "found": 0,
    "kept": 0,
    "error": ""
   },
@@ -207,9 +205,11 @@
   {
    "name": "Rockwood Park Golf Course",
    "url": "https://www.fortworthgolf.org/events/calendar",
-   "methods": [],
-   "found": 0,
-   "kept": 0,
+   "methods": [
+    "event-pages"
+   ],
+   "found": 1,
+   "kept": 1,
    "error": ""
   },
   {

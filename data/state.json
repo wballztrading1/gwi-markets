@@ -996,7 +996,8 @@
    "firstSeen": "2026-11-08",
    "lastSeen": "2026-11-12",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "38f2cf17ce": {
    "id": "38f2cf17ce",
@@ -1039,6 +1040,28 @@
    "firstSeen": "2026-11-11",
    "lastSeen": "2026-11-12",
    "shown": true
+  },
+  "98df7ec93e": {
+   "id": "98df7ec93e",
+   "title": "City of Fort Worth Golf",
+   "start": "2026-11-26",
+   "end": "",
+   "time": "8:30 AM",
+   "venue": "Rockwood Park Golf Course",
+   "city": "Fort Worth",
+   "area": "fortworth",
+   "cat": "competition",
+   "desc": "3 Golf Courses • 72 Holes of Golf • Play our 3 Championship Golf Courses, located in Fort Worth Texas, for stunning views and great course conditions. Public Tee Times and Annual Passes available.",
+   "url": "https://www.fortworthgolf.org/events/calendar/eventdetail/830/-/thanksgiving-turkey-shoot-at-rockwood",
+   "img": "",
+   "source": "Rockwood Park Golf Course",
+   "official": false,
+   "how": "event-page",
+   "confirmed": true,
+   "firstSeen": "2026-11-12",
+   "lastSeen": "2026-11-12",
+   "shown": false,
+   "imgTried": true
   }
  },
  "superseded": []
