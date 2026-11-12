@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-12",
   "region": "Dallas–Fort Worth",
   "events": [
     {
@@ -33,81 +33,6 @@
       "confirmed": true
     },
     {
-      "id": "veterans-day-weekend-at-pga-frisco",
-      "title": "Veterans Day Weekend at PGA Frisco",
-      "start": "2026-11-07",
-      "end": "2026-11-11",
-      "time": "10:00 AM - 9:00 PM",
-      "venue": "The PGA District, PGA Frisco",
-      "city": "Frisco",
-      "area": "north",
-      "cat": "fun",
-      "desc": "All-day Veterans Day celebration in The PGA District.",
-      "url": "https://www.pgafrisco.com/",
-      "img": "",
-      "confirmed": false
-    },
-    {
-      "id": "13th-annual-ype-dallas-golf-tournament",
-      "title": "13th Annual YPE Dallas Golf Tournament",
-      "start": "2026-11-09",
-      "end": "",
-      "time": "9:00 AM registration, 10:00 AM shotgun",
-      "venue": "Gleneagles Country Club",
-      "city": "Plano",
-      "area": "north",
-      "cat": "scramble",
-      "desc": "Young Professionals in Energy – Dallas holds its 13th annual tournament at Gleneagles in Plano, listed on Eventbrite.",
-      "url": "https://www.eventbrite.com/e/13th-annual-ype-dallas-golf-tournament-tickets-1994744265796",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "grand-rounds-golf-tournament",
-      "title": "Grand Rounds Golf Tournament",
-      "start": "2026-11-09",
-      "end": "",
-      "time": "8:30 AM and 1:15 PM shotgun",
-      "venue": "Dallas Country Club",
-      "city": "Dallas",
-      "area": "dallas",
-      "cat": "scramble",
-      "desc": "Two-shotgun tournament from the Baylor Scott & White Dallas Foundation. It supports graduate medical education at Baylor University Medical Center and has raised nearly $4 million to date.",
-      "url": "https://dallasfoundation.bswhealth.com/events/grand-rounds-golf-tournament/",
-      "img": "https://dallasfoundation.bswhealth.com/wp-content/uploads/sites/2/2025/03/IMG_8993-scaled.jpg",
-      "confirmed": true
-    },
-    {
-      "id": "ntpga-hope-cup",
-      "title": "NTPGA HOPE Cup",
-      "start": "2026-11-10",
-      "end": "",
-      "time": "",
-      "venue": "The Clubs of Stonebridge Ranch (Hills Course)",
-      "city": "McKinney",
-      "area": "north",
-      "cat": "pro",
-      "desc": "A Northern Texas PGA section event at Stonebridge Ranch's Hills Course.",
-      "url": "https://www.ntpga.com/section-schedule",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "pcv-vrm-seeds-of-hope-charity-golf-classic",
-      "title": "PCV|VRM Seeds of Hope Charity Golf Classic",
-      "start": "2026-11-10",
-      "end": "",
-      "time": "",
-      "venue": "Bear Creek Golf Club",
-      "city": "Dallas",
-      "area": "dallas",
-      "cat": "scramble",
-      "desc": "CharityGolfer lists the Seeds of Hope classic at Bear Creek at $150 per person, with the beneficiary still to be announced and registration not yet open — details to confirm with the organizer.",
-      "url": "https://charitygolfer.com/api/event/2026-pcv-vrm-seeds-of-hope-9th-annual-charity-golf-classic/pdf",
-      "img": "",
-      "confirmed": true
-    },
-    {
       "id": "13u-pga-jr-league-championship",
       "title": "13u PGA Jr. League Championship",
       "start": "2026-11-11",
@@ -119,21 +44,6 @@
       "cat": "junior",
       "desc": "Twelve 13u All-Star teams from across the country vie for the PGA Jr. League Championship at PGA Frisco's Fields Ranch West.",
       "url": "https://www.pgajrleague.com/junior-league-events/pga-jr-league-championship/",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "bk-real-estate-3rd-annual-charity-golf-tournament",
-      "title": "3rd Annual Charity Golf Tournament hosted by BK Real Estate (& reiAF)",
-      "start": "2026-11-11",
-      "end": "",
-      "time": "",
-      "venue": "Bear Creek Golf Course",
-      "city": "Dallas",
-      "area": "dallas",
-      "cat": "scramble",
-      "desc": "Veterans Day scramble hosted by BK Real Estate, raising funds for Cowtown Warriors, which supports wounded and disabled veterans in North Texas. Listed at $150 per person, with registration via GolfStatus.",
-      "url": "https://charitygolfer.com/api/event/2026-3rd-annual-charity-golf-tournament-hosted-by-bk-real-estate/pdf",
       "img": "",
       "confirmed": true
     },
@@ -376,6 +286,21 @@
       "url": "https://1611golf.com/leagues",
       "img": "",
       "confirmed": true
+    },
+    {
+      "id": "turkey-scramble-five-iron-golf-dfw",
+      "title": "Turkey Scramble",
+      "start": "2026-11-22",
+      "end": "",
+      "time": "6:00 PM",
+      "venue": "Five Iron Golf DFW",
+      "city": "Fort Worth",
+      "area": "fortworth",
+      "cat": "scramble",
+      "desc": "Thanksgiving-weekend scramble at Five Iron Golf's Fort Worth simulator lounge: teams play a scramble on TrackMan bays. From $88.64 per person.",
+      "url": "https://www.eventbrite.com/d/tx--fort-worth/golf-scramble/",
+      "img": "",
+      "confirmed": false
     },
     {
       "id": "23rd-annual-turkey-shootout",
@@ -1025,6 +950,21 @@
       "confirmed": true
     },
     {
+      "id": "hope-fore-hearts-burleson",
+      "title": "Hope FORE Hearts | Health & Wellness",
+      "start": "2027-05-15",
+      "end": "",
+      "time": "11:30 AM - 3:30 PM",
+      "venue": "TBA, Burleson",
+      "city": "Burleson",
+      "area": "fortworth",
+      "cat": "scramble",
+      "desc": "Charity golf event from Let's Talk PPCM, in partnership with Baylor Scott & White Health, raising awareness and support for maternal heart health. Venue in Burleson to be announced; tickets $22.50-$30.",
+      "url": "https://www.eventbrite.com/e/hope-fore-hearts-health-wellness-tickets-1999936773727",
+      "img": "",
+      "confirmed": false
+    },
+    {
       "id": "2027-pga-championship",
       "title": "2027 PGA Championship",
       "start": "2027-05-17",
@@ -1433,25 +1373,6 @@
       "recur": "Every Monday (in season)",
       "days": [
         "mon"
-      ]
-    },
-    {
-      "id": "spark-golf-social-league-at-topgolf",
-      "title": "Spark Golf Social League at Topgolf",
-      "start": "2026-10-06",
-      "end": "2026-11-10",
-      "time": "Tuesdays 5:30 PM",
-      "venue": "Topgolf (participating venues nationwide)",
-      "city": "Dallas-Fort Worth",
-      "area": "multi",
-      "cat": "league",
-      "desc": "Six-week, 9-hole social league on Toptracer virtual courses at $44 per player per round. You sign up in the Spark Golf app. The release says Topgolf venues nationwide but does not name the DFW venues.",
-      "url": "https://press.topgolf.com/2026-09-22-TOPGOLF-TEAMS-UP-WITH-SPARK-GOLF-FOR-NEW-SOCIAL-LEAGUE",
-      "img": "",
-      "confirmed": false,
-      "recur": "Every Tuesday",
-      "days": [
-        "tue"
       ]
     },
     {
@@ -1977,26 +1898,6 @@
         "thu",
         "sat"
       ]
-    },
-    {
-      "id": "topgolf-spark-golf-social-league",
-      "title": "Topgolf × Spark Golf Social League",
-      "start": "2026-10-06",
-      "end": "2026-11-10",
-      "time": "5:30 PM",
-      "venue": "Topgolf (DFW locations)",
-      "city": "Multiple",
-      "area": "multi",
-      "cat": "fun",
-      "desc": "Six-week social 9-hole league in Topgolf bays using Toptracer virtual courses — casual competition, pick your weeks, $44 per player per round. Register through the Spark Golf app.",
-      "url": "https://press.topgolf.com/2026-09-22-TOPGOLF-TEAMS-UP-WITH-SPARK-GOLF-FOR-NEW-SOCIAL-LEAGUE",
-      "img": "",
-      "confirmed": true,
-      "recur": "Every Tuesday",
-      "days": [
-        "tue"
-      ],
-      "ends": "2026-11-10"
     }
   ],
   "tba": [
