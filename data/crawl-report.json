@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-11",
+ "checked": "2026-11-12",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -25,8 +25,8 @@
     "structured-data",
     "ical"
    ],
-   "found": 42,
-   "kept": 0,
+   "found": 44,
+   "kept": 1,
    "error": ""
   },
   {
@@ -42,8 +42,10 @@
   {
    "name": "The Bridges Golf Club",
    "url": "https://www.bridgestexasgolf.com/events-calendar",
-   "methods": [],
-   "found": 0,
+   "methods": [
+    "structured-data"
+   ],
+   "found": 3,
    "kept": 0,
    "error": ""
   },
@@ -307,7 +309,7 @@
     "events-calendar",
     "ical"
    ],
-   "found": 259,
+   "found": 260,
    "kept": 10,
    "error": ""
   },
