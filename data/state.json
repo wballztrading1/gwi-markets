@@ -372,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true,
    "touched": true
   },
@@ -394,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true,
    "touched": true
   },
@@ -416,7 +416,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true,
    "touched": true
   },
@@ -438,7 +438,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true,
    "touched": true
   },
@@ -482,7 +482,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true,
    "touched": true
   },
@@ -548,7 +548,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true,
    "touched": true
   },
@@ -680,7 +680,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true,
    "touched": true
   },
@@ -702,7 +702,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": false
   },
   "176dd91380": {
@@ -860,7 +860,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -883,7 +883,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -906,7 +906,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -929,7 +929,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true
   },
   "deaf85f3b5": {
@@ -950,7 +950,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": false
   },
   "9306a4262c": {
@@ -1017,7 +1017,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": false
   },
   "b2508b4fcf": {
@@ -1038,7 +1038,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-11",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": true
   },
   "98df7ec93e": {
@@ -1059,7 +1059,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-12",
-   "lastSeen": "2026-11-12",
+   "lastSeen": "2026-11-13",
    "shown": false,
    "imgTried": true
   }
