@@ -1,16 +1,9 @@
 {
  "checked": "2026-11-13",
- "total": 401,
+ "total": 400,
  "live": 400,
- "updated": 6,
- "hidden": [
-  {
-   "id": "bb595342",
-   "title": "Pinemeadow PGX SS Wedge - 56°",
-   "store": "Pinemeadow Golf",
-   "why": "now only 20% off"
-  }
- ],
+ "updated": 0,
+ "hidden": [],
  "unreadable": 82,
  "unclear": 43,
  "newGear": {
