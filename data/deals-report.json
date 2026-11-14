@@ -1,11 +1,30 @@
 {
- "checked": "2026-11-13",
+ "checked": "2026-11-14",
  "total": 400,
- "live": 400,
- "updated": 0,
- "hidden": [],
- "unreadable": 80,
- "unclear": 43,
+ "live": 397,
+ "updated": 5,
+ "hidden": [
+  {
+   "id": "0574a426",
+   "title": "Pinemeadow Excel EGI Hybrid Wedges (GW/SW/LW)",
+   "store": "Pinemeadow Golf",
+   "why": "now only 20% off"
+  },
+  {
+   "id": "61edb953",
+   "title": "Pinemeadow PGX Offset Driver",
+   "store": "Pinemeadow Golf",
+   "why": "sold out"
+  },
+  {
+   "id": "946442b8",
+   "title": "FootJoy Women's Premier Series Issette Golf Shoes",
+   "store": "TGW",
+   "why": "page removed"
+  }
+ ],
+ "unreadable": 63,
+ "unclear": 47,
  "newGear": {
   "total": 25,
   "live": 8,
