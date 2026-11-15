@@ -374,7 +374,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-11-14",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": true
   },
   "efa2bf7aef": {
    "id": "efa2bf7aef",
@@ -394,7 +395,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true
   },
@@ -416,7 +417,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true
   },
@@ -438,7 +439,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true
   },
@@ -482,7 +483,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true
   },
@@ -548,7 +549,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true
   },
@@ -680,7 +681,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true
   },
@@ -702,7 +703,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": false
   },
   "176dd91380": {
@@ -749,29 +750,6 @@
    "lastSeen": "2026-10-29",
    "shown": true,
    "imgTried": true,
-   "gone": true
-  },
-  "0dad016a63": {
-   "id": "0dad016a63",
-   "title": "Thirsty Thursday with Chaser Crouch",
-   "start": "2026-11-12",
-   "end": "",
-   "time": "6:00 PM",
-   "venue": "Rusted Rail Golf",
-   "city": "Celina",
-   "area": "north",
-   "cat": "fun",
-   "desc": "Chaser Crouch brings his country sound to Rusted Rail Bar & Grill on Thursday night. Happy Hour runs all day, so get there early and settle in.",
-   "url": "https://rustedrailgolf.com/event/thirsty-thursday-with-chaser-crouch/",
-   "img": "https://rustedrailgolf.com/wp-content/uploads/2026/10/11_12-Thirsty-Thursday.png",
-   "source": "Rusted Rail Golf Club",
-   "official": false,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-10-28",
-   "lastSeen": "2026-10-31",
-   "shown": true,
-   "touched": true,
    "gone": true
   },
   "2aa456bef3": {
@@ -864,7 +842,7 @@
    "shown": true,
    "touched": true,
    "imgTried": true,
-   "gone": true
+   "gone": false
   },
   "d4fb2fdf68": {
    "id": "d4fb2fdf68",
@@ -887,7 +865,8 @@
    "lastSeen": "2026-11-14",
    "shown": true,
    "touched": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": false
   },
   "b24d444ad8": {
    "id": "b24d444ad8",
@@ -910,7 +889,8 @@
    "lastSeen": "2026-11-14",
    "shown": true,
    "touched": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": false
   },
   "422c5127cf": {
    "id": "422c5127cf",
@@ -930,7 +910,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": true
   },
   "deaf85f3b5": {
@@ -951,7 +931,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": false
   },
   "9306a4262c": {
@@ -995,7 +975,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": true,
    "imgTried": true
   },
@@ -1017,7 +997,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": false
   },
   "b2508b4fcf": {
@@ -1038,7 +1018,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-11",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-15",
    "shown": true
   },
   "98df7ec93e": {
@@ -1061,7 +1041,134 @@
    "firstSeen": "2026-11-12",
    "lastSeen": "2026-11-14",
    "shown": false,
-   "imgTried": true
+   "imgTried": true,
+   "gone": false
+  },
+  "3f8ad7b58e": {
+   "id": "3f8ad7b58e",
+   "title": "FUNdamentals - Indoor Golf & Kickback",
+   "start": "2026-11-19",
+   "end": "",
+   "time": "",
+   "venue": "2-1-Fore Golf",
+   "city": "Richardson",
+   "area": "north",
+   "cat": "fun",
+   "desc": "New to golf? Learn the basics in a safe, fun, and judgment-free environment. Experienced golfer? Join the kickback and play the sims!",
+   "url": "https://www.eventbrite.com/e/fundamentals-indoor-golf-kickback-tickets-2004467349802",
+   "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197401611%2F2995444214027%2F1%2Foriginal.20261106-030303?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.493&fp-y=0.87&s=80e3816e7c198f5d0ee17bcb6e0046a8",
+   "source": "Eventbrite (Dallas golf)",
+   "official": false,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-15",
+   "lastSeen": "2026-11-15",
+   "shown": false
+  },
+  "adf0046508": {
+   "id": "adf0046508",
+   "title": "FriendsGOLFING",
+   "start": "2026-11-25",
+   "end": "",
+   "time": "",
+   "venue": "Brookhaven Country Club",
+   "city": "Farmers Branch",
+   "area": "dallas",
+   "cat": "fun",
+   "desc": "FriendsGOLFING is here!! Join Fore The Vibes for glow golf, food, and community. Come with friends or come ready to meet some.",
+   "url": "https://www.eventbrite.com/e/friendsgolfing-tickets-2004467634654",
+   "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197403013%2F2995444214027%2F1%2Foriginal.20261106-033251?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=df4911bde23491d236da611701ecd26c",
+   "source": "Eventbrite (Dallas golf)",
+   "official": false,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-15",
+   "lastSeen": "2026-11-15",
+   "shown": false
+  },
+  "d7a2ea54c7": {
+   "id": "d7a2ea54c7",
+   "title": "Drive for Heroes Charity Golf Tournament | Benefiting Boot Campaign",
+   "start": "2026-11-30",
+   "end": "",
+   "time": "",
+   "venue": "Brookhaven Country Club, Golfing Green Drive, Farmers Branch, TX, USA",
+   "city": "Farmers Branch",
+   "area": "dallas",
+   "cat": "scramble",
+   "desc": "Tee it up for a great cause! Help us fill the box for Boot Campaign’s Seasons of Service.",
+   "url": "https://www.eventbrite.com/e/drive-for-heroes-charity-golf-tournament-benefiting-boot-campaign-tickets-2004432826542",
+   "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197350815%2F1971698124253%2F1%2Foriginal.20261105-152624?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.48&fp-y=0.06&s=14064d5b7065f98f20bb055da664b217",
+   "source": "Eventbrite (Dallas golf)",
+   "official": false,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-15",
+   "lastSeen": "2026-11-15",
+   "shown": false
+  },
+  "d202eaf0e5": {
+   "id": "d202eaf0e5",
+   "title": "Wine & Wedges: Ladies’ Night at 5 Iron Golf DFW",
+   "start": "2026-11-18",
+   "end": "",
+   "time": "",
+   "venue": "824 W Daggett Ave",
+   "city": "Fort Worth",
+   "area": "fortworth",
+   "cat": "fun",
+   "desc": "Sip, snack, and sharpen your short game! Wedge coaching, charcuterie, wine, and a Closest to the Pin challenge. All levels welcome.",
+   "url": "https://www.eventbrite.com/e/wine-wedges-ladies-night-at-5-iron-golf-dfw-tickets-2004655574788",
+   "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197682278%2F2999451409407%2F1%2Foriginal.20261110-143153?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=345cc16b5093bb3e02ca963b98db8872",
+   "source": "Eventbrite (Dallas golf)",
+   "official": false,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-15",
+   "lastSeen": "2026-11-15",
+   "shown": false
+  },
+  "74f4345b3e": {
+   "id": "74f4345b3e",
+   "title": "2027 Cigars International Annual Golf Tournament & After-Party",
+   "start": "2027-06-07",
+   "end": "",
+   "time": "",
+   "venue": "Cigars International Superstore",
+   "city": "The Colony",
+   "area": "north",
+   "cat": "scramble",
+   "desc": "Monday, June 7, 2027 | 10:00 AM Tee-Off The Lakes at Castle Hills | Lewisville, Texas Great Golf. Premium Cigars. Good Company.",
+   "url": "https://www.eventbrite.com/e/2027-cigars-international-annual-golf-tournament-after-party-tickets-2004390841965",
+   "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197288701%2F3004078050767%2F1%2Foriginal.20261104-194719?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a69c3890670bf6b9f6f3c6c1e427f600",
+   "source": "Eventbrite (Dallas golf)",
+   "official": false,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-15",
+   "lastSeen": "2026-11-15",
+   "shown": false
+  },
+  "6b279a12c3": {
+   "id": "6b279a12c3",
+   "title": "Realtor Indoor Golf Open & Networking by Premier Partners",
+   "start": "2026-11-17",
+   "end": "",
+   "time": "",
+   "venue": "X-Golf Frisco",
+   "city": "Frisco",
+   "area": "north",
+   "cat": "scramble",
+   "desc": "DFW real estate agents are invited to X-Golf Frisco for an evening of indoor golf, drinks, and professional networking.",
+   "url": "https://www.eventbrite.com/e/realtor-indoor-golf-open-networking-by-premier-partners-tickets-2003741383417",
+   "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196310359%2F91831515141%2F1%2Foriginal.20261021-200731?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495&fp-y=0.113&s=dc6ce46fb41a91fc3cd82e6a3fd0cf61",
+   "source": "Eventbrite (Dallas golf)",
+   "official": false,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-15",
+   "lastSeen": "2026-11-15",
+   "shown": false
   }
  },
  "superseded": []
