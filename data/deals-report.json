@@ -1,10 +1,17 @@
 {
  "checked": "2026-11-16",
  "total": 415,
- "live": 415,
+ "live": 414,
  "updated": 0,
- "hidden": [],
- "unreadable": 88,
+ "hidden": [
+  {
+   "id": "44eb97f0",
+   "title": "J.Lindeberg Vent 500 Spikeless Golf Shoes",
+   "store": "Worldwide Golf Shops",
+   "why": "page removed"
+  }
+ ],
+ "unreadable": 87,
  "unclear": 46,
  "newGear": {
   "total": 27,
