@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-16",
   "region": "Dallas–Fort Worth",
   "events": [
     {
@@ -31,141 +31,6 @@
       "url": "https://xgolffrisco.com/events/x-cup-texas-tournament/",
       "img": "",
       "confirmed": true
-    },
-    {
-      "id": "13u-pga-jr-league-championship",
-      "title": "13u PGA Jr. League Championship",
-      "start": "2026-11-11",
-      "end": "2026-11-15",
-      "time": "",
-      "venue": "Fields Ranch West, PGA Frisco",
-      "city": "Frisco",
-      "area": "north",
-      "cat": "junior",
-      "desc": "Twelve 13u All-Star teams from across the country vie for the PGA Jr. League Championship at PGA Frisco's Fields Ranch West.",
-      "url": "https://www.pgajrleague.com/junior-league-events/pga-jr-league-championship/",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "iapd-southern-charitable-golf-tournament",
-      "title": "IAPD Southern Charitable Golf Tournament",
-      "start": "2026-11-12",
-      "end": "",
-      "time": "",
-      "venue": "Grapevine Golf Course",
-      "city": "Grapevine",
-      "area": "mid",
-      "cat": "scramble",
-      "desc": "The fifth annual IAPD Southern Charitable Golf Tournament at Grapevine Golf Course, played with peers from the performance plastics industry. $275 for IAPD members and $375 for nonmembers; proceeds fund the IAPD Charitable Foundation's scholarship program.",
-      "url": "https://www.iapd.org/IAPD/IAPD/Events/Golf/Southern/Southern-Golf.aspx",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "burleson-professional-firefighters-golf-tournament-2026",
-      "title": "Burleson Professional Firefighters Golf Tournament 2026",
-      "start": "2026-11-13",
-      "end": "",
-      "time": "8:00 AM shotgun",
-      "venue": "Hidden Creek Golf Course",
-      "city": "Burleson",
-      "area": "fortworth",
-      "cat": "scramble",
-      "desc": "Firefighters' charity tournament in Burleson. $125 per player or $500 per team.",
-      "url": "https://www.linkscoachgolf.com/tournaments",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "do-it-for-durrett-birdies-boots",
-      "title": "Do It For Durrett — Birdies & Boots (12th Annual)",
-      "start": "2026-11-13",
-      "end": "",
-      "time": "9:00 AM",
-      "venue": "Grapevine Golf Course",
-      "city": "Grapevine",
-      "area": "mid",
-      "cat": "scramble",
-      "desc": "Four-man scramble with on-course games, followed by an evening celebration at Texas Live! in Arlington with a live auction and Randall King. The foundation has raised over $3 million for DFW families facing sudden loss.",
-      "url": "https://www.eventbrite.com/e/do-it-for-durrett-birdies-boots-tickets-1994512075308",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "murphy-chamber-golf-tournament",
-      "title": "Murphy Chamber Golf Tournament",
-      "start": "2026-11-13",
-      "end": "",
-      "time": "8:00 AM tee off (7:00 AM registration)",
-      "venue": "Firewheel Golf Park — The Bridges Course",
-      "city": "Garland",
-      "area": "east",
-      "cat": "scramble",
-      "desc": "The Murphy Chamber of Commerce's inaugural scramble at Firewheel's Bridges Course in Garland, capped at 144 golfers. Registration opens at 7:00 AM with breakfast and an open driving range; lunch follows the round.",
-      "url": "https://www.murphychamber.org/event/murphy-chamber-golf-tournament-451/register",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "taylormade-fitting-day-2",
-      "title": "TaylorMade Fitting Day 2",
-      "start": "2026-11-13",
-      "end": "",
-      "time": "10:00 AM - 2:00 PM",
-      "venue": "Iron Horse Golf Course",
-      "city": "North Richland Hills",
-      "area": "mid",
-      "cat": "expo",
-      "desc": "A second TaylorMade club-fitting day at Iron Horse. Book it through the TaylorMade fitting-experience link on the event page.",
-      "url": "https://ironhorsetx.com/event/taylormade-fitting-day/",
-      "img": "https://ironhorsetx.com/wp-content/uploads/sites/8/2026/08/Nov-Fitting-791x1024.png",
-      "confirmed": true
-    },
-    {
-      "id": "dallas-showcase-sherrill-park-tjgt",
-      "title": "Dallas Showcase @ Sherrill Park (TJGT)",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "time": "",
-      "venue": "Sherrill Park Golf Course - Course Two",
-      "city": "Richardson",
-      "area": "north",
-      "cat": "junior",
-      "desc": "Texas Junior Golf Tour Open Series junior tournament; registration closes Nov 13, 2026 on the tour page.",
-      "url": "https://tournaments.tjgt.com/",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "sigep-texas-kappa-40th-annual-golf-tournament",
-      "title": "SigEp Texas Kappa 40th Annual Golf Tournament",
-      "start": "2026-11-14",
-      "end": "",
-      "time": "2:00 PM shotgun",
-      "venue": "Iron Horse Golf Course",
-      "city": "North Richland Hills",
-      "area": "mid",
-      "cat": "scramble",
-      "desc": "Sigma Phi Epsilon's Texas Kappa chapter (UT Arlington) hosts its 40th annual four-person scramble at Iron Horse, funding leadership development programs and scholarships. $135 per golfer or $400 per foursome, including greens fee, cart and a post-tournament reception and dinner.",
-      "url": "https://sigeptxkappa.com/golf-tournament.html",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "visit-from-the-creature-teacher",
-      "title": "Visit from The Creature Teacher",
-      "start": "2026-11-14",
-      "end": "",
-      "time": "10:30 AM - 11:30 AM",
-      "venue": "The PGA District, PGA Frisco",
-      "city": "Frisco",
-      "area": "north",
-      "cat": "junior",
-      "desc": "Family and kids animal presentation at The PGA District.",
-      "url": "https://www.pgafrisco.com/",
-      "img": "",
-      "confirmed": false
     },
     {
       "id": "fpoa-charity-golf-tournament",
@@ -292,15 +157,30 @@
       "title": "Turkey Scramble",
       "start": "2026-11-22",
       "end": "",
-      "time": "6:00 PM",
+      "time": "6:00 PM shotgun",
       "venue": "Five Iron Golf DFW",
       "city": "Fort Worth",
       "area": "fortworth",
       "cat": "scramble",
-      "desc": "Thanksgiving-weekend scramble at Five Iron Golf's Fort Worth simulator lounge: teams play a scramble on TrackMan bays. From $88.64 per person.",
-      "url": "https://www.eventbrite.com/d/tx--fort-worth/golf-scramble/",
+      "desc": "Thanksgiving-weekend 2-man scramble at Five Iron Golf's Fort Worth simulator lounge: 24 teams, 6:00 PM shotgun, $75 per player for members and $100 for non-members, full meal included, with $600/$400/$200 cash prizes and a mega raffle.",
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0mwJDcivwvnmYefcjjpH8pFrBGgR1GH5CiWu5RaUwMxzWbyUUzaC5ftscYQPB7fpAl&id=61583907320092",
       "img": "",
-      "confirmed": false
+      "confirmed": true
+    },
+    {
+      "id": "thanksgiving-scramble-cowboys-golf-club",
+      "title": "Thanksgiving Scramble at Cowboys Golf Club",
+      "start": "2026-11-22",
+      "end": "",
+      "time": "8:00 AM shotgun",
+      "venue": "Cowboys Golf Club",
+      "city": "Grapevine",
+      "area": "mid",
+      "cat": "scramble",
+      "desc": "Thanksgiving-weekend 4-person scramble at Cowboys Golf Club: $199.99 per person plus tax, including breakfast, lunch and a Thanksgiving feast lunch, plus raffle prizes, closest-to-the-pin and longest-drive contests, and a best-dressed turkey costume contest. Field capped at 36 teams of four.",
+      "url": "https://www.golfgenius.com/leagues/564905/widgets/open_registration?shared=false",
+      "img": "",
+      "confirmed": true
     },
     {
       "id": "23rd-annual-turkey-shootout",
@@ -420,7 +300,7 @@
       "desc": "Third annual outdoor holiday night market in the PGA District, with vendors selling food goods, candles, antiques and gifts.",
       "url": "https://www.eventeny.com/events/2026-dashing-through-the-district-holiday-night-market-at-pga-frisco-34689/",
       "img": "",
-      "confirmed": false
+      "confirmed": true
     },
     {
       "id": "pgc-27-golf-tournament",
@@ -554,6 +434,21 @@
       "cat": "scramble",
       "desc": "Invited's annual Charity Classic opens the private TPC Craig Ranch course to public golfers for one day, benefiting Cornerstone Ranch and the Invited Employee Care Foundation. The event has raised more than $263,000 in recent years for those two causes.",
       "url": "https://www.visitmckinney.com/events/tpc-craig-ranch-charity-classic-2026-aw74ss7s",
+      "img": "",
+      "confirmed": true
+    },
+    {
+      "id": "tangle-ridge-holiday-classic-us-am-tour",
+      "title": "Tangle Ridge Holiday Classic (U.S. AM Tour)",
+      "start": "2026-12-13",
+      "end": "",
+      "time": "",
+      "venue": "Tangle Ridge Golf Club",
+      "city": "Grand Prairie",
+      "area": "mid",
+      "cat": "competition",
+      "desc": "U.S. AM Tour DFW amateur tournament at Tangle Ridge Golf Club in Grand Prairie, part of the tour's 2027 DFW season. Play, compete and earn points.",
+      "url": "https://www.facebook.com/reel/1730765451372525/",
       "img": "",
       "confirmed": true
     },
@@ -1373,26 +1268,6 @@
       "recur": "Every Monday (in season)",
       "days": [
         "mon"
-      ]
-    },
-    {
-      "id": "five-iron-golf-fall-league-2026",
-      "title": "Five Iron Golf Fall League 2026",
-      "start": "2026-09-14",
-      "end": "",
-      "time": "Mon or Tue, 6/8 PM or 7/9 PM tee times",
-      "venue": "Five Iron Golf Near Southside",
-      "city": "Fort Worth",
-      "area": "fortworth",
-      "cat": "league",
-      "desc": "Five Iron's fall simulator league. The chain lists entry at about $25-$50 per player per week and a team fee of $800-$1,600, depending on location. The page does not break out Fort Worth pricing.",
-      "url": "https://fiveirongolf.com/leagues",
-      "img": "",
-      "confirmed": false,
-      "recur": "Weekly (Mon/Tue)",
-      "days": [
-        "mon",
-        "tue"
       ]
     },
     {
