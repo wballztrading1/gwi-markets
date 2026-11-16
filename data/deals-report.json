@@ -1,35 +1,29 @@
 {
- "checked": "2026-11-15",
- "total": 400,
- "live": 397,
- "updated": 1,
+ "checked": "2026-11-16",
+ "total": 417,
+ "live": 415,
+ "updated": 10,
  "hidden": [
   {
-   "id": "0574a426",
-   "title": "Pinemeadow Excel EGI Hybrid Wedges (GW/SW/LW)",
+   "id": "61edb953",
+   "title": "Pinemeadow PGX Offset Driver",
    "store": "Pinemeadow Golf",
-   "why": "now only 20% off"
+   "why": "sold out"
   },
   {
-   "id": "946442b8",
-   "title": "FootJoy Women's Premier Series Issette Golf Shoes",
+   "id": "0dfdb3f1",
+   "title": "TaylorMade 2023 P790 Irons",
    "store": "TGW",
-   "why": "page removed"
-  },
-  {
-   "id": "e4fd9f7d",
-   "title": "Bridgestone 2024 Tour B X White Golf Balls",
-   "store": "Golf Discount",
    "why": "sold out"
   }
  ],
- "unreadable": 80,
- "unclear": 43,
+ "unreadable": 93,
+ "unclear": 46,
  "newGear": {
-  "total": 25,
-  "live": 8,
+  "total": 27,
+  "live": 10,
   "expired": 17,
   "hidden": []
  },
- "upcoming": 29
+ "upcoming": 31
 }
