@@ -373,7 +373,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": true,
    "touched": true
   },
@@ -395,7 +395,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": true,
    "touched": true
   },
@@ -417,7 +417,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": true,
    "touched": true
   },
@@ -439,7 +439,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": true,
    "touched": true
   },
@@ -505,7 +505,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": true,
    "touched": true
   },
@@ -637,7 +637,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": true,
    "touched": true
   },
@@ -659,7 +659,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": false
   },
   "176dd91380": {
@@ -798,7 +798,7 @@
    "shown": true,
    "touched": true,
    "imgTried": true,
-   "gone": false
+   "gone": true
   },
   "b24d444ad8": {
    "id": "b24d444ad8",
@@ -818,11 +818,10 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-16",
    "shown": true,
    "touched": true,
-   "imgTried": true,
-   "gone": false
+   "imgTried": true
   },
   "422c5127cf": {
    "id": "422c5127cf",
@@ -842,7 +841,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": true
   },
   "deaf85f3b5": {
@@ -863,7 +862,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": false
   },
   "9306a4262c": {
@@ -907,7 +906,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": true,
    "imgTried": true
   },
@@ -929,7 +928,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": false
   },
   "b2508b4fcf": {
@@ -950,7 +949,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-11",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-16",
    "shown": true
   },
   "98df7ec93e": {
@@ -971,11 +970,10 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-12",
-   "lastSeen": "2026-11-14",
+   "lastSeen": "2026-11-16",
    "shown": true,
-   "imgTried": true,
-   "gone": false,
-   "touched": true
+   "touched": true,
+   "imgTried": true
   },
   "3f8ad7b58e": {
    "id": "3f8ad7b58e",
@@ -997,7 +995,8 @@
    "firstSeen": "2026-11-15",
    "lastSeen": "2026-11-15",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "adf0046508": {
    "id": "adf0046508",
@@ -1019,7 +1018,8 @@
    "firstSeen": "2026-11-15",
    "lastSeen": "2026-11-15",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "d7a2ea54c7": {
    "id": "d7a2ea54c7",
@@ -1041,7 +1041,8 @@
    "firstSeen": "2026-11-15",
    "lastSeen": "2026-11-15",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "d202eaf0e5": {
    "id": "d202eaf0e5",
@@ -1063,7 +1064,8 @@
    "firstSeen": "2026-11-15",
    "lastSeen": "2026-11-15",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "74f4345b3e": {
    "id": "74f4345b3e",
@@ -1085,7 +1087,8 @@
    "firstSeen": "2026-11-15",
    "lastSeen": "2026-11-15",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "6b279a12c3": {
    "id": "6b279a12c3",
@@ -1107,8 +1110,99 @@
    "firstSeen": "2026-11-15",
    "lastSeen": "2026-11-15",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
+  },
+  "cc9c688a78": {
+   "id": "cc9c688a78",
+   "title": "Cars & Brunch",
+   "start": "2026-11-16",
+   "end": "",
+   "time": "9:00 AM",
+   "venue": "The Bridges Golf Club",
+   "city": "Gunter",
+   "area": "north",
+   "cat": "fun",
+   "desc": "Join us for a morning of unique cars and a chance to try our breakfast menu! Interested in showcasing your car? Register at the link below. Cars & Brunch – The Bridges Golf Club",
+   "url": "https://www.bridgestexasgolf.com/event/cars-brunch/",
+   "img": "",
+   "source": "The Bridges Golf Club",
+   "official": false,
+   "how": "events-calendar",
+   "confirmed": true,
+   "firstSeen": "2026-11-16",
+   "lastSeen": "2026-11-16",
+   "shown": false,
+   "imgTried": true
+  },
+  "4f274a1f2f": {
+   "id": "4f274a1f2f",
+   "title": "Turkey Shootout",
+   "start": "2026-11-21",
+   "end": "",
+   "time": "8:30 AM",
+   "venue": "The Bridges Golf Club",
+   "city": "Gunter",
+   "area": "north",
+   "cat": "scramble",
+   "desc": "⛳ Format: 2 Best Balls Foursome 🕣 Start Time: 8:30 AM Shotgun 💲Non-Member Greens Fee: $69 💲 Entry Fee: $20 per player 🥫 Canned Goods Drive: Bring canned goods to help give back to our community this Thanksgiving!",
+   "url": "https://www.bridgestexasgolf.com/event/turkey-shootout/",
+   "img": "",
+   "source": "The Bridges Golf Club",
+   "official": true,
+   "how": "events-calendar",
+   "confirmed": true,
+   "firstSeen": "2026-11-16",
+   "lastSeen": "2026-11-16",
+   "shown": true,
+   "imgTried": true
+  },
+  "476ead72b9": {
+   "id": "476ead72b9",
+   "title": "Thanksgiving Day Shotgun",
+   "start": "2026-11-26",
+   "end": "",
+   "time": "8:30 AM",
+   "venue": "The Bridges Golf Club",
+   "city": "Gunter",
+   "area": "north",
+   "cat": "scramble",
+   "desc": "Event Details 📅 Thanksgiving Day ⏰ 8:30 AM Shotgun Start Booking Information This is a casual shotgun, not a tournament. Reservations must be made by calling the golf shop. Online booking will not be available. Members get early access to book before the…",
+   "url": "https://www.bridgestexasgolf.com/event/thanksgiving-day-shotgun/",
+   "img": "",
+   "source": "The Bridges Golf Club",
+   "official": false,
+   "how": "events-calendar",
+   "confirmed": true,
+   "firstSeen": "2026-11-16",
+   "lastSeen": "2026-11-16",
+   "shown": false,
+   "imgTried": true
+  },
+  "fee588d488": {
+   "id": "fee588d488",
+   "title": "Pictures with Santa",
+   "start": "2026-12-10",
+   "end": "",
+   "time": "5:00 PM",
+   "venue": "The Bridges Golf Club",
+   "city": "Gunter",
+   "area": "north",
+   "cat": "fun",
+   "desc": "Event details coming soon",
+   "url": "https://www.bridgestexasgolf.com/event/pictures-with-santa/",
+   "img": "",
+   "source": "The Bridges Golf Club",
+   "official": true,
+   "how": "events-calendar",
+   "confirmed": true,
+   "firstSeen": "2026-11-16",
+   "lastSeen": "2026-11-16",
+   "shown": true,
+   "imgTried": true
   }
  },
- "superseded": []
+ "superseded": [
+  "23rd-annual-turkey-shootout"
+ ]
 }
