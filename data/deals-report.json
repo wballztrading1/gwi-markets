@@ -1,17 +1,29 @@
 {
- "checked": "2026-11-16",
+ "checked": "2026-11-17",
  "total": 415,
- "live": 414,
- "updated": 0,
+ "live": 412,
+ "updated": 4,
  "hidden": [
+  {
+   "id": "6881d19a",
+   "title": "NIKE Men's Tour 5pkt Slim Golf Pants",
+   "store": "TGW",
+   "why": "sold out"
+  },
   {
    "id": "44eb97f0",
    "title": "J.Lindeberg Vent 500 Spikeless Golf Shoes",
    "store": "Worldwide Golf Shops",
    "why": "page removed"
+  },
+  {
+   "id": "f26b87bb",
+   "title": "Bridgestone 2024 Tour B XS White Golf Balls",
+   "store": "Golf Discount",
+   "why": "sold out"
   }
  ],
- "unreadable": 87,
+ "unreadable": 85,
  "unclear": 46,
  "newGear": {
   "total": 27,
