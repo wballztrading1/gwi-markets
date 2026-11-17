@@ -332,29 +332,6 @@
    "shown": true,
    "gone": true
   },
-  "97f637d25f": {
-   "id": "97f637d25f",
-   "title": "Eaton Sapphires Tournament",
-   "start": "2026-11-14",
-   "end": "",
-   "time": "8:00 AM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "scramble",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": false,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-14",
-   "shown": true,
-   "touched": true,
-   "gone": true
-  },
   "efa2bf7aef": {
    "id": "efa2bf7aef",
    "title": "G4 Golf Event",
@@ -373,7 +350,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": true,
    "touched": true
   },
@@ -395,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": true,
    "touched": true
   },
@@ -404,7 +381,7 @@
    "title": "Toys for Tots Scramble",
    "start": "2026-12-12",
    "end": "",
-   "time": "12:00 PM",
+   "time": "10:00 AM",
    "venue": "The Resort Golf Club",
    "city": "Fort Worth",
    "area": "fortworth",
@@ -417,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": true,
    "touched": true
   },
@@ -439,7 +416,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": true,
    "touched": true
   },
@@ -505,7 +482,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": true,
    "touched": true
   },
@@ -637,7 +614,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": true,
    "touched": true
   },
@@ -659,31 +636,8 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": false
-  },
-  "176dd91380": {
-   "id": "176dd91380",
-   "title": "Lakeside Cup",
-   "start": "2026-11-14",
-   "end": "",
-   "time": "",
-   "venue": "Grapevine Golf Course",
-   "city": "Grapevine",
-   "area": "mid",
-   "cat": "scramble",
-   "desc": "@ 10:00 am Tee Times, 48 Players Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
-   "url": "https://grapevinegc.com/event/lakeside-cup-2/",
-   "img": "",
-   "source": "Grapevine Golf Course",
-   "official": true,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-10-25",
-   "lastSeen": "2026-10-29",
-   "shown": true,
-   "imgTried": true,
-   "gone": true
   },
   "48c3720444": {
    "id": "48c3720444",
@@ -818,7 +772,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -841,7 +795,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": true
   },
   "deaf85f3b5": {
@@ -862,7 +816,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": false
   },
   "9306a4262c": {
@@ -893,20 +847,20 @@
    "title": "Christmas Day",
    "start": "2026-12-25",
    "end": "",
-   "time": "",
+   "time": "12:00 AM",
    "venue": "Grapevine Golf Course",
    "city": "Grapevine",
    "area": "mid",
    "cat": "fun",
-   "desc": "@ Practice Facilities and Golf Course Closed All Day Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
+   "desc": "Practice Facilities and Golf Course Closed All Day",
    "url": "https://grapevinegc.com/event/christmas-day/",
    "img": "",
    "source": "Grapevine Golf Course",
    "official": true,
-   "how": "events-calendar",
+   "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": true,
    "imgTried": true
   },
@@ -928,7 +882,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": false
   },
   "b2508b4fcf": {
@@ -949,7 +903,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-11",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": true
   },
   "98df7ec93e": {
@@ -970,7 +924,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-12",
-   "lastSeen": "2026-11-16",
+   "lastSeen": "2026-11-17",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -1133,7 +1087,8 @@
    "firstSeen": "2026-11-16",
    "lastSeen": "2026-11-16",
    "shown": false,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "4f274a1f2f": {
    "id": "4f274a1f2f",
@@ -1155,7 +1110,8 @@
    "firstSeen": "2026-11-16",
    "lastSeen": "2026-11-16",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "476ead72b9": {
    "id": "476ead72b9",
@@ -1177,7 +1133,8 @@
    "firstSeen": "2026-11-16",
    "lastSeen": "2026-11-16",
    "shown": false,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "fee588d488": {
    "id": "fee588d488",
@@ -1199,10 +1156,53 @@
    "firstSeen": "2026-11-16",
    "lastSeen": "2026-11-16",
    "shown": true,
+   "imgTried": true,
+   "gone": true
+  },
+  "8a3aa3cb2e": {
+   "id": "8a3aa3cb2e",
+   "title": "End of Year 2-Man Event",
+   "start": "2026-12-04",
+   "end": "2026-12-05",
+   "time": "6:00 PM",
+   "venue": "Grapevine Golf Course",
+   "city": "Grapevine",
+   "area": "mid",
+   "cat": "fun",
+   "desc": "<p>9:00 am Shotgun, 156 Players</p>\\n",
+   "url": "https://grapevinegc.com/event/end-of-year-2-man-event/",
+   "img": "",
+   "source": "Grapevine Golf Course",
+   "official": false,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-17",
+   "lastSeen": "2026-11-17",
+   "shown": false,
+   "imgTried": true
+  },
+  "ae2377d091": {
+   "id": "ae2377d091",
+   "title": "End of Year 2-Man Event",
+   "start": "2026-12-05",
+   "end": "",
+   "time": "12:00 AM",
+   "venue": "Grapevine Golf Course",
+   "city": "Grapevine",
+   "area": "mid",
+   "cat": "fun",
+   "desc": "9:00 am Shotgun, 156 Players",
+   "url": "https://grapevinegc.com/event/end-of-year-2-man-event/",
+   "img": "",
+   "source": "Grapevine Golf Course",
+   "official": false,
+   "how": "ical",
+   "confirmed": true,
+   "firstSeen": "2026-11-17",
+   "lastSeen": "2026-11-17",
+   "shown": false,
    "imgTried": true
   }
  },
- "superseded": [
-  "23rd-annual-turkey-shootout"
- ]
+ "superseded": []
 }
