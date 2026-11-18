@@ -1,27 +1,14 @@
 {
  "checked": "2026-11-18",
- "total": 452,
- "live": 450,
+ "total": 458,
+ "live": 458,
  "updated": 0,
- "hidden": [
-  {
-   "id": "125efa4c",
-   "title": "Greg Norman Clubhouse 1/4 Zip Golf Pullover",
-   "store": "Carl's Golfland",
-   "why": "sold out"
-  },
-  {
-   "id": "8cdcf575",
-   "title": "Bushnell Wingman View GPS Speaker",
-   "store": "Carl's Golfland",
-   "why": "sold out"
-  }
- ],
- "unreadable": 86,
- "unclear": 46,
+ "hidden": [],
+ "unreadable": 89,
+ "unclear": 45,
  "newGear": {
-  "total": 27,
-  "live": 9,
+  "total": 31,
+  "live": 13,
   "expired": 17,
   "hidden": [
    {

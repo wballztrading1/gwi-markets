@@ -37129,10 +37129,6 @@
     [
      "2026-11-17",
      449.99
-    ],
-    [
-     "2026-11-18",
-     449.99
     ]
    ],
    "first": "2026-11-11"
@@ -39263,6 +39259,132 @@
     ]
    ],
    "first": "2026-11-18"
+  },
+  "7dc95fc7": {
+   "price": 449.99,
+   "listed": 449.99,
+   "verified": "2026-11-18",
+   "inStock": true,
+   "why": "",
+   "hist": [
+    [
+     "2026-11-18",
+     449.99
+    ]
+   ],
+   "first": "2026-11-18"
+  },
+  "d1ccbb9d": {
+   "price": 449.99,
+   "listed": 449.99,
+   "verified": "2026-11-18",
+   "inStock": true,
+   "why": "",
+   "hist": [
+    [
+     "2026-11-18",
+     449.99
+    ]
+   ],
+   "first": "2026-11-18"
+  },
+  "b52d15cd": {
+   "price": 449.99,
+   "listed": 449.99,
+   "verified": "2026-11-18",
+   "inStock": true,
+   "why": "",
+   "hist": [
+    [
+     "2026-11-18",
+     449.99
+    ]
+   ],
+   "first": "2026-11-18"
+  },
+  "135e1048": {
+   "price": 149.99,
+   "listed": 149.99,
+   "verified": "2026-11-18",
+   "inStock": true,
+   "why": "",
+   "hist": [],
+   "first": "2026-11-18"
+  },
+  "7744ed83": {
+   "price": 149.99,
+   "listed": 149.99,
+   "verified": "2026-11-18",
+   "inStock": true,
+   "why": "",
+   "hist": [],
+   "first": "2026-11-18"
+  },
+  "cc6a3ad1": {
+   "price": 199.99,
+   "listed": 199.99,
+   "verified": "2026-11-18",
+   "inStock": true,
+   "why": "",
+   "hist": [
+    [
+     "2026-11-18",
+     199.99
+    ]
+   ],
+   "first": "2026-11-18"
+  },
+  "cb955062": {
+   "price": 199.99,
+   "listed": 199.99,
+   "verified": "2026-11-18",
+   "inStock": true,
+   "why": "",
+   "hist": [
+    [
+     "2026-11-18",
+     199.99
+    ]
+   ],
+   "first": "2026-11-18"
+  },
+  "94546b3f": {
+   "price": 199.99,
+   "listed": 199.99,
+   "verified": "2026-11-18",
+   "inStock": true,
+   "why": "",
+   "hist": [
+    [
+     "2026-11-18",
+     199.99
+    ]
+   ],
+   "first": "2026-11-18"
+  },
+  "rel:tgw.com/p/ping-2027-hoofer-max-golf-stand-bag/-/yt0zmdmwmdu3": {
+   "first": "2026-11-18",
+   "price": 263.5,
+   "why": "",
+   "checked": "2026-11-18"
+  },
+  "rel:skechers.com/skechers-slip-ins-golf-waterproof-rival-2/214159.html": {
+   "first": "2026-11-18",
+   "price": 120,
+   "why": "",
+   "checked": "2026-11-18"
+  },
+  "rel:skechers.com/skechers-slip-ins-golf-haven/123162.html": {
+   "first": "2026-11-18",
+   "price": 105,
+   "why": "",
+   "checked": "2026-11-18"
+  },
+  "rel:bettinardi.com/products/evergreen-tourtone-bb1-fitz-flow-bb1-ff-limited-run-blade-putter": {
+   "first": "2026-11-18",
+   "price": 650,
+   "why": "",
+   "checked": "2026-11-18"
   }
  }
 }
