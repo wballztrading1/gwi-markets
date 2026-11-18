@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-17",
+ "checked": "2026-11-18",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -21,11 +21,12 @@
    "name": "Grapevine Golf Course",
    "url": "https://grapevinegc.com/events/",
    "methods": [
+    "events-calendar",
     "structured-data",
     "ical"
    ],
-   "found": 23,
-   "kept": 3,
+   "found": 24,
+   "kept": 0,
    "error": ""
   },
   {
@@ -158,7 +159,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 25,
+   "found": 31,
    "kept": 0,
    "error": ""
   },
@@ -309,9 +310,10 @@
    "name": "The Resort Golf Club",
    "url": "https://www.resortgolfclub.com/event-calendar/",
    "methods": [
+    "events-calendar",
     "ical"
    ],
-   "found": 201,
+   "found": 258,
    "kept": 9,
    "error": ""
   },
