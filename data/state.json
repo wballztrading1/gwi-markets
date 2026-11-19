@@ -817,7 +817,8 @@
    "firstSeen": "2026-11-08",
    "lastSeen": "2026-11-19",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "38f2cf17ce": {
    "id": "38f2cf17ce",
@@ -948,10 +949,9 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-15",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-19",
    "shown": true,
-   "touched": true,
-   "gone": true
+   "touched": true
   },
   "d202eaf0e5": {
    "id": "d202eaf0e5",
@@ -994,10 +994,9 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-15",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-19",
    "shown": true,
-   "touched": true,
-   "gone": true
+   "touched": true
   },
   "6b279a12c3": {
    "id": "6b279a12c3",
@@ -1136,6 +1135,27 @@
    "shown": false,
    "imgTried": true,
    "gone": true
+  },
+  "e11c780b7d": {
+   "id": "e11c780b7d",
+   "title": "FUNdamentals - Indoor Golf & Kickback",
+   "start": "2026-12-12",
+   "end": "",
+   "time": "",
+   "venue": "2-1-Fore Golf",
+   "city": "Richardson",
+   "area": "north",
+   "cat": "fun",
+   "desc": "New to golf? Learn the basics in a safe, fun, and judgment-free environment. Experienced golfer? Join the kickback and play the sims!",
+   "url": "https://www.eventbrite.com/e/fundamentals-indoor-golf-kickback-tickets-2004468040869",
+   "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197403555%2F2995444214027%2F1%2Foriginal.20261106-034720?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.481&fp-y=0.362&s=f2aa0348fb287d15543cf5c8ccbf356f",
+   "source": "Eventbrite (Dallas golf)",
+   "official": false,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-19",
+   "lastSeen": "2026-11-19",
+   "shown": false
   }
  },
  "superseded": []

@@ -25,8 +25,8 @@
     "structured-data",
     "ical"
    ],
-   "found": 29,
-   "kept": 1,
+   "found": 24,
+   "kept": 0,
    "error": ""
   },
   {
@@ -125,7 +125,7 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": "HTTP 403"
+   "error": ""
   },
   {
    "name": "Tenison Park Golf Course",
@@ -182,7 +182,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 43,
+   "found": 32,
    "kept": 0,
    "error": ""
   },
@@ -304,7 +304,7 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": "HTTP 403"
+   "error": ""
   },
   {
    "name": "The Resort Golf Club",
@@ -382,18 +382,22 @@
   {
    "name": "Eventbrite (Dallas golf)",
    "url": "https://www.eventbrite.com/d/tx--dallas/golf--events/",
-   "methods": [],
-   "found": 0,
-   "kept": 0,
-   "error": "HTTP 405"
+   "methods": [
+    "structured-data"
+   ],
+   "found": 6,
+   "kept": 4,
+   "error": ""
   },
   {
    "name": "Eventbrite (Fort Worth golf)",
    "url": "https://www.eventbrite.com/d/tx--fort-worth/golf--events/",
-   "methods": [],
-   "found": 0,
-   "kept": 0,
-   "error": "HTTP 405"
+   "methods": [
+    "structured-data"
+   ],
+   "found": 6,
+   "kept": 1,
+   "error": ""
   },
   {
    "name": "CharityGolfer (Dallas)",
