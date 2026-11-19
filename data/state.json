@@ -350,7 +350,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": true,
    "touched": true
   },
@@ -372,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": true,
    "touched": true
   },
@@ -394,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": true,
    "touched": true
   },
@@ -416,7 +416,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": true,
    "touched": true
   },
@@ -482,7 +482,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": true,
    "touched": true
   },
@@ -592,7 +592,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": true,
    "touched": true
   },
@@ -614,7 +614,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": false
   },
   "48c3720444": {
@@ -729,7 +729,8 @@
    "lastSeen": "2026-11-18",
    "shown": true,
    "touched": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "422c5127cf": {
    "id": "422c5127cf",
@@ -749,7 +750,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": true
   },
   "deaf85f3b5": {
@@ -770,7 +771,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": false
   },
   "9306a4262c": {
@@ -801,23 +802,22 @@
    "title": "Christmas Day",
    "start": "2026-12-25",
    "end": "",
-   "time": "12:00 AM",
+   "time": "",
    "venue": "Grapevine Golf Course",
    "city": "Grapevine",
    "area": "mid",
    "cat": "fun",
-   "desc": "Practice Facilities and Golf Course Closed All Day",
+   "desc": "@ Practice Facilities and Golf Course Closed All Day Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
    "url": "https://grapevinegc.com/event/christmas-day/",
    "img": "",
    "source": "Grapevine Golf Course",
    "official": true,
-   "how": "ical",
+   "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-17",
+   "lastSeen": "2026-11-19",
    "shown": true,
-   "imgTried": true,
-   "gone": true
+   "imgTried": true
   },
   "38f2cf17ce": {
    "id": "38f2cf17ce",
@@ -837,7 +837,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": false
   },
   "b2508b4fcf": {
@@ -858,7 +858,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-11",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": true
   },
   "98df7ec93e": {
@@ -879,7 +879,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-12",
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-19",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -905,7 +905,7 @@
    "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true,
-   "gone": false
+   "gone": true
   },
   "adf0046508": {
    "id": "adf0046508",
@@ -928,7 +928,7 @@
    "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true,
-   "gone": false
+   "gone": true
   },
   "d7a2ea54c7": {
    "id": "d7a2ea54c7",
@@ -951,7 +951,7 @@
    "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true,
-   "gone": false
+   "gone": true
   },
   "d202eaf0e5": {
    "id": "d202eaf0e5",
@@ -974,7 +974,7 @@
    "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true,
-   "gone": false
+   "gone": true
   },
   "74f4345b3e": {
    "id": "74f4345b3e",
@@ -997,7 +997,7 @@
    "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true,
-   "gone": false
+   "gone": true
   },
   "6b279a12c3": {
    "id": "6b279a12c3",
@@ -1020,29 +1020,6 @@
    "lastSeen": "2026-11-15",
    "shown": true,
    "touched": true,
-   "gone": false
-  },
-  "cc9c688a78": {
-   "id": "cc9c688a78",
-   "title": "Cars & Brunch",
-   "start": "2026-11-16",
-   "end": "",
-   "time": "9:00 AM",
-   "venue": "The Bridges Golf Club",
-   "city": "Gunter",
-   "area": "north",
-   "cat": "fun",
-   "desc": "Join us for a morning of unique cars and a chance to try our breakfast menu! Interested in showcasing your car? Register at the link below. Cars & Brunch – The Bridges Golf Club",
-   "url": "https://www.bridgestexasgolf.com/event/cars-brunch/",
-   "img": "",
-   "source": "The Bridges Golf Club",
-   "official": false,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-11-16",
-   "lastSeen": "2026-11-16",
-   "shown": false,
-   "imgTried": true,
    "gone": true
   },
   "4f274a1f2f": {
