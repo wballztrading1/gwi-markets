@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-19",
   "region": "Dallas–Fort Worth",
   "events": [
     {
@@ -18,36 +18,6 @@
       "confirmed": true
     },
     {
-      "id": "x-cup-texas-tournament-final-round",
-      "title": "X-Cup Texas Tournament — Final Round",
-      "start": "2026-11-03",
-      "end": "2026-11-17",
-      "time": "Play anytime during the window",
-      "venue": "X-Golf Frisco",
-      "city": "Frisco",
-      "area": "north",
-      "cat": "competition",
-      "desc": "Statewide X-Golf simulator tournament: the Final Round is 18 holes on Hazeltine National, combined with each player's best Competition Round score for a 36-hole total, in gross and net flights. No entry fee beyond the normal bay rate; play through the X-Golf app. Open to X-Golf customers 21 and up; prizes include Snell golf balls and a Lajitas Golf Resort trip for flight winners.",
-      "url": "https://xgolffrisco.com/events/x-cup-texas-tournament/",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "fpoa-charity-golf-tournament",
-      "title": "FPOA Charity Golf Tournament",
-      "start": "2026-11-16",
-      "end": "",
-      "time": "11:00 AM",
-      "venue": "Stonebriar Country Club",
-      "city": "Frisco",
-      "area": "north",
-      "cat": "scramble",
-      "desc": "Charity tournament of the Frisco Police Officers Association at Stonebriar Country Club in Frisco.",
-      "url": "https://allevents.in/frisco/fpoa-charity-golf-tournament/200030623609852",
-      "img": "",
-      "confirmed": true
-    },
-    {
       "id": "five-iron-golf-winter-league-2026",
       "title": "Five Iron Golf Winter League 2026",
       "start": "2026-11-16",
@@ -59,36 +29,6 @@
       "cat": "fun",
       "desc": "Five Iron's winter indoor simulator league: teams of 4 play 9 holes weekly in rotating scramble, best-ball and greensome formats on TrackMan sims. $25–$50 per player per week (team fee $1,000–$1,800 by location), with a free handicap week Nov 9–10 and a grand-prize trip to Casa de Campo.",
       "url": "https://fiveirongolf.com/leagues",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "golf-for-industry-education",
-      "title": "Golf for Industry Education",
-      "start": "2026-11-16",
-      "end": "",
-      "time": "12:00 PM scramble (10:30 AM check-in)",
-      "venue": "Las Colinas Country Club",
-      "city": "Irving",
-      "area": "mid",
-      "cat": "scramble",
-      "desc": "PIA MidAmerica's Nolan Moore Memorial Education Foundation annual fundraiser for industry education, scramble format.",
-      "url": "https://piamidam.org/events/",
-      "img": "",
-      "confirmed": true
-    },
-    {
-      "id": "girls-golf-glow-golf-event",
-      "title": "Girls Golf Glow Golf Event",
-      "start": "2026-11-18",
-      "end": "",
-      "time": "5:30 PM – 7:00 PM",
-      "venue": "Squaw Creek Golf Course",
-      "city": "Willow Park",
-      "area": "fortworth",
-      "cat": "junior",
-      "desc": "Free LPGA*USGA Girls Golf evening event for girls ages 5–18, run by First Tee – Fort Worth at Squaw Creek: themed golf skills activities and coaching tips, with clubs provided for newcomers. Sign up through the Girls Golf App.",
-      "url": "https://firstteeftworth.org/lpgausga-girls-golf/",
       "img": "",
       "confirmed": true
     },
@@ -134,6 +74,36 @@
       "cat": "fun",
       "desc": "Hands-on BBQ class led by PGA Frisco pitmaster Rick Adamo and the Ice House culinary team, focused on Thanksgiving fare: brisket, ribs and smoked turkey, from selecting and trimming cuts to smoking, slicing and tasting. Limited to 25 students; $116 per student, including a welcome drink and a BBQ sauce takeaway.",
       "url": "https://happeningnext.com/event/ultimate-pitmasters-in-the-making-class-thanksgiving-edition-eid1ef0l7b1umka",
+      "img": "",
+      "confirmed": true
+    },
+    {
+      "id": "ntpga-all-american-junior-event",
+      "title": "NTPGA All American Junior Event",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "time": "Noon double tee",
+      "venue": "Grapevine Golf Course",
+      "city": "Grapevine",
+      "area": "mid",
+      "cat": "junior",
+      "desc": "Northern Texas PGA junior event at Grapevine Golf Course: 48 players, noon double tee (last 18-hole tee 9:30 AM).",
+      "url": "https://grapevinegc.com/event/ntpga-all-american-junior-event/",
+      "img": "",
+      "confirmed": true
+    },
+    {
+      "id": "turkey-shootout-the-bridges",
+      "title": "Turkey Shootout",
+      "start": "2026-11-21",
+      "end": "",
+      "time": "8:30 AM shotgun",
+      "venue": "The Bridges Golf Club",
+      "city": "Gunter",
+      "area": "north",
+      "cat": "scramble",
+      "desc": "2 Best Balls foursome with an 8:30 AM shotgun start. $69 non-member greens fee plus $20 entry per player; bring canned goods for the Thanksgiving food drive.",
+      "url": "https://www.bridgestexasgolf.com/event/turkey-shootout/",
       "img": "",
       "confirmed": true
     },
@@ -228,6 +198,21 @@
       "confirmed": true
     },
     {
+      "id": "thanksgiving-day-shotgun-the-bridges",
+      "title": "Thanksgiving Day Shotgun",
+      "start": "2026-11-26",
+      "end": "",
+      "time": "8:30 AM shotgun",
+      "venue": "The Bridges Golf Club",
+      "city": "Gunter",
+      "area": "north",
+      "cat": "scramble",
+      "desc": "Casual Thanksgiving Day shotgun start (not a tournament). Reserve by calling the golf shop; members get early access and spots are limited.",
+      "url": "https://www.bridgestexasgolf.com/event/thanksgiving-day-shotgun/",
+      "img": "",
+      "confirmed": true
+    },
+    {
       "id": "kick-off-to-christmas-concert",
       "title": "Kick Off to Christmas Concert featuring Limelight Band",
       "start": "2026-11-27",
@@ -285,6 +270,21 @@
       "desc": "Hands-on holiday mixology class (Nov 28, Dec 5, 12 and 19) with the Casamigos team: 20 minutes of tequila education, then craft and sip three signature margaritas — The Classic, The Holiday Cider and The Cranberry. Ticket includes light bar bites, a take-home gift and validated valet parking. Ages 21 and up.",
       "url": "https://www.pgafrisco.com/events/merry-margaritas-mixology-class-with-casamigos/",
       "img": "https://www.pgafrisco.com/content/uploads/2026/10/Merry-Margarita-Mixology-Class-1.jpg",
+      "confirmed": true
+    },
+    {
+      "id": "rusted-rails-polar-express-craft-extravaganza",
+      "title": "Rusted Rail's Polar Express Craft Extravaganza",
+      "start": "2026-11-28",
+      "end": "",
+      "time": "10:00 AM - 3:00 PM",
+      "venue": "Rusted Rail Golf",
+      "city": "Celina",
+      "area": "north",
+      "cat": "fun",
+      "desc": "Free holiday craft market open to the whole community: local vendors, cocktails and a hot chocolate bar, photos with Santa, Christmas music and children's activities.",
+      "url": "https://rustedrailgolf.com/event/rusted-rails-polar-express-craft-extravaganza/",
+      "img": "https://rustedrailgolf.com/wp-content/uploads/2026/10/Rusted-Rail-_-2026-Polar-Express-Craft-Extravaganza-_-Campaign-Graphics.png",
       "confirmed": true
     },
     {
@@ -374,6 +374,21 @@
       "cat": "junior",
       "desc": "Texas Junior Golf Tour Open Series junior tournament; registration closes Dec 4, 2026 on the tour page.",
       "url": "https://tournaments.tjgt.com/",
+      "img": "",
+      "confirmed": true
+    },
+    {
+      "id": "end-of-year-2-man-event-grapevine",
+      "title": "End of Year 2-Man Event",
+      "start": "2026-12-05",
+      "end": "",
+      "time": "9:00 AM shotgun",
+      "venue": "Grapevine Golf Course",
+      "city": "Grapevine",
+      "area": "mid",
+      "cat": "scramble",
+      "desc": "End-of-year 2-man event at Grapevine Golf Course: 9:00 AM shotgun, 156 players.",
+      "url": "https://grapevinegc.com/event/end-of-year-2-man-event/",
       "img": "",
       "confirmed": true
     },
@@ -587,6 +602,21 @@
       "img": "https://www.eventeny.com/event-pics/950819-cover-v680h6jdzw461786631973-1200.jpg",
       "confirmed": true,
       "featured": true
+    },
+    {
+      "id": "us-kids-golf-dallas-local-tour-spring-2027",
+      "title": "U.S. Kids Golf Dallas Local Tour - Spring 2027",
+      "start": "2027-03-06",
+      "end": "2027-05-29",
+      "time": "",
+      "venue": "Cedar Crest, Westridge, The Bridges, Oak Hollow",
+      "city": "Dallas / McKinney / Gunter",
+      "area": "multi",
+      "cat": "junior",
+      "desc": "U.S. Kids Golf Dallas Local Tour spring season for ages 5-18: Mar 6 at Cedar Crest, Mar 7 at Westridge, Apr 3-4 at The Bridges, May 1 and 29 at Oak Hollow, May 2 at Westridge. Dates tentative.",
+      "url": "https://www.instagram.com/p/DfpzY-Pv6Wn/",
+      "img": "",
+      "confirmed": false
     },
     {
       "id": "kathy-whitworth-invitational-2027",
@@ -904,6 +934,21 @@
       "desc": "ANNIKA WAPT women's pro/amateur championship at the now-27-hole Grapevine Golf Course, with a Pro-Am on Jun 1. Free and open to the public for spectators; the top two finishers earn Epson Tour exemptions.",
       "url": "https://www.grapevinetexasusa.com/events/annual-events-festivals/texaswomensopen/",
       "img": "",
+      "confirmed": true
+    },
+    {
+      "id": "breakthrough-t1d-cliff-harris-golf-tournament",
+      "title": "Breakthrough T1D Cliff Harris Golf Tournament",
+      "start": "2027-06-07",
+      "end": "",
+      "time": "8:00 AM",
+      "venue": "Stonebriar Country Club",
+      "city": "Frisco",
+      "area": "north",
+      "cat": "scramble",
+      "desc": "Annual charity tournament led by Pro Football Hall of Famer Cliff Harris, bringing together celebrity athletes, community leaders and supporters for a day on the course in support of type 1 diabetes research.",
+      "url": "https://www.breakthrought1d.org/dallasfortworth/events/breakthrough-t1d-cliff-harris-golf-tournament/?lang=en",
+      "img": "https://www.breakthrought1d.org/dallasfortworth/wp-content/uploads/sites/181/2026/01/54609465163_b30a1c9e94_c.jpg",
       "confirmed": true
     },
     {
