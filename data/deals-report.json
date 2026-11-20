@@ -1,22 +1,23 @@
 {
- "checked": "2026-11-19",
- "total": 458,
- "live": 458,
- "updated": 3,
- "hidden": [],
+ "checked": "2026-11-20",
+ "total": 491,
+ "live": 490,
+ "updated": 4,
+ "hidden": [
+  {
+   "id": "6ba6f5c9",
+   "title": "Puma Men's Alphacat Nitro Golf Shoes",
+   "store": "TGW",
+   "why": "page removed"
+  }
+ ],
  "unreadable": 91,
- "unclear": 45,
+ "unclear": 54,
  "newGear": {
-  "total": 31,
-  "live": 13,
-  "expired": 17,
-  "hidden": [
-   {
-    "title": "Sunday Golf Simmy Indoor Golf Bag",
-    "store": "Sunday Golf",
-    "why": "sold out"
-   }
-  ]
+  "total": 15,
+  "live": 11,
+  "expired": 4,
+  "hidden": []
  },
- "upcoming": 36
+ "upcoming": 40
 }
