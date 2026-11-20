@@ -350,7 +350,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": true,
    "touched": true
   },
@@ -372,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": true,
    "touched": true
   },
@@ -394,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": true,
    "touched": true
   },
@@ -416,7 +416,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": true,
    "touched": true
   },
@@ -482,7 +482,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": true,
    "touched": true
   },
@@ -592,7 +592,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": true,
    "touched": true
   },
@@ -614,7 +614,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": false
   },
   "48c3720444": {
@@ -750,7 +750,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": true
   },
   "deaf85f3b5": {
@@ -771,7 +771,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": false
   },
   "9306a4262c": {
@@ -815,10 +815,9 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": true,
-   "imgTried": true,
-   "gone": true
+   "imgTried": true
   },
   "38f2cf17ce": {
    "id": "38f2cf17ce",
@@ -838,7 +837,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": false
   },
   "b2508b4fcf": {
@@ -859,7 +858,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-11",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": true
   },
   "98df7ec93e": {
@@ -880,7 +879,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-12",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-20",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -951,7 +950,8 @@
    "firstSeen": "2026-11-15",
    "lastSeen": "2026-11-19",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "d202eaf0e5": {
    "id": "d202eaf0e5",
@@ -996,30 +996,8 @@
    "firstSeen": "2026-11-15",
    "lastSeen": "2026-11-19",
    "shown": true,
-   "touched": true
-  },
-  "6b279a12c3": {
-   "id": "6b279a12c3",
-   "title": "Realtor Indoor Golf Open & Networking by Premier Partners",
-   "start": "2026-11-17",
-   "end": "",
-   "time": "",
-   "venue": "X-Golf Frisco",
-   "city": "Frisco",
-   "area": "north",
-   "cat": "scramble",
-   "desc": "DFW real estate agents are invited to X-Golf Frisco for an evening of indoor golf, drinks, and professional networking.",
-   "url": "https://www.eventbrite.com/e/realtor-indoor-golf-open-networking-by-premier-partners-tickets-2003741383417",
-   "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1196310359%2F91831515141%2F1%2Foriginal.20261021-200731?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.495&fp-y=0.113&s=dc6ce46fb41a91fc3cd82e6a3fd0cf61",
-   "source": "Eventbrite (Dallas golf)",
-   "official": false,
-   "how": "structured-data",
-   "confirmed": true,
-   "firstSeen": "2026-11-15",
-   "lastSeen": "2026-11-15",
-   "shown": true,
    "touched": true,
-   "gone": true
+   "gone": false
   },
   "4f274a1f2f": {
    "id": "4f274a1f2f",
@@ -1155,7 +1133,8 @@
    "confirmed": true,
    "firstSeen": "2026-11-19",
    "lastSeen": "2026-11-19",
-   "shown": false
+   "shown": false,
+   "gone": false
   }
  },
  "superseded": []
