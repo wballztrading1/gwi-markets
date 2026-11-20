@@ -1,22 +1,15 @@
 {
  "checked": "2026-11-20",
- "total": 491,
+ "total": 490,
  "live": 490,
- "updated": 4,
- "hidden": [
-  {
-   "id": "6ba6f5c9",
-   "title": "Puma Men's Alphacat Nitro Golf Shoes",
-   "store": "TGW",
-   "why": "page removed"
-  }
- ],
+ "updated": 0,
+ "hidden": [],
  "unreadable": 91,
  "unclear": 54,
  "newGear": {
-  "total": 15,
+  "total": 11,
   "live": 11,
-  "expired": 4,
+  "expired": 0,
   "hidden": []
  },
  "upcoming": 40
