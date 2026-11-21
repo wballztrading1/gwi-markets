@@ -350,7 +350,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": true,
    "touched": true
   },
@@ -372,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": true,
    "touched": true
   },
@@ -394,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": true,
    "touched": true
   },
@@ -416,7 +416,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": true,
    "touched": true
   },
@@ -482,7 +482,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": true,
    "touched": true
   },
@@ -592,7 +592,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": true,
    "touched": true
   },
@@ -614,7 +614,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": false
   },
   "48c3720444": {
@@ -708,30 +708,6 @@
    "imgTried": true,
    "gone": true
   },
-  "b24d444ad8": {
-   "id": "b24d444ad8",
-   "title": "Looking to book a tee time?",
-   "start": "2026-11-18",
-   "end": "",
-   "time": "",
-   "venue": "Bridlewood Golf Course",
-   "city": "Flower Mound",
-   "area": "north",
-   "cat": "fun",
-   "desc": "Offering one of the finest public golf courses in the Dallas Metroplex, Bridlewood Golf Club boasts a Private Club experience at a Daily Fee price.",
-   "url": "https://www.bridlewoodgolf.com/events/calendar/eventdetail/1040/-/live-music-night",
-   "img": "",
-   "source": "Bridlewood Golf Course",
-   "official": false,
-   "how": "event-page",
-   "confirmed": true,
-   "firstSeen": "2026-11-01",
-   "lastSeen": "2026-11-18",
-   "shown": true,
-   "touched": true,
-   "imgTried": true,
-   "gone": true
-  },
   "422c5127cf": {
    "id": "422c5127cf",
    "title": "Present Grove Scramble",
@@ -750,7 +726,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": true
   },
   "deaf85f3b5": {
@@ -771,7 +747,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": false
   },
   "9306a4262c": {
@@ -815,7 +791,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": true,
    "imgTried": true
   },
@@ -837,7 +813,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": false
   },
   "b2508b4fcf": {
@@ -858,7 +834,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-11",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": true
   },
   "98df7ec93e": {
@@ -879,7 +855,7 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-12",
-   "lastSeen": "2026-11-20",
+   "lastSeen": "2026-11-21",
    "shown": true,
    "touched": true,
    "imgTried": true
@@ -952,29 +928,6 @@
    "shown": true,
    "touched": true,
    "gone": false
-  },
-  "d202eaf0e5": {
-   "id": "d202eaf0e5",
-   "title": "Wine & Wedges: Ladies’ Night at 5 Iron Golf DFW",
-   "start": "2026-11-18",
-   "end": "",
-   "time": "",
-   "venue": "824 W Daggett Ave",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "fun",
-   "desc": "Sip, snack, and sharpen your short game! Wedge coaching, charcuterie, wine, and a Closest to the Pin challenge. All levels welcome.",
-   "url": "https://www.eventbrite.com/e/wine-wedges-ladies-night-at-5-iron-golf-dfw-tickets-2004655574788",
-   "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197682278%2F2999451409407%2F1%2Foriginal.20261110-143153?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=345cc16b5093bb3e02ca963b98db8872",
-   "source": "Eventbrite (Dallas golf)",
-   "official": false,
-   "how": "structured-data",
-   "confirmed": true,
-   "firstSeen": "2026-11-15",
-   "lastSeen": "2026-11-15",
-   "shown": true,
-   "touched": true,
-   "gone": true
   },
   "74f4345b3e": {
    "id": "74f4345b3e",
