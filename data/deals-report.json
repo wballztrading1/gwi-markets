@@ -1,11 +1,24 @@
 {
- "checked": "2026-11-20",
+ "checked": "2026-11-21",
  "total": 490,
- "live": 490,
- "updated": 0,
- "hidden": [],
- "unreadable": 93,
- "unclear": 54,
+ "live": 488,
+ "updated": 4,
+ "hidden": [
+  {
+   "id": "cde92afc",
+   "title": "Odyssey Ai-One #2 Center Shaft Putter",
+   "store": "TGW",
+   "why": "sold out"
+  },
+  {
+   "id": "4e77d0f0",
+   "title": "Odyssey Ai-One DW Double Bend Putter",
+   "store": "TGW",
+   "why": "sold out"
+  }
+ ],
+ "unreadable": 99,
+ "unclear": 57,
  "newGear": {
   "total": 11,
   "live": 11,
