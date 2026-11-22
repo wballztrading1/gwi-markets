@@ -1,23 +1,29 @@
 {
- "checked": "2026-11-21",
+ "checked": "2026-11-22",
  "total": 490,
- "live": 488,
+ "live": 487,
  "updated": 4,
  "hidden": [
+  {
+   "id": "b4a30b31",
+   "title": "NIKE Men's Victory 1/2 Zip Golf Pullover",
+   "store": "TGW",
+   "why": "page removed"
+  },
   {
    "id": "cde92afc",
    "title": "Odyssey Ai-One #2 Center Shaft Putter",
    "store": "TGW",
-   "why": "sold out"
+   "why": "page removed"
   },
   {
    "id": "4e77d0f0",
    "title": "Odyssey Ai-One DW Double Bend Putter",
    "store": "TGW",
-   "why": "sold out"
+   "why": "page removed"
   }
  ],
- "unreadable": 99,
+ "unreadable": 98,
  "unclear": 57,
  "newGear": {
   "total": 11,
