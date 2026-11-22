@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-21",
+ "checked": "2026-11-22",
  "sources": [
   {
    "name": "Leonard Golf Links",
@@ -25,7 +25,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 29,
+   "found": 28,
    "kept": 1,
    "error": ""
   },
@@ -47,7 +47,7 @@
     "structured-data",
     "ical"
    ],
-   "found": 18,
+   "found": 12,
    "kept": 0,
    "error": ""
   },
@@ -314,7 +314,7 @@
     "ical"
    ],
    "found": 257,
-   "kept": 9,
+   "kept": 8,
    "error": ""
   },
   {
@@ -336,12 +336,8 @@
   {
    "name": "Iron Horse Golf Course",
    "url": "https://ironhorsetx.com/events/list/",
-   "methods": [
-    "events-calendar",
-    "structured-data",
-    "ical"
-   ],
-   "found": 6,
+   "methods": [],
+   "found": 0,
    "kept": 0,
    "error": ""
   },
@@ -409,8 +405,8 @@
    "methods": [
     "structured-data"
    ],
-   "found": 7,
-   "kept": 7,
+   "found": 8,
+   "kept": 8,
    "error": ""
   }
  ]

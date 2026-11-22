@@ -350,7 +350,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": true,
    "touched": true
   },
@@ -374,7 +374,8 @@
    "firstSeen": "2026-09-26",
    "lastSeen": "2026-11-21",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": true
   },
   "9ab3e2c32a": {
    "id": "9ab3e2c32a",
@@ -394,7 +395,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": true,
    "touched": true
   },
@@ -416,7 +417,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": true,
    "touched": true
   },
@@ -482,7 +483,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": true,
    "touched": true
   },
@@ -592,7 +593,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": true,
    "touched": true
   },
@@ -614,7 +615,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": false
   },
   "48c3720444": {
@@ -638,29 +639,6 @@
    "lastSeen": "2026-10-29",
    "shown": true,
    "imgTried": true,
-   "gone": true
-  },
-  "2aa456bef3": {
-   "id": "2aa456bef3",
-   "title": "Thirsty Thursday with John Nutt",
-   "start": "2026-11-19",
-   "end": "",
-   "time": "6:00 PM",
-   "venue": "Rusted Rail Golf",
-   "city": "Celina",
-   "area": "north",
-   "cat": "fun",
-   "desc": "John Nutt plays live at Rusted Rail Bar & Grill on Thursday night, and Happy Hour runs all day. Grab your crew and make a night of it.",
-   "url": "https://rustedrailgolf.com/event/thirsty-thursday-with-john-nutt/",
-   "img": "https://rustedrailgolf.com/wp-content/uploads/2026/10/11_19-Thirsty-Thursday.png",
-   "source": "Rusted Rail Golf Club",
-   "official": false,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-10-28",
-   "lastSeen": "2026-10-31",
-   "shown": true,
-   "touched": true,
    "gone": true
   },
   "eee283bdc6": {
@@ -726,7 +704,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": true
   },
   "deaf85f3b5": {
@@ -747,7 +725,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": false
   },
   "9306a4262c": {
@@ -791,7 +769,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": true,
    "imgTried": true
   },
@@ -813,7 +791,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": false
   },
   "b2508b4fcf": {
@@ -834,7 +812,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-11",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": true
   },
   "98df7ec93e": {
@@ -855,33 +833,10 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-12",
-   "lastSeen": "2026-11-21",
+   "lastSeen": "2026-11-22",
    "shown": true,
    "touched": true,
    "imgTried": true
-  },
-  "3f8ad7b58e": {
-   "id": "3f8ad7b58e",
-   "title": "FUNdamentals - Indoor Golf & Kickback",
-   "start": "2026-11-19",
-   "end": "",
-   "time": "",
-   "venue": "2-1-Fore Golf",
-   "city": "Richardson",
-   "area": "north",
-   "cat": "fun",
-   "desc": "New to golf? Learn the basics in a safe, fun, and judgment-free environment. Experienced golfer? Join the kickback and play the sims!",
-   "url": "https://www.eventbrite.com/e/fundamentals-indoor-golf-kickback-tickets-2004467349802",
-   "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197401611%2F2995444214027%2F1%2Foriginal.20261106-030303?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.493&fp-y=0.87&s=80e3816e7c198f5d0ee17bcb6e0046a8",
-   "source": "Eventbrite (Dallas golf)",
-   "official": false,
-   "how": "structured-data",
-   "confirmed": true,
-   "firstSeen": "2026-11-15",
-   "lastSeen": "2026-11-15",
-   "shown": true,
-   "touched": true,
-   "gone": true
   },
   "adf0046508": {
    "id": "adf0046508",
@@ -1088,6 +1043,27 @@
    "lastSeen": "2026-11-19",
    "shown": false,
    "gone": false
+  },
+  "aedd66858f": {
+   "id": "aedd66858f",
+   "title": "Optimal Spring 2027 Client Golf Retreat",
+   "start": "2027-03-24",
+   "end": "2027-03-25",
+   "time": "",
+   "venue": "Dallas",
+   "city": "Dallas",
+   "area": "dallas",
+   "cat": "fun",
+   "desc": "",
+   "url": "https://allevents.in/dallas/optimal-spring-2027-client-golf-retreat/4700031096176613",
+   "img": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy83M2VkYTY5MC1lNjUxLTExZjEtYjhhMC02NWVmY2MwODlmOTgtcmltZy13MTIwMC1oMTIwMC1kYzA4NTgzOC1nbWlyLmpwZz92PTE3OTUzMzcyOTM.avif",
+   "source": "AllEvents (Dallas golf)",
+   "official": false,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-22",
+   "lastSeen": "2026-11-22",
+   "shown": false
   }
  },
  "superseded": []
