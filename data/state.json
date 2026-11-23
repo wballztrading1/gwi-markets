@@ -1039,7 +1039,8 @@
    "confirmed": true,
    "firstSeen": "2026-11-19",
    "lastSeen": "2026-11-23",
-   "shown": false
+   "shown": true,
+   "touched": true
   },
   "aedd66858f": {
    "id": "aedd66858f",
