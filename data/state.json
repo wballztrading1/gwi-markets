@@ -350,7 +350,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": true,
    "touched": true
   },
@@ -395,7 +395,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": true,
    "touched": true
   },
@@ -417,7 +417,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": true,
    "touched": true
   },
@@ -483,7 +483,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": true,
    "touched": true
   },
@@ -593,7 +593,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": true,
    "touched": true
   },
@@ -615,7 +615,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": false
   },
   "48c3720444": {
@@ -704,7 +704,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": true
   },
   "deaf85f3b5": {
@@ -725,7 +725,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": false
   },
   "9306a4262c": {
@@ -769,7 +769,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": true,
    "imgTried": true
   },
@@ -791,7 +791,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": false
   },
   "b2508b4fcf": {
@@ -812,7 +812,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-11",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": true
   },
   "98df7ec93e": {
@@ -836,7 +836,8 @@
    "lastSeen": "2026-11-22",
    "shown": true,
    "touched": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": false
   },
   "adf0046508": {
    "id": "adf0046508",
@@ -856,10 +857,9 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-15",
-   "lastSeen": "2026-11-15",
+   "lastSeen": "2026-11-23",
    "shown": true,
-   "touched": true,
-   "gone": true
+   "touched": true
   },
   "d7a2ea54c7": {
    "id": "d7a2ea54c7",
@@ -879,14 +879,13 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-15",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-23",
    "shown": true,
-   "touched": true,
-   "gone": false
+   "touched": true
   },
   "74f4345b3e": {
    "id": "74f4345b3e",
-   "title": "2027 Cigars International Annual Golf Tournament & After-Party",
+   "title": "The Cigars International Classic & After-Party",
    "start": "2027-06-07",
    "end": "",
    "time": "",
@@ -895,17 +894,16 @@
    "area": "north",
    "cat": "scramble",
    "desc": "Monday, June 7, 2027 | 10:00 AM Tee-Off The Lakes at Castle Hills | Lewisville, Texas Great Golf. Premium Cigars. Good Company.",
-   "url": "https://www.eventbrite.com/e/2027-cigars-international-annual-golf-tournament-after-party-tickets-2004390841965",
+   "url": "https://www.eventbrite.com/e/the-cigars-international-classic-after-party-tickets-2004390841965",
    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1197288701%2F3004078050767%2F1%2Foriginal.20261104-194719?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a69c3890670bf6b9f6f3c6c1e427f600",
    "source": "Eventbrite (Dallas golf)",
    "official": false,
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-15",
-   "lastSeen": "2026-11-19",
+   "lastSeen": "2026-11-23",
    "shown": true,
-   "touched": true,
-   "gone": false
+   "touched": true
   },
   "4f274a1f2f": {
    "id": "4f274a1f2f",
@@ -1040,9 +1038,8 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-19",
-   "lastSeen": "2026-11-19",
-   "shown": false,
-   "gone": false
+   "lastSeen": "2026-11-23",
+   "shown": false
   },
   "aedd66858f": {
    "id": "aedd66858f",
@@ -1062,7 +1059,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-22",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": false
   }
  },
