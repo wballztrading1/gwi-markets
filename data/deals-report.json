@@ -1,8 +1,8 @@
 {
  "checked": "2026-11-23",
- "total": 562,
+ "total": 560,
  "live": 558,
- "updated": 5,
+ "updated": 1,
  "hidden": [
   {
    "id": "b4a30b31",
@@ -15,22 +15,10 @@
    "title": "Callaway Elyte Driver",
    "store": "TGW",
    "why": "page removed"
-  },
-  {
-   "id": "b7b9db3a",
-   "title": "Callaway Men's Coronado V4 Golf Shoes",
-   "store": "TGW",
-   "why": "page removed"
-  },
-  {
-   "id": "43691a78",
-   "title": "Bushnell LPi Circle B Edition Launch Monitor",
-   "store": "PGA TOUR Superstore",
-   "why": "sold out"
   }
  ],
- "unreadable": 135,
- "unclear": 70,
+ "unreadable": 106,
+ "unclear": 67,
  "newGear": {
   "total": 12,
   "live": 10,
