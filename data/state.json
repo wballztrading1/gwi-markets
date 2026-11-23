@@ -833,11 +833,10 @@
    "how": "event-page",
    "confirmed": true,
    "firstSeen": "2026-11-12",
-   "lastSeen": "2026-11-22",
+   "lastSeen": "2026-11-23",
    "shown": true,
    "touched": true,
-   "imgTried": true,
-   "gone": false
+   "imgTried": true
   },
   "adf0046508": {
    "id": "adf0046508",
@@ -859,7 +858,8 @@
    "firstSeen": "2026-11-15",
    "lastSeen": "2026-11-23",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "d7a2ea54c7": {
    "id": "d7a2ea54c7",
@@ -881,7 +881,8 @@
    "firstSeen": "2026-11-15",
    "lastSeen": "2026-11-23",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "74f4345b3e": {
    "id": "74f4345b3e",
@@ -903,7 +904,8 @@
    "firstSeen": "2026-11-15",
    "lastSeen": "2026-11-23",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "4f274a1f2f": {
    "id": "4f274a1f2f",
@@ -1040,7 +1042,8 @@
    "firstSeen": "2026-11-19",
    "lastSeen": "2026-11-23",
    "shown": true,
-   "touched": true
+   "touched": true,
+   "gone": false
   },
   "aedd66858f": {
    "id": "aedd66858f",
