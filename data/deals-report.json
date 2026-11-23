@@ -1,8 +1,8 @@
 {
- "checked": "2026-11-22",
- "total": 490,
- "live": 487,
- "updated": 4,
+ "checked": "2026-11-23",
+ "total": 562,
+ "live": 558,
+ "updated": 5,
  "hidden": [
   {
    "id": "b4a30b31",
@@ -11,25 +11,31 @@
    "why": "page removed"
   },
   {
-   "id": "cde92afc",
-   "title": "Odyssey Ai-One #2 Center Shaft Putter",
+   "id": "40f47485",
+   "title": "Callaway Elyte Driver",
    "store": "TGW",
    "why": "page removed"
   },
   {
-   "id": "4e77d0f0",
-   "title": "Odyssey Ai-One DW Double Bend Putter",
+   "id": "b7b9db3a",
+   "title": "Callaway Men's Coronado V4 Golf Shoes",
    "store": "TGW",
    "why": "page removed"
+  },
+  {
+   "id": "43691a78",
+   "title": "Bushnell LPi Circle B Edition Launch Monitor",
+   "store": "PGA TOUR Superstore",
+   "why": "sold out"
   }
  ],
- "unreadable": 98,
- "unclear": 57,
+ "unreadable": 135,
+ "unclear": 70,
  "newGear": {
-  "total": 11,
-  "live": 11,
-  "expired": 0,
+  "total": 12,
+  "live": 10,
+  "expired": 2,
   "hidden": []
  },
- "upcoming": 40
+ "upcoming": 43
 }
