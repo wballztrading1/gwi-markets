@@ -1,8 +1,8 @@
 {
  "checked": "2026-11-23",
  "total": 560,
- "live": 558,
- "updated": 1,
+ "live": 557,
+ "updated": 0,
  "hidden": [
   {
    "id": "b4a30b31",
@@ -15,9 +15,15 @@
    "title": "Callaway Elyte Driver",
    "store": "TGW",
    "why": "page removed"
+  },
+  {
+   "id": "aed05453",
+   "title": "Under Armour Men's Drive Fade Golf Shoes",
+   "store": "TGW",
+   "why": "sold out"
   }
  ],
- "unreadable": 106,
+ "unreadable": 141,
  "unclear": 67,
  "newGear": {
   "total": 12,
