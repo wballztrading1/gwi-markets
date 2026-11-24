@@ -1,7 +1,7 @@
 {
- "checked": "2026-11-23",
+ "checked": "2026-11-24",
  "total": 560,
- "live": 557,
+ "live": 556,
  "updated": 0,
  "hidden": [
   {
@@ -20,11 +20,17 @@
    "id": "aed05453",
    "title": "Under Armour Men's Drive Fade Golf Shoes",
    "store": "TGW",
-   "why": "sold out"
+   "why": "page removed"
+  },
+  {
+   "id": "0e741577",
+   "title": "Srixon ZXi Driver",
+   "store": "TGW",
+   "why": "page removed"
   }
  ],
- "unreadable": 141,
- "unclear": 67,
+ "unreadable": 144,
+ "unclear": 66,
  "newGear": {
   "total": 12,
   "live": 10,
