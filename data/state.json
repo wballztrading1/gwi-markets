@@ -350,32 +350,9 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": true,
    "touched": true
-  },
-  "ca6aa861a7": {
-   "id": "ca6aa861a7",
-   "title": "Superintendent Revenge",
-   "start": "2026-11-21",
-   "end": "",
-   "time": "10:30 AM",
-   "venue": "The Resort Golf Club",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "fun",
-   "desc": "",
-   "url": "",
-   "img": "",
-   "source": "The Resort Golf Club",
-   "official": false,
-   "how": "ical",
-   "confirmed": true,
-   "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-21",
-   "shown": true,
-   "touched": true,
-   "gone": true
   },
   "9ab3e2c32a": {
    "id": "9ab3e2c32a",
@@ -395,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": true,
    "touched": true
   },
@@ -417,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": true,
    "touched": true
   },
@@ -483,7 +460,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": true,
    "touched": true
   },
@@ -593,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": true,
    "touched": true
   },
@@ -615,7 +592,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": false
   },
   "48c3720444": {
@@ -704,7 +681,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": true
   },
   "deaf85f3b5": {
@@ -725,7 +702,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": false
   },
   "9306a4262c": {
@@ -769,7 +746,7 @@
    "how": "events-calendar",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": true,
    "imgTried": true
   },
@@ -791,7 +768,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": false
   },
   "b2508b4fcf": {
@@ -812,7 +789,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-11",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": true
   },
   "98df7ec93e": {
@@ -836,7 +813,8 @@
    "lastSeen": "2026-11-23",
    "shown": true,
    "touched": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "adf0046508": {
    "id": "adf0046508",
@@ -906,29 +884,6 @@
    "shown": true,
    "touched": true,
    "gone": false
-  },
-  "4f274a1f2f": {
-   "id": "4f274a1f2f",
-   "title": "Turkey Shootout",
-   "start": "2026-11-21",
-   "end": "",
-   "time": "8:30 AM",
-   "venue": "The Bridges Golf Club",
-   "city": "Gunter",
-   "area": "north",
-   "cat": "scramble",
-   "desc": "⛳ Format: 2 Best Balls Foursome 🕣 Start Time: 8:30 AM Shotgun 💲Non-Member Greens Fee: $69 💲 Entry Fee: $20 per player 🥫 Canned Goods Drive: Bring canned goods to help give back to our community this Thanksgiving!",
-   "url": "https://www.bridgestexasgolf.com/event/turkey-shootout/",
-   "img": "",
-   "source": "The Bridges Golf Club",
-   "official": true,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-11-16",
-   "lastSeen": "2026-11-16",
-   "shown": true,
-   "imgTried": true,
-   "gone": true
   },
   "476ead72b9": {
    "id": "476ead72b9",
@@ -1063,7 +1018,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-22",
-   "lastSeen": "2026-11-23",
+   "lastSeen": "2026-11-24",
    "shown": false
   }
  },
