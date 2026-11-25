@@ -1,8 +1,8 @@
 {
- "checked": "2026-11-24",
- "total": 560,
- "live": 556,
- "updated": 0,
+ "checked": "2026-11-25",
+ "total": 643,
+ "live": 635,
+ "updated": 13,
  "hidden": [
   {
    "id": "b4a30b31",
@@ -27,15 +27,39 @@
    "title": "Srixon ZXi Driver",
    "store": "TGW",
    "why": "page removed"
+  },
+  {
+   "id": "0e6308e0",
+   "title": "PING Women's G440 HL MAX Driver",
+   "store": "TGW",
+   "why": "page removed"
+  },
+  {
+   "id": "bccf18b9",
+   "title": "PING Women's G440 HL SFT Driver",
+   "store": "TGW",
+   "why": "page removed"
+  },
+  {
+   "id": "b5473569",
+   "title": "Bushnell Wingman 2 Golf GPS Speaker",
+   "store": "TGW",
+   "why": "page removed"
+  },
+  {
+   "id": "1f2c61fb",
+   "title": "Cleveland RTX 6 ZipCore Wedge",
+   "store": "DICK'S Sporting Goods",
+   "why": "now only 24% off"
   }
  ],
- "unreadable": 144,
- "unclear": 66,
+ "unreadable": 172,
+ "unclear": 67,
  "newGear": {
-  "total": 12,
+  "total": 13,
   "live": 10,
-  "expired": 2,
+  "expired": 3,
   "hidden": []
  },
- "upcoming": 43
+ "upcoming": 45
 }
