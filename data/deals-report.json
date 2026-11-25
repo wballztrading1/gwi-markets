@@ -1,8 +1,8 @@
 {
  "checked": "2026-11-25",
  "total": 703,
- "live": 699,
- "updated": 0,
+ "live": 693,
+ "updated": 3,
  "hidden": [
   {
    "id": "b4a30b31",
@@ -17,19 +17,55 @@
    "why": "page removed"
   },
   {
+   "id": "cd11f7ee",
+   "title": "PUMA CLOUDSPUN Palm BN Golf Polo",
+   "store": "Puma Golf",
+   "why": "sold out"
+  },
+  {
    "id": "aed05453",
    "title": "Under Armour Men's Drive Fade Golf Shoes",
    "store": "TGW",
    "why": "page removed"
   },
   {
+   "id": "7ab54415",
+   "title": "PUMA CLOUDSPUN Posy BN Golf Polo",
+   "store": "Puma Golf",
+   "why": "sold out"
+  },
+  {
+   "id": "191296be",
+   "title": "PUMA MATTR Clover BN Golf Polo",
+   "store": "Puma Golf",
+   "why": "sold out"
+  },
+  {
+   "id": "83a0da02",
+   "title": "PUMA CLOUDSPUN Argyle Bloom BN Golf Polo",
+   "store": "Puma Golf",
+   "why": "sold out"
+  },
+  {
    "id": "0e741577",
    "title": "Srixon ZXi Driver",
    "store": "TGW",
    "why": "page removed"
+  },
+  {
+   "id": "592cb1a1",
+   "title": "PUMA CLOUDSPUN Fleece Golf 1/4 Zip",
+   "store": "Puma Golf",
+   "why": "sold out"
+  },
+  {
+   "id": "13f8a997",
+   "title": "PUMA CLOUDSPUN Fleece Golf Crewneck",
+   "store": "Puma Golf",
+   "why": "sold out"
   }
  ],
- "unreadable": 180,
+ "unreadable": 204,
  "unclear": 67,
  "newGear": {
   "total": 13,
