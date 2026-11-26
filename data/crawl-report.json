@@ -47,8 +47,8 @@
     "structured-data",
     "ical"
    ],
-   "found": 24,
-   "kept": 0,
+   "found": 19,
+   "kept": 1,
    "error": ""
   },
   {
@@ -89,17 +89,15 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Sky Creek Ranch",
    "url": "https://www.skycreekranch.com/events/calendar",
-   "methods": [
-    "event-pages"
-   ],
-   "found": 1,
+   "methods": [],
+   "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Grand Oaks Golf Course",
@@ -107,17 +105,15 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Watters Creek",
    "url": "https://www.watterscreekgolf.com/component/jevents/monthcalendar/2026/10/-?Itemid=136",
-   "methods": [
-    "event-pages"
-   ],
-   "found": 1,
+   "methods": [],
+   "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "White Stone Golf Course",
@@ -133,7 +129,7 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Indian Creek",
@@ -154,14 +150,10 @@
   {
    "name": "Rusted Rail Golf Club",
    "url": "https://rustedrailgolf.com/events/month/",
-   "methods": [
-    "events-calendar",
-    "structured-data",
-    "ical"
-   ],
-   "found": 25,
+   "methods": [],
+   "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Meadowbrook Park Golf Course",
@@ -198,22 +190,18 @@
   {
    "name": "Riverside Golf Club",
    "url": "https://www.playriversidetx.com/upcoming-events",
-   "methods": [
-    "event-pages"
-   ],
-   "found": 3,
+   "methods": [],
+   "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Rockwood Park Golf Course",
    "url": "https://www.fortworthgolf.org/events/calendar",
-   "methods": [
-    "event-pages"
-   ],
-   "found": 3,
+   "methods": [],
+   "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Riverchase Golf Course",
@@ -221,7 +209,7 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Timberlinks Golf Course",
@@ -229,7 +217,7 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Panther City Partee",
@@ -350,7 +338,7 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Frisco Lakes Golf Club",
@@ -358,17 +346,15 @@
    "methods": [],
    "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Bridlewood Golf Course",
    "url": "https://www.bridlewoodgolf.com/events/calendar",
-   "methods": [
-    "event-pages"
-   ],
-   "found": 2,
+   "methods": [],
+   "found": 0,
    "kept": 0,
-   "error": ""
+   "error": "HTTP 403"
   },
   {
    "name": "Harbor Lakes Golf Club",

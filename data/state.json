@@ -767,7 +767,8 @@
    "confirmed": true,
    "firstSeen": "2026-11-11",
    "lastSeen": "2026-11-26",
-   "shown": true
+   "shown": true,
+   "gone": true
   },
   "98df7ec93e": {
    "id": "98df7ec93e",
@@ -791,7 +792,7 @@
    "shown": true,
    "touched": true,
    "imgTried": true,
-   "gone": true
+   "gone": false
   },
   "adf0046508": {
    "id": "adf0046508",
@@ -997,6 +998,27 @@
    "firstSeen": "2026-11-22",
    "lastSeen": "2026-11-26",
    "shown": false
+  },
+  "27bc674c23": {
+   "id": "27bc674c23",
+   "title": "Across The Ranch Scramble",
+   "start": "2026-12-12",
+   "end": "",
+   "time": "9:00 AM",
+   "venue": "Oeste Ranch Golf Course",
+   "city": "Weatherford",
+   "area": "fortworth",
+   "cat": "scramble",
+   "desc": "Four players, one score, and a completely reimagined cross-country course—grab your team and take on a wild scramble where every hole breaks the rules.",
+   "url": "https://www.oesteranch.com/event-details/across-the-ranch-scramble-1",
+   "img": "https://static.wixstatic.com/media/0aba3c_608f63972cf44044a2671272e2675463~mv2.png",
+   "source": "Oeste Ranch Golf Course",
+   "official": true,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "shown": true
   }
  },
  "superseded": []
