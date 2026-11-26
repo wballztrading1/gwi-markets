@@ -1,8 +1,8 @@
 {
- "checked": "2026-11-25",
+ "checked": "2026-11-26",
  "total": 703,
- "live": 693,
- "updated": 3,
+ "live": 689,
+ "updated": 11,
  "hidden": [
   {
    "id": "b4a30b31",
@@ -15,6 +15,12 @@
    "title": "Callaway Elyte Driver",
    "store": "TGW",
    "why": "page removed"
+  },
+  {
+   "id": "93a22ee0",
+   "title": "adidas Ultimate365 Fleece Hoodie Full-Zip Golf Vest",
+   "store": "Carl's Golfland",
+   "why": "sold out"
   },
   {
    "id": "cd11f7ee",
@@ -53,6 +59,12 @@
    "why": "page removed"
   },
   {
+   "id": "47bbf37d",
+   "title": "Mizuno JPX One Driver 12° Project X Denali Frost Blue 50 Regular",
+   "store": "2nd Swing Golf",
+   "why": "sold out"
+  },
+  {
    "id": "592cb1a1",
    "title": "PUMA CLOUDSPUN Fleece Golf 1/4 Zip",
    "store": "Puma Golf",
@@ -63,10 +75,22 @@
    "title": "PUMA CLOUDSPUN Fleece Golf Crewneck",
    "store": "Puma Golf",
    "why": "sold out"
+  },
+  {
+   "id": "e3ac1b10",
+   "title": "PUMA CLOUDSPUN Birdseye BN Golf Polo",
+   "store": "Puma Golf",
+   "why": "sold out"
+  },
+  {
+   "id": "b5473569",
+   "title": "Bushnell Wingman 2 Golf GPS Speaker",
+   "store": "TGW",
+   "why": "sold out"
   }
  ],
- "unreadable": 204,
- "unclear": 67,
+ "unreadable": 206,
+ "unclear": 65,
  "newGear": {
   "total": 13,
   "live": 10,
