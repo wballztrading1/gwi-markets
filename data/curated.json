@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-26",
  "region": "Dallas–Fort Worth",
  "events": [
   {
@@ -29,36 +29,6 @@
    "cat": "fun",
    "desc": "Five Iron's winter indoor simulator league: teams of 4 play 9 holes weekly in rotating scramble, best-ball and greensome formats on TrackMan sims. $25–$50 per player per week (team fee $1,000–$1,800 by location), with a free handicap week Nov 9–10 and a grand-prize trip to Casa de Campo.",
    "url": "https://fiveirongolf.com/leagues",
-   "img": "",
-   "confirmed": true
-  },
-  {
-   "id": "23rd-annual-turkey-shootout",
-   "title": "23rd Annual Turkey Shootout",
-   "start": "2026-11-23",
-   "end": "",
-   "time": "",
-   "venue": "The Golf Club at Champions Circle",
-   "city": "Fort Worth",
-   "area": "fortworth",
-   "cat": "scramble",
-   "desc": "Thanksgiving-season charity shootout benefiting the American Cancer Society. $180 per person; registration via Eventbrite.",
-   "url": "https://charitygolfer.com/api/event/2026-23rd-annual-turkey-shootout-benefitting-american-cancer-society/pdf",
-   "img": "",
-   "confirmed": true
-  },
-  {
-   "id": "turkey-challenge-shady-valley-tjgt",
-   "title": "Turkey Challenge @ Shady Valley (TJGT)",
-   "start": "2026-11-23",
-   "end": "2026-11-24",
-   "time": "",
-   "venue": "Shady Valley Golf Club",
-   "city": "Arlington",
-   "area": "mid",
-   "cat": "junior",
-   "desc": "Texas Junior Golf Tour Open Series junior tournament in Thanksgiving week; registration closes Nov 22, 2026 on the tour page.",
-   "url": "https://tournaments.tjgt.com/",
    "img": "",
    "confirmed": true
   },
@@ -166,6 +136,21 @@
    "url": "https://rustedrailgolf.com/event/rusted-rails-polar-express-craft-extravaganza/",
    "img": "https://rustedrailgolf.com/wp-content/uploads/2026/10/Rusted-Rail-_-2026-Polar-Express-Craft-Extravaganza-_-Campaign-Graphics.png",
    "confirmed": true
+  },
+  {
+   "id": "joe-lucky-memorial-golf-tournament",
+   "title": "Joe Lucky Memorial Golf Tournament",
+   "start": "2026-12-03",
+   "end": "",
+   "time": "8:00 AM shotgun",
+   "venue": "Sherrill Park Golf Course",
+   "city": "Richardson",
+   "area": "dallas",
+   "cat": "scramble",
+   "desc": "Charity memorial golf tournament; $125 per golfer, 8:00 AM shotgun start.",
+   "url": "https://scramblehunter.com/event/joe-lucky-memorial-golf-tournament/",
+   "img": "",
+   "confirmed": false
   },
   {
    "id": "dashing-through-the-district-holiday-night-market",
@@ -544,6 +529,21 @@
    "featured": true
   },
   {
+   "id": "us-am-tour-big-game-kickoff",
+   "title": "Big Game Kickoff (U.S. Am Tour)",
+   "start": "2027-02-13",
+   "end": "",
+   "time": "",
+   "venue": "Cowboys Golf Club",
+   "city": "Grapevine",
+   "area": "mid",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
+   "img": "",
+   "confirmed": true
+  },
+  {
    "id": "us-kids-golf-dallas-local-tour-spring-2027",
    "title": "U.S. Kids Golf Dallas Local Tour - Spring 2027",
    "start": "2027-03-06",
@@ -604,6 +604,21 @@
    "confirmed": true
   },
   {
+   "id": "us-am-tour-mansfield-open",
+   "title": "Mansfield Open (U.S. Am Tour)",
+   "start": "2027-03-20",
+   "end": "",
+   "time": "",
+   "venue": "Mansfield National Golf Club",
+   "city": "Mansfield",
+   "area": "mid",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
+   "img": "",
+   "confirmed": true
+  },
+  {
    "id": "charles-schwab-women-s-collegiate-invitational",
    "title": "Charles Schwab Women's Collegiate Invitational",
    "start": "2027-03-22",
@@ -615,6 +630,21 @@
    "cat": "competition",
    "desc": "TCU-hosted women's collegiate invitational, billed as 'the Masters of college golf.' The 15-team field includes defending national champion Stanford, Auburn, Duke, Oregon, Texas, Texas A&M and Wake Forest.",
    "url": "https://gofrogs.com/news/2026/8/20/tcu-womens-golf-unveils-2026-27-schedule",
+   "img": "",
+   "confirmed": true
+  },
+  {
+   "id": "us-am-tour-bridlewood-spring-open",
+   "title": "Bridlewood Spring Open (U.S. Am Tour)",
+   "start": "2027-03-22",
+   "end": "",
+   "time": "",
+   "venue": "Bridlewood Golf Club",
+   "city": "Flower Mound",
+   "area": "north",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
    "img": "",
    "confirmed": true
   },
@@ -664,6 +694,21 @@
    "confirmed": true
   },
   {
+   "id": "us-am-tour-arlington-open",
+   "title": "Arlington Open (U.S. Am Tour)",
+   "start": "2027-04-04",
+   "end": "",
+   "time": "",
+   "venue": "Tierra Verde Golf Club",
+   "city": "Arlington",
+   "area": "mid",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
+   "img": "",
+   "confirmed": true
+  },
+  {
    "id": "huntington-bank-collegiate-women-s-college-golf",
    "title": "Huntington Bank Collegiate (women's college golf)",
    "start": "2027-04-05",
@@ -679,6 +724,21 @@
    "confirmed": true
   },
   {
+   "id": "us-am-tour-coyote-ridge-classic",
+   "title": "Coyote Ridge Classic (U.S. Am Tour)",
+   "start": "2027-04-05",
+   "end": "",
+   "time": "",
+   "venue": "Coyote Ridge Golf Club",
+   "city": "Carrollton",
+   "area": "north",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
+   "img": "",
+   "confirmed": true
+  },
+  {
    "id": "prosper-education-foundation-36th-annual-golf-tournament",
    "title": "Prosper Education Foundation 36th Annual Golf Tournament",
    "start": "2027-04-12",
@@ -690,6 +750,36 @@
    "cat": "scramble",
    "desc": "36th annual community tournament supporting Prosper ISD students and educators through senior scholarships, Excellence & Innovation Grants, Spark Shop and other Foundation programs (over $200,000 raised last year). One flight with on-course contests and networking, at the tournament's new Stonebriar location. Sponsorships and team registration to be announced.",
    "url": "https://prospereducationfoundation.org/event/annual-pef-golf-tournament/",
+   "img": "",
+   "confirmed": true
+  },
+  {
+   "id": "us-am-tour-fossil-creek-challenge",
+   "title": "Fossil Creek Challenge (U.S. Am Tour)",
+   "start": "2027-04-18",
+   "end": "",
+   "time": "",
+   "venue": "The Golf Club at Fossil Creek",
+   "city": "Fort Worth",
+   "area": "fortworth",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
+   "img": "",
+   "confirmed": true
+  },
+  {
+   "id": "us-am-tour-tour-18-championship",
+   "title": "Tour 18 Championship (U.S. Am Tour)",
+   "start": "2027-04-19",
+   "end": "",
+   "time": "",
+   "venue": "Tour 18 – Dallas",
+   "city": "Flower Mound",
+   "area": "north",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
    "img": "",
    "confirmed": true
   },
@@ -800,6 +890,21 @@
    "featured": true
   },
   {
+   "id": "us-am-tour-euless-classic",
+   "title": "Euless Classic (U.S. Am Tour)",
+   "start": "2027-05-03",
+   "end": "",
+   "time": "",
+   "venue": "Texas Star Golf Course",
+   "city": "Euless",
+   "area": "mid",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
+   "img": "",
+   "confirmed": true
+  },
+  {
    "id": "ncaa-division-i-women-s-golf-regional-dallas",
    "title": "NCAA Division I Women's Golf Regional – Dallas",
    "start": "2027-05-10",
@@ -846,6 +951,21 @@
    "featured": true
   },
   {
+   "id": "us-am-tour-twin-creeks-open",
+   "title": "Twin Creeks Open (U.S. Am Tour)",
+   "start": "2027-05-22",
+   "end": "",
+   "time": "",
+   "venue": "Twin Creeks Golf Club",
+   "city": "Allen",
+   "area": "north",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
+   "img": "",
+   "confirmed": true
+  },
+  {
    "id": "charles-schwab-challenge-2027",
    "title": "Charles Schwab Challenge",
    "start": "2027-05-24",
@@ -860,6 +980,21 @@
    "img": "",
    "confirmed": true,
    "featured": true
+  },
+  {
+   "id": "us-am-tour-robson-ranch-shootout",
+   "title": "Robson Ranch Shootout (U.S. Am Tour)",
+   "start": "2027-05-24",
+   "end": "",
+   "time": "",
+   "venue": "Wildhorse Golf Club",
+   "city": "Denton",
+   "area": "north",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
+   "img": "",
+   "confirmed": true
   },
   {
    "id": "destination-grapevine-texas-women-s-open-2027",
@@ -889,6 +1024,51 @@
    "desc": "Annual charity tournament led by Pro Football Hall of Famer Cliff Harris, bringing together celebrity athletes, community leaders and supporters for a day on the course in support of type 1 diabetes research.",
    "url": "https://www.breakthrought1d.org/dallasfortworth/events/breakthrough-t1d-cliff-harris-golf-tournament/?lang=en",
    "img": "https://www.breakthrought1d.org/dallasfortworth/wp-content/uploads/sites/181/2026/01/54609465163_b30a1c9e94_c.jpg",
+   "confirmed": true
+  },
+  {
+   "id": "us-am-tour-waterchase-challenge",
+   "title": "Waterchase Challenge (U.S. Am Tour)",
+   "start": "2027-06-12",
+   "end": "",
+   "time": "",
+   "venue": "Waterchase Golf Club",
+   "city": "Fort Worth",
+   "area": "fortworth",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
+   "img": "",
+   "confirmed": true
+  },
+  {
+   "id": "us-am-tour-grapevine-classic",
+   "title": "Grapevine Classic (U.S. Am Tour)",
+   "start": "2027-06-14",
+   "end": "",
+   "time": "",
+   "venue": "Grapevine Golf Course",
+   "city": "Grapevine",
+   "area": "mid",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
+   "img": "",
+   "confirmed": true
+  },
+  {
+   "id": "us-am-tour-prosper-challenge",
+   "title": "Prosper Challenge (U.S. Am Tour)",
+   "start": "2027-07-12",
+   "end": "",
+   "time": "",
+   "venue": "Gentle Creek Country Club",
+   "city": "Prosper",
+   "area": "north",
+   "cat": "competition",
+   "desc": "U.S. Am Tour 2027 Texas Tournament Series stop; amateur stroke-play competition. Register at usamtour.com.",
+   "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0t2pJR9BVBPXjJPqwcaoA7T6sAz4SrGyyvzf3whWthQG1BHfQ3pTTnaSya9WemnyFl&id=61588496084994",
+   "img": "",
    "confirmed": true
   },
   {
@@ -1767,11 +1947,11 @@
    "start": "",
    "end": "",
    "time": "7:00 AM shotgun",
-   "venue": "Mesquite Golf Club",
-   "city": "Mesquite",
+   "venue": "TBA",
+   "city": "Dallas",
    "area": "east",
    "cat": "competition",
-   "desc": "Inaugural two-man scramble at Mesquite Golf Club, late November 2026 — exact date to be announced. Net scoring with handicaps capped at 20, a 36-team field, post-round lunch and awards. Green and cart fees ($65 per player) are paid at the course.",
+   "desc": "Inaugural two-man scramble, now targeting spring 2027 in the Dallas area — host course and exact date to be announced. Net scoring with handicaps capped at 20, a 36-team field, post-round lunch and awards. Green and cart fees paid at the course.",
    "url": "https://dallasautumnopen.com/",
    "img": "",
    "confirmed": false
