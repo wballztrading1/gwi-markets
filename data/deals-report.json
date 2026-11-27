@@ -1,78 +1,11 @@
 {
  "checked": "2026-11-27",
- "total": 765,
- "live": 754,
- "updated": 22,
- "hidden": [
-  {
-   "id": "b4a30b31",
-   "title": "NIKE Men's Victory 1/2 Zip Golf Pullover",
-   "store": "TGW",
-   "why": "page removed"
-  },
-  {
-   "id": "40f47485",
-   "title": "Callaway Elyte Driver",
-   "store": "TGW",
-   "why": "page removed"
-  },
-  {
-   "id": "cd11f7ee",
-   "title": "PUMA CLOUDSPUN Palm BN Golf Polo",
-   "store": "Puma Golf",
-   "why": "sold out"
-  },
-  {
-   "id": "aed05453",
-   "title": "Under Armour Men's Drive Fade Golf Shoes",
-   "store": "TGW",
-   "why": "page removed"
-  },
-  {
-   "id": "7ab54415",
-   "title": "PUMA CLOUDSPUN Posy BN Golf Polo",
-   "store": "Puma Golf",
-   "why": "sold out"
-  },
-  {
-   "id": "e494434f",
-   "title": "Callaway Elyte X Driver",
-   "store": "PGA TOUR Superstore",
-   "why": "sold out"
-  },
-  {
-   "id": "0e741577",
-   "title": "Srixon ZXi Driver",
-   "store": "TGW",
-   "why": "page removed"
-  },
-  {
-   "id": "d05434e7",
-   "title": "Odyssey S2S Tri-Hot Jailbird Putter",
-   "store": "TGW",
-   "why": "sold out"
-  },
-  {
-   "id": "592cb1a1",
-   "title": "PUMA CLOUDSPUN Fleece Golf 1/4 Zip",
-   "store": "Puma Golf",
-   "why": "sold out"
-  },
-  {
-   "id": "13f8a997",
-   "title": "PUMA CLOUDSPUN Fleece Golf Crewneck",
-   "store": "Puma Golf",
-   "why": "sold out"
-  },
-  {
-   "id": "68855fac",
-   "title": "Bushnell LPi Circle B Edition Launch Monitor",
-   "store": "PGA TOUR Superstore",
-   "why": "sold out"
-  }
- ],
- "unreadable": 227,
- "unclear": 66,
+ "total": 755,
+ "live": 755,
+ "updated": 0,
+ "hidden": [],
+ "unreadable": 213,
+ "unclear": 65,
  "newGear": {
   "total": 12,
   "live": 12,
