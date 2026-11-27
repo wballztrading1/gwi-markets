@@ -350,7 +350,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
    "shown": true,
    "touched": true
   },
@@ -372,7 +372,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
    "shown": true,
    "touched": true
   },
@@ -394,7 +394,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
    "shown": true,
    "touched": true
   },
@@ -460,7 +460,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-09-26",
-   "lastSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
    "shown": true,
    "touched": true
   },
@@ -570,7 +570,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-09",
-   "lastSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
    "shown": true,
    "touched": true
   },
@@ -592,7 +592,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-10-17",
-   "lastSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
    "shown": false
   },
   "eee283bdc6": {
@@ -617,29 +617,6 @@
    "shown": false,
    "gone": true
   },
-  "6233836062": {
-   "id": "6233836062",
-   "title": "Arlington Golf Canned Food Drive",
-   "start": "2026-11-02",
-   "end": "2026-11-24",
-   "time": "8:00 AM",
-   "venue": "Meadowbrook Park Golf Course",
-   "city": "Arlington",
-   "area": "mid",
-   "cat": "deal",
-   "desc": "@ Together, we’re teeing up hope for local families. Donate three or more canned goods and enjoy 15% off your green fee and cart from Nov. 2 to Nov. 24, 2026. Promo is valid at Texas Rangers Golf Club, Tierra Verde Golf Club, Lake Arlington Golf Course and…",
-   "url": "https://www.meadowbrookparkgolfcourse.com/event/arlington-golf-canned-food-drive/",
-   "img": "",
-   "source": "Meadowbrook Park Golf Course",
-   "official": false,
-   "how": "events-calendar",
-   "confirmed": true,
-   "firstSeen": "2026-10-31",
-   "lastSeen": "2026-10-31",
-   "shown": false,
-   "imgTried": true,
-   "gone": true
-  },
   "422c5127cf": {
    "id": "422c5127cf",
    "title": "Present Grove Scramble",
@@ -658,7 +635,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-02",
-   "lastSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
    "shown": true
   },
   "deaf85f3b5": {
@@ -679,7 +656,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-06",
-   "lastSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
    "shown": false
   },
   "9306a4262c": {
@@ -725,7 +702,8 @@
    "firstSeen": "2026-11-08",
    "lastSeen": "2026-11-26",
    "shown": true,
-   "imgTried": true
+   "imgTried": true,
+   "gone": true
   },
   "38f2cf17ce": {
    "id": "38f2cf17ce",
@@ -745,7 +723,7 @@
    "how": "ical",
    "confirmed": true,
    "firstSeen": "2026-11-08",
-   "lastSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
    "shown": false
   },
   "b2508b4fcf": {
@@ -792,7 +770,7 @@
    "shown": true,
    "touched": true,
    "imgTried": true,
-   "gone": false
+   "gone": true
   },
   "adf0046508": {
    "id": "adf0046508",
@@ -815,7 +793,7 @@
    "lastSeen": "2026-11-23",
    "shown": true,
    "touched": true,
-   "gone": false
+   "gone": true
   },
   "d7a2ea54c7": {
    "id": "d7a2ea54c7",
@@ -838,7 +816,7 @@
    "lastSeen": "2026-11-23",
    "shown": true,
    "touched": true,
-   "gone": false
+   "gone": true
   },
   "74f4345b3e": {
    "id": "74f4345b3e",
@@ -861,7 +839,7 @@
    "lastSeen": "2026-11-23",
    "shown": true,
    "touched": true,
-   "gone": false
+   "gone": true
   },
   "476ead72b9": {
    "id": "476ead72b9",
@@ -976,7 +954,7 @@
    "lastSeen": "2026-11-23",
    "shown": true,
    "touched": true,
-   "gone": false
+   "gone": true
   },
   "aedd66858f": {
    "id": "aedd66858f",
@@ -996,7 +974,7 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-22",
-   "lastSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
    "shown": false
   },
   "27bc674c23": {
@@ -1017,8 +995,29 @@
    "how": "structured-data",
    "confirmed": true,
    "firstSeen": "2026-11-26",
-   "lastSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
    "shown": true
+  },
+  "111c77ca48": {
+   "id": "111c77ca48",
+   "title": "Meet the PGA Pro",
+   "start": "2026-12-05",
+   "end": "",
+   "time": "",
+   "venue": "13900 Dallas Pkwy suite 100",
+   "city": "Dallas",
+   "area": "dallas",
+   "cat": "fun",
+   "desc": "",
+   "url": "https://allevents.in/dallas/meet-the-pga-pro/100002005469114106",
+   "img": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czQvYmFubmVycy85ZjcyN2MyZTYxYjk1NDllMTQ0M2QzNGY3YzMxZTM1MGYzN2IyYmFkYzEwMDFhYWJhZWFlMDUxMTljOGI0YjNmLXJpbWctdzk0MC1oNDcwLWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NTcyNDIyNg.avif",
+   "source": "AllEvents (Dallas golf)",
+   "official": false,
+   "how": "structured-data",
+   "confirmed": true,
+   "firstSeen": "2026-11-27",
+   "lastSeen": "2026-11-27",
+   "shown": false
   }
  },
  "superseded": []
