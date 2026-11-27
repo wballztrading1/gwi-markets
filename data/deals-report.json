@@ -1,8 +1,8 @@
 {
- "checked": "2026-11-26",
- "total": 703,
- "live": 689,
- "updated": 11,
+ "checked": "2026-11-27",
+ "total": 765,
+ "live": 754,
+ "updated": 22,
  "hidden": [
   {
    "id": "b4a30b31",
@@ -15,12 +15,6 @@
    "title": "Callaway Elyte Driver",
    "store": "TGW",
    "why": "page removed"
-  },
-  {
-   "id": "93a22ee0",
-   "title": "adidas Ultimate365 Fleece Hoodie Full-Zip Golf Vest",
-   "store": "Carl's Golfland",
-   "why": "sold out"
   },
   {
    "id": "cd11f7ee",
@@ -41,15 +35,9 @@
    "why": "sold out"
   },
   {
-   "id": "191296be",
-   "title": "PUMA MATTR Clover BN Golf Polo",
-   "store": "Puma Golf",
-   "why": "sold out"
-  },
-  {
-   "id": "83a0da02",
-   "title": "PUMA CLOUDSPUN Argyle Bloom BN Golf Polo",
-   "store": "Puma Golf",
+   "id": "e494434f",
+   "title": "Callaway Elyte X Driver",
+   "store": "PGA TOUR Superstore",
    "why": "sold out"
   },
   {
@@ -59,9 +47,9 @@
    "why": "page removed"
   },
   {
-   "id": "47bbf37d",
-   "title": "Mizuno JPX One Driver 12° Project X Denali Frost Blue 50 Regular",
-   "store": "2nd Swing Golf",
+   "id": "d05434e7",
+   "title": "Odyssey S2S Tri-Hot Jailbird Putter",
+   "store": "TGW",
    "why": "sold out"
   },
   {
@@ -77,25 +65,19 @@
    "why": "sold out"
   },
   {
-   "id": "e3ac1b10",
-   "title": "PUMA CLOUDSPUN Birdseye BN Golf Polo",
-   "store": "Puma Golf",
-   "why": "sold out"
-  },
-  {
-   "id": "b5473569",
-   "title": "Bushnell Wingman 2 Golf GPS Speaker",
-   "store": "TGW",
+   "id": "68855fac",
+   "title": "Bushnell LPi Circle B Edition Launch Monitor",
+   "store": "PGA TOUR Superstore",
    "why": "sold out"
   }
  ],
- "unreadable": 206,
- "unclear": 65,
+ "unreadable": 227,
+ "unclear": 66,
  "newGear": {
-  "total": 13,
-  "live": 10,
-  "expired": 3,
+  "total": 12,
+  "live": 12,
+  "expired": 0,
   "hidden": []
  },
- "upcoming": 45
+ "upcoming": 47
 }
